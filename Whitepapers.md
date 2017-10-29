@@ -77,7 +77,7 @@
 | Moeda Loyalty Points | Moeda White Paper | https://moeda.in/whitepaper.pdf | https://moeda.in/ | Taynaah Reis, Brad Chun, Athena Diaconis, Isa Yu, Alex Todaro |
 | Monero | CryptoNote v 2.0 | https://cryptonote.org/whitepaper.pdf | https://getmonero.org/ | Nicolas van Saberhagen |
 | Monetha | Monetha. Whitepaer | https://www.monetha.io/Monetha_WP.pdf | https://www.monetha.io/ | | 
-| Mysterium | Mysterium Network Project. | Whitepaper https://mysterium.network/whitepaper.pdf | https://mysterium.network/ | | 
+| Mysterium | Mysterium Network Project | https://mysterium.network/whitepaper.pdf | https://mysterium.network/ | | 
 | NAV Coin | The Unbreakable Code. NavTech Decentralization White Paper | https://www.navcoin.org/files/navtech-decentralisation-whitepaper-beta-v0.9.pdf | https://navcoin.org/ | |
 | Neblio | Neblio: Next Generation Enterprise Blockchain Solutions | https://nebl.io/wp-content/uploads/2017/07/NeblioWhitepaper.pdf | https://nebl.io/ | |
 | NEM | NEM Catapult | https://nem.io/catapultwhitepaper.pdf | https://nem.io/ | Lon Wong |
