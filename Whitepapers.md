@@ -58,7 +58,6 @@
 | Hive | Hive Project Whitepaper | https://www.hive-project.net/whitepapers/Hive_Project_Whitepaper.pdf | https://www.hive-project.net/ | |
 | Humaniq | Humaniq Whitepaper | https://humaniq.com/pdf/humaniq_wp_english.pdfhttps://humaniq.com/pdf/humaniq_wp_english.pdf | https://humaniq.com/ | Alex Fork |
 | Iconomi | Iconomi: Open Fund Management Platform to disrupt the investment industry | https://coss.io/documents/white-papers/iconomi.pdf | https://www.iconomi.net/ | Tim M. Zagar, Jani Valjavec, Zenel Batagelj, Ervin U. Kovac, Ales Lekse |
-| Numeraire | Numeraire: A Cryptographic Token for Coordinating Machine Intelligence and Preventing Overfitting | https://numer.ai/whitepaper.pdf | https://numer.ai/ | Richard Craib, Geoffrey Bradway, Xander Dunn, Joey Krug |
 | IOTA | The Tangle | http://www.iota.org/IOTA_Whitepaper.pdf | https://iota.org/ | Serguei Popov |
 | Kin | Kin: a decentralized ecosystem of digital services for daily life | https://kin.kik.com/papers/Kin_Whitepaper_V1_English.pdf | https://kin.kik.com/ | |
 | Kyber Network | KyberNetwork: A trustless decentralized exchange and payment service | https://kyber.network/assets/KyberNetworkWhitepaper.pdf | https://kyber.network/ | Loi Luu , Yaron Velner |
