@@ -3,7 +3,7 @@
 | 0x | A cooperative of decentralized marketplaces and communities | https://district0x.io/docs/district0x-whitepaper.pdf | https://0xproject.com/ | Matus Lestan, Joe Urgo, Alexander Khoriaty |
 | 803 Mine Project | 803 Mine Project | https://www.803mine.com/uploads/6/9/6/8/6968287/803mine_whitepaper.pdf | http://www.803mine.com/ | N/P* |
 | 88 Coin | 88 Coin / Rising Above the Rest - The Future of Currency | http://88coin.io/wp-content/uploads/2017/10/whitepaper-eng.pdf | http://88coin.io/ | N/P* |
-| A-token | A-TOKEN Index Initial coin offering | https://a-token.io/whitepaper.pdf | https://a-token.io/ | N/P* |
+| A-token | A-TOKEN | https://a-token.io/whitepaper.pdf | https://a-token.io/ | N/P* |
 | ATBCoin | ATBCoin: Alternative Technology Base | https://atbcoin.com/docs/ATBCoin_WhitePapper_EN.pdf | https://atbcoin.com/ | |
 | ATMChain | ATMChain Whitepaper | https://static.atmchain.io/static/english/ATMChain_Whitepaper(Genesis_Edition).pdf | https://www.atmchain.io/ | |
 | Ab-chain | AB-CHAIN | https://ab-chain.com/storage/whitepapers/AB-CHAIN_whitepaper_EN.pdf | https://ab-chain.com/ | N/P* |
@@ -108,7 +108,7 @@
 | Blocklancer | Blocklancer | https://blocklancer.net/static/main/docs/lancer_whitepaper.pdf | https://blocklancer.net/ | N/P* |
 | Blocksale | Blocksale | http://www.blocksale.io/files/Blocksale_Whitepaper_V4.0.pdf | http://www.blocksale.io/ | N/P* |
 | Blocktix | Blocktix: Decentralized Event Hosting and Ticket Distribution Network | https://blocktix.io/public/doc/blocktix-wp-draft.pdf | https://blocktix.io/ | Florian Mathieu, Ryno Mathee |
-| Blockv | BLOCKv: Smart Virtual Goods on the Blockchain | http://t.blockv.io/documents/whitepaper.pdf | http://t.blockv.io/ | N/P* |
+| Blockv | BLOCKv: Smart Virtual Goods on the Blockchain | https://blockv.io/documents/whitepaper.pdf | http://blockv.io/ | N/P* |
 | Bluzelle | A Decentralized Database Service for dApps - Bluzelle | https://bluzelle.com/wp-content/uploads/2017/10/Bluzelle-White-Paper.pdf | https://bluzelle.com/ | N/P* |
 | Bodhi | Bodhi | http://www.bodhi.network/file/whitepaper/Bodhi_English_White_Paper.pdf | http://www.bodhi.network/ | N/P* |
 | Bolenum | Bolenum / Crypto access point of the African continent | http://bolenum.com/whitepaper.pdf | http://bolenum.com/ | N/P* |
@@ -362,7 +362,6 @@
 | Intelligent Trading Tech | ITT - Intelligent Trading Technologies | http://intelligenttrading.org/whitepaper.pdf | http://intelligenttrading.org/ | N/P* |
 | Internet Of Agreements | The Internet of Agreements | http://internetofagreements.com/assets/MattereumDraftforPublicComment.pdf | http://internetofagreements.com/ | N/P* |
 | Internet Of Coins | Internet of Coins | https://coinstorm.net/whitepaper_ioc.pdf | https://coinstorm.net/ | N/P* |
-| investFeed | investFeed - The Epicenter of the Cryptocurrency Community | 
 | Iungo | IUNGO.NETWORK Global wireless internet service provider | https://iungo.network/docs/iungo-network-whitepaper.pdf | https://iungo.network/ | N/P* |
 | IW World Exchange | IW World Exchange | http://www.ico.iwwexchange.com/docs/IW%20World%20Exchange%20White%20Paper%20v18%20Pre-ICO.pdf | http://iwwexchange.com/ | N/P* |
 | Javvy | Javvy Exchange & Wallet | https://javvy.com/wp-content/uploads/2017/09/javvy_crypto-solution-white-paper.pdf | https://javvy.com/ | N/P* |
@@ -677,6 +676,7 @@
 | Token Report | Token Report | https://tokenreport.com/assets/white-paper-v2.pdf | https://tokenreport.com/ | N/P* |
 | Token Security Scheme | Token Security Scheme | https://www.tsstoken.com/home_files/white-paper.pdf | https://www.tsstoken.com/ | N/P* |
 | Tokenbox | Tokenbox — Uniting Crypto | https://tokenbox.io/docs/Tokenbox-WhitePaper-En.pdf | https://tokenbox.io/ | N/P* |
+| Tokencard | Tokencard | http://tokencard.io/tokencard_whitepaper.pdf | http://tokencard.io/ | N/P* |
 | Tokenstars Ace | The first platform to tokenize people | https://tokenstars.com/upload/files/ace_by_tokenstars_whitepaper.pdf | https://tokenstars.com/ace/ | N/P* |
 | TokenStub | TokenStub - Decentralized infrastructure for event ticket sales | https://tokenstub.io/TokenStub-WhitePaper-EN.v1.pdf | https://tokenstub.io/ | N/P* |
 | Tokenza | Tokenza | https://github.com/tokenza/fundraiser/raw/master/whitepaper/tokenza.whitepaper.en.pdf | https://www.tokenza.com/ | N/P* |
