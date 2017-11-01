@@ -32,7 +32,7 @@
 | Ambrosus | Ambrosus - Trusted Quality of Food &amp; Medicine | https://ambrosus.com/assets/Ambrosus-White-Paper-V8-1.pdf | https://ambrosus.com/ | N/P* |
 | Ankorus | Ankorus - Blockchain Asset-Backed Tokens | https://www.ankorus.org/wp-content/uploads/2017/10/Ankorus-Whitepaper.pdf | https://www.ankorus.org/ | N/P* |
 | Anna Smart Mirror | ANNA - Smart Mirror | https://ico.anna-mirror.com/wp/whitepaper.pdf | https://anna-mirror.com/ | N/P* |
-| Anryze | Anryze Token Sale | https://tokensale.anryze.com/assets/file/Anryze Distributed Network_EN.pdf | https://tokensale.anryze.com/index.html | N/P* |
+| Anryze | Anryze Token Sale | https://tokensale.anryze.com/assets/file/Anryze Distributed Network_EN.pdf | https://tokensale.anryze.com/ | N/P* |
 | Anti Bureaucracy Coin | OriginalMy ICO | https://github.com/OriginalMy/originalmy-abc-whitepaper/raw/master/abc_whitepaper.pdf | https://originalmy.com/ | N/P* |
 | Appcoins | AppCoins | https://appcoins.io/pdf/appcoins_one_pager.pdf | https://appcoins.io/ | N/P* |
 | Aqua Rights | AQUA RIGHTS - Water Rights on the Blockchain | https://aquarights.com/wp-content/uploads/2017/07/AQUA-Rights-White-Paper-2.pdf | https://aquarights.com/ | N/P* |
@@ -171,7 +171,7 @@
 | Crypto20 | CRYPTO20 - Invest in cryptocurrency ICO | https://static.crypto20.com/pdf/c20-whitepaper.pdf | https://crypto20.com/ | N/P* |
 | CryptoCopy | CryptoCopy - copy successful cryptocurrency investors | https://www.cryptocopy.me/whitepaper.pdf | https://www.cryptocopy.me/ | N/P* |
 | Cryptofarm | CryptoFarm | http://ico-cryptofarm.net/docs/white-paper_eng.pdf | http://ico-cryptofarm.net/ | N/P* |
-| Cryptoforecast | CryptoForecast / Official Website | https://www.cryptoforecast.com/static/static/WhitePaper_V1.0.pdf | https://www.cryptoforecast.com/ | N/P* |
+| Cryptoforecast | CryptoForecast / Official Website | https://www.cryptoforecast.com/static/WhitePaper_V1.0.pdf | https://www.cryptoforecast.com/ | N/P* |
 | Cryptofund | Diversified algorithmic crypto fund | https://crypto-fund.org/wp/cryptofund_wp_en.pdf | https://crypto-fund.org/index.html | N/P* |
 | Cryptogene | Cryptogene - Blockchain Solutions for Africa | https://cryptogene.co/assets/files/Cryptogene%20White%20Paper.pdf | https://cryptogene.co/ | N/P* |
 | Cryptopay | Cryptopay | https://ico.cryptopay.me/ico_cpay_wp.pdf | https://cryptopay.me/ | N/P* |
@@ -240,7 +240,7 @@
 | Enjoy Life | Enjoy Life | https://ico.enjoy-life.world/Enjoy%20Life_WP_eng.pdf | http://ico.enjoy-life.world/en | N/P* |
 | Equi | Unique communication network that can be used for virtually any purpose | https://equiplatform.io/Equi_Whitepaper.pdf | https://equiplatform.io/ | N/P* |
 | Eroscoin | The Next Generation Global Payment Solution - EROSCOIN | https://eroscoin.org/whitepaper.pdf | https://eroscoin.org/ | N/P* |
-| ESR Wallet | ESR Wallet | https://esrwallet.io/wp.pdf | https://esrwallet.io/ | N/P* |
+| ESR Wallet | ESR Wallet | https://esrwallet.io/en/wp.pdf | https://esrwallet.io/ | N/P* |
 | Estate Coin | Estate Coin | https://estate-coin.com/files/wp_ICO_EstateCoin_en.pdf | https://estate-coin.com/ | N/P* |
 | Ethиits | Ethbits | https://ico.ethbits.com/white_paper.pdf | https://ethbits.com/ | N/P* |
 | Ethbet | Ethbet Platform | https://ethbet.io/whitepaper.pdf | https://ethbet.io/ | N/P* |
@@ -286,7 +286,7 @@
 | Gamecoin | GameCoin | https://gamecoin.global/assets/upload/en/wp/gamecoin_wp_en.pdf | https://gamecoin.global/ | N/P* |
 | Gameflip | Gameflip Crowdsale / FLIP crypto-token for buying and selling gaming digital goods | https://tokensale.gameflip.com/static/Gameflip_whitepaper.pdf | https://gameflip.com/ | N/P* |
 | Gaming Stars | Gaming Stars / Competitive eSports, Skin Betting, P2P eSports Betting | https://gaming-stars.net/wp-content/uploads/2017/10/ICO_Whitepaper.pdf | https://gaming-stars.net/ | N/P* |
-| Gatcoin | GATCOIN: The New Currency Of Digital Shopping | http://www.gatcoin.io/wp-content/uploads/2017/09/170919v2-Whitepaper-EN.pdf | https://www.gatcoin.io/ | N/P* |
+| Gatcoin | GATCOIN: The New Currency Of Digital Shopping | https://www.gatcoin.io/wp-content/uploads/2017/09/170919v2-Whitepaper-EN.pdf | https://www.gatcoin.io/ | N/P* |
 | Gaze Coin | Gaze Coin - VR/AR Blockchain Token - Get Paid to Gaze | https://media.gazecoin.io/static/GazeCoin_WhitePaper.pdf | https://www.gazecoin.io/ | N/P* |
 | Geens | Geens NPO - GEE | https://tokensale.geens.com/GeensTokenSaleWhitepaper.pdf | https://geens.com/ | N/P* |
 | Genesis Vision | Genesis Vision | https://genesis.vision/white-paper-eng.pdf | https://genesis.vision/ | N/P* |
@@ -443,7 +443,7 @@
 | Modum | Modum. Whitepaper | https://assets.modum.io/wp-content/uploads/2017/08/modum-whitepaper-v.-1.0.pdf | https://modum.io/ | |
 | Moeda Loyalty Points | Moeda White Paper | https://moeda.in/whitepaper.pdf | https://moeda.in/ | Taynaah Reis, Brad Chun, Athena Diaconis, Isa Yu, Alex Todaro |
 | Moncrypt | MONCRYPT / ALL-IN-ONE CRYPTOBANKING | https://moncrypt.com/file/Moncrypt_Presentation.pdf | https://moncrypt.com/ | N/P* |
-| Mondo | Mondo | https://mondo.one//mondo.one/mondowp.pdf | https://mondo.one/ | N/P* |
+| Mondo | Mondo | https://mondo.one/mondowp.pdf | https://mondo.one/ | N/P* |
 | Monero | CryptoNote v 2.0 | https://cryptonote.org/whitepaper.pdf | https://getmonero.org/ | Nicolas van Saberhagen |
 | Monetha | Monetha. Whitepaer | https://www.monetha.io/Monetha_WP.pdf | https://www.monetha.io/ | |
 | Money Rebel | Money Rebel | https://moneyrebel.io/MR_Platform_Whp_latest.pdf | https://moneyrebel.io/ | N/P* |
@@ -625,7 +625,7 @@
 | Speed Mining Service | Speed Mining Service | https://smscoin.jp/sites/default/files/whitepaper.pdf | https://smscoin.jp/ | N/P* |
 | Spin | Spin - Blockchain Powered Data Protection | https://ico.spinbackup.com/ico-whitepaper.pdf | https://spinbackup.com/ | N/P* |
 | SportyFi | SportyFi - Decentralized sports investment & funding ecosystem | https://sportyfi.io/SPORTYFI-Whitepaper.pdf | https://sportyfi.io/ | N/P* |
-| SqPay | SqPay - Cryptoinvestments in commercial real estate | https://sqpay.io/SqPay_White_Paper_eng.pdf | https://sqpay.io/ | N/P* |
+| SqPay | SqPay - Cryptoinvestments in commercial real estate | https://sqpay.io/SqPay_White_Paper_eng.PDF | https://sqpay.io/ | N/P* |
 | Sqtoken | SQTOKEN EN | http://cabinet.sqtoken.io/whitepaper/WP_SQToken_0.0.3.pdf | http://sqtoken.io/ | N/P* |
 | Squarex | SQUAREX - Blockchain evolution in real estate development | http://squarex.io/whitepaper.pdf | http://squarex.io/ | N/P* |
 | Srg | SRG | https://srg.io/files/srg_white_paper_eng.pdf | https://srg.io/ | N/P* |
