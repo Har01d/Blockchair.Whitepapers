@@ -767,7 +767,7 @@
 | Bank4YOU Group | Bank4YOU Group Mobile money remittance system - ICO | http://bank4you.io/docs/Bank4YOU%5FMMRS%5FWP%5FEN.pdf | https://bank4you.io/ | N/P* |
 | Bazista | Bazista | https://www.dropbox.com/s/7d3k17e2nygjz5h/Bazista%20whitepaper%20(EN)%20V%2011.1.pdf | http://bazista.io/ | N/P* |
 | Beatlecoin | BEATLE COIN | https://beatlecoin.com/storage/whitepapers/beatle-coin%5Fwhitepaper%5FEN.pdf | https://beatlecoin.com/ | N/P* |
-| Billpoker | BillPoker - Decentralized Online Poker room, casino, sports betting platform | clkn/http/billpoker.eu/BillPoker%5Fwhitepaper.pdf | http://www.billpoker.io/ | N/P* |
+| Billpoker | BillPoker - Decentralized Online Poker room, casino, sports betting platform | http://billpoker.eu/BillPoker%5Fwhitepaper.pdf | http://www.billpoker.io/ | N/P* |
 | Bloom | Bloom - Say Hello to Inclusive Credit | https://hellobloom.io/whitepaper.pdf | https://hellobloom.io/ | N/P* |
 | Cashaa | Cashaa - The Next Generation Banking Platform for The Next Billion	| https://cashaa.com/pdf/Cashaa%5FWP.pdf | https://cashaa.com/ | N/P* |
 | Coin Lion | Coin Lion | https://static.coinlion.com/docs/CoinLion%5FWhitepaper%5Fv1.8.0.pdf | https://coinlion.com/ | N/P* |
@@ -799,3 +799,5 @@
 | Tetarise | Tetarise is the first blockchain platform for booking hotels and apartment | http://tetarise.com/doc/tetarise%5Feng.pdf | http://tetarise.com/ | N/P* |
 | Vector | VECTOR / Made By You | http://vectorexchange.io/wp-content/uploads/2017/08/VECTOR-WHITEPAPER-English.pdf | https://vectorexchange.io | N/P* |
 | Zilla | ZILLA | http://zla.io/assets/landingpage/docs/ZILLA%5FWhite%5FPaper%5Fen.pdf | http://zla.io/ | N/P* |
+| Blockstack | Blockstack: A New Internet for Decentralized Applications | https://blockstack.org/whitepaper.pdf | https://blockstack.org/ | Muneeb Ali, Ryan Shea, Jude Nelson, Michael J. Freedman |
+| Bancor Protocol | Decentralized networks for smart contract based tokens to enable continuous convertibility between them | https://www.bancor.network/static/bancor_protocol_whitepaper_en.pdf | https://www.bancor.network/ | Eyal Hertzog, Guy Benartzi, Galia Benartzi |
