@@ -758,3 +758,44 @@
 | Zloadr | Decentralized Publishing & Advertising Cryptocurrency - Zloadr | http://zloadr.com/whitepaper/whitepaper-en.pdf | http://www.zloadr.com/ | N/P* |
 | Zonto World | ZONTO | https://ico.zonto.world/doc/en/en_zonto_whitepaper.pdf | https://ico.zonto.world/ | N/P* |
 | Zrcoin | ZrCoin | https://zrcoin.io/files/Whitepaper_ENG.pdf | https://zrcoin.io/ | N/P* |
+| Acumen | Acumen Network | https://acumen.network/Whitepaper-English.pdf | https://acumen.network/ | N/P* |
+| Adhive | AdHive.tv / AI and community powered platform for native video advertising for video bloggers | https://adhive.tv/AdHive%5FWhitepaper%5Fv1.04%5FEN.pdf | https://adhive.tv/ | N/P* |
+| Aexon | Aexon | http://aexon.net/whitepaper/aexon.pdf | http://aexon.net/ | N/P* |
+| Airfio | Airfio - Crypto Banking & AI in Banking | https://airfio.com/web/whitepaper-of-airfio.pdf | https://airfio.com/ | N/P* |
+| Alttradex | Alttradex | https://uploads.strikinglycdn.com/files/1c377539-88bd-48bc-b60a-418b499a8210/ALTTRADEX%20WHITEPAPER%20DOWNLOAD.pdf | http://www.alttradex.com/ | N/P* |
+| Autonio | Autonio / Decentralized AI trading system | https://auton.io/uploads/Autonio%5FWhitepaper%5Fv1.1.0.pdf | https://auton.io/ | N/P* |
+| Bank4YOU Group | Bank4YOU Group Mobile money remittance system - ICO | http://bank4you.io/docs/Bank4YOU%5FMMRS%5FWP%5FEN.pdf | https://bank4you.io/ | N/P* |
+| Bazista | Bazista | https://www.dropbox.com/s/7d3k17e2nygjz5h/Bazista%20whitepaper%20(EN)%20V%2011.1.pdf | http://bazista.io/ | N/P* |
+| Beatlecoin | BEATLE COIN | https://beatlecoin.com/storage/whitepapers/beatle-coin%5Fwhitepaper%5FEN.pdf | https://beatlecoin.com/ | N/P* |
+| Billpoker | BillPoker - Decentralized Online Poker room, casino, sports betting platform | clkn/http/billpoker.eu/BillPoker%5Fwhitepaper.pdf | http://www.billpoker.io/ | N/P* |
+| Bloom | Bloom - Say Hello to Inclusive Credit | https://hellobloom.io/whitepaper.pdf | https://hellobloom.io/ | N/P* |
+| Cashaa | Cashaa - The Next Generation Banking Platform for The Next Billion	| https://cashaa.com/pdf/Cashaa%5FWP.pdf | https://cashaa.com/ | N/P* |
+| Coin Lion | Coin Lion | https://static.coinlion.com/docs/CoinLion%5FWhitepaper%5Fv1.8.0.pdf | https://coinlion.com/ | N/P* |
+| CopPay | СopPay — Cryptofying your business | https://coppay.io/docs/CopPay%5FWhitepaper%5FEN.pdf | https://www.coppay.io/ | N/P* |
+| CryptoPing | CryptoPing - Cryptocurrency signalling service | https://cryptoping.tech/cryptoping%5Fwhitepaper%5Fen.pdf | https://cryptoping.tech/ | N/P* |
+| DLSacademy | DLSacademy / Decentralized Learning System | http://dlsacademy.io/wp-content/uploads/2017/08/dlsacademy%5Fwhite%5Fpaper.pdf | http://dlsacademy.io/ | N/P* |
+| Eximchain | Eximchain | https://s3-us-west-2.amazonaws.com/eximchainwhitepaper/eximchain-supply-chainV3.pdf | https://www.eximchain.com/ | N/P* |
+| FintruX | FintruX - Making Unsecured Loans Highly Secure | https://www.fintrux.com/home/doc/whitepaper.pdf | https://www.fintrux.com/ | N/P* |
+| Fundrequest | Boost open source - FundRequest | https://fundrequest.io/whitepaper.pdf | https://fundrequest.io/ | N/P* |
+| Human Discovery Platform | Human Discovery Platform  | https://my.hdplatform.io/files/HD%5FWhite%5FPaper%5Fv1.00%5FENG.pdf | https://hdplatform.io/ | N/P* |
+| Insights Network | Insights Network / Insights Network | https://s3.amazonaws.com/insightsnetwork/INSWhitepaperV0.3.pdf | https://www.insights.network/ | N/P* |\
+| Kr8os | KR8OS / Blockchain Attributions | https://kr8os.com/files/kr8os-decentralized-marketing-analytics-white-paper.pdf | https://kr8os.com/ | N/P* |
+| Legal / Smartone | SmartOne - Legal solutions for the crypto community | https://smartone.legal/wp-content/uploads/2017/10/SmartOne%5FWP%5Fen%5F2.1.pdf | https://smartone.legal/ | N/P* |
+| Loomia | Loomia | https://github.com/LOOMIA/loomia/blob/master/LOOMIA%5Fwhitepaper.pdf | https://www.loomia.co/token | N/P* |
+| Mark.space | MarkSpace | http://markspace.io/files/MARKSPACE%5FWhitePaper.pdf | http://markspace.io/ | N/P* |
+| Naked Dollars | Naked Technologies - The World’s First Asset Backed Cryptocurrency | https://www.naked.technology/web/download/NKD%5FWhitepaper%5FV001e.pdf | https://www.naked.technology/ | N/P* |
+| Nebeus | Nebeus | https://s3.us-east-2.amazonaws.com/docico/Nebeus%5FWP%5FDR%5F2.pdf | http://nebeus.com/ | N/P* |
+| Petsafe | PSAFE | http://www.petsafes.XYZ/Whitepapper%5FPETSAFE%5FES.pdf | https://www.petsafes.xyz/ | N/P* |
+| Play2live | Play2Live is the first full-blown decentralized streaming platform for gamers and esports fans. | https://play2live.io/storage/b/2/0/2/Whitepaper%5Feng.pdf | https://play2live.io/ | N/P* |
+| Realisto | Tokens backed by Assets - Assets backed by Expertise | https://realisto.io/files/papers/Whitepaper/REALISTO%5FWhitepaper%5FV1.2%5FEN.pdf | https://realisto.io/ | N/P* |
+| Requitix | Requitix.io - Trusted Token & Confidence System. | https://www.requitix.io/requitix-whitepaper.pdf | https://www.requitix.io/ | N/P* |
+| Rootstock | RSK | https://uploads.strikinglycdn.com/files/90847694-70f0-4668-ba7f-dd0c6b0b00a1/RootstockWhitePaperv9-Overview.pdf | http://www.rsk.co/ | N/P* |
+| Sandcoin | Sand Coin | https://sandcoin.io/SNDWPENupdate.pdf | https://sandcoin.io/en | N/P* |
+| Sirin Labs | Sirin Labs | https://www.sirinlabs.com/media/SIRINLABS%5F-%5FWhite%5FPaper.pdf | https://www.sirinlabs.com/ | N/P* |
+| Socialmedia.market | SocialMedia.Market – Next Generation of Online Advertising | https://socialmedia.market/assets/pdf/SMM_White-Paper_eng.pdf | https://socialmedia.market/ | N/P* |
+| Solomon Exchange | Solomon Exchange - An Innovative cryptocurrency exchange | https://solomonex.info/whitepaper/SMNX%5Fwp.pdf | https://solomonex.info/ | N/P* |
+| Sophiatx | SophiaTX: The Blockchain for Business | https://www.sophiatx.com/%5Fdata/%5Fcustom/SophiaTX%5FWhitepaper.pdf | https://www.sophiatx.com/ | N/P* |
+| Startima | Startima - First blockchain lottery & betting platform | https://startima.io/docs/startima%5Fwhitepaper%5Feng.pdf | https://startima.io/ | N/P* |
+| Tetarise | Tetarise is the first blockchain platform for booking hotels and apartment | http://tetarise.com/doc/tetarise%5Feng.pdf | http://tetarise.com/ | N/P* |
+| Vector | VECTOR / Made By You | http://vectorexchange.io/wp-content/uploads/2017/08/VECTOR-WHITEPAPER-English.pdf | https://vectorexchange.io | N/P* |
+| Zilla | ZILLA | http://zla.io/assets/landingpage/docs/ZILLA%5FWhite%5FPaper%5Fen.pdf | http://zla.io/ | N/P* |
