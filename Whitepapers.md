@@ -744,7 +744,7 @@
 | X8 | X8: The ultimate safe haven for crypto investors | https://x8currency.com/wp-content/uploads/X8-and-ARM-Technology-whitepaper.pdf | https://x8currency.com/ | N/P* |
 | XPlay | XPlay – Global Adult Extreme Entertainment Media Ecosystem | https://xplay.fund/pdf/Xplay-White-Pape-v1.04-EN.pdf | https://xplay.fund/ | |
 | Xaurum | Gamma Whitepaper | http://xaurum.org/gamma/gamma_whitepaper.pdf | http://xaurum.org/ | |
-| Xronos | XRONOS | https://www.xronos.space//www.xronos.space/docs/en/Xronos_White_Paper.pdf | https://www.xronos.space/ | N/P* |
+| Xronos | XRONOS | https://www.xronos.space/docs/en/Xronos_White_Paper.pdf | https://www.xronos.space/ | N/P* |
 | Zap Store | Zap Store | https://zap.store/whitepaper.pdf | https://zap.store/ | N/P* |
 | Zavodcoin | Cherepovets pipe-rolling plant | https://zavodcoin.com/download/whitepaper_en.pdf | https://zavodcoin.com/ | N/P* |
 | Zcash | Zerocash: Decentralized Anonymous Payments from Bitcoin | http://zerocash-project.org/media/pdf/zerocash-extended-20140518.pdf | https://z.cash/ | Eli Ben-Sasson, Alessandro Chiesa, Christina Garman, Matthew Green, Ian Miers, Eran Tromer, Madars Virza |
