@@ -1,5 +1,5 @@
-|--------------|------------------|--------------------|-----------------|---------|
 | Project name | Whitepaper title | Whitepaper address | Website address | Authors |
+|--------------|------------------|--------------------|-----------------|---------|
 | 0x | A cooperative of decentralized marketplaces and communities | https://district0x.io/docs/district0x-whitepaper.pdf | https://0xproject.com/ | Matus Lestan, Joe Urgo, Alexander Khoriaty |
 | 88 Coin | 88 Coin / Rising Above the Rest - The Future of Currency | http://88coin.io/wp-content/uploads/2017/10/whitepaper-eng.pdf | http://88coin.io/ | N/P* |
 | 803 Mine Project | 803 Mine Project | https://www.803mine.com/uploads/6/9/6/8/6968287/803mine_whitepaper.pdf | http://www.803mine.com/ | N/P* |
