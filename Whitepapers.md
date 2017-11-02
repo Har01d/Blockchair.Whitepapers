@@ -453,7 +453,7 @@
 | Librium | Librium, Opportunity for All | https://librium.com/documents/Librium_Whitepaper.pdf | https://librium.io/ | N/P* |
 | LIFE | LIFEtoken - Simply for everyday people | http://www.lifelabs.io/ctrl/wp-content/uploads/LIFE-WHITEPAPER-1.04.pdf | https://token.lifelabs.io/ | N/P* |
 | Like | Like - Multifunctional Real Estate Platform | http://likei.co/whitepaperen.pdf | http://likei.co/ | N/P* |
-| Linda Healthcare | Token Crowdsale - Linda Healthcare: Artificial Intelligence and Blockchain for Health Care ICO | https://linda.healthcare/media/LindaHealthcare_WhitePaper_Eng.pdf | https://linda.healthcare/ | N/P* |
+| Linda Healthcare | Linda Healthcare: Artificial Intelligence and Blockchain for Health Care | https://linda.healthcare/media/LindaHealthcare_WhitePaper_Eng.pdf | https://linda.healthcare/ | N/P* |
 | LIQ Platform | LIQ PLATFORM | https://liqplatform.com/images/whitepaper.pdf | https://liqplatform.com/ | N/P* |
 | LiteCoin Gold | LiteCoinGold - Faster, Cheaper and Smart Contract Powered | http://www.litecoingold.info/wp-content/uploads/Gold%20Paper%20-%20LTG.pdf | http://www.litecoingold.info/ | N/P* |
 | Litra | Litra Coin / Decentralized Healthcare / EHR Blockchain | http://www.litra.site/Litrawhitepaper.pdf | http://www.litra.site/ | N/P* |
