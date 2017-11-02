@@ -866,13 +866,14 @@
 | Zavodcoin | Cherepovets pipe-rolling plant | https://zavodcoin.com/download/whitepaper_en.pdf | https://zavodcoin.com/ | N/P* |
 | Zcash | Zerocash: Decentralized Anonymous Payments from Bitcoin | http://zerocash-project.org/media/pdf/zerocash-extended-20140518.pdf | https://z.cash/ | Eli Ben-Sasson, Alessandro Chiesa, Christina Garman, Matthew Green, Ian Miers, Eran Tromer, Madars Virza |
 | Zeelcoin | Zeelcoin - The currency for the Zeel project | https://www.zeelcoin.org/wp-content/uploads/2017/10/ZeelCoin.pdf | https://www.zeelcoin.org/ | N/P* |
-| Zempa | Zempa Universal Wallet Pool Token Sale - One Coin To Rule Them All, Take Your Pick With Zempa.io | http://zempa.io/wp-content/uploads/2017/10/Zempa-Whitepaper-1.pdf | http://zempa.io/ | N/P* |
+| Zempa | Zempa Universal Wallet Pool Token Sale - One Coin To Rule Them All, Take Your Pick With Zempa.io | https://zempa.io/wp-content/uploads/2017/10/Zempa-Whitepaper-1.pdf | https://zempa.io/ | N/P* |
 | ZenCash | Zen White Paper | https://zensystem.io/assets/Zen%20White%20Paper.pdf | https://zensystem.io/ | Robert Viglione, Rolf Versluis, Jane Lippencott |
 | Zenome | Zenome - Your DNA is an asset. Zenome is a market. | https://zenome.io/download/whitepaper.pdf | https://zenome.io/ | N/P* |
 | Zephyr | Project Zephyr | https://zephyr.bitspark.io/assets/v1/landing/downloads/Project_Zephyr_Whitepaper-0b69ab042ef4ff37bcd0909ac8672ee0c789ec5cefe05f80572c40ab2e0a2762.pdf | https://zephyr.bitspark.io/ | N/P* |
 | Zeusshield | ZSC-Blockchain AI insurance solution | https://zsc.io/files/ZSC%5FWhitepaper%5Fen.pdf | https://zsc.io/ | N/P* |
 | Zeus | Zeus | http://zeus-token.io/whitepaper.pdf | http://zeus-token.io/ | N/P* |
-| Zilla | ZILLA | http://zla.io/assets/landingpage/docs/ZILLA%5FWhite%5FPaper%5Fen.pdf | http://zla.io/ | N/P* |
+| ZiftrCoin | ZiftrCoin | https://d2blsqhhpyjjcf.cloudfront.net/assets/docs/ziftrcoinWP-08122015.pdf | https://www.ziftrcoin.com | N/P* |
+| Zilla | ZILLA | https://zla.io/assets/landingpage/docs/ZILLA%5FWhite%5FPaper%5Fen.pdf | http://zla.io/ | N/P* |
 | Zipper Global | Zipper - Mobile platform bringing blockchain to the masses | https://zipperglobal.com/whitepaper.pdf | https://zipperglobal.com/ | N/P* |
 | Zloadr | Decentralized Publishing & Advertising Cryptocurrency - Zloadr | http://zloadr.com/whitepaper/whitepaper-en.pdf | http://www.zloadr.com/ | N/P* |
 | Zonto World | ZONTO | https://ico.zonto.world/doc/en/en_zonto_whitepaper.pdf | https://ico.zonto.world/ | N/P* |
