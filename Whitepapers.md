@@ -100,6 +100,7 @@
 | Bitcoin Silver | Bitcoin Silver (BTCS) - Making cryptocurrency accessible to the world. | https://bitcoinsilver.io/wp-content/uploads/2017/10/BTCS-WP-2-1.pdf | https://bitcoinsilver.io/ | N/P* |
 | BitcoinZ | Your Financial Freedom - BitcoinZ | https://bitcoinz.global/media/Community%5FPaper%5FFinal.pdf | https://bitcoinz.global/ | N/P* |
 | Bitcoin | Bitcoin: A Peer-to-Peer Electronic Cash System | https://blockchair.com/bitcoin/whitepaper/bitcoin.pdf | https://bitcoin.org/ | Satoshi Nakamoto |
+| Bitcoin Gold | Making Bitcoin Decentralized Again | https://btcgpu.org/wp-content/uploads/2017/10/BitcoinGold-Roadmap.pdf | https://bitcoingold.org | N/P* |
 | Bitcomo | Bitcomo | https://ico.bitcomo.com/docs/whitepaper__en.pdf | https://bitcomo.com/ | N/P* |
 | BitConscious Foundation | BitConscious Foundation | http://www.bitconscious.org/assets/bitconscious-foundation-whitepaper-(3).pdf | http://www.bitconscious.org/ | N/P* |
 | Bitdeal | Bitdeal Ecosystem | https://bitdeal.co.in/home/WhitePaper.pdf | https://bitdeal.co.in/ | |
