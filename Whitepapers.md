@@ -865,6 +865,7 @@
 | Zap Store | Zap Store | https://zap.store/whitepaper.pdf | https://zap.store/ | N/P* |
 | Zavodcoin | Cherepovets pipe-rolling plant | https://zavodcoin.com/download/whitepaper_en.pdf | https://zavodcoin.com/ | N/P* |
 | Zcash | Zerocash: Decentralized Anonymous Payments from Bitcoin | http://zerocash-project.org/media/pdf/zerocash-extended-20140518.pdf | https://z.cash/ | Eli Ben-Sasson, Alessandro Chiesa, Christina Garman, Matthew Green, Ian Miers, Eran Tromer, Madars Virza |
+| Zcoin | Zerocoin: Anonymous Distributed E-Cash from Bitcoin | https://zcoin.io/wp-content/uploads/2016/11/zerocoinwhitepaper.pdf | https://zcoin.io | Ian Miers, Christina Garman, Matthew Green, Aviel D. Rubin |
 | Zeelcoin | Zeelcoin - The currency for the Zeel project | https://www.zeelcoin.org/wp-content/uploads/2017/10/ZeelCoin.pdf | https://www.zeelcoin.org/ | N/P* |
 | Zempa | Zempa Universal Wallet Pool Token Sale - One Coin To Rule Them All, Take Your Pick With Zempa.io | https://zempa.io/wp-content/uploads/2017/10/Zempa-Whitepaper-1.pdf | https://zempa.io/ | N/P* |
 | ZenCash | Zen White Paper | https://zensystem.io/assets/Zen%20White%20Paper.pdf | https://zensystem.io/ | Robert Viglione, Rolf Versluis, Jane Lippencott |
