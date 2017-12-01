@@ -141,6 +141,7 @@
 | BitShares | BitShares: A Peer-to-Peer Polymorphic Digital Asset Exchange (P2P-PDAE) | http://www.the-blockchain.com/docs/BitShares%20A%20Peer-to-Peer%20Polymorphic%20Digital%20Asset%20Exchange.pdf | https://bitshares.org/ | Daniel Larimer, Charles Hoskinson, Stan Larimer |
 | BitSoar | BitSoar | http://bitsoar.com/data/ppt/bsr%5Fwhitepapers%5Fen.pdf | http://bitsoar.com/ | N/P* |
 | BitUnicom | Modularized Decentralized App Framework with Blockchain as Centralized Module | https://www.bitunicom.com/paper/bitunicom_v1.pdf | https://www.bitunicom.com/ | N/P* |
+| Bitwala | Bitwala - The Blockchain Bank | https://vision.bitwala.com/Bitwala%20Whitepaper.pdf | http://vision.bitwala.com/ | N/P* |
 | BlackCoin | BlackCoin’s Proof-of-Stake Protocol v2 | https://blackcoin.co/blackcoin-pos-protocol-v2-whitepaper.pdf | http://blackcoin.co/ | Pavel Vasin |
 | Blackmoon Crypto | Blackmoon Crypto | https://blackmooncrypto.com/content/bmc%5Fwhitepaper.pdf | https://blackmooncrypto.com/ | N/P* |
 | Block Bank | BlockBank | http://theblock-bank.com/pdf/blockbank%5Fwhitepaper.pdf | http://theblock-bank.com/ | N/P* |
