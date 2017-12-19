@@ -213,7 +213,7 @@
 | Charg Coin |  | https://www.charg.io/white-paper-roadmap | https://www.charg.io/ | N/P* | NOT PDF |
 | Commodity Ad Network | Commodity Ad Network | https://commodityadnetwork.com/whitepaper/ | https://commodityadnetwork.com/ico/ | N/P* | NOT PDF |
 | Connect Job |  | https://ru.calameo.com/read/005345675300d0189a74e | https://ico.connectjob.io/ | N/P* | NOT PDF |
-| Cryptoalias| get your Blockchain Identity | https://www.cryptoalias.io/whitepaper/ |https://www.cryptoalias.io/ | N/P* | NOT PDF |
+| Cryptoalias | Get your Blockchain Identity | https://www.cryptoalias.io/whitepaper/ | https://www.cryptoalias.io/ | N/P* | NOT PDF |
 | Crypto Mutual Coin | CRYPTO MUTUAL COIN | https://gist.github.com/ccmut56/0bc7d73a9c8fda1f9dbd7a02d8be9d08 | http://cryptomc.com/index.html | N/P* | NOT PDF |
 | Demicoin | DEMICOIN | https://demicoin.io/whitepaper | https://demicoin.io/ | N/P* | NOT PDF |
 | Dharma | Dharma: A Generic Protocol for Tokenized Debt Issuance | https://whitepaper.dharma.io/#faq | https://dharma.io/ | N/P* | NOT PDF |
