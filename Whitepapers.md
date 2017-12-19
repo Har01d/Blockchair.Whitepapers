@@ -107,6 +107,8 @@
 | Bet Network | BET Network | https://betnetwork.online/wp-content/uploads/2017/07/WhitePaper_1.0.pdf | https://betnetwork.online/ | N/P* |
 | Betrium | Future of Gambling | http://betrium.co/betrium_whitepaper.pdf | http://betrium.co/ | N/P* |
 | Betstreak | First Licensed Blockchain Casino | https://ico.betstreak.io/wp-content/uploads/2017/09/betstreakwhitepaper.pdf | https://ico.betstreak.io/ | N/P* |
+| Bezop | BEZOP TOKEN DISTRIBUTION | https://ecom.bezop.io/public/paper/whitepaper.pdf | https://ecom.bezop.io/ | N/P* |
+
 | Billpoker | BillPoker - Decentralized Online Poker room, casino, sports betting platform | http://billpoker.eu/BillPoker%5Fwhitepaper.pdf | http://www.billpoker.io/ | N/P* |
 | Binance Coin | Binance Exchange | https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf | https://www.binance.com/ | |
 | BioCoin | BioCoin | https://biocoin.bio/files/Whitepaper_en2.pdf | https://biocoin.bio/ | N/P* |
@@ -232,6 +234,7 @@
 | CopPay | СopPay — Cryptofying your business | https://coppay.io/docs/CopPay%5FWhitepaper%5FEN.pdf | https://www.coppay.io/ | N/P* |
 | Copy Trader | Copy Trader Crowdsale | https://github.com/copytarder/white_paper/raw/master/Copy%20Token-whitepaper%20v1.02%20.pdf | https://copycrypto.trade/ | N/P* |
 | Coss | coss.io | https://coss.io/documents/coss-whitepaper-v3.pdf | https://coss.io/ | N/P* |
+| Coti |  A Distributed Trust and Mediation System for Online Payments | https://coti.io/files/COTI-technical-whitepaper.pdf | https://coti.io/token.html | N/P* |
 | Cottage Coin | Cottage Coin | https://cottagecoin.io/cottagecoin%5Fwp%5Fen.pdf | http://cottagecoin.io/ | N/P* |
 | Cove Identity | Coveidentity  | https://coveidentity.com/CoveWhitepaper.pdf | http://coveidentity.com/ | N/P* |
 | Covesting | Covesting | https://covesting.io/Covesting_White_Paper.pdf | https://covesting.io/ | N/P* |
@@ -371,6 +374,7 @@
 | EventChain | EventChain.io | https://eventchain.io/whitepaper.pdf | https://eventchain.io/ | N/P* |
 | Everex | Blockchain-Powered Money Transfers and Microfinance Services | https://daks2k3a4ib2z.cloudfront.net/59157962bdb4300afa8771a9/5963c09d077a520b5a965208_20170710_EVX_WP.pdf | https://www.everex.io/ | N/P* |
 | Everus | EVERUS: THE BLOCKCHAIN FINTECH COMPANY | https://everus.org/whitepaper.pdf | https://everus.org/ | N/P* |
+| Ewaiter | A new simple way to invest in the restaurant service industry | https://ewaiter.io/public/media/docs/eWaiter_White_Paper_EN.pdf | https://ewaiter.io/ | N/P* |
 | Exchange Union | ExchangeUnion | https://www.exchangeunion.com/white-paper.pdf | https://www.exchangeunion.com/ | N/P* |
 | Exhasta | Exhasta | https://www.exhasta.com/wp-content/uploads/2017/10/ExHasta-whitepaper.pdf | https://www.exhasta.com/ | N/P* |
 | Eximchain | Eximchain | https://s3-us-west-2.amazonaws.com/eximchainwhitepaper/eximchain-supply-chainV3.pdf | https://www.eximchain.com/ | N/P* |
@@ -418,6 +422,7 @@
 | Fundrequest | Boost open source - FundRequest | https://fundrequest.io/whitepaper.pdf | https://fundrequest.io/ | N/P* |
 | FunFair | FunFair: Disruptive online gaming on the blockchain that's Fun, Fast and Fair | https://funfair.io/wp-content/uploads/FunFair-Commercial-White-Paper.pdf | https://funfair.io/ | |
 | Further Network | Further | https://further.network/whitepaper/whitepaper-latest-en.pdf | https://further.network/ | N/P* |
+| Fynance | A digital insurance broker | https://www.fynance.io/fynance_Whitepaper_en.pdf | http://www.fynance.io/en/home/ | N/P* |
 | Galactikka | Galactikka | https://ico.galactikka.com/WP%5FGALACTIKKA%5FEN.pdf | http://ico.galactikka.com/ | N/P* |
 | Galaxy Esolutions | GES | http://whitepaper.galaxy-esolutions.com/GES%5FBusiness%5FDeck%5FAbstract.pdf | https://galaxy-esolutions.com/ | N/P* |
 | Game.com | Game.com - creating a new world! | https://ic.game.com/download/Game.com_Whitepaper_EN.pdf | http://www.game.com/ | N/P* |
@@ -455,6 +460,7 @@
 | GoMineWorld | GoMineWorld | http://gomineworld.com/whitepaper_en.pdf | http://gomineworld.com/ | N/P* |
 | GoNetwork | GoNetwork - disrupting the trillion dollar virtual content and mobile economy! | https://gonetwork.co/GoNetwork_WhitePaper.pdf | https://gonetwork.co/ | N/P* |
 | GPCC | Global protected crypto copyright platform | https://gpcc.io/files/whitepaper.pdf | https://gpcc.io/ | N/P* |
+| Graphene | THE GRAPHENE POWER PROJECT | https://gpower.network/files/Whitepaper.pdf | https://gpower.network/ | N/P* |
 | Grace | Grace | https://s3.us-east-2.amazonaws.com/gracetoken.org/Grace+Whitepaper+v1.0.pdf | https://www.gracetoken.org/ | N/P* |
 | Graft | Graft Network - Decentralized Payment Processor | https://www.graft.network/wp-content/uploads/2017/09/Graft-1.1.pdf | https://www.graft.network/ | N/P* |
 | GraphGrail | GraphGrail Ai | http://graphgrail.com/sites/default/files/graphgrailai_whitepaper_en.pdf | http://graphgrail.com/ | N/P* |
@@ -495,7 +501,8 @@
 | Human Discovery Platform | Human Discovery Platform  | https://my.hdplatform.io/files/HD%5FWhite%5FPaper%5Fv1.00%5FENG.pdf | https://hdplatform.io/ | N/P* |
 | Humaniq | Humaniq Whitepaper | https://humaniq.com/pdf/humaniq_wp_english.pdf | https://humaniq.com/ | Alex Fork |
 | Hydrominer | HydroMiner | https://www.hydrominer.org/wp-content/uploads/HydroMiner.pdf | https://www.hydrominer.org/token-sale/ | N/P* |
-| Hyundai DAC | Hdac TGE | https://hdac.io/resources/17/pdf/Hdac blueprint.pdf | https://hdac.io/ | N/P* |
+| Hyundai DAC | Hdac TGE | https://hdac.io/resources/17/pdf/Hdacblueprint.pdf | https://hdac.io/ | N/P* |
+| Ibiscoin | AN ADVANCED CRYPTOCURRENCY LENDING PLATFORM | https://ibiscoin.co/storage/app/uploads/public/document/IBISCOIN_Final.pdf | https://ibiscoin.co | N/P* |
 | iBuildApp | iBuildApp Network | https://ibuildapp.io/file/Whitepaper.pdf | https://ibuildapp.io/ | N/P* |
 | Ic3 Cubes | IC3 Cubes - Mine + Vault + Token | https://s3-us-west-2.amazonaws.com/ic3cubes.com/IC3+Whitepaper.pdf | http://www.ic3cubes.com/ | N/P* |
 | Ice Rock Mining | Ice Rock Mining | http://icerockmining.io/whitePaper.pdf | http://icerockmining.io/ | N/P* |
@@ -716,7 +723,7 @@
 | PiplCoin | PiplCoin | https://piplcoin.com/Whitepaper.pdf | https://piplcoin.com/ | N/P* |
 | PIVX | Private Instant Verified Transaction: Technical Notes | https://pivx.org/wp-content/uploads/2017/03/PIVX-purple-paper-Technincal-Notes.pdf | https://pivx.org/ | |
 | Pixiu | Pixiu - First Ethereum based lucky charm token crowdsale | https://www.pixiulife.com/pdf/Pixiu-WP.pdf | https://www.pixiulife.com/ | N/P* |
-| Platinum Token | Platinum Token | http://www.platinumtoken.club/assets/Platinum coin.pdf | http://www.platinumtoken.club/ | N/P* |
+| Platinum Token | Platinum Token | http://www.platinumtoken.club/assets/Platinum%20coin.pdf | http://www.platinumtoken.club/ | N/P* |
 | Play2live | Play2Live is the first full-blown decentralized streaming platform for gamers and esports fans. | https://play2live.io/storage/b/2/0/2/Whitepaper%5Feng.pdf | https://play2live.io/ | N/P* |
 | PlayerCoin | Player Coin - Cryptocoin for game devopers and players | http://playercoin.world/White%20paper.pdf | http://www.playercoin.world/ | N/P* |
 | Playkey | PLAYKEY - Decentralized Cloud Gaming Platform | https://cdn.playkey.net/img/playkeynet/ico/Whitepaper.pdf | https://playkey.io/ | N/P* |
