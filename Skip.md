@@ -125,7 +125,7 @@
 | Genesis Water Token |  |  | http://watertoken.io/ | N/P* | NOT FOUND |
 | Getgame |  |  | https://getgame.io/ | N/P* | NOT FOUND |
 | Hive Project |  |  | https://www.hive-project.net/ | N/P* | NOT FOUND |
-| HORIZON|  |  | http://horizoncomm.co/ | N/P* | NOT FOUND |
+| HORIZON |  |  | http://horizoncomm.co/ | N/P* | NOT FOUND |
 | Hubcoin |  |  | https://www.coinexchange.io/market/HUB/BTC | N/P* | NOT FOUND |
 | Internxt |  |  | https://internxt.io/ | N/P* | NOT FOUND |
 | Kexcoin |  |  | https://kexcoin.com/ | N/P* | NOT FOUND |
