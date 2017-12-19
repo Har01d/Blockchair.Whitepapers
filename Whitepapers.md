@@ -374,7 +374,7 @@
 | EventChain | EventChain.io | https://eventchain.io/whitepaper.pdf | https://eventchain.io/ | N/P* |
 | Everex | Blockchain-Powered Money Transfers and Microfinance Services | https://daks2k3a4ib2z.cloudfront.net/59157962bdb4300afa8771a9/5963c09d077a520b5a965208_20170710_EVX_WP.pdf | https://www.everex.io/ | N/P* |
 | Everus | EVERUS: THE BLOCKCHAIN FINTECH COMPANY | https://everus.org/whitepaper.pdf | https://everus.org/ | N/P* |
-| Ewaiter| A new simple way to invest in the restaurant service industry | https://ewaiter.io/public/media/docs/eWaiter_White_Paper_EN.pdf | https://ewaiter.io/ | N/P* |
+| Ewaiter | A new simple way to invest in the restaurant service industry | https://ewaiter.io/public/media/docs/eWaiter_White_Paper_EN.pdf | https://ewaiter.io/ | N/P* |
 | Exchange Union | ExchangeUnion | https://www.exchangeunion.com/white-paper.pdf | https://www.exchangeunion.com/ | N/P* |
 | Exhasta | Exhasta | https://www.exhasta.com/wp-content/uploads/2017/10/ExHasta-whitepaper.pdf | https://www.exhasta.com/ | N/P* |
 | Eximchain | Eximchain | https://s3-us-west-2.amazonaws.com/eximchainwhitepaper/eximchain-supply-chainV3.pdf | https://www.eximchain.com/ | N/P* |
@@ -422,7 +422,7 @@
 | Fundrequest | Boost open source - FundRequest | https://fundrequest.io/whitepaper.pdf | https://fundrequest.io/ | N/P* |
 | FunFair | FunFair: Disruptive online gaming on the blockchain that's Fun, Fast and Fair | https://funfair.io/wp-content/uploads/FunFair-Commercial-White-Paper.pdf | https://funfair.io/ | |
 | Further Network | Further | https://further.network/whitepaper/whitepaper-latest-en.pdf | https://further.network/ | N/P* |
-| Fynance |fynance is a digital insurance broker | https://www.fynance.io/fynance_Whitepaper_en.pdf |http://www.fynance.io/en/home/ | N/P* |
+| Fynance | A digital insurance broker | https://www.fynance.io/fynance_Whitepaper_en.pdf | http://www.fynance.io/en/home/ | N/P* |
 | Galactikka | Galactikka | https://ico.galactikka.com/WP%5FGALACTIKKA%5FEN.pdf | http://ico.galactikka.com/ | N/P* |
 | Galaxy Esolutions | GES | http://whitepaper.galaxy-esolutions.com/GES%5FBusiness%5FDeck%5FAbstract.pdf | https://galaxy-esolutions.com/ | N/P* |
 | Game.com | Game.com - creating a new world! | https://ic.game.com/download/Game.com_Whitepaper_EN.pdf | http://www.game.com/ | N/P* |
@@ -502,7 +502,7 @@
 | Humaniq | Humaniq Whitepaper | https://humaniq.com/pdf/humaniq_wp_english.pdf | https://humaniq.com/ | Alex Fork |
 | Hydrominer | HydroMiner | https://www.hydrominer.org/wp-content/uploads/HydroMiner.pdf | https://www.hydrominer.org/token-sale/ | N/P* |
 | Hyundai DAC | Hdac TGE | https://hdac.io/resources/17/pdf/Hdacblueprint.pdf | https://hdac.io/ | N/P* |
-| Ibiscoin | AN ADVANCED CRYPTOCURRENCY LENDING PLATFORM | https://ibiscoin.co/storage/app/uploads/public/document/IBISCOIN_Final.pdf |https://ibiscoin.co | N/P* |
+| Ibiscoin | AN ADVANCED CRYPTOCURRENCY LENDING PLATFORM | https://ibiscoin.co/storage/app/uploads/public/document/IBISCOIN_Final.pdf | https://ibiscoin.co | N/P* |
 | iBuildApp | iBuildApp Network | https://ibuildapp.io/file/Whitepaper.pdf | https://ibuildapp.io/ | N/P* |
 | Ic3 Cubes | IC3 Cubes - Mine + Vault + Token | https://s3-us-west-2.amazonaws.com/ic3cubes.com/IC3+Whitepaper.pdf | http://www.ic3cubes.com/ | N/P* |
 | Ice Rock Mining | Ice Rock Mining | http://icerockmining.io/whitePaper.pdf | http://icerockmining.io/ | N/P* |
