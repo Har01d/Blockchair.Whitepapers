@@ -125,6 +125,7 @@
 | Genesis Water Token |  |  | http://watertoken.io/ | N/P* | NOT FOUND |
 | Getgame |  |  | https://getgame.io/ | N/P* | NOT FOUND |
 | Hive Project |  |  | https://www.hive-project.net/ | N/P* | NOT FOUND |
+| HORIZON |  |  | http://horizoncomm.co/ | N/P* | NOT FOUND |
 | Hubcoin |  |  | https://www.coinexchange.io/market/HUB/BTC | N/P* | NOT FOUND |
 | Internxt |  |  | https://internxt.io/ | N/P* | NOT FOUND |
 | Kexcoin |  |  | https://kexcoin.com/ | N/P* | NOT FOUND |
@@ -211,7 +212,8 @@
 | Casagram | NEW SOCIAL NETWORK | http://www.casagram.net/Site/Whitepaper.html | http://www.casagram.net/ | N/P* | NOT PDF |
 | Charg Coin |  | https://www.charg.io/white-paper-roadmap | https://www.charg.io/ | N/P* | NOT PDF |
 | Commodity Ad Network | Commodity Ad Network | https://commodityadnetwork.com/whitepaper/ | https://commodityadnetwork.com/ico/ | N/P* | NOT PDF |
-| Connect Job |  | https://ru.calameo.com/read/005345675300d0189a74e | https://ico.connectjob.io/?utm_source=icoalert&amp;utm_medium=link&amp;utm_campaign=icoalert | N/P* | NOT PDF |
+| Connect Job |  | https://ru.calameo.com/read/005345675300d0189a74e | https://ico.connectjob.io/ | N/P* | NOT PDF |
+| Cryptoalias | Get your Blockchain Identity | https://www.cryptoalias.io/whitepaper/ | https://www.cryptoalias.io/ | N/P* | NOT PDF |
 | Crypto Mutual Coin | CRYPTO MUTUAL COIN | https://gist.github.com/ccmut56/0bc7d73a9c8fda1f9dbd7a02d8be9d08 | http://cryptomc.com/index.html | N/P* | NOT PDF |
 | Demicoin | DEMICOIN | https://demicoin.io/whitepaper | https://demicoin.io/ | N/P* | NOT PDF |
 | Dharma | Dharma: A Generic Protocol for Tokenized Debt Issuance | https://whitepaper.dharma.io/#faq | https://dharma.io/ | N/P* | NOT PDF |
@@ -336,6 +338,7 @@
 | Looq |  |  | https://looq.io/ | N/P* | NOT WORKING |
 | Luxico |  |  | http://luxico.io/ | N/P* | NOT WORKING |
 | Magos |  |  | http://magos.io/ | N/P* | NOT WORKING |
+| Majato |  |  | http://majato.io | N/P* | NOT WORKING |
 | Make It Viral |  |  | https://www.miv.life/ | N/P* | NOT WORKING |
 | Makersmarks |  |  | https://makersmarks.io/ | N/P* | NOT WORKING |
 | Mammoth Casino |  |  | https://mammoth.casino/ | N/P* | NOT WORKING |
