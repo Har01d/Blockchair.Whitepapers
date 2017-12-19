@@ -17,6 +17,7 @@
 | AdEx | AdEx: Decentralized Ad Exchange | https://www.adex.network/adex/AdEx-Whitepaper-v.7.pdf | https://www.adex.network/ | Ivo Georgiev, Dimo Stoyanov, Vanina Ivanova |
 | Adhive | AdHive.tv / AI and community powered platform for native video advertising for video bloggers | https://adhive.tv/AdHive%5FWhitepaper%5Fv1.04%5FEN.pdf | https://adhive.tv/ | N/P* |
 | Aditus | Aditus | https://www.aditus.net/Aditus-Whitepaper.pdf | https://www.aditus.net/ | N/P* |
+| Admine | AdMine - the world's first social network of brands | https://admine.io/material/AdMine_White_Paper_eng.pdf | http://admine.io/ | N/P* | 
 | Adperks | AdPerks - Decentralized Digital Marketing | https://adperks.io/wp-content/uploads/2017/09/AdPerks-WhitePaper.pdf | https://adperks.io/ | N/P* |
 | Adtoken | adToken - Unlocking the Blockchain for Digital Advertising | https://adtoken.com/white-paper.pdf | https://adtoken.com/ | N/P* |
 | AdToken | The AdChain Registry | https://adtoken.com/uploads/white-paper.pdf | https://adtoken.com/ | Mike Goldin, Ameen Soleimani, James Young |
@@ -192,6 +193,7 @@
 | Caviar | Caviar - Dual Purpose Investment Fund And Blockchain Crowdfunding Platform | https://s3.amazonaws.com/caviar-presentations/CaviarWhitepaper.pdf | https://www.caviar.io/ | N/P* |
 | CDU by Crowd-Up | Crowd-Up / Equity crowdfunding through blockchain | http://crowd-up.co/files/whitepaper.pdf | http://crowd-up.co/ | N/P* |
 | Centra | Centra | https://www.centra.tech/CentraWhitePaper.pdf | https://www.centra.tech/ | N/P* |
+| CFun | TOKENIZE INDIVIDUAL CREATIVITY | https://cfunproject.com/whitepaper/download/CFunWHITEPAPER_EN.pdf | https://cfunproject.com/ | N/P* |
 | ChainLink | ChainLink: A Decentralized Oracle Network | https://link.smartcontract.com/whitepaper.pdf | https://www.smartcontract.com/ | Steve Ellis, Ari Juels, Sergey Nazarov |
 | Chaintrade | ChainTrade - Decentralized Platform for Food and Raw Materials Trading | https://chaintrade.net/wp-content/uploads/2017/10/ChainTrade_Whitepaper_v0.8.pdf | https://chaintrade.net/ | N/P* |
 | CHEX | CHEX | https://tokensale.thechex.com/docs/CHEX-White-Paper.pdf | https://thechex.com/ | N/P* |
@@ -326,6 +328,7 @@
 | ECC | ECC | https://ecc.network/downloads/documents/ecc-whitepaper.pdf | https://ecc.network/ | N/P* |
 | Edgeless | Edgeless Casino | https://coss.io/documents/white-papers/edgeless.pdf | https://edgeless.io/ | |
 | Eggs Datacenter | Eggs Datacenter | http://uploads.sfxmedia.ru/test/2017-10-09/Token%20data.pdf | http://eggsdc.com/ | N/P* |
+| eGold  | eSports Betting Cryptocurrency | https://egold.gg/eGold-whitepaper.pdf | https://egold.gg/ | N/P* |
 | eHarvestHub | eHarvestHub | https://www.ehhico.com/whitepaper/en.pdf | https://www.ehhico.com/ | N/P* |
 | Eidoo | Ethereum Funding Informative Prospect | https://eidoo.io/docs/EIDOO_Technology_White_Paper_v_0_2_Draft_EN.pdf | https://eidoo.io/ | |
 | Elastic | Elastic Project: The Decentralized Supercomputer | https://bravenewcoin.com/assets/Whitepapers/Elastic-Project-The-Decentralized-Supercomputer.pdf | https://www.elastic.pw/ | |
