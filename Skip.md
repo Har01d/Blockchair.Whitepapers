@@ -76,6 +76,7 @@
 | Aether United |  |  | http://aetherunited.com/ | N/P* | NOT FOUND |
 | Akasha |  |  | https://akasha.world/ | N/P* | NOT FOUND |
 | Algo Land |  |  | https://www.algo.land/ | N/P* | NOT FOUND |
+| AntiqMall |  |  | https://antiqmall-ico.io/en | N/P* | NOT FOUND |
 | Arbi |  |  | http://arbi.expert/en/ | N/P* | NOT FOUND |
 | Autoria |  |  | http://autoria.io/ | N/P* | NOT FOUND |
 | Balance Open |  |  | https://balancemy.money/ | N/P* | NOT FOUND |
