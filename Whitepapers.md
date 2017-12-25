@@ -243,7 +243,7 @@
 | CDU by Crowd-Up | Crowd-Up / Equity crowdfunding through blockchain | http://crowd-up.co/files/whitepaper.pdf | http://crowd-up.co/ | N/P* |
 | Centra | Centra | https://www.centra.tech/CentraWhitePaper.pdf | https://www.centra.tech/ | N/P* |
 | CFun | TOKENIZE INDIVIDUAL CREATIVITY | https://cfunproject.com/whitepaper/download/CFunWHITEPAPER_EN.pdf | https://cfunproject.com/ | N/P* |
-| Chainium | EQUITY MARKET REINVENTED BUYING & SELLING SHARES SHOULD BE EASY | https://www.chainium.io/wp-content/uploads/2017/12/Chainium_Whitepaper_v2_5.pdf | https://www.chainium.io/ | N/P* |
+| Chainium | EQUITY MARKET REINVENTED BUYING & SELLING SHARES SHOULD BE EASY | https://www.chainium.io/wp-content/uploads/2017/12/Chainium_Whitepaper_v2_6.pdf | https://www.chainium.io/ | N/P* |
 | ChainLink | ChainLink: A Decentralized Oracle Network | https://link.smartcontract.com/whitepaper.pdf | https://www.smartcontract.com/ | Steve Ellis, Ari Juels, Sergey Nazarov |
 | Chaintrade | ChainTrade - Decentralized Platform for Food and Raw Materials Trading | https://chaintrade.net/wp-content/uploads/2017/10/ChainTrade_Whitepaper_v0.8.pdf | https://chaintrade.net/ | N/P* |
 | CHEX | CHEX | https://tokensale.thechex.com/docs/CHEX-White-Paper.pdf | https://thechex.com/ | N/P* |
@@ -341,6 +341,7 @@
 | DAO PlayMarket 2.0 | DAO PlayMarket 2.0 | https://ico.playmarket.io/images/docs/wp_playmarket_en.pdf | https://playmarket.io/ | N/P* |
 | Darenta | Darenta | https://darenta.io/en.pdf | https://darenta.io/# | N/P* |
 | Darico | Darico - The First Investment-Grade CryptoCurrency! | http://darico.io/Darico-Whitepaper.pdf | http://darico.io/ | N/P* |
+| Darenta | CAR RENTAL SERVICE FOR OWNERS WHO RENT OUT THEIR PRIVATE CARS | https://darenta.io/en.pdf | https://darenta.io/ | N/P* |
 | Dash | Dash: A Privacy-Centric Crypto-Currency | https://bravenewcoin.com/assets/Whitepapers/Dash-WhitepaperV1.pdf | https://www.dash.org/ | Evan Duffield, Daniel Diaz |
 | Databroker Dao | DataBrokerDAO - Distributed Marketplace for IoT Sensor Data | https://databrokerdao.com/whitepaper/WHITEPAPER_DataBrokerDAO_ENG.pdf | https://databrokerdao.com/ | N/P* |
 | Datafund | Datafund - Own your data | http://datafund.net/assets/pdf/DataFund%5FLightpaper%5Fv0.4.pdf | http://datafund.net/ | N/P* |
@@ -806,6 +807,7 @@
 | Nexium | NEXIUM Critical Services for EUFOR | https://www.thalesgroup.com/sites/default/files/medias/documents/EUFOR%20project..pdf | https://beyond-the-void.net/ | |
 | NEXT.exchange | NEXT.EXCHANGE EMBRACES BLOCKCHAIN TECHNOLOGY | https://next.exchange/whitepaper | https://next.exchange/ | N/P* |
 | Nexus | Nexus: Whitepaper | https://ico.nexus.social/pdfs/legals/Nexus-White-Paper.pdf | http://www.nexusearth.com/ | |
+| Nilecoin | NILECOIN | https://ico.nilecoin.org/white-paper-en.pdf | https://ico.nilecoin.org/ | N/P* |
 | Nitro | Blockchain to democratise the utility of video-games economy | https://www.nitro.live/files/en/Nitro%20Whitepaper%20v4.0.4.pdf | http://www.nitro.live/ | N/P* |
 | Noku | THE BLOCKCHAIN MONEY COMPANY | https://www.noku.io/Noku-White_Paper_Draft_0-9-5.pdf | https://www.noku.io/ | N/P* |
 | NoLimitCoin | No Limit Fantasy Sports LLC & No Limit Coin | https://www.nolimitcoin.org/nlc2whitepaper.pdf | https://www.nolimitcoin.org/ | |
@@ -930,8 +932,8 @@
 | Rate Date | Ratedate | https://ico.ratedate.net/assets/white_paper_en_1_2.pdf | https://ratedate.net/ | N/P* |
 | Razoom | Main | https://www.razoom.org/docs/RAZOOM_WHITEPAPER_EN.pdf | https://razoom.org/ | N/P* |
 | Realisto | Tokens backed by Assets - Assets backed by Expertise | https://realisto.io/files/papers/Whitepaper/REALISTO%5FWhitepaper%5FV1.2%5FEN.pdf | https://realisto.io/ | N/P* |
-| Reality Clash | Reality Clash / Augmented Reality FPS game | https://reality-clash.com/wp-content/uploads/materials/RealityClash-whitepaper-en.pdf | http://reality-clash.com/ | N/P* |
-| Real Property Token | Real Property Token / Facilitating Peer to Peer Transactions | https://irp-cdn.multiscreensite.com/cc677c49/files/uploaded/RPT SUMMARY.pdf | https://www.rptoken.io/ | N/P* |
+| Reality Clash |  Augmented Reality FPS game | https://reality-clash.com/wp-content/uploads/materials/RealityClash-whitepaper-en.pdf | http://reality-clash.com/ | N/P* |
+| Real Property Token | Facilitating Peer to Peer Transactions | https://irp-cdn.multiscreensite.com/cc677c49/files/uploaded/RPTokenWhitepaper1.pdf | https://www.rptoken.io/ | N/P* |
 | Realt | Realt Ltd, London, UK | http://realt.uk/Realt-ICO.pdf | http://realt.uk/ | N/P* |
 | Real | Real Estate | http://www.real.markets/static/wp/en/REAL_Whitepaper.pdf | http://www.real.markets/ | N/P* |
 | Reanimator | Reanimator | http://reanimator.io/REANIMATOR_Whitepaper.pdf | http://www.reanimator.io/ | N/P* |
@@ -1154,6 +1156,7 @@
 | Tokenstars Ace | The first platform to tokenize people | https://tokenstars.com/upload/files/ace_by_tokenstars_whitepaper.pdf | https://tokenstars.com/ace/ | N/P* |
 | TokenStub | TokenStub - Decentralized infrastructure for event ticket sales | https://tokenstub.io/TokenStub-WhitePaper-EN.v1.pdf | https://tokenstub.io/ | N/P* |
 | Tokenza | Tokenza | https://github.com/tokenza/fundraiser/raw/master/whitepaper/tokenza.whitepaper.en.pdf | https://www.tokenza.com/ | N/P* |
+| Tokia | Forever Free Cryptocurrency Exchange | http://www.tokia.io/docs/Tokia%20whitepaper.pdf | https://www.tokia.io/ | N/P* |
 | Tombcare | Tombcare | https://tombcare.com/TombCare%5FEng.pdf | https://tombcare.com/ | N/P* |
 | Tombet | THE TOMBET CROWDFUNDING CAMPAIGN | https://img1.wsimg.com/blobby/go/c441ec54-c6d1-404c-8f89-b8d8c7ec0f04/downloads/1btem4v37_100621.pdf | https://tombet.io/ | N/P* |
 | TopiaCoin | TopiaCoin / The First Secure Decentralized File Sharing Infrastructure | https://topiacoin.io/SDFS.pdf | https://topiacoin.io/ | N/P* |
@@ -1184,7 +1187,7 @@
 | UNICO | Decentralized Digital Collectibles - Unico | https://www.unico.global/wp-content/uploads/2017/11/UNICO-White-Paper.pdf | https://www.unico.global/ | N/P* |
 | Universa | Universa Blockchain Protocol | https://universa.io/files/whitepaper.pdf | https://universa.io/ | N/P* |
 | Unolabo | Unolabo | http://ico.unolabo.io/tpl/docs/WhitePaperUnlbTokenSale.pdf | http://unolabo.io/ | N/P* |
-| uooMAG | uooMAG | http://uoomag.io/en/docs/uooMAG-whitepaper.pdf | http://uoomag.io/ | N/P* |
+| UooMAG | uooMAG | http://uoomag.io/en/docs/uooMAG-whitepaper.pdf | http://uoomag.io/ | N/P* |
 | Upfiring | Upfiring - The Ultimate Blockchain File-Sharing Platform | https://www.upfiring.com/Upfiring_Whitepaper.pdf | https://www.upfiring.com/ | N/P* |
 | Uptoken | UpToken. A Crypto ATM on every corner, worldwide. | https://uptoken.org/UpToken-whitepaper.pdf | https://uptoken.org/ | N/P* |
 | UR | Kowala Technology SEZC | https://ur.technology/pdf/kowala-protocol-whitepaper-v1.0.pdf | https://ur.technology/ | N/P* |
