@@ -84,6 +84,7 @@
 | Belrium |  |  | https://www.belrium.io/ | N/P* | NOT FOUND |
 | Beth |  |  | https://beth.jp/ | N/P* | NOT FOUND |
 | Betking |  |  | https://betking.io/ | N/P* | NOT FOUND |
+| Binary |  |  | https://www.binary.com/en/ico.html | N/P* | NOT FOUND |
 | Birdchain |  |  | https://www.birdchain.io/ | N/P* | NOT FOUND |
 | Bit-x |  |  | https://bit-x.io/ | N/P* | NOT FOUND |
 | Bitbounce / Credo |  |  | https://bitbounce.io/ | N/P* | NOT FOUND |
@@ -149,6 +150,7 @@
 | Monster Byte |  |  | https://www.monsterbyte.io/ico | N/P* | NOT FOUND |
 | Myfoodcoin |  |  | http://www.hungrytext.com/ | N/P* | NOT FOUND |
 | Neufund |  |  | https://neufund.org/commit/ | N/P* | NOT FOUND |
+| Neuromation |  |  | https://neuromation.io/ | N/P* | NOT FOUND |
 | Neuron |  |  | https://doc.ai/ | N/P* | NOT FOUND |
 | Nimfamoney |  |  | https://www.nimfamoney.io/ | N/P* | NOT FOUND |
 | Our Interest |  |  | https://www.ourinterest.org/ico | N/P* | NOT FOUND |
