@@ -169,6 +169,7 @@
 | Bitindia | A blockchain wallet & a crypto exchange for the streets of india | https://bitindia.co/whitepaper.pdf | https://bitindia.co/ | N/P* |
 | Bitjob | bitJob MarketPlace | https://uploads.strikinglycdn.com/files/261c187d-1755-4e99-b1e6-b9b74951c016/bitJob%5FPitch%5FDeck%20(1).pdf | https://bitjob.io/ | N/P* |
 | Bit Life And Trust | Bit Life and Trust | http://img1.wsimg.com/blobby/go/6f7bd38f-9c79-4c39-8b7e-ea0106c7541e/downloads/1bpfm7cll_491335.pdf | http://www.bitlifeandtrust.com/ | N/P* |
+| Bitmart | Whole-Network Digital Assets Exchange Platform | https://www.bitmart.com/whitepaper/bitmart_whitepaper_en.pdf | https://www.bitmart.com/ | N/P* |
 | Bitminutes | BitMinutes | https://www.bitminutes.com/docs/BitMinutes%5FICO%5FWhitepaper%5FV4.pdf | https://www.bitminutes.com/ | N/P* |
 | Bitnation | BITNATION PANGEA - Your Blockchain Jurisdiction | https://github.com/Bit-Nation/Pangea-Docs/raw/master/BITNATION%20Pangea%20Whitepaper%202017.pdf | https://bitnation.co/ | N/P* |
 | Bitpark Coin | BITPARK | https://bitpark.net/BITPARK%5Fwhitepaper1.2.pdf | https://bitpark.net/ | N/P* |
