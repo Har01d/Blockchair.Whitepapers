@@ -780,6 +780,7 @@
 | Movement App | Movement | https://d3pdmwutokxl28.cloudfront.net/Movement%5FApp%5FWhitepaper%5FFinal.pdf | https://www.movementapp.io/ | N/P* |
 | Multibot | Multibot trading platform in Cloud | https://multibot.io/whitepaper.pdf | https://multibot.io/ | N/P* |
 | Munchee | MUNToken | https://s3.amazonaws.com/munchee-docs/Munchee+White+Paper+-+EN.pdf | https://www.token.munchee.io/ | N/P* |
+| Musicoin | A Decentralized platform for Musicians and Listeners | https://drive.google.com/file/d/1Rqftu2SG-UjoHb-Wikm9NYavIV8fZlWk/view?usp=sharing | https://musicoin.org | N/P* |
 | MyBit | MyBit | http://mybit.io/docs/MyBit_Whitepaper_v0.13.pdf | http://mybit.io/ | N/P* |
 | Mysterium | Mysterium Network Project | https://mysterium.network/whitepaper.pdf | https://mysterium.network/ | |
 | Mytime | A blockchain platform to turn time into the cryptocurren | https://mytimecoin.github.io/whitepaper/whitepaper_en.pdf | http://mytc.io/ | N/P* |
