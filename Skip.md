@@ -239,6 +239,7 @@
 | Livepeer | Protocol and Economic Incentives For a Decentralized Live Video Streaming Network | https://github.com/livepeer/wiki/blob/master/WHITEPAPER.md | https://livepeer.org/ | N/P* | NOT PDF |
 | Lordmancer 2 | MMO RPG | https://onedrive.live.com/?authkey=%21AKP_PcUjbYYCNPU&cid=C0035E2AA025F2D1&id=C0035E2AA025F2D1%2142203&parId=C0035E2AA025F2D1%2142201&o=OneUp | http://lordmancer2.io/ | N/P* | NOT PDF |
 | Mill Of Blood | TEIO | https://millofblood.com/white-paper.php | https://millofblood.com/ | N/P* | NOT PDF |
+| Musicoin | A Decentralized platform for Musicians and Listeners | https://medium.com/@musicoin/musicoin-project-white-paper-v2-0-6be5fd53191b | https://musicoin.org | N/P* | NOT PDF |
 | Naga Group | The first Blockchain-based universe for decentralized trading, investing and education in financial markets, virtual goods and cryptocurrencies. | https://docsend.com/view/srsg4zw | https://www.nagaico.com/ | N/P* | NOT PDF |
 | Neverdie | NEVERDIE Wallet | https://neverdie.com/docs/roadmap.html | https://neverdie.com/ | N/P* | NOT PDF |
 | Nimiq | Nimiq: A Frictionless Payment Protocol Native to the Web | https://medium.com/nimiq-network/nimiq-a-peer-to-peer-payment-protocol-native-to-the-web-ffd324bb084 | https://nimiq.com/ | N/P* | NOT PDF |
