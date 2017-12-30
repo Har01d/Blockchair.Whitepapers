@@ -43,6 +43,7 @@
 | Maler Grupp | Maler Grupp Russia official ICO White Paper | https://drive.google.com/file/d/0Byk4qX7vFTjVbzYwN2xMQ25XcE0/view | http://maler-ico.com/ | N/P* | GOOGLE DOCS |
 | Media Sifter | Decentralize Influence, Distribute Truth | https://docs.google.com/document/d/18IBZLmtCFAZtjmp43iLuGIqm60tpMJ0zdYzgHL98sII/edit | https://www.mediasifter.co/ | N/P* | GOOGLE DOCS |
 | Mindsports | DECENTRALIZE MINDSPORTS NETWORK | https://drive.google.com/file/d/0B23oU2WDqlyWZHNvM2ZZLWNrVmc/view | https://www.mindsports.io/ | N/P* | GOOGLE DOCS |
+| Musicoin | A Decentralized platform for Musicians and Listeners | https://drive.google.com/file/d/1Rqftu2SG-UjoHb-Wikm9NYavIV8fZlWk/view?usp=sharing | https://musicoin.org | N/P* | GOOGLE DOCS |
 | MyTrackNet | MyTrackNet | https://drive.google.com/file/d/0B_pE0PM9GYZDM08zVTF6UkNUTUE/view | https://www.mytracknet.com/ | N/P* | GOOGLE DOCS |
 | Mywish | Making Contracts. Really Smart. For Life. | https://drive.google.com/file/d/0B3ZY9oXSrdvjYjlCLUxra3oxZHM/view | https://mywish.io/ | N/P* | GOOGLE DOCS |
 | Nwa | HYBRID FUND APPLYING ITS EXCLUSIVE STRATEGIES IN THE STOCK AND CRYPTOCURRENCY WORLD MARKET | https://onedrive.live.com/view.aspx?resid=6771A23E5F3C19C4!3483&ithint=file%2cdocx&app=Word&authkey=!AKUnQz8UjaWp0RI | https://www.nwa.ltd/ | N/P* | GOOGLE DOCS |
@@ -239,7 +240,6 @@
 | Livepeer | Protocol and Economic Incentives For a Decentralized Live Video Streaming Network | https://github.com/livepeer/wiki/blob/master/WHITEPAPER.md | https://livepeer.org/ | N/P* | NOT PDF |
 | Lordmancer 2 | MMO RPG | https://onedrive.live.com/?authkey=%21AKP_PcUjbYYCNPU&cid=C0035E2AA025F2D1&id=C0035E2AA025F2D1%2142203&parId=C0035E2AA025F2D1%2142201&o=OneUp | http://lordmancer2.io/ | N/P* | NOT PDF |
 | Mill Of Blood | TEIO | https://millofblood.com/white-paper.php | https://millofblood.com/ | N/P* | NOT PDF |
-| Musicoin | A Decentralized platform for Musicians and Listeners | https://medium.com/@musicoin/musicoin-project-white-paper-v2-0-6be5fd53191b | https://musicoin.org | N/P* | NOT PDF |
 | Naga Group | The first Blockchain-based universe for decentralized trading, investing and education in financial markets, virtual goods and cryptocurrencies. | https://docsend.com/view/srsg4zw | https://www.nagaico.com/ | N/P* | NOT PDF |
 | Neverdie | NEVERDIE Wallet | https://neverdie.com/docs/roadmap.html | https://neverdie.com/ | N/P* | NOT PDF |
 | Nimiq | Nimiq: A Frictionless Payment Protocol Native to the Web | https://medium.com/nimiq-network/nimiq-a-peer-to-peer-payment-protocol-native-to-the-web-ffd324bb084 | https://nimiq.com/ | N/P* | NOT PDF |
