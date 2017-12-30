@@ -268,6 +268,7 @@
 | Coinbet | CoinBet | http://www.coin-bet.bet/assets/files/whitepaper-en.pdf | http://www.coin-bet.bet/ | N/P* |
 | Coindex | CRYPTOCURRENCIES AND CRYPTOASSETS MARKET INDEXES | https://docs.wixstatic.com/ugd/b2aada_57f9a1274bf9465c81ef6e97c88480f0.pdf | https://www.coindex.finance/ | N/P* |
 | Coindrive | CoinDrive | https://coindrive.xyz/CoinDrive-Whitepapper.pdf | https://coindrive.xyz/ | N/P* |
+| Coinhealth | Revolutionize health care solutions by harnessing | https://coinhealth.io/wp-content/uploads/2017/12/CoinHealth-Whitepaper-12_08_17.pdf | https://coinhealth.io/ | N/P* |
 | Coinlancer | Coinlancer | https://www.coinlancer.io/Coinlancer%5FWhitepaper.pdf | https://www.coinlancer.io/ | N/P* |
 | Coin Lion | Coin Lion | https://static.coinlion.com/docs/CoinLion%5FWhitepaper%5Fv1.8.0.pdf | https://coinlion.com/ | N/P* |
 | Coinloan | CoinLoan — Loans Secured by CryptoAssets | https://d22bh5hhp3xpt1.cloudfront.net/CoinLoan%5FWhitePaper.pdf | https://coinloan.io/ | N/P* |
@@ -465,6 +466,7 @@
 | Expanse | Expanse Whitepaper | https://wesdewayne.files.wordpress.com/2017/05/expanse-whitepaper.pdf | https://www.expanse.tech/ | |
 | Exscudo | Exscudo — Nextgen Financial Ecosystem | https://exscudo.com/Whitepaper_v1.0.pdf | https://exscudo.com/ | N/P* |
 | ExsulCoin | ExsulCoin / Blockchain technology for refugees | https://www.exsulcoin.com/docs/exsul-coin-whitepaper-print.pdf | https://www.exsulcoin.com/ | N/P* |
+| Extracredit | EDUCATIONAL CRYPTOCURRENCY WITH LEARNING PLATFORM | https://extracredit.io/PDF-Files/Extra-Credit-WP.pdf | https://extracredit.io/ | N/P* |
 | Extreme Sportsbook | Extreme Sportsbook - Anonymous, autonomous, blockchain sports betting | https://www.xsports.io/clkn/https/ico.xsports.io/xsbwp1.2.pdf | https://www.xsports.io/ | N/P* |
 | Ezmarket | ZMarket | https://ezmarket.io/assets/wpen.pdf | https://ezmarket.io/ | N/P* |
 | F2uphone | F2U PHONE / Phone Beyond Future | https://f2uphone.com/whitepaper.pdf | https://f2uphone.com/ | N/P* |
@@ -918,7 +920,7 @@
 | Qbao | The WeChat Of Qtum World | https://www.qbao.fund/qbao_fund_en.pdf | https://www.qbao.fund/ | N/P* |
 | Qchain | Qchain - Blockchain Marketing, Advertising, and Analytics Platform | https://qchain.co/files/Qchain_whitepaper.pdf | https://qchain.co/ | N/P* |
 | Qilin Market | Protocol for Decentralized E-commerce | https://qilin.market/whitepaper/Qilin.Market_Whitepaper_v08.pdf | https://qilin.market/ | N/P* |
-| Qlink | Qlink | https://qlink.mobi/qlink2/res/WhitePaper.pdf | https://qlink.mobi/ | N/P* |
+| Qlink | A decentralized mobile network, is dedicated to constructing an open-source telecom infrastructure | https://qlink.mobi/qlink2/res/WhitePaper.pdf | https://qlink.mobi/ | N/P* |
 | QRL | The QRL | https://github.com/theQRL/Whitepaper/blob/master/QRL_whitepaper.pdf | http://theqrl.org/ | N/P* |
 | Qtum | Smart-Contract Value-Transfer Protocols on a Distributed Mobile Application Platform | https://qtum.org/uploads/files/a2772efe4dc8ed1100319c6480195fb1.pdf | https://qtum.org/ | Patrick Dai, Neil Mahi, Jordan Earls, Alex Norta |
 | Quantum Resistant Ledger | Quantum Resistant Ledger (QRL). Whitepaper | https://bravenewcoin.com/assets/Whitepapers/QRL-whitepaper.pdf | https://theqrl.org/ | Peter Waterland |
@@ -1003,7 +1005,7 @@
 | Scrinium | Scrinium - The future of portfolio investment | https://scrinium.ai/Scrinium%5FWhitepaper.pdf | https://scrinium.ai | N/P* |
 | Scriptdrop's Adherence Token | ScriptDrop | https://www.scriptdrop.io/assets/scriptdrop-pitch-deck.pdf | https://www.scriptdrop.io/ | N/P* |
 | Security Plus Cloud | World's First Cyber Security ICO / Security Plus Cloud | https://www.securitypluscloud.com.au/SPC-ICO-Whitepaper.pdf | https://www.securitypluscloud.com.au/ | N/P* |
-| SelfKey | SelfKey Identity Ecosystem | https://selfkey.org/whitepaper/en/selfkey-whitepaper-en.pdf | https://selfkey.org/ | N/P* |
+| SelfKey | SelfKey Identity Ecosystem | https://selfkey.org/wp-content/uploads/sites/19/2017/11/selfkey-whitepaper-en.pdf | https://selfkey.org/ | N/P* |
 | SelfPay | SelfPay - Bridging the gap between traditional payments and cryptocurrency | https://ico.selfpay.asia/pdf/whitepaper-selfpay.pdf | https://ico.selfpay.asia/ | N/P* |
 | Sense | Sense Token and Protocol for Human Intelligence | https://sensetoken.com/pdfs/sensetoken_whitepaper_en.pdf | http://sensetoken.com/ | N/P* |
 | Seratio | Seratio Platform | https://seratio-coins.world/Assets/other/Seratio Token 2017-30 Whitepaper 6 0 (29 October 2017) v 6-21.pdf | https://seratio-coins.world/ | N/P* |
@@ -1027,6 +1029,7 @@
 | Sisa | Strategic Investments in Significant Areas | https://sisa.fund/SISA%20White%20Paper.pdf | https://sisa.fund/ | N/P* |
 | Skincoin | Skincoin - Universal cryptocurrency for eSports industry | https://skincoin.org/whitepaper.pdf | https://skincoin.org/ | N/P* |
 | Skrilla | The Skrilla (SKR) | https://tokensale.skrilla.com/skr-token-whitepaper-v0.7.pdf | https://tokensale.skrilla.com/ | N/P* |
+| Skycoin | A Distributed Consensus Algorithm for Cryptocurrency Networks |https://downloads.skycoin.net/whitepapers/a-distributed-consensus-algorithm-for-cryptocurrency-networks.pdf | https://www.skycoin.net/ | N/P* |
 | Slimcoin | Slimcoin | http://www.slimcoin.club/whitepaper.pdf | http://www.slimcoin.club/ | N/P* |
 | Slogn | SLOGN - AI Blockchain Coin for Decentralized Logistics | https://github.com/SLOGNNet/whitepaper/blob/master/whitepaper.pdf | https://www.slogn.net/ | N/P* |
 | Smartlands | Smartlands | https://smartlands.io/documents/White_paper_2208.pdf | https://smartlands.io/ | N/P* |
@@ -1042,6 +1045,7 @@
 | Social | Social Coins - Nexus | https://ico.nexus.social/pdfs/legals/Nexus-White-Paper.pdf | https://nexus.social/ | N/P* |
 | Soferox | THE TWIN-CHAIN BLOCKCHAIN | https://www.soferox.com/Documents/The-soferox-project.pdf | http://www.soferox.com/ | N/P* |
 | Sofin | SOFIN | https://sofin.io/uploads/document/document/7/sofin_en.pdf | https://sofin.io/ | N/P* |
+| Solarbankers | The World‘s First Peer-to-Peer Energy Trading Platform | https://solarbankers.com/wp-content/uploads/2017/10/SB-White-Paper_version2.pdf | https://solarbankers.com/ | N/P* |
 | Solar DAO | Solar DAO | http://solardao.me/files/wpeng.pdf | http://solardao.me/ | N/P* |
 | Sola | Sola | https://sola.foundation/Sola%5FWhitepaper%5FV1-1%5FEN.pdf | https://sola.foundation/ | N/P* |
 | Solomon Exchange | Solomon Exchange - An Innovative cryptocurrency exchange | https://solomonex.info/whitepaper/SMNX%5Fwp.pdf | https://solomonex.info/ | N/P* |
@@ -1081,7 +1085,7 @@
 | Stayawhile | Stayawhile - Token Launch | https://token.stayawhile.com/pdfs/whitepaper.pdf | https://stayawhile.com/ | N/P* |
 | Steem | Steem: An incentivized, blockchain-based, public content platform | https://steem.io/SteemWhitePaper.pdf | https://steem.io/ | |
 | Stellar Lumens | The Stellar Consensus Protocol: A Federated Model for Internet-level Consensus | https://www.stellar.org/papers/stellar-consensus-protocol.pdf | https://www.stellar.org/ | David Mazières |
-| STeX | 1st exchange aggregator of liquidity in one place | https://stex.exchange/media/pdf/whitepaper.pdf | https://stex.exchange/ | N/P* |
+| STeX | An in-depth solution to solve the liquidity problem | https://stex.exchange/media/pdf/whitepaper.pdf | https://stex.exchange/ | N/P* |
 | Stockblock | Artwork Copyrights and attribution on Blockchain | https://stockblock.io/StockBlock-whitepaper.pdf | http://stockblock.io/ | N/P* |
 | Stokit | STOKIT - Decentralized cloud storage | https://www.stokit.io/whitepaper.pdf | https://www.stokit.io/ | N/P* |
 | Stop The Fakes | Anti-Counterfeit & C VICE opyright Infringement | https://www.stopthefakes.io/docs/WP_En.pdf | https://www.stopthefakes.io/ | N/P* |
@@ -1097,7 +1101,7 @@
 | Streamspace | The most progressive video marketplace in the world | https://www.stream.space/pdf/StreamSpace_White_Paper.pdf | https://www.stream.space/ | N/P* |
 | Strim | STRIM | https://whitepaper.strim.me/STRIM%20Network%20-%20Whitepaper.pdf | https://www.strim.me/ | N/P* |
 | Stuffgogo | STUFFGOGO: Decentralized mobile eCommerce platform with no big brother, no fees and no restrictions | http://stuffgogo.com/whitepaper/SGGWhitepaper.pdf | http://stuffgogo.com/ | N/P* |
-| Styras | Styras | http://styras.io/assets/styras_whitepaper_en.pdf | http://styras.io/ | N/P* |
+| Styras | Styras is the world's first decentralized mobile application | https://styras.io/wp-content/themes/mxp_base_theme/mxp_theme/assets/styras_whitepaper_en.pdf | https://styras.io/ | N/P* |
 | Substratum | The Substratum Network | https://substratum.net/wp-content/uploads/2017/07/substratum_whitepaper.pdf | https://substratum.net/ | |
 | Sudan Gold | GOLD MINING WITH SG MINING CO | https://sudangm.com/assets/docs/SGC-WP_en.pdf | https://sudangm.com/ | N/P* |
 | Suncontract | Decentralized Energy Market | https://suncontract.org/tokensale/res/whitepaper.pdf | https://suncontract.org/ | N/P* |
@@ -1157,7 +1161,7 @@
 | Token Report | Token Report | https://tokenreport.com/assets/white-paper-v2.pdf | https://tokenreport.com/ | N/P* |
 | Tokens.net | Tokens | https://www.tokens.net/pdf/whitepaper.pdf | https://www.tokens.net/ | N/P* |
 | Token Security Scheme | Token Security Scheme | https://www.tsstoken.com/home_files/white-paper.pdf | https://www.tsstoken.com/ | N/P* |
-| Tokenstars Ace | The first platform to tokenize people | https://tokenstars.com/upload/files/ace_by_tokenstars_whitepaper.pdf | https://tokenstars.com/ace/ | N/P* |
+| Tokenstars Ace | The first platform to tokenize people | https://tokenstars.com/upload/files/team_whitepaper.pdf | https://tokenstars.com/ace/ | N/P* |
 | TokenStub | TokenStub - Decentralized infrastructure for event ticket sales | https://tokenstub.io/TokenStub-WhitePaper-EN.v1.pdf | https://tokenstub.io/ | N/P* |
 | Tokenza | Tokenza | https://github.com/tokenza/fundraiser/raw/master/whitepaper/tokenza.whitepaper.en.pdf | https://www.tokenza.com/ | N/P* |
 | Tokia | Forever Free Cryptocurrency Exchange | http://www.tokia.io/docs/Tokia%20whitepaper.pdf | https://www.tokia.io/ | N/P* |
