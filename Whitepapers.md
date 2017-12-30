@@ -475,7 +475,7 @@
 | Exchange Union | ExchangeUnion | https://www.exchangeunion.com/white-paper.pdf | https://www.exchangeunion.com/ | N/P* |
 | Exhasta | Exhasta | https://www.exhasta.com/wp-content/uploads/2017/10/ExHasta-whitepaper.pdf | https://www.exhasta.com/ | N/P* |
 | Eximchain | Eximchain | https://s3-us-west-2.amazonaws.com/eximchainwhitepaper/eximchain-supply-chainV3.pdf | https://www.eximchain.com/ | N/P* |
-| ExmoCoin | ExmoCoin |https://blspace.nyc3.digitaloceanspaces.com/crowdsale.exmo.com/whitepaper/exmo_crowdsale_whitepaper_en.pdf | https://crowdsale.exmo.com/ | N/P* |
+| ExmoCoin | ExmoCoin | https://blspace.nyc3.digitaloceanspaces.com/crowdsale.exmo.com/whitepaper/exmo_crowdsale_whitepaper_en.pdf | https://crowdsale.exmo.com/ | N/P* |
 | Expanse | Expanse Whitepaper | https://wesdewayne.files.wordpress.com/2017/05/expanse-whitepaper.pdf | https://www.expanse.tech/ | |
 | Exscudo | Exscudo — Nextgen Financial Ecosystem | https://exscudo.com/Whitepaper_v1.0.pdf | https://exscudo.com/ | N/P* |
 | ExsulCoin | ExsulCoin / Blockchain technology for refugees | https://www.exsulcoin.com/docs/exsul-coin-whitepaper-print.pdf | https://www.exsulcoin.com/ | N/P* |
