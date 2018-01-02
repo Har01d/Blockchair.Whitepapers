@@ -72,6 +72,7 @@
 | Wepower |  | https://drive.google.com/file/d/0B_OW_EddXO5RWWFVQjJGZXpQT3c/view | https://wepower.network/ | N/P* | GOOGLE DOCS |
 | WorldBit | WorldBit: Enhanced Reality Economics | https://docs.google.com/document/d/1nF2OUluS5Zcu1i_WCr2fmyD3ZjjCcsQUTBfmtQk73x8/edit#heading=h.lrb0txu616s | https://worldbit.com/ | N/P* | GOOGLE DOCS |
 | xChainge | xChainge: a platform with a simple user interface for anonymous and decentralized exchange of assets | https://drive.google.com/file/d/1WN3L_X3gJQ0b0bw6l9PE6kDw5sBcB5YB/view | https://xchainge.io/crowdsale.html | N/P* | GOOGLE DOCS |
+| Zfxtoken| Peer-VS-Peer Fantasy Trading. It’s that simple | https://www.dropbox.com/s/oy2b9diw08ok0o4/ZeroSum%20-%20Updated%20Dec%2011%202017.pdf?dl=0 | http://www.zfxtoken.com/ | N/P* | GOOGLE DOCS |
 | 8 Circuit Studios |  |  | https://www.tokensale.8circuitstudios.com | N/P* | NOT FOUND |
 | Aasani |  |  | http://www.aasani.net/ | N/P* | NOT FOUND |
 | Aether United |  |  | http://aetherunited.com/ | N/P* | NOT FOUND |
@@ -122,6 +123,7 @@
 | Esports Gold |  |  | https://www.esportsgoldico.com/ | N/P* | NOT FOUND |
 | Etherflip |  |  | http://www.etherflip.co/ | N/P* | NOT FOUND |
 | Exmr |  |  | https://www.exmr.tech/ | N/P* | NOT FOUND |
+| Femaletoken |  |  | https://www.femaletoken.org/ | N/P* | NOT FOUND |
 | Fit Vitalik |  |  | https://fitvitalik.io/ | N/P* | NOT FOUND |
 | Flik |  |  | http://www.theflik.io/ | N/P* | NOT FOUND |
 | Fund Yourself Now |  |  | https://www.fundyourselfnow.com/ | N/P* | NOT FOUND |
