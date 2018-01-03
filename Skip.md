@@ -1,9 +1,10 @@
 | Project name | Whitepaper title | Whitepaper address | Website address | Authors | Skip reason |
 |--------------|------------------|--------------------|-----------------|---------|-------------|
+| 3d-token | Managed Network of 3D-Printers, integrating a Marketplace and a Crowdfunding platform | https://drive.google.com/file/d/1bTp8I2WxEOXM-Dz1qnVeXKQV98tfgw9C/ | https://3d-token.com/ | N/P* | GOOGLE DOCS |
 | Ahoolee | The Ahoolee project | https://drive.google.com/file/d/0Bz8GOnrPq_i-SGk5a1Jxbld2TGs/view | http://ahoolee.io/ | N/P* | GOOGLE DOCS |
 | Aigang | Autonomous insurance network -fully automated insurance for IoT devices and a platform for insurance innovation built around data | https://drive.google.com/file/d/1qUuXmBta-qn5ze-aPPMUdPIgKjtNRpQq/view | https://aigang.network/ | N/P* | GOOGLE DOCS |
 | Altocar | Personalized taxi aggregator with the Digital Economy | https://drive.google.com/file/d/0B_kmY5mKXSK5c0RNSVVwYlZiN2M/view | https://altocar-ico.com/en | N/P* | GOOGLE DOCS |
-| Atfs Lab | World’s First AgriTech & Food Science Project | https://drive.google.com/drive/folders/104R0FqguFGww5eAldm2DZiRpkL-tFjx0 | http://atfslab.io/ | N/P* | GOOGLE DOCS |
+| Atfs Lab | World’s First AgriTech & Food Science Project | https://drive.google.com/file/d/0B1_5EC8xe5GHTi1aZWxER3ZhS0E/view | http://atfslab.io/ | N/P* | GOOGLE DOCS |
 | Beeqb | The cryptocurrency payments for business | https://drive.google.com/file/d/0B7IoeWSMKJ-AUk9jc0VINEtNWWc/view | http://www.beeqb.com/ico/ | N/P* | GOOGLE DOCS |
 | Bettingwin | BettingWin - A Governable Global Betting Platform On Blockchain | https://docs.google.com/document/d/1xOPZCzPAdikwtc3w3WdmDxLyrgwgR9-Q5_EZmt1c2sU/edit | https://www.bettingwin.online/ | N/P* | GOOGLE DOCS |
 | BitFerry | Invest in one of the biggest industrial cryptocurrency mining farm in Europe | https://drive.google.com/file/d/1Z9BybHz-z2-lxfH_GtlNbOXmZFJYTm72/view | http://bitferry.pro/ | N/P* | GOOGLE DOCS |
@@ -132,6 +133,7 @@
 | Fund Yourself Now |  |  | https://www.fundyourselfnow.com/ | N/P* | NOT FOUND |
 | Genesis Water Token |  |  | http://watertoken.io/ | N/P* | NOT FOUND |
 | Getgame |  |  | https://getgame.io/ | N/P* | NOT FOUND |
+| Glx |  |  | https://glx.com/ | N/P* | NOT FOUND |
 | Hive Project |  |  | https://www.hive-project.net/ | N/P* | NOT FOUND |
 | HORIZON |  |  | http://horizoncomm.co/ | N/P* | NOT FOUND |
 | Hubcoin |  |  | https://www.coinexchange.io/market/HUB/BTC | N/P* | NOT FOUND |
@@ -236,6 +238,7 @@
 | Escroco | ESCROW AND INSURANCE SERVICES FOR INVESTORS | https://escroco.co/plan.php | https://escroco.co/ | N/P* | NOT PDF |
 | Estatex | Disrupt the Housing Market | https://estatex.net/whitepaper/ | https://estatex.net/ | N/P* | NOT PDF |
 | Ethlend | ETHLend.io White Paper - Democratizing Lending | https://github.com/ETHLend/Documentation/blob/master/ETHLendWhitePaper.md | https://about.ethlend.io/ | N/P* | NOT PDF |
+| Experty IO | Calls powered by cryptocurrencies | https://docsend.com/view/metua2p | https://www.experty.io/en | N/P* | NOT PDF |
 | Fcfl | The first fan controlled professional sports league | https://view.attach.io/rJnBiarpb | https://fcfl.io/ | N/P* | NOT PDF |
 | Fidentiax | World's 1st Marketplace for Tradable Insurance Policies | https://www.fidentiax.com/webfiles/1513068076363/pdf/web/viewer.html | https://www.fidentiax.com/ | N/P* | NOT PDF |
 | Florio | The first blockchain based health platform that actually enables everybody to live healthy! | https://florio.io/whitepaper | https://florio.io/ | N/P* | NOT PDF |
