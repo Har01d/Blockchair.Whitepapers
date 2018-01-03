@@ -40,6 +40,8 @@
 | Kript | A N E C O S Y S T E M F O R I N V E S T I N G IN CRYPTO ASSETS | https://drive.google.com/file/d/0Bx-wNYBx9zmnQnloY2RIWEh1TlU/view | http://kript.io/ | N/P* | GOOGLE DOCS |
 | Langpie |  | https://drive.google.com/file/d/0B7duDBu7CzCZMzVzUVU2dUkxWGM/view | https://langpie.io/ | N/P* | GOOGLE DOCS |
 | Last Will | Making Contracts Really Smart. For Life. | https://drive.google.com/open?id=0B3ZY9oXSrdvjYjlCLUxra3oxZHM | https://lastwill.io/en/ | N/P* | GOOGLE DOCS |
+| Lordmancer2 | The first open-world MMORPG on mobile where players can earn cryptocurrency | https://drive.google.com/file/d/1yvae0ac1Ak3wyxjUoObCcH-N4j9VQX7q/ | https://lordmancer2.io/ | N/P* | GOOGLE DOCS |
+| Lynx Network | The Autonomous Network & Organization Infrastructure Environment | https://www.dropbox.com/s/264gqstkg4xw7t2/whitepaperV.1.pdf | https://www.lynxnetwork.org/ | N/P* | GOOGLE DOCS |
 | Mainasset | global economic strategy game,which allows you to earn cryptocurrency in the cryptoworld | https://drive.google.com/file/d/0B_250MWAsXW7c0UwWHdHbF9YOVU/view | http://mainasset.org/ | N/P* | GOOGLE DOCS |
 | Maler Grupp | Maler Grupp Russia official ICO White Paper | https://drive.google.com/file/d/0Byk4qX7vFTjVbzYwN2xMQ25XcE0/view | http://maler-ico.com/ | N/P* | GOOGLE DOCS |
 | Media Sifter | Decentralize Influence, Distribute Truth | https://docs.google.com/document/d/18IBZLmtCFAZtjmp43iLuGIqm60tpMJ0zdYzgHL98sII/edit | https://www.mediasifter.co/ | N/P* | GOOGLE DOCS |
@@ -49,6 +51,7 @@
 | Mywish | Making Contracts. Really Smart. For Life. | https://drive.google.com/file/d/0B3ZY9oXSrdvjYjlCLUxra3oxZHM/view | https://mywish.io/ | N/P* | GOOGLE DOCS |
 | Nwa | HYBRID FUND APPLYING ITS EXCLUSIVE STRATEGIES IN THE STOCK AND CRYPTOCURRENCY WORLD MARKET | https://onedrive.live.com/view.aspx?resid=6771A23E5F3C19C4!3483&ithint=file%2cdocx&app=Word&authkey=!AKUnQz8UjaWp0RI | https://www.nwa.ltd/ | N/P* | GOOGLE DOCS |
 | Orada | The first building portal of Sochi is a single space for sellers and buyers | https://docs.wixstatic.com/ugd/7c37b3_f2c27bc4258a48f4a0974a9a5418ba8b.docx?dn=%D0%B2%D0%B0%D0%B9%D1%82%20%D0%BF%D0%B5%D0%BF%D0%B5%D1%80.docx | https://www.orada-ico.com/ | N/P* | GOOGLE DOCS |
+| Payfrit | Helping restaurants work smarter and sell more | https://docs.google.com/document/d/1Em98l_Zzsg6vHjyZm6rZUXT50ArX85RpF-HyGkgCsYE/ | http://www.payfrit.com/ | N/P* | GOOGLE DOCS |
 | Paypro | The first decentralized financial-marketplace | https://drive.google.com/file/d/1-7pniEmeCpI0xOfRNV9vit6ZnRkJl6mR/view | http://www.payproapp.com/ | N/P* | GOOGLE DOCS |
 | Peculium | PECULIUM Build your bright future | https://drive.google.com/file/d/0BwJ8L6bES0uca3k4Mk1SbGlMdVE/view | https://www.peculium.io/ | N/P* | GOOGLE DOCS |
 | Polymath |  | https://drive.google.com/file/d/0B2pD5w-G5-sJVGc5YjdmZ0hsYVE/view | https://polymath.network/ | N/P* | GOOGLE DOCS |
@@ -58,10 +61,11 @@
 | Relex | RELEX- SETTING NEW STANDARDS FOR FDI REAL ESTATE DEVELOPMENT | https://drive.google.com/file/d/0B_Hih2tkfwBkNXhnWW5EVk1rZUU/view | https://www.relex.io/ | N/P* | GOOGLE DOCS |
 | Remme | Authentication DApp, powered by REMME Core network | https://drive.google.com/file/d/0B1jTRGmj_3khUV9RTERnYzNvaE0/view | https://tokensale.remme.io/ | N/P* | GOOGLE DOCS |
 | Ret | Real Estate Token | https://drive.google.com/file/d/0B_ChRo403h2JSWU0eEItLS1hd3M/view | https://retokens.com/ | N/P* | GOOGLE DOCS |
-| Robot Vera | „Здравствуйте,меня зовут Вера. Я — робот“. | https://drive.google.com/file/d/0B1F2QfF_SatMUFROMHdjQnJZSTQ/view | https://ico.robotvera.com/en/ | N/P* | GOOGLE DOCS |
+| Robot Vera | Здравствуйте,меня зовут Вера. Я — робот | https://drive.google.com/file/d/0B1F2QfF_SatMUFROMHdjQnJZSTQ/view | https://ico.robotvera.com/en/ | N/P* | GOOGLE DOCS |
 | Setcoin | Decentralized Mobile Platform Directly Connecting Service Providers and Consumers | https://drive.google.com/file/d/0B-E_JiAlP7kER3NZZThxZWNKNVk/view?wpnd_cid=caavvf6xqyva0q0e | http://ico.setcoins.io/ | N/P* | GOOGLE DOCS |
 | Simple Token | OpenST Protocol | https://drive.google.com/file/d/0Bwgf8QuAEOb7Z2xIeUlLd21DSjQ/view | https://simpletoken.org/ | N/P* | GOOGLE DOCS |
 | Siousada | Siousada | https://drive.google.com/file/d/0B6X-a3FbWnfZSnFNbnJFZmRVMDA/view | http://siousada.io/ | N/P* | GOOGLE DOCS |
+| Smart city | Smart Solution for every city | https://drive.google.com/file/d/1vn6c_SwsfWAg7b0GE_guAKCVu0PS_8gB/ | https://www.makesmart.city/ | N/P* | GOOGLE DOCS |
 | Sosnovkino | sosnovkino | https://drive.google.com/file/d/0B-QBdFrWXGeAc3NkQ1hvX3p6T00/view | http://sosnovkino.info/ | N/P* | GOOGLE DOCS |
 | Sportience | Manage a real football club in real life! | https://drive.google.com/file/d/1c2-KMbCfOxDrhTKUC2WEJwFxYmk-mgWu/view | http://sportience.online/ | N/P* | GOOGLE DOCS |
 | Sugar | IT WILL BE COSILY HERE FOR YOU | https://drive.google.com/file/d/1TqI_CLPFtYyU0I1gZih8GHYNjG4smib-/view | https://www.sugar.lgbt/ | N/P* | GOOGLE DOCS |
@@ -124,6 +128,7 @@
 | Etherflip |  |  | http://www.etherflip.co/ | N/P* | NOT FOUND |
 | Exmr |  |  | https://www.exmr.tech/ | N/P* | NOT FOUND |
 | Fit Vitalik |  |  | https://fitvitalik.io/ | N/P* | NOT FOUND |
+| Flare-global |  |  | https://flare-global.com/ | N/P* | NOT FOUND |
 | Flik |  |  | http://www.theflik.io/ | N/P* | NOT FOUND |
 | Fund Yourself Now |  |  | https://www.fundyourselfnow.com/ | N/P* | NOT FOUND |
 | Genesis Water Token |  |  | http://watertoken.io/ | N/P* | NOT FOUND |
@@ -139,6 +144,7 @@
 | Liberstad |  |  | http://www.liberstad.com/ | N/P* | NOT FOUND |
 | Locolo |  |  | http://locolo.me/ | N/P* | NOT FOUND |
 | Lunar |  |  | https://lunarfund.io/ | N/P* | NOT FOUND |
+| Luxcess group |  |  | http://www.luxcess-group.com/ | N/P* | NOT FOUND |
 | Mandarin |  |  | http://mandarin.top/ | N/P* | NOT FOUND |
 | Map Platform |  |  | https://www.mapplatform.com/ | N/P* | NOT FOUND |
 | Maxitube |  |  | http://maxitube.io/en/ | N/P* | NOT FOUND |
@@ -215,6 +221,7 @@
 | Boosteroid | Personal cloud computer available for everyone | https://boosteroid.com/white-paper | https://boosteroid.com/ | N/P* | NOT PDF |
 | Bowhead Health | BOWHEAD BLOCKCHAIN | https://github.com/bowhead/docs | https://www.bowheadhealth.com/ | N/P* | NOT PDF |
 | BullToken |  BullToken is to provide people with a buffer between the ups and downs in the market and exciting ICOs.  | https://indd.adobe.com/view/cfce1799-35a4-4a7c-8e1e-d8d57d41a98c | https://bulltoken.tech/?utm_source=icoalert&amp;utm_medium=icolisting&amp;utm_campaign=pre-sale | N/P* | NOT PDF |
+| Cardstack | The experience layer of the decentralized Internet | https://cardstack.attach.io/HJaZkzgn~ | https://cardstack.com/ | N/P* | NOT PDF |
 | Casagram | NEW SOCIAL NETWORK | http://www.casagram.net/Site/Whitepaper.html | http://www.casagram.net/ | N/P* | NOT PDF |
 | Charg Coin |  | https://www.charg.io/white-paper-roadmap | https://www.charg.io/ | N/P* | NOT PDF |
 | Commodity Ad Network | Commodity Ad Network | https://commodityadnetwork.com/whitepaper/ | https://commodityadnetwork.com/ico/ | N/P* | NOT PDF |
@@ -232,11 +239,13 @@
 | Estatex | Disrupt the Housing Market | https://estatex.net/whitepaper/ | https://estatex.net/ | N/P* | NOT PDF |
 | Ethlend | ETHLend.io White Paper - Democratizing Lending | https://github.com/ETHLend/Documentation/blob/master/ETHLendWhitePaper.md | https://about.ethlend.io/ | N/P* | NOT PDF |
 | Experty IO | Calls powered by cryptocurrencies | https://docsend.com/view/metua2p | https://www.experty.io/en | N/P* | NOT PDF |
+| Fcfl | The first fan controlled professional sports league | https://view.attach.io/rJnBiarpb | https://fcfl.io/ | N/P* | NOT PDF |
 | Fidentiax | World's 1st Marketplace for Tradable Insurance Policies | https://www.fidentiax.com/webfiles/1513068076363/pdf/web/viewer.html | https://www.fidentiax.com/ | N/P* | NOT PDF |
 | Florio | The first blockchain based health platform that actually enables everybody to live healthy! | https://florio.io/whitepaper | https://florio.io/ | N/P* | NOT PDF |
 | Game Machine | GAME MACHINE ECOSYSTEM | https://gamemachine.io/en/token-sale/whitepaper | https://gamemachine.io/en | N/P* | NOT PDF |
 | Gift Token | EASILY BUY GIFTCARDS AND PRE-PAID CARDS WITH CRYPTOCURRENCY | https://gifttoken.io/whitepaper/ | https://gifttoken.io/ | N/P* | NOT PDF |
 | Gravel Coin | The First Gravel Production at a global scale to be funded by Tokens Based on the Blockchain Technology | https://github.com/GravelCoin/docsandlinks/blob/master/2017-11-13%20GRV%20COIN_EN.pdf | http://www.gravelcoin.com/ | N/P* | NOT PDF |
+| Grondigital | Gambling and Betting industry by contributing to Gron Digital Platform | https://grondigital.com/whitepaper | https://grondigital.com/ | N/P* | NOT PDF |
 | Hamster Marketplace | Hamster Marketplace | https://hmstr.io/whitepaperrus | https://hmstr.io/ | N/P* | NOT PDF |
 | Health Nexus | Health Nexus | https://docsend.com/view/cuufmc5 | https://tokensale.simplyvitalhealth.com/ | N/P* | NOT PDF |
 | Hut34 / Entropy | The Hut34 Protocol | https://docsend.com/view/b4h7ygu | https://hut34.io/ | N/P* | NOT PDF |
@@ -276,9 +285,11 @@
 | A2b.direct |  |  | http://ico.a2b.direct/ | N/P* | NOT WORKING |
 | Abio Coin |  |  | https://abiocoin.com/en/ | N/P* | NOT WORKING |
 | Algo Token |  |  | https://www.algotoken.com/ | N/P* | NOT WORKING |
+| All In Communicator |  |  | https://allincommunicator.com/ | N/P* | NOT WORKING |
 | Allowance Network |  |  | https://allowance.network/ | N/P* | NOT WORKING |
 | Alpencoin |  |  | https://www.alpencoin.com/ | N/P* | NOT WORKING |
 | Amberport |  |  | http://www.amberport.io/ | N/P* | NOT WORKING |
+| Athenacoin |  |  | https://www.athenacoin.io/ | N/P* | NOT WORKING |
 | Aucoin |  |  | http://ico-pgranville.online/ | N/P* | NOT WORKING |
 | Avalon |  |  | https://avalon.nu/ | N/P* | NOT WORKING |
 | Baochain |  |  | https://baochain.tech/ | N/P* | NOT WORKING |
@@ -337,6 +348,7 @@
 | Instacoin |  |  | https://instacoin.pro/ | N/P* | NOT WORKING |
 | Insurex |  |  | https://www.insurex.co/ | N/P* | NOT WORKING |
 | Integrative Wallet Token |  |  | https://iwtoken.com/en/ | N/P* | NOT WORKING |
+| Jazemcoin |  |  | https://jazemcoinproyect.wixsite.com/ | N/P* | NOT WORKING |
 | Karbon |  |  | https://karbon.io/ | N/P* | NOT WORKING |
 | Kumo |  |  | https://www.kumocoin.com/ | N/P* | NOT WORKING |
 | Lendingstar Exchange |  |  | https://crowdsale.lendingstar.com/ | N/P* | NOT WORKING |
