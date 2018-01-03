@@ -4,6 +4,7 @@
 | 0x (zrx) | 0x: An open protocol for decentralized exchange on the Ethereum blockchain | https://www.0xproject.com/pdfs/0x_white_paper.pdf | https://www.0xproject.com/ | N/P* |
 | 0x | A cooperative of decentralized marketplaces and communities | https://district0x.io/docs/district0x-whitepaper.pdf | https://0xproject.com/ | Matus Lestan, Joe Urgo, Alexander Khoriaty |
 | 1World Online | 1World Interactive Platform | http://reports.1worldonline.com.s3.amazonaws.com/docs/1WO_white_paper.pdf | https://ico.1worldonline.com/ | N/P* |
+| 18moons | A blockchain enabled platform for crowdsourcing multi-media content for kids  | https://web.18moons.com/wp-content/uploads/2017/10/18moons-ICO-10.20.17.pdf | https://web.18moons.com/ | N/P* |
 | 3des | DECENTRALIZED SLICER | https://3des.network/static/documents/en/whitepaper.pdf | https://3des.network/ | N/P* |
 | 7ype | Producing an ever growing slate of feature films with Ethereum based cryptocurrency tokens. | http://7ype.com/ico/whitepaper/7ype%20ICO%20-%200_2%20Simplified%20White%20Paper.pdf | http://7ype.com/ | N/P* |
 | 88 Coin | 88 Coin / Rising Above the Rest - The Future of Currency | http://88coin.io/wp-content/uploads/2017/10/whitepaper-eng.pdf | http://88coin.io/ | N/P* |
@@ -1255,6 +1256,7 @@
 | Viberate | A CROWDSOURCED LIVE MUSIC ECOSYSTEM AND A BLOCKCHAIN-BASED MARKETPLACE WHERE ANYONE CAN PARTICIPATE | https://www.viberate.io/pdf/Viberate.io_Whitepaper.pdf | https://www.viberate.io/ | |
 | ViMarket | Vimarket - Shop Virtually and Save in Reality | https://vimarket.io/data/ViMarket-Whitepaper.pdf | https://vimarket.io/ | N/P* |
 | Vinchain | VINCHAIN.IO | https://vinchain.io/files/VinChainWhitePaper.pdf | https://vinchain.io/en | N/P* |
+| Viola AI | The World’s First A.I. Driven Marketplace for Dating & Relationships | https://viola.ai/whitepaper/viola-tech.pdf | https://viola.ai/ | N/P* |
 | Virtue Poker | Virtue Poker / The future of online poker | https://virtue.poker/wp-content/uploads/2017/08/Virtue-Poker-White-Paper-DRAFT-0.1.pdf | https://virtue.poker/ | N/P* |
 | Virtu | We’re Building a Decentralized YouTube, Patreon, and Udemy All-in-One | https://virtu.media/whitepaper.pdf | https://virtu.media/ | N/P* |
 | Visio | Home - Distributed Content Aggregation Platform (DCAP) on the Blockchain / Visio Platform | http://visioplatform.com/files/whitepaper%5Fvisio.pdf | http://www.visioplatform.com/ | N/P* |
