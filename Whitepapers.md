@@ -625,8 +625,8 @@
 | Hirematch | First Decentralized Blockchain Employee Recruitment Platform | http://hirematch.io/docs/hirematch-whitepaper.pdf | http://hirematch.io/ | N/P* |
 | Hivemind | Open Source Knowledge / The Bitcoin Hivemind / Truthcoin | http://bitcoinhivemind.com/papers/truthcoin-whitepaper.pdf | http://bitcoinhivemind.com/ | N/P* |
 | Hive | Hive Project Whitepaper | https://www.hive-project.net/whitepapers/Hive_Project_Whitepaper.pdf | https://www.hive-project.net/ | |
-| Holdme | A decentralized cloud hosting platform | https://ico.holdme.io/docs/HOLDME_Whitepaper-v1.1.pdf | https://holdme.io/ | N/P* |
-| Holo | Holdme - Artificial Intelligence Live Chat powered by Blockchain | https://files.holo.host/2017/12/Holo-Green-Paper.pdf | https://holo.host/ | N/P* |
+| Holdme | Holdme - Artificial Intelligence Live Chat powered by Blockchain | https://ico.holdme.io/docs/HOLDME_Whitepaper-v1.1.pdf | https://holdme.io/ | N/P* |
+| Holo | A decentralized cloud hosting platform | https://files.holo.host/2017/12/Holo-Green-Paper.pdf | https://holo.host/ | N/P* |
 | Holycoin | The Holy Coin | https://theholycoin.com/assets/whitepaper.pdf | https://theholycoin.com/ | N/P* |
 | Hoqu | HOQU - The world's first Decentralized Affiliate Platform | https://www.hoqu.io/hoqu-whitepaper-en.pdf | https://www.hoqu.io/ | N/P* |
 | Horizon State | Horizon State | https://horizonstate.com/horizon_state_white_paper.pdf | https://horizonstate.com/ | N/P* |
