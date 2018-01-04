@@ -219,6 +219,7 @@
 | Bonpay | Bonpay | https://bonpay.com/whitepaper/cn/bonpay_whitepaper_en.pdf | https://bonpay.com/ | N/P* |
 | Bopti+ | BOPTI - The first crypto currency dedicated to construction industry | http://www.bopti-ico.org/documents/WPBOPTIV111en.pdf | http://www.bopti.eu/ | N/P* |
 | Boscoin | BOSCOIN | https://boscoin.io/wp-content/themes/boscoin/src/pdf/BOScoinWhitePaper.pdf | https://www.boscoin.io/ | N/P* |
+| Bottos | Blockchain-based data sharing network | https://www.bottos.org/pdf/Bottos%20whitepaper%20English%20final.pdf | https://www.bottos.org/ | N/P* |
 | Boule | Boulé / Decentralised voting platform | https://cdn.boule.one/boule-whitepaper.pdf | http://www.boule.one/ | N/P* |
 | Bountie | Bountie - Gaming will never be the same again. | http://bountie.io/docs/whitepaper.pdf | http://bountie.io/tokensale/ | N/P* |
 | Bounty0x | A decentralized bounty hunting network with a staking and token burning based review system for submissions | https://bounty0x.io/whitepaper | http://bounty0x.io/ | N/P* |
@@ -436,6 +437,7 @@
 | Ellaism | Ellaism / An Ethereum-like Network With No Premine and No Contentious Hard Forks | https://ethereum.github.io/yellowpaper/paper.pdf | https://ellaism.com/ | N/P* |
 | Eloplay | Eloplay | https://ico.eloplay.com/docs/en/eloplay_whitepaper_en_1.pdf | https://eloplay.com/ | N/P* |
 | Embermine | Embermine | https://embermine.com/img/Embermine Whitepaper.pdf | https://embermine.com/ | N/P* |
+| Emcoin | Smart Lending Platform | https://emcoin.io/EMCOIN_whitepaper_EN.pdf | https://emcoin.io/ | N/P* |
 | Emercoin | Decentralized identity management, passwordless logins, and client SSL certificates using Emercoin NVS | https://emercoin.com/content/EMCSSL.pdf | https://emercoin.com/ | |
 | Emphy | Emphy - Decentralised blockchain lodging ecosystem | https://emphy.io/wp-content/uploads/2017/10/Emphy_Whitepaper_eng_v1_2-2.pdf | https://emphy.io/ | N/P* |
 | Empire Card | The decentralized crypto card sharing proceeds among token holders | http://empirecard.network/whitepaper.pdf | http://empirecard.network/ | N/P* |
@@ -564,6 +566,7 @@
 | Gimmer | Gimmer - Bitcoin bot | https://token.gimmer.net/assets/docs/gimmer-wp-en.pdf | https://gimmer.net/ | N/P* |
 | Ginger Coin | Ginger Coin | https://ginger-coin.com/files/Whitepaper.pdf | https://ginger-coin.com/ | N/P* |
 | GISC LoanCoin | GISC LoanCoin - The official token for GIS Corp | https://crypto.giscorponline.com/wp-content/uploads/2017/08/GlobalInvestmentServicesCorp-GISCLoanCoinWhitepaper.pdf | https://crypto.giscorponline.com/ | N/P* |
+| Giza device | Hardware Wallet & Password Manager | https://www.gizadevice.com/files/pdf/GIZA_White_Paper.pdf | https://www.gizadevice.com/ | N/P* |
 | Gizer | Gizer - The Global Gaming Network | https://tokensale.gizer.io/wp-content/uploads/2017/09/One-Pager.pdf | https://gizer.io/ | N/P* |
 | Gladius | Gladius - Blockchain-driven cyber protection network | https://gladius.io/pdf/gladius-whitepaper.pdf | https://gladius.io/ | N/P* |
 | Global Academy Place | Global Academy Place | https://globalacademyplace.com/wp-content/uploads/2017/09/White-paper-GAP.pdf | https://globalacademyplace.com/ico/ | N/P* |
@@ -622,7 +625,8 @@
 | Hirematch | First Decentralized Blockchain Employee Recruitment Platform | http://hirematch.io/docs/hirematch-whitepaper.pdf | http://hirematch.io/ | N/P* |
 | Hivemind | Open Source Knowledge / The Bitcoin Hivemind / Truthcoin | http://bitcoinhivemind.com/papers/truthcoin-whitepaper.pdf | http://bitcoinhivemind.com/ | N/P* |
 | Hive | Hive Project Whitepaper | https://www.hive-project.net/whitepapers/Hive_Project_Whitepaper.pdf | https://www.hive-project.net/ | |
-| Holdme | Holdme - Artificial Intelligence Live Chat powered by Blockchain | https://ico.holdme.io/docs/HOLDME_Whitepaper-v1.1.pdf | https://holdme.io/ | N/P* |
+| Holdme | A decentralized cloud hosting platform | https://ico.holdme.io/docs/HOLDME_Whitepaper-v1.1.pdf | https://holdme.io/ | N/P* |
+| Holo | Holdme - Artificial Intelligence Live Chat powered by Blockchain | https://files.holo.host/2017/12/Holo-Green-Paper.pdf | https://holo.host/ | N/P* |
 | Holycoin | The Holy Coin | https://theholycoin.com/assets/whitepaper.pdf | https://theholycoin.com/ | N/P* |
 | Hoqu | HOQU - The world's first Decentralized Affiliate Platform | https://www.hoqu.io/hoqu-whitepaper-en.pdf | https://www.hoqu.io/ | N/P* |
 | Horizon State | Horizon State | https://horizonstate.com/horizon_state_white_paper.pdf | https://horizonstate.com/ | N/P* |
@@ -658,8 +662,9 @@
 | InfChain | Infchain -  Infchain is now a Digital Currency. | http://www.infchain.com/documents/Infchain whitepaper.pdf | http://www.infchain.com/ | N/P* |
 | InsaneCoin | insane coin - Insane crypto | https://insanecoin.com/wp-content/uploads/2017/05/VelocityBluePaper.pdf | http://www.insanecoin.com | N/P* |
 | INS Ecosystem | INS Ecosystem - The Grocery Industry, Reinvented | https://ins.world/INS-ICO-Whitepaper.pdf | https://ins.world/ | N/P* |
-| Insights Network | Insights Network / Insights Network | https://s3.amazonaws.com/insightsnetwork/INSWhitepaperV0.3.pdf | https://www.insights.network/ | N/P* |\
+| Insights Network | Insights Network / Insights Network | https://s3.amazonaws.com/insightsnetwork/INSWhitepaperV0.3.pdf | https://www.insights.network/ | N/P* |
 | Inspeer | Inspeer | https://inspeer.io/files/Inspeer_WP.pdf | https://inspeer.io/ | N/P* |
+| Insurepal | Distributed Social Proof Insurance | https://insurepal.io/InsurePal_whitepaper.pdf | https://insurepal.io/ | N/P* |
 | Intelligent Trading Tech | ITT - Intelligent Trading Technologies | http://intelligenttrading.org/whitepaper.pdf | http://intelligenttrading.org/ | N/P* |
 | Interest Coin | Interest Coin - We Share Interest | https://interestcoin.io/wp-content/uploads/2017/11/English.pdf | https://interestcoin.io/ | N/P* |
 | Internet Of Agreements | The Internet of Agreements | http://internetofagreements.com/assets/MattereumDraftforPublicComment.pdf | http://internetofagreements.com/ | N/P* |
@@ -905,7 +910,8 @@
 | Playkey | PLAYKEY - Decentralized Cloud Gaming Platform | https://cdn.playkey.net/img/playkeynet/ico/Whitepaper.pdf | https://playkey.io/ | N/P* |
 | Pluscoin | PlusCoin | http://plus-coin.com/pdf/PlusCoin_WhitePaper_EN.pdf | http://plus-coin.com/ | N/P* |
 | Pluton | Plutus White Paper | https://bravenewcoin.com/assets/Whitepapers/Plutus.it-White-Paper-v1.0.pdf | https://plutus.it/ | |
-| Po.et | IMPORTANT NOTICE | https://po.et/whitepaper.pdf | https://po.et/ | N/P* |
+| Pocketinns | Blockchain-based community driven marketplace ecosystem | http://pocketinns.io/Pocketinns_whitepaper.pdf | http://pocketinns.io/ | N/P* |
+| Poet | IMPORTANT NOTICE | https://po.et/whitepaper.pdf | https://po.et/ | N/P* |
 | Podone | PodOne | https://podone.io/wp-content/uploads/2017/10/PodOneWhitepaper.pdf | https://podone.io/ | N/P* |
 | Polkadot | The Polkadot token sale is a Spend-All Second-Price Dutch Auction. | https://github.com/w3f/polkadot-white-paper/blob/master/PolkaDotPaper.pdf | https://polkadot.network/ | N/P* |
 | Polybius | Polybius | https://polybius.io/media/prospectus.pdf | https://polybius.io/ | N/P* |
