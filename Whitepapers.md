@@ -30,7 +30,7 @@
 | Adperks | AdPerks - Decentralized Digital Marketing | https://adperks.io/wp-content/uploads/2017/09/AdPerks-WhitePaper.pdf | https://adperks.io/ | N/P* |
 | Adpump | BLOCKCHAIN AFFILIATE MARKETPLACE | https://adpump.io/static/media/whitepaper.pdf | https://adpump.io/ | N/P* |
 | Adshares | Enterprise Service Chain | https://adshares.net/assets/docs/ESC.pdf | https://adshares.net/ | N/P* |
-| Adt Finance | Financial Markets Investment Fund (SCAM ALERT!) | https://adtfinance.fr/whitepaper.pdf | https://adtfinance.fr/ | N/P* |
+| Adt Finance | Financial Markets Investment Fund | https://adtfinance.fr/whitepaper.pdf | https://adtfinance.fr/ | N/P* |
 | Adtoken | adToken - Unlocking the Blockchain for Digital Advertising | https://adtoken.com/white-paper.pdf | https://adtoken.com/ | N/P* |
 | AdToken | The AdChain Registry | https://adtoken.com/uploads/white-paper.pdf | https://adtoken.com/ | Mike Goldin, Ameen Soleimani, James Young |
 | Advanced Browsing Token | Decentralised Browsing Web Services Protocol powered by ABT Token  | http://abtoken.io/assets/docs/wp.pdf | http://abtoken.io/ | N/P* |
@@ -756,7 +756,7 @@
 | Macro | MACRO THE CRYPTOCURRENCY | http://whatismacro.com/Macro Whitepaper - Google Dokumenti.pdf | http://whatismacro.com/ | N/P* |
 | MAD Network | Mad Network | https://madnetwork.io/MAD-Product-Deck.pdf | https://madnetwork.io/ | N/P* |
 | Maecenas | The Decentralized Artgallery | https://www.maecenas.co/Maecenas-WhitePaper.pdf | https://www.maecenas.co/ | |
-| Magnumlink | Blockchain platform for easy and convenient trading |https://www.magnumlink.com/WP.pdf | https://www.magnumlink.com/ | N/P* |
+| Magnumlink | Blockchain platform for easy and convenient trading | https://www.magnumlink.com/WP.pdf | https://www.magnumlink.com/ | N/P* |
 | MaidSafeCoin | SafeCoin: The Decentralised Network Token | http://docs.maidsafe.net/Whitepapers/pdf/Safecoin.pdf | https://maidsafe.net/safecoin.html | Nick Lambert, Qi Ma and David Irvine |
 | Mark.space | MarkSpace | http://markspace.io/files/MARKSPACE%5FWhitePaper.pdf | http://markspace.io/ | N/P* |
 | Marta | MartaPillow | http://martaico.com/wp.pdf | http://martaico.com/ | N/P* |
@@ -1064,7 +1064,7 @@
 | Shipchain | ShipChain | http://www.shipchain.io/shipchain-whitepaper.pdf | http://www.shipchain.io/ | N/P* |
 | Siacoin | Sia: Simple Decentralized Storage | https://www.sia.tech/whitepaper.pdf | http://sia.tech/ | David Vorick, Luke Champine |
 | Sigame | Online trading platform, based on the blockchain technology and smart contracts | https://en.sigame.io/images/White_book_SigSiGame_ICO_v._1.05_en.pdf | https://en.sigame.io/ | N/P* |
-| Signals |  Build, Train, & Monetise Cryptotrading Strategies | https://cdn.signals.network/docs/Signals-Whitepaper.pdf | https://signals.network/ | N/P* |
+| Signals | Build, Train, & Monetise Cryptotrading Strategies | https://cdn.signals.network/docs/Signals-Whitepaper.pdf | https://signals.network/ | N/P* |
 | Signal Trading | Signal Trading | https://www.signaltrading.io/files/Signal%20White%20Paper%20Oct%202017.pdf | https://www.signaltrading.io/ | N/P* |
 | Signatum | SIGNATUM - Revolutionary Privacy Coin | https://signatum.io/signatum%5Fwhitepaper.pdf | http://signatum.io/ | N/P* |
 | Sikoba | sikoba | http://www.sikoba.com/docs/sikoba_201703_stuttgart.pdf | http://www.sikoba.com/ | N/P* |
