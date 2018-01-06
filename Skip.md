@@ -47,6 +47,7 @@
 | Maler Grupp | Maler Grupp Russia official ICO White Paper | https://drive.google.com/file/d/0Byk4qX7vFTjVbzYwN2xMQ25XcE0/view | http://maler-ico.com/ | N/P* | GOOGLE DOCS |
 | Media Sifter | Decentralize Influence, Distribute Truth | https://docs.google.com/document/d/18IBZLmtCFAZtjmp43iLuGIqm60tpMJ0zdYzgHL98sII/edit | https://www.mediasifter.co/ | N/P* | GOOGLE DOCS |
 | Mindsports | DECENTRALIZE MINDSPORTS NETWORK | https://drive.google.com/file/d/0B23oU2WDqlyWZHNvM2ZZLWNrVmc/view | https://www.mindsports.io/ | N/P* | GOOGLE DOCS |
+| Moon Funding | INVEST IN MOON FUNDING  | https://docs.google.com/document/d/1SRz9qCAoscWfhggVQo0Xp3wI7awCr563JUpYMjmbGcc/edit | https://moonfunding.com/ | N/P* | GOOGLE DOCS |
 | Musicoin | A Decentralized platform for Musicians and Listeners | https://drive.google.com/file/d/1Rqftu2SG-UjoHb-Wikm9NYavIV8fZlWk/view?usp=sharing | https://musicoin.org | N/P* | GOOGLE DOCS |
 | MyTrackNet | MyTrackNet | https://drive.google.com/file/d/0B_pE0PM9GYZDM08zVTF6UkNUTUE/view | https://www.mytracknet.com/ | N/P* | GOOGLE DOCS |
 | Mywish | Making Contracts. Really Smart. For Life. | https://drive.google.com/file/d/0B3ZY9oXSrdvjYjlCLUxra3oxZHM/view | https://mywish.io/ | N/P* | GOOGLE DOCS |
@@ -96,14 +97,19 @@
 | Belrium |  |  | https://www.belrium.io/ | N/P* | NOT FOUND |
 | Beth |  |  | https://beth.jp/ | N/P* | NOT FOUND |
 | Betking |  |  | https://betking.io/ | N/P* | NOT FOUND |
+| Bibox |  |  | https://www.bibox365.com/ | N/P* | NOT FOUND |
 | Binary |  |  | https://www.binary.com/en/ico.html | N/P* | NOT FOUND |
+| BioPayCoin | BioPayCoin - Solving the identity issues on blockchain | http://biopaycoin.com/whitepaper.pdf | http://biopaycoin.com/ | N/P* | NOT FOUND |
 | Birdchain |  |  | https://www.birdchain.io/ | N/P* | NOT FOUND |
 | Bit-x |  |  | https://bit-x.io/ | N/P* | NOT FOUND |
+| Bitair |  |  | https://bitair.io/ | N/P* | NOT FOUND |
 | Bitbounce / Credo |  |  | https://bitbounce.io/ | N/P* | NOT FOUND |
+| Bitether |  |  | http://www.bitether.org/ | N/P* | NOT FOUND |
 | Bitleaf |  |  | http://www.leafai.co/ | N/P* | NOT FOUND |
 | Bitmag |  |  | https://bitmag.eu/ | N/P* | NOT FOUND |
 | Bits.estate |  |  | http://bits.estate/ | N/P* | NOT FOUND |
 | Blockcat |  |  | https://blockcat.io/ | N/P* | NOT FOUND |
+| Blockchain Neural System |  |  | https://bnsys.io/ | N/P* | NOT FOUND |
 | Boardroom |  |  | http://boardroom.to/ | N/P* | NOT FOUND |
 | Calibrae |  |  | https://calibr.ae/ | N/P* | NOT FOUND |
 | Cccoin |  |  | http://www.cccoin.io/ | N/P* | NOT FOUND |
@@ -136,6 +142,7 @@
 | Etherflip |  |  | http://www.etherflip.co/ | N/P* | NOT FOUND |
 | Exmr |  |  | https://www.exmr.tech/ | N/P* | NOT FOUND |
 | Femaletoken |  |  | https://www.femaletoken.org/ | N/P* | NOT FOUND |
+| Fiinu |  |  | https://fiinu.com/ | N/P* | NOT FOUND |
 | Fit Vitalik |  |  | https://fitvitalik.io/ | N/P* | NOT FOUND |
 | Flare-global |  |  | https://flare-global.com/ | N/P* | NOT FOUND |
 | Flik |  |  | http://www.theflik.io/ | N/P* | NOT FOUND |
@@ -196,9 +203,11 @@
 | Smartre |  |  | https://www.smartre.io/ | N/P* | NOT FOUND |
 | Spotree |  |  | https://spotree.com/ | N/P* | NOT FOUND |
 | Starta |  |  | https://startaico.com/ | N/P* | NOT FOUND |
+| Stayawhile |  |  | https://stayawhile.com/ | N/P* | NOT FOUND |
 | Stockbet |  |  | https://stockbet.com/ | N/P* | NOT FOUND |
 | Stream Token |  |  | https://streamtoken.net/ | N/P* | NOT FOUND |
 | T0 |  |  | https://tzero.com/ | N/P* | NOT FOUND |
+| Tbis |  |  | https://tbis.io/ | N/P* | NOT FOUND |
 | The Legends Room |  |  | https://legendsroomlv.com/ | N/P* | NOT FOUND |
 | Tokenstub |  |  | https://tokenstub.io/ | N/P* | NOT FOUND |
 | TripBit |  |  | http://www.tripbit.info/ | N/P* | NOT FOUND |
@@ -238,6 +247,7 @@
 | Charg Coin |  | https://www.charg.io/white-paper-roadmap | https://www.charg.io/ | N/P* | NOT PDF |
 | Commodity Ad Network | Commodity Ad Network | https://commodityadnetwork.com/whitepaper/ | https://commodityadnetwork.com/ico/ | N/P* | NOT PDF |
 | Connect Job |  | https://ru.calameo.com/read/005345675300d0189a74e | https://ico.connectjob.io/ | N/P* | NOT PDF |
+| Copy Trader | Copy Trader Crowdsale | https://github.com/copytarder/white_paper/raw/master/Copy%20Token-whitepaper%20v1.02%20.pdf | https://copycrypto.trade/ | N/P* | NOT PDF |
 | Cryptoalias | Get your Blockchain Identity | https://www.cryptoalias.io/whitepaper/ | https://www.cryptoalias.io/ | N/P* | NOT PDF |
 | Crypto Mutual Coin | CRYPTO MUTUAL COIN | https://gist.github.com/ccmut56/0bc7d73a9c8fda1f9dbd7a02d8be9d08 | http://cryptomc.com/index.html | N/P* | NOT PDF |
 | Demicoin | DEMICOIN | https://demicoin.io/whitepaper | https://demicoin.io/ | N/P* | NOT PDF |
@@ -256,7 +266,9 @@
 | Fintechbit | A profitable trading club with a fully developed trademarked algorithmic trading bot | https://www.fintechbit.io/white-paper | https://www.fintechbit.io/ | N/P* | NOT PDF |
 | Florio | The first blockchain based health platform that actually enables everybody to live healthy! | https://florio.io/whitepaper | https://florio.io/ | N/P* | NOT PDF |
 | Game Machine | GAME MACHINE ECOSYSTEM | https://gamemachine.io/en/token-sale/whitepaper | https://gamemachine.io/en | N/P* | NOT PDF |
+| GameProtocol | Game Protocol: A Decentralized Community for Creating, Collaborating and Distributing Games | http://www.gameprotocol.io/whitepaper | http://www.gameprotocol.io/ | N/P* | NOT PDF |
 | Gift Token | EASILY BUY GIFTCARDS AND PRE-PAID CARDS WITH CRYPTOCURRENCY | https://gifttoken.io/whitepaper/ | https://gifttoken.io/ | N/P* | NOT PDF |
+| Gold Invest |  | https://goldmtoken.com/wp | https://goldmtoken.com/ | N/P* | NOT PDF |
 | Gravel Coin | The First Gravel Production at a global scale to be funded by Tokens Based on the Blockchain Technology | https://github.com/GravelCoin/docsandlinks/blob/master/2017-11-13%20GRV%20COIN_EN.pdf | http://www.gravelcoin.com/ | N/P* | NOT PDF |
 | Grondigital | Gambling and Betting industry by contributing to Gron Digital Platform | https://grondigital.com/whitepaper | https://grondigital.com/ | N/P* | NOT PDF |
 | Hamster Marketplace | Hamster Marketplace | https://hmstr.io/whitepaperrus | https://hmstr.io/ | N/P* | NOT PDF |
@@ -267,6 +279,7 @@
 | Kicking Off: War For Peace | Kicking off. War for peace  | https://okolofutbola.io/en#whitepaper | https://okolofutbola.io/en | N/P* | NOT PDF |
 | Livepeer | Protocol and Economic Incentives For a Decentralized Live Video Streaming Network | https://github.com/livepeer/wiki/blob/master/WHITEPAPER.md | https://livepeer.org/ | N/P* | NOT PDF |
 | Lordmancer 2 | MMO RPG | https://onedrive.live.com/?authkey=%21AKP_PcUjbYYCNPU&cid=C0035E2AA025F2D1&id=C0035E2AA025F2D1%2142203&parId=C0035E2AA025F2D1%2142201&o=OneUp | http://lordmancer2.io/ | N/P* | NOT PDF |
+| MaVo | MaVoToken / Token for Entertainment | https://docsend.com/view/dbaxc5e | https://www.mavotoken.com/ | N/P* | NOT PDF |
 | Mill Of Blood | TEIO | https://millofblood.com/white-paper.php | https://millofblood.com/ | N/P* | NOT PDF |
 | Naga Group | The first Blockchain-based universe for decentralized trading, investing and education in financial markets, virtual goods and cryptocurrencies. | https://docsend.com/view/srsg4zw | https://www.nagaico.com/ | N/P* | NOT PDF |
 | Neverdie | NEVERDIE Wallet | https://neverdie.com/docs/roadmap.html | https://neverdie.com/ | N/P* | NOT PDF |
@@ -283,6 +296,7 @@
 | Renu Coin | Global blockchain, cryptocurrency, and smart contract platform for renewable energy. | http://renucoin.com/green-paper/ | http://renucoin.com/ | N/P* | NOT PDF |
 | Rex | A Decentralized Multiple Listing Service & Real Estate Transaction Application | https://github.com/rexmls/whitepaper/blob/master/readme.md | http://rexmls.com/ | N/P* | NOT PDF |
 | Safinus | Revolutionary Platform for Investments in Cryptocurrencies and ICOs | https://www.safinus.com/whitepaper/ | https://www.safinus.com/ | N/P* | NOT PDF |
+| Saske | seamlessly unites social media platforms with the Blogosphere | https://www.saske.io/white-paper/ | http://www.saske.io/ | N/P* | NOT PDF |
 | Sine | Music streaming that pays you | https://view.attach.io/BkPk-bZpZ | https://sine.media/ | N/P* | NOT PDF |
 | Soundchain | Distributed opensource database for managing intellectual property rights | http://soundchain.org/whitepaper | http://soundchain.org/ | N/P* | NOT PDF |
 | Sparta | SpartaICO whitepaper for Sparta Startups accelerator development based on blockchain tokens. | http://spartaico.com/wp.html | http://spartaico.com/ | N/P* | NOT PDF |
@@ -292,6 +306,7 @@
 | Terraminer | ICO based on a real business | https://terraminer.online/white_paper/ | http://terraminer.io/ | N/P* | NOT PDF |
 | TOR-Q-ALL | TOR-Q-ALL ICO WHITE PAPER | https://www.torqall.com/white-paper | https://www.torqall.com/ | N/P* | NOT PDF |
 | Truedonate | TrueDonate | https://truedonate.io/whitepaper | https://truedonate.io/ | N/P* | NOT PDF |
+| Visual SmartContracts | Blockchain Solutions for Supply Operations | https://github.com/blockarraygroup/documents/blob/master/blockarray-overview-paper.pdf | http://blockarray.com/ | N/P* | NOT PDF |
 | Wcx | Global Digital Currency Exchange | https://ico.wcex.co/whitepaper?lang=en | https://wcex.co/ | N/P* | NOT PDF |
 | Weigrate Coin | WRT Coin | WRTw Token | WRTe Token Cryptocurrency | https://www.weigrate.ltd/crypto/ | https://www.wrtcoin.com/ | N/P* | NOT PDF |
 | You Tweak It | First decentralised ideas marketplace is secure and 100% reward guarantied ideas sharing platform on Oracles Blockchain PoA engine | https://hackmd.io/s/Hk_x516TW# | http://youtweak.it/ | N/P* | NOT PDF |
@@ -299,11 +314,13 @@
 | 8coin |  |  | http://8coin.io/ | N/P* | NOT WORKING |
 | A2b.direct |  |  | http://ico.a2b.direct/ | N/P* | NOT WORKING |
 | Abio Coin |  |  | https://abiocoin.com/en/ | N/P* | NOT WORKING |
+| Acuitty |  |  | https://www.acuitty.io/ | N/P* | NOT WORKING |
 | Algo Token |  |  | https://www.algotoken.com/ | N/P* | NOT WORKING |
 | All In Communicator |  |  | https://allincommunicator.com/ | N/P* | NOT WORKING |
 | Allowance Network |  |  | https://allowance.network/ | N/P* | NOT WORKING |
 | Alpencoin |  |  | https://www.alpencoin.com/ | N/P* | NOT WORKING |
 | Amberport |  |  | http://www.amberport.io/ | N/P* | NOT WORKING |
+| Aterious | Aterious | https://aterious.com/white_paper.pdf | https://aterious.com/ | N/P* | NOT WORKING |
 | Athenacoin |  |  | https://www.athenacoin.io/ | N/P* | NOT WORKING |
 | Aucoin |  |  | http://ico-pgranville.online/ | N/P* | NOT WORKING |
 | Avalon |  |  | https://avalon.nu/ | N/P* | NOT WORKING |
@@ -328,12 +345,14 @@
 | Connectwealth |  |  | https://www.connectwealth.net/ | N/P* | NOT WORKING |
 | Crazybet |  |  | https://www.crazybet.io/ | N/P* | NOT WORKING |
 | Crypto Apartments |  |  | https://crypto-apartments.com/ | N/P* | NOT WORKING |
+| Cryptofarm | CryptoFarm | http://ico-cryptofarm.net/docs/white-paper_eng.pdf | http://ico-cryptofarm.net/ | N/P* | NOT WORKING |
 | Cryptosoft |  |  | https://cryptosoft.org/ico/ | N/P* | NOT WORKING |
 | Cybery |  |  | https://cybery.pro/ | N/P* | NOT WORKING |
 | Daseron |  |  | https://www.daseron.com/ | N/P* | NOT WORKING |
 | Deco |  |  | https://decocurrency.com/ | N/P* | NOT WORKING |
 | Dit Wealth Chain |  |  | http://www.ditfin.com/ | N/P* | NOT WORKING |
 | Dls Academy |  |  | http://dlsacademy.io/ | N/P* | NOT WORKING |
+| Dome Platform | The Dome | https://www.domeplatform.io/static/pdfs/Whitepaper.pdf | https://www.domeplatform.io/ | N/P* | NOT WORKING |
 | Droplex |  |  | https://droplex.org/index.php | N/P* | NOT WORKING |
 | Ethereum Movie Venture |  |  | http://ico.swisscoast.com/ | N/P* | NOT WORKING |
 | Ethereum Universe |  |  | https://ethereumuniverse.org/ | N/P* | NOT WORKING |
@@ -366,6 +385,7 @@
 | Integrative Wallet Token |  |  | https://iwtoken.com/en/ | N/P* | NOT WORKING |
 | Jazemcoin |  |  | https://jazemcoinproyect.wixsite.com/ | N/P* | NOT WORKING |
 | Karbon |  |  | https://karbon.io/ | N/P* | NOT WORKING |
+| Kitex | Kitex - Decentralized Privacy Platform | https://kitex.io/WHITEPAPER.pdf | https://kitex.io/ | N/P* | NOT WORKING |
 | Kumo |  |  | https://www.kumocoin.com/ | N/P* | NOT WORKING |
 | Lendingstar Exchange |  |  | https://crowdsale.lendingstar.com/ | N/P* | NOT WORKING |
 | Liq Platform |  |  | https://liqplatform.com/ | N/P* | NOT WORKING |
@@ -386,6 +406,7 @@
 | Nuvus |  |  | https://www.nuvus.io/ | N/P* | NOT WORKING |
 | Onplace |  |  | http://investments.onplace.io/ | N/P* | NOT WORKING |
 | Oren Platform |  |  | https://orenplatform.com/?refUrl=icoalert | N/P* | NOT WORKING |
+| Petsafe |  |  | https://www.petsafes.xyz/ | N/P* | NOT WORKING |
 | Planes Cloud |  |  | http://planescloud.io/ | N/P* | NOT WORKING |
 | Plato Network |  |  | https://www.plato.network/ | N/P* | NOT WORKING |
 | Pow Farm |  |  | http://www.powfarm.io/ | N/P* | NOT WORKING |
@@ -400,11 +421,13 @@
 | SellMyGood |  |  | https://www.sellmygoodico.com/ | N/P* | NOT WORKING |
 | Sentigraph |  |  | https://www.sentigraph.io/ | N/P* | NOT WORKING |
 | Sift |  |  | https://smartift.com/ | N/P* | NOT WORKING |
+| Signatum |  |  | http://signatum.io/ | N/P* | NOT WORKING |
 | Sincoin |  |  | https://www.getsincoin.io/contribute | N/P* | NOT WORKING |
 | Slogn |  |  | https://www.slogn.net/ | N/P* | NOT WORKING |
 | Soccerchain |  |  | http://www.soccerchain.com/ | N/P* | NOT WORKING |
 | Space |  |  | https://spaceico.io/ | N/P* | NOT WORKING |
 | Spacium |  |  | https://spacium.io/ | N/P* | NOT WORKING |
+| Startmining |  |  | https://startmining.com/ | N/P* | NOT WORKING |
 | Superior Coin |  |  | https://thesuperiorcoin.com/ | N/P* | NOT WORKING |
 | Synthorn |  |  | https://synthorn.com/ | N/P* | NOT WORKING |
 | Testing Workflow ICO |  |  | http://www.google.com | N/P* | NOT WORKING |
@@ -427,10 +450,11 @@
 | Vega AI Solutions |  |  | https://vegais.com/ | N/P* | NOT WORKING |
 | Ventured Network |  |  | https://ventured.one/ | N/P* | NOT WORKING |
 | Visacoin |  |  | https://visacoin.eu/ | N/P* | NOT WORKING |
-| Visual SmartContracts | Blockchain Solutions for Supply Operations | https://github.com/blockarraygroup/documents/blob/master/blockarray-overview-paper.pdf | http://blockarray.com/ | N/P* | NOT PDF |
 | Vr Coin |  |  | http://vrcoin.info/en | N/P* | NOT WORKING |
 | Vt-city |  |  | https://www.vt-city.io/ | N/P* | NOT WORKING |
 | WBD Token |  |  | https://www.1worldblockchain.com/en | N/P* | NOT WORKING |
+| WHA Project |  |  | https://whaproject.com/ | N/P* | NOT WORKING |
+| White City | White CRYPTO City | https://cryptoshare.mobi/white-paper | http://www.cryptoshare.co/ | N/P* | NOT WORKING |
 | Workerz |  |  | https://workerz.org/ | N/P* | NOT WORKING |
 | World Of Battles |  |  | https://ico.worldofbattles.io/ | N/P* | NOT WORKING |
 | Wwam |  |  | http://wwam.io/ | N/P* | NOT WORKING |
