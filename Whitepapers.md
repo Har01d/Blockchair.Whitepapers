@@ -911,7 +911,7 @@
 | Pluscoin | PlusCoin | http://plus-coin.com/pdf/PlusCoin_WhitePaper_EN.pdf | http://plus-coin.com/ | N/P* |
 | Pluton | Plutus White Paper | https://bravenewcoin.com/assets/Whitepapers/Plutus.it-White-Paper-v1.0.pdf | https://plutus.it/ | |
 | Pocketinns | Blockchain-based community driven marketplace ecosystem | http://pocketinns.io/Pocketinns_whitepaper.pdf | http://pocketinns.io/ | N/P* |
-| Poet | IMPORTANT NOTICE | https://po.et/whitepaper.pdf | https://po.et/ | N/P* |
+| Poet | Reclaims value for content creators, publishers and consumers | https://po.et/whitepaper.pdf | https://po.et/ | N/P* |
 | Podone | PodOne | https://podone.io/wp-content/uploads/2017/10/PodOneWhitepaper.pdf | https://podone.io/ | N/P* |
 | Polkadot | The Polkadot token sale is a Spend-All Second-Price Dutch Auction. | https://github.com/w3f/polkadot-white-paper/blob/master/PolkaDotPaper.pdf | https://polkadot.network/ | N/P* |
 | Polybius | Polybius | https://polybius.io/media/prospectus.pdf | https://polybius.io/ | N/P* |
