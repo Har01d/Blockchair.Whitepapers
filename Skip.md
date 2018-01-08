@@ -55,7 +55,7 @@
 | Openlongevity | Initiates, organizes and guarantees the openness of clinical trials | https://docs.google.com/document/d/1wUz5D1cvSDkSeXF6RZipK_zNHE9odn4uEP7qgM0jtZk/ | http://en.openlongevity.io/ | N/P* | GOOGLE DOCS |
 | Orada | The first building portal of Sochi is a single space for sellers and buyers | https://docs.wixstatic.com/ugd/7c37b3_f2c27bc4258a48f4a0974a9a5418ba8b.docx?dn=%D0%B2%D0%B0%D0%B9%D1%82%20%D0%BF%D0%B5%D0%BF%D0%B5%D1%80.docx | https://www.orada-ico.com/ | N/P* | GOOGLE DOCS |
 | Payfrit | Helping restaurants work smarter and sell more | https://docs.google.com/document/d/1Em98l_Zzsg6vHjyZm6rZUXT50ArX85RpF-HyGkgCsYE/ | http://www.payfrit.com/ | N/P* | GOOGLE DOCS |
-| Paypro | The first decentralized financial-marketplace | https://drive.google.com/file/d/1-7pniEmeCpI0xOfRNV9vit6ZnRkJl6mR/view | http://www.payproapp.com/ | N/P* | GOOGLE DOCS |
+| Paypro | The first decentralized financial-marketplace | https://drive.google.com/file/d/0B94JFN71B0HzTUgtZEZ1S08xWHM/view | http://www.payproapp.com/ | N/P* | GOOGLE DOCS |
 | Peculium | PECULIUM Build your bright future | https://drive.google.com/file/d/0BwJ8L6bES0uca3k4Mk1SbGlMdVE/view | https://www.peculium.io/ | N/P* | GOOGLE DOCS |
 | Polymath |  | https://drive.google.com/file/d/0B2pD5w-G5-sJVGc5YjdmZ0hsYVE/view | https://polymath.network/ | N/P* | GOOGLE DOCS |
 | Ponsumer | Ponsumer automates purchases & delivery from any store | https://drive.google.com/file/d/1w6ayGExXHNoUdx-epcssEG7sg4NeqapH/view | http://ponsumer.com/ | N/P* | GOOGLE DOCS |
@@ -238,6 +238,7 @@
 | Big Foundation | Basic Income Guarantee Protocol | https://github.com/bigfoundation/Documentation/blob/master/BIGwhitepaperEN.md | http://big.foundation/ | N/P* | NOT PDF |
 | BITCAPTERA | WORLD OF BITCAPTERA | https://www.bitcaptera.io/pdf.php | https://www.bitcaptera.io/ | N/P* | NOT PDF |
 | Blind Croupier | Blind Croupier is a gambling software development company [Business to business], providing decentralized, fast, fair and transparent gambling solutions for casinos. | https://github.com/BlindCroupier/Documentation/blob/master/English%20Documentation/WhitePaper.md | https://blindcroupier.io/ | N/P* | NOT PDF |
+| Blockfood | the world's first decentralized food ordering platform | https://whitepaper.blockfood.io/ | https://blockfood.io/ | N/P* | NOT PDF |
 | Blockoptions | BLOCKOPTIONS | https://github.com/blockoptions/blockoptions/blob/master/whitepaper/whitepaper.md | http://blockoptions.io/ | N/P* | NOT PDF |
 | Boosteroid | Personal cloud computer available for everyone | https://boosteroid.com/white-paper | https://boosteroid.com/ | N/P* | NOT PDF |
 | Bowhead Health | BOWHEAD BLOCKCHAIN | https://github.com/bowhead/docs | https://www.bowheadhealth.com/ | N/P* | NOT PDF |
@@ -271,10 +272,13 @@
 | Gold Invest |  | https://goldmtoken.com/wp | https://goldmtoken.com/ | N/P* | NOT PDF |
 | Gravel Coin | The First Gravel Production at a global scale to be funded by Tokens Based on the Blockchain Technology | https://github.com/GravelCoin/docsandlinks/blob/master/2017-11-13%20GRV%20COIN_EN.pdf | http://www.gravelcoin.com/ | N/P* | NOT PDF |
 | Grondigital | Gambling and Betting industry by contributing to Gron Digital Platform | https://grondigital.com/whitepaper | https://grondigital.com/ | N/P* | NOT PDF |
+| Group 1 engineering | Our G1ETokens are inmutable proof of real property, a solid contract |http://group-1-engineering.com/ico/ | http://group-1-engineering.com/ | N/P* | NOT PDF |
+| Gturbo | Token-option for gas turbine production | https://github.com/GTurboofficialorg/Documantation/blob/master/GTurboWhitepaperEN.md | http://gturbo.io/ | N/P* | NOT PDF |
 | Hamster Marketplace | Hamster Marketplace | https://hmstr.io/whitepaperrus | https://hmstr.io/ | N/P* | NOT PDF |
 | Health Nexus | Health Nexus | https://docsend.com/view/cuufmc5 | https://tokensale.simplyvitalhealth.com/ | N/P* | NOT PDF |
 | Hostcoin | Blockchain-based Website Hosting Service | https://hostcoin.io/?page_id=141 | https://hostcoin.io/ | N/P* | NOT PDF |
 | Hut34 / Entropy | The Hut34 Protocol | https://docsend.com/view/b4h7ygu | https://hut34.io/ | N/P* | NOT PDF |
+| Hybridbetting | Hybrid Betting | https://www.hybridbetting.com/white-paper/ | https://www.hybridbetting.com/ | N/P* | NOT PDF |
 | Kickico |  | https://www.kickico.com/ru/whitepaper | https://www.kickico.com/ | N/P* | NOT PDF |
 | Kicking Off: War For Peace | Kicking off. War for peace  | https://okolofutbola.io/en#whitepaper | https://okolofutbola.io/en | N/P* | NOT PDF |
 | Livepeer | Protocol and Economic Incentives For a Decentralized Live Video Streaming Network | https://github.com/livepeer/wiki/blob/master/WHITEPAPER.md | https://livepeer.org/ | N/P* | NOT PDF |
