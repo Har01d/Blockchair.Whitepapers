@@ -96,8 +96,7 @@
 | Assistive Reality | Augmented Reality apps | https://github.com/assistivereality/ico/raw/master/whitepaper/1.%20ARXToken-WatchInstructions.pdf | https://aronline.io/ | N/P* |
 | Asspace Token | ASSPACE TOKEN | https://github.com/asspacetoken/whitepaper_v.1.01/raw/master/ASSPACETOKEN_whitepaper_v1.01.pdf | https://asspacetoken.com/ | N/P* |
 | Asteroid / Astrcoin | Asteroid, Ltd | https://www.astrcoin.io/documents/AsteroidWhitePaper.pdf | https://www.astrcoin.io/ | N/P* |
-| Astorgame | Decentralized games
-and sports betting using blockchain, smart contracts | http://astorgame.com/docs/WP_AstorGame_en.pdf |  http://astorgame.com/ | N/P* |
+| Astorgame | Decentralized games and sports betting using blockchain, smart contracts | http://astorgame.com/docs/WP_AstorGame_en.pdf |  http://astorgame.com/ | N/P* |
 | Astra | Astranetix | http://www.astranetix.com/assets/Astra-Introduction.pdf | http://www.astranetix.com/ | N/P* |
 | Atb Coin | ATB Coin - The fastest and most secure payment system | https://atbcoin.com/docs/ATBCoin_WhitePapper_EN.pdf | https://atbcoin.com/ | N/P* |
 | ATBCoin | ATBCoin: Alternative Technology Base | https://atbcoin.com/docs/ATBCoin_WhitePapper_EN.pdf | https://atbcoin.com/ | |
@@ -401,8 +400,7 @@ and sports betting using blockchain, smart contracts | http://astorgame.com/docs
 | Dentacoin | Dentacoin | http://dentacoin.com/white-paper/Whitepaper-en.pdf | http://dentacoin.com/ | N/P* |
 | Detector Token | DetectorToken - Altcoin & Betting Detector Token | https://detectortoken.com/docs/DetectorToken_White_Paper.pdf | https://detectortoken.com/ | N/P* |
 | Dether | BREAKING BARRIERS TO ETHEREUM MASS ADOPTION | https://whitepaper.dether.io/ | https://dether.io/ | N/P* |
-| Devery | An open-source protocol for verification services
-on the Ethereum network | https://devery.io/whitepaper/Devery_Whitepaper_rev5.pdf | https://devery.io/ | N/P* |
+| Devery | An open-source protocol for verification services on the Ethereum network | https://devery.io/whitepaper/Devery_Whitepaper_rev5.pdf | https://devery.io/ | N/P* |
 | DFantasy | Hello DFantasy! | https://www.dfantasy.io/images/dfantasy.pdf | https://www.dfantasy.io/ | N/P* |
 | Dfs | DFS ($DFS) / Digital Fantasy Sports Cryptocurrency: NFL, MLB, NBA, NHL, FIFA & More | https://dfstoken.com/DFSwhitepaper.pdf | https://dfstoken.com/ | N/P* |
 | Diamond | Diamond Whitepaper | https://bit.diamonds/DMD_WP_1.0.pdf | http://bit.diamonds/ | Aleksander Mesor, Helmut Siedl,Christian Knoepke |
@@ -1104,8 +1102,7 @@ on the Ethereum network | https://devery.io/whitepaper/Devery_Whitepaper_rev5.pd
 | Skycoin | A Distributed Consensus Algorithm for Cryptocurrency Networks |https://downloads.skycoin.net/whitepapers/a-distributed-consensus-algorithm-for-cryptocurrency-networks.pdf | https://www.skycoin.net/ | N/P* |
 | Slimcoin | Slimcoin | http://www.slimcoin.club/whitepaper.pdf | http://www.slimcoin.club/ | N/P* |
 | Slogn | SLOGN - AI Blockchain Coin for Decentralized Logistics | https://github.com/SLOGNNet/whitepaper/blob/master/whitepaper.pdf | https://www.slogn.net/ | N/P* |
-| Smarthealthcar | Multi Agent-Supported Dynamical Integration
-of Electronic- with Personal Health Records | https://smarthealthcare.today/resources/whitepaper.pdf | https://smarthealthcare.today/ | N/P* |
+| Smarthealthcar | Multi Agent-Supported Dynamical Integration of Electronic- with Personal Health Records | https://smarthealthcare.today/resources/whitepaper.pdf | https://smarthealthcare.today/ | N/P* |
 | Smartlands | Smartlands | https://smartlands.io/documents/White_paper_2208.pdf | https://smartlands.io/ | N/P* |
 | Smartmesh | SmartMesh Tokenized Mobile Mesh Network | https://smartmesh.io/SmartMeshWhitePaperEN.pdf | https://smartmesh.io/ | N/P* |
 | Smoke Exchange | Smoke Exchange - A Revolution In Advertising For The Billion Dollar Marijuana Industry | https://smokeexchange.com/content/whitepaper.pdf | https://smokeexchange.com/ | N/P* |
