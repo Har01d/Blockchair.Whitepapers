@@ -475,8 +475,7 @@
 | Ethereum | Ethereum: A secure decentralised generalised transaction ledger | http://gavwood.com/paper.pdf | https://www.ethereum.org | Dr. Gavin Wood |
 | Etheriya | ETHERIYA- AN Ethereum Token Backed By Auction Marketplace-Successful | https://levelnet.co/files/LevelNet%20White%20Paper.pdf | http://www.etheriya.net/ | N/P* |
 | Etheroll | Etheroll DICE GAME whitepaper | https://crowdfund.etheroll.com/etheroll-whitepaper.pdf | https://etheroll.com/ | |
-| Etherparty Fuel | USER-FRIENDLY SMART
-CONTRACT COMPILER | https://etherparty.com/Etherparty_White_Paper_EN.pdf | https://etherparty.com/ | N/P* |
+| Etherparty Fuel | USER-FRIENDLY SMART CONTRACT COMPILER | https://etherparty.com/Etherparty_White_Paper_EN.pdf | https://etherparty.com/ | N/P* |
 | EtherSportz | EtherSportz - Online eSports Tournements - eSports Tournements: Win Money Playing The Online Games You Love! | https://ethersportz.com/whitepaper.pdf | https://ethersportz.com/ | N/P* |
 | Ethersport | Online sports lottery platform / EtherSport | https://ethersport.io/whitepaper.pdf | https://ethersport.io/ | N/P* |
 | Ethino | War Card Game | https://www.ethino.com/files/ethino-whitepaper-en.pdf | https://www.ethino.com/ | N/P* |
@@ -1025,7 +1024,6 @@ CONTRACT COMPILER | https://etherparty.com/Etherparty_White_Paper_EN.pdf | https
 | Robot Trading | Robot Trading | https://www.robottrading.online/assets/whitepaper/Whitepaper_ENG.pdf | https://www.robottrading.online/ | N/P* |
 | Rockchain | Rockchain / The Distributed Data Privacy | http://rockchain.org/RockchainWhitePaper.pdf | http://rockchain.org/ | N/P* |
 | Rocket Ico | New era. New economy. New rules. | https://rocketico.io/assets/document/WhitePaper_Desktop_EN.pdf | https://rocketico.io/en/ | N/P* |
-| Rocket ICO | Rocket ICO | https://rocketico.io/RocketICO_Whitepaper_EN.pdf | https://rocketico.io/en/ | N/P* |
 | Rocket Pool | Rocket Pool - Your friendly decentralised Ethereum Proof of Stake (PoS) pool | https://www.rocketpool.net/files/RocketPoolWhitePaper.pdf | https://www.rocketpool.net/ | N/P* |
 | Roin | The Cryptocurrency For A New Rocks & Geologists’ Ecosystem | https://www.rocksolve.com/roin.whitepaper.pdf | https://roin-ico.com/ | N/P* |
 | Rootstock | RSK | https://uploads.strikinglycdn.com/files/90847694-70f0-4668-ba7f-dd0c6b0b00a1/RootstockWhitePaperv9-Overview.pdf | http://www.rsk.co/ | N/P* |
@@ -1324,8 +1322,7 @@ CONTRACT COMPILER | https://etherparty.com/Etherparty_White_Paper_EN.pdf | https
 | WhaleCoin | WhaleCoin - Do Good Work and Get Rewarded | https://whalecoin.org/whitepaper.pdf | https://whalecoin.org/ | N/P* |
 | Whale FUND | WhaleFund - Invest in the future! | https://whalefund.io/WhaleFund%5FWhitepaper.pdf | https://whalefund.io/ | N/P* |
 | Whenhub | WhenHub | https://tokensale.whenhub.com/wp-content/uploads/2017/10/WhenHub%5FWhitepaper.pdf | https://tokensale.whenhub.com/ | N/P* |
-| White Rabbit | Enabling content recognition for p2p streaming and
-secure payments with the blockchain | https://whiterabbit.one/docs/White_Rabbit-White_Paper_v1.0.pdf | https://www.whiterabbit.one/ | N/P* |
+| White Rabbit | Enabling content recognition for p2p streaming and secure payments with the blockchain | https://whiterabbit.one/docs/White_Rabbit-White_Paper_v1.0.pdf | https://www.whiterabbit.one/ | N/P* |
 | Whizz Coin | Whizz Coin - The future of cryptocurrency investments and payments | http://whizzcoin.com/wp-content/uploads/2017/09/Whizzcoin_whitepaper.pdf | http://whizzcoin.com/ | N/P* |
 | Wi-fi Global | Wi-Fi Global — Worldwide Decentralized WiFi Network | https://wi-fi.global/whitepaper.pdf | https://wi-fi.global/ | N/P* |
 | Winding Tree | Winding Tree - Decentralized Travel Distribution | https://windingtree.com/files/White%20Paper_EN.pdf | https://windingtree.com/ | N/P* |
