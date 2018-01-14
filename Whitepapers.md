@@ -867,6 +867,7 @@
 | ODMCoin | ODMCoin / Oil drilling mud coin | https://odmcoin.com/assets/files/docs/en/White_paper.pdf | https://odmcoin.com/ | N/P* |
 | OFO Coin | OneForOne Coin | https://www.ofoco.in/files/OFOcoin_WhitePaper_English.pdf | http://www.ofoco.in/ | N/P* |
 | Oilsc | Putting Oil & Gas Waste Management | http://oilsc.io/docs/OILSC-whitepaper-2017-v18.pdf | http://oilsc.io/ | N/P* |
+| Okoin | Decentralized Blockchain-based VR Platform for 100% anonymous adult content distribution | https://okoin.io/wp.pdf | https://okoin.io/ | N/P* |
 | Omega One | The Smarter Way to Trade Cryptocurrencies | https://omega.one/static/media/whitepaper-eng-1.24.48b42747.pdf | https://omega.one/ | N/P* |
 | OmiseGO | OmiseGO: Decentralized Exchange and Payments Platform | https://cdn.omise.co/omg/whitepaper.pdf | https://omg.omise.co/ | Joseph Poon |
 | Onix | Onix la nueva era financiera | http://www.onixcoin.com/static/descarga/white-paper-onix-En.pdf | http://www.onixcoin.com/ | N/P* |
