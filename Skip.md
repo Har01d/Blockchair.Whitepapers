@@ -9,6 +9,7 @@
 | Bettingwin | BettingWin - A Governable Global Betting Platform On Blockchain | https://docs.google.com/document/d/1xOPZCzPAdikwtc3w3WdmDxLyrgwgR9-Q5_EZmt1c2sU/edit | https://www.bettingwin.online/ | N/P* | GOOGLE DOCS |
 | BitFerry | Invest in one of the biggest industrial cryptocurrency mining farm in Europe | https://drive.google.com/file/d/1Z9BybHz-z2-lxfH_GtlNbOXmZFJYTm72/view | http://bitferry.pro/ | N/P* | GOOGLE DOCS |
 | Bitto | First Innovative Cryptocurrency Exchange Platform | https://www.dropbox.com/s/lldefisrcfh022b/3783d6_cc0864e41b4942888ea2e771cb531ff0.pdf | https://www.bitto.tech/ | N/P* | GOOGLE DOCS |
+| Circle | Providing new cryptocurrency solutions in the digital financial world. It is introduced in the innovative hybrid platform which allows investors to invest and increase their wealth sustainably | https://docs.google.com/presentation/d/e/2PACX-1vStvrTuBEOojklvIyX-bL_hGh2YAZRLrTxxIWZJ8vbM9TvxqV7xdZPOv7kGDv7_eMNE_kkG2oIiVBJo/pub?start=true&loop=true&delayms=3000&slide=id.g2d13cb9866_0_171 | https://www.circlenet.io/ | N/P* | GOOGLE DOCS |
 | Circles Project | Circles - The Future of Social Media Content Appreciation | https://drive.google.com/file/d/0B2SB1klk7d28dXdoLUY1b240SDA/view | https://circlesproject.io/ | N/P* | GOOGLE DOCS |
 | Cobalt Coin | cobalt development project | https://drive.google.com/file/d/0Bw2Heb_xR5dNUkhlb3paWVRSWEU/view | http://cobalt-coin.one/en | N/P* | GOOGLE DOCS |
 | CoinFi | CoinFi - White Paper | https://docs.google.com/document/d/1p6xaFl4nPv1CuJv6F2fkZ6qBq2lBS6ePyFna8QZt1KM/edit | https://sale.coinfi.com/ | N/P* | GOOGLE DOCS |
@@ -154,6 +155,7 @@
 | Getgame |  |  | https://getgame.io/ | N/P* | NOT FOUND |
 | Glx |  |  | https://glx.com/ | N/P* | NOT FOUND |
 | Gluon |  |  | https://www.gluon.com/ | N/P* | NOT FOUND |
+| Hedge Token |  |  | https://www.hedge-crypto.com/ | N/P* | NOT FOUND |
 | Hive Project |  |  | https://www.hive-project.net/ | N/P* | NOT FOUND |
 | HORIZON |  |  | http://horizoncomm.co/ | N/P* | NOT FOUND |
 | Hubcoin |  |  | https://www.coinexchange.io/market/HUB/BTC | N/P* | NOT FOUND |
@@ -209,6 +211,7 @@
 | Starta |  |  | https://startaico.com/ | N/P* | NOT FOUND |
 | Stayawhile |  |  | https://stayawhile.com/ | N/P* | NOT FOUND |
 | Stockbet |  |  | https://stockbet.com/ | N/P* | NOT FOUND |
+| Stockchain global |  |  | https://stockchainglobal.com/ | N/P* | NOT FOUND |
 | Stream Token |  |  | https://streamtoken.net/ | N/P* | NOT FOUND |
 | T0 |  |  | https://tzero.com/ | N/P* | NOT FOUND |
 | Tbis |  |  | https://tbis.io/ | N/P* | NOT FOUND |
@@ -285,6 +288,7 @@
 | Hostcoin | Blockchain-based Website Hosting Service | https://hostcoin.io/?page_id=141 | https://hostcoin.io/ | N/P* | NOT PDF |
 | Hut34 / Entropy | The Hut34 Protocol | https://docsend.com/view/b4h7ygu | https://hut34.io/ | N/P* | NOT PDF |
 | Hybridbetting | Hybrid Betting | https://www.hybridbetting.com/white-paper/ | https://www.hybridbetting.com/ | N/P* | NOT PDF |
+| Keyrpto | BLOCKCHAIN-BASED ECOMMERCE PLATFORM | https://keyrpto.com/Home/Download | https://keyrpto.com/ | N/P* | NOT PDF |
 | Kickico |  | https://www.kickico.com/ru/whitepaper | https://www.kickico.com/ | N/P* | NOT PDF |
 | Kicking Off: War For Peace | Kicking off. War for peace  | https://okolofutbola.io/en#whitepaper | https://okolofutbola.io/en | N/P* | NOT PDF |
 | Livepeer | Protocol and Economic Incentives For a Decentralized Live Video Streaming Network | https://github.com/livepeer/wiki/blob/master/WHITEPAPER.md | https://livepeer.org/ | N/P* | NOT PDF |
