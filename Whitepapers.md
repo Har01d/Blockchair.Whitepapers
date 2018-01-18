@@ -110,6 +110,7 @@
 | Autonio | Autonio / Decentralized AI trading system | https://auton.io/uploads/Autonio%5FWhitepaper%5Fv1.1.0.pdf | https://auton.io/ | N/P* |
 | Aventus | Aventus / B2B Ticketing Infrastructure | https://aventus.io/doc/infodeck.pdf | https://aventus.io/ | N/P* |
 | Aversafe | Decentralized Credential Verification for the World. | https://www.aversafe.com/img/Aversafe_Business_Plan.pdf | https://www.aversafe.com/ | N/P* |
+| Aware | A Decentralized Token Investment-management Community To Make Innovative Assets more Liquid | https://aware.bi/pdf/AWARE_whitepaper_EN_3.8.2.pdf | https://aware.bi/ | N/P* |
 | Aworker | Blockchain Platform for the Recruitment | https://aworker.io/docs/Aworker_Whitepaper.pdf | https://aworker.io/ | N/P* |
 | Axionv | Agile AI Crypto Fund | http://www.axionv.com/file/BLOCKCHAIN%5F-%5FMOMENTUM_INVESTMENTS.pdf | http://www.axionv.com/ | N/P* |
 | B-umbrella | B-Umbrella Blockchain-Based Security Service | http://bumbrella.org/info/B-Umbrella%20Official%20Whitepaper%20V1%202017%20final.pdf | https://bumbrella.org/ | N/P* |
@@ -291,7 +292,7 @@
 | CoinPennant | Cryptocurrency analysis and a social platform for investors, traders and analysts | https://coinpennant.com/assets/pdf/white_paper.pdf | https://coinpennant.com/ | N/P* |
 | CoinPlace | COINPLACE | http://coinplace.info/files/White-Paper-eng.pdf | https://coinplace.info/?lang=en | N/P* |
 | CoinPoker | CoinPoker: Play Poker Online Using Cryptocurrency | https://coinpoker.com/downloads/coinpoker-whitepaper.pdf | https://coinpoker.com/ | N/P* |
-| CoinStarter | COIN STARTER | https://s3.amazonaws.com/appforest_uf/f1510612675283x708868375048041300/CoinStarter%20WhitePaper%20v9.80.pdf | https://coinstarter.com/ | N/P* |
+| CoinStarter | Powering the future of coin based fundraising | https://s3.amazonaws.com/appforest_uf/d35/f1516024659866x320620627375319600/CoinStarter%20WhitePaper%20v9.81.pdf | https://coinstarter.com/ | N/P* |
 | Cointed | Nothing is more powerful than an idea whose time has come | https://cointedtoken.com/COINTED_Whitepaper.pdf | http://www.cointedtoken.com/ | N/P* |
 | Colu Local Network | A decentralized payment system powered by everyday consumption | https://cln.colu.com/pdf/colu_whitepaper.pdf | https://cln.colu.com/ | N/P* |
 | Combicoin | CombiCoin / Triaconta | https://triaconta.com/CombiCoin_Whitepaper.pdf | https://triaconta.com/ | N/P* |
@@ -391,6 +392,7 @@
 | Delphi | delphi | https://delphi.systems/whitepaper.pdf | https://delphi.markets/ | N/P* |
 | Demeter | Demeter / Organic agriculture reinvented through the blockchain technology | https://demeter.life/static/uploads/2017/08/WP_1_2.pdf | https://demeter.life/ | N/P* |
 | Denarius | Denarius / Tribus PoW/PoS Hybrid Cryptocurrency, Ancient Money for a New World | https://denarius.io/whitescroll.pdf | https://denarius.io/ | N/P* |
+| Dencity | WHERE YOU CHOOSE YOUR META LIFE | https://dencity.life/downloads/dd2033b744da151da8fea9db18ac7ae0.pdf | https://dencity.life/ | N/P* |
 | Dentacoin | Dentacoin | http://dentacoin.com/white-paper/Whitepaper-en.pdf | http://dentacoin.com/ | N/P* |
 | Detector Token | DetectorToken - Altcoin & Betting Detector Token | https://detectortoken.com/docs/DetectorToken_White_Paper.pdf | https://detectortoken.com/ | N/P* |
 | Dether | BREAKING BARRIERS TO ETHEREUM MASS ADOPTION | https://whitepaper.dether.io/ | https://dether.io/ | N/P* |
@@ -513,6 +515,7 @@
 | Fidcom | Fidcom | https://fidcom.net/wp-content/uploads/2017/08/Whitepaper_en.pdf | https://fidcom.net/ | N/P* |
 | Filecoin | Filecoin | http://filecoin.io/filecoin.pdf | http://filecoin.io/ | N/P* |
 | Finamatrix | Finamatrix - Empowering You with AI | https://finamatrix.com/wp-content/uploads/2017/10/FiNAMATRIX-v3.1.pdf | http://www.finamatrix.com/ | N/P* |
+| Finecoin | Decentralized Financial System for Everyone | https://www.finecoin.io/assets/FineCoin-WhitePaper.pdf | https://www.finecoin.io/ | N/P* |
 | Finixcoin | WE OFFER DIFERENT SERVICES | https://finixcoin.org/images/Finix_White_Paper.pdf | https://finixcoin.org/ | N/P* |
 | FinShi Capital | FinShi Capital: first cryptocurrency venture fund | http://finshi.capital/whitepaper_finshi_eng.pdf | http://finshi.capital/ | N/P* |
 | Fintech Fans | FintechFans - Fintech Job Board, Decentralized Marketplace and Decentralized Crowdsale | https://tokensale.fintechfans.com/whitepaper.pdf | https://tokensale.fintechfans.com/ | N/P* |
@@ -564,6 +567,7 @@
 | Gatcoin | GATCOIN: The New Currency Of Digital Shopping | https://www.gatcoin.io/wp-content/uploads/2017/09/170919v2-Whitepaper-EN.pdf | https://www.gatcoin.io/ | N/P* |
 | Gaze Coin | Gaze Coin - VR/AR Blockchain Token - Get Paid to Gaze | https://media.gazecoin.io/static/GazeCoin_WhitePaper.pdf | https://www.gazecoin.io/ | N/P* |
 | Geens | Geens NPO - GEE | https://tokensale.geens.com/GeensTokenSaleWhitepaper.pdf | https://geens.com/ | N/P* |
+| Gelios | First Completely Customizable Cryptocurrency P2P Lending Platform | https://gelios.io/wp-content/uploads/2018/01/Gelios-by-Brainysoft-Whitepaper-016.pdf | https://gelios.io/ | N/P* |
 | Genaro Support Program | The first blockchain 3.0 ecosystem built on a Turing-complete public chain with decentralized storage, a sharing community and a trustworthy internet for everyone | https://genaro.network/en/documentation/whitepaper | https://genaro.network/en/ | N/P* |
 | Genesis Vision | Genesis Vision | https://genesis.vision/white-paper-eng.pdf | https://genesis.vision/ | N/P* |
 | Genesis World | Genesis — IT ecosystem on blockchain | http://genesis.world/GenesisWhitePaperEng.pdf | http://genesis.world/ | N/P* |
@@ -628,7 +632,7 @@
 | Heardbeats | Heardbeats - Experience live concerts like never before | https://heardbeats.com/docs/heardbeats_whitepaper.pdf | https://heardbeats.com/ | N/P* |
 | Hearthy | HearthyCo | https://hearthy.co/assets/images/Hearthy-whitepaper.pdf | https://hearthy.co/ | N/P* |
 | HEAT | Heat Ledger | http://heatledger.com/HEATWhitepaper.pdf | http://heatledger.com/ | N/P* |
-| Hedge Token | Homepage - HEDGE TOKEN | https://www.hedge-crypto.com/wp-content/uploads/2017/08/Hedgetoken_Whitepaper_2017.pdf | https://www.hedge-crypto.com/ | N/P* |
+| Hedge connect | World’s First Lending Platform for Decentralized Hedge Funds | https://www.hedgeconnect.co/assets/hedge/downloads/whitepaper-hedge-connect.pdf | https://www.hedgeconnect.co/ | N/P* |
 | Hellogold | HelloGold Foundation | https://www.hellogold.org/downloads/HelloGoldSummaryWhitepaper.pdf | https://www.hellogold.org/ | N/P* |
 | Herby | Herby.money | http://herby.money/herby%5Fonepager.pdf | http://herby.money/ | N/P* |
 | Herdius | Herdius | https://herdius.com/whitepaper/Herdius%20Lightpaper.pdf | https://herdius.com/ | N/P* |
@@ -730,6 +734,7 @@
 | Legalcoin | THE LEGAL CRYPTOCURRENCY | http://legalcoin.co/LegalCoin-Whitepaper.pdf | http://legalcoin.co/ | N/P* |
 | Lendoit | Lendoit – the next generation of decentralized P2P lending platforms | https://lendoit.com/Lendoit-whitepaper.pdf | https://lendoit.com/ | N/P* |
 | LEOcoin | LEOcoin. Whitepaper | https://coss.io/documents/white-papers/leocoin.pdf | https://www.leocoin.org/ | |
+| Let bet | Game User Flow | https://static.let.bet/whitepaper.pdf | https://let.bet/ | N/P* |
 | Leverj | Decentralized Leveraged Exchange Token Sale | https://www.leverj.io/whitepaper.pdf | https://www.leverj.io/ | N/P* |
 | Leviarcoin | LeviarCoin - An anonymous, secure and private cryptocurrency | https://leviarcoin.org/assets/pdf/LeviarCoin_White_Paper_v1.pdf | https://leviarcoin.org/ | N/P* |
 | Lh-crypto | Forex in Crypto | https://lh-crypto.io/static/WhitePaper%5Fen.pdf | https://lh-crypto.io/ | N/P* |
@@ -1123,6 +1128,7 @@
 | Solomon Exchange | Solomon Exchange - An Innovative cryptocurrency exchange | https://solomonex.info/whitepaper/SMNX%5Fwp.pdf | https://solomonex.info/ | N/P* |
 | Solve.Care | Solve.Care - Decentralized global platform for care coordination, benefits administration and payments | https://solve.care/documents/Solve.Care-Whitepaper.pdf | https://solvecare.io/ | N/P* |
 | Soma | Decentralized Social Marketplace | https://soma.co/wp-content/uploads/2017/07/Soma-tech-Whitepaper.pdf | https://soma.co/ | N/P* |
+| SonoCoin | financial sytem owned and operated by its users | https://sono.money/whitepaper.pdf | https://sono.money/ | N/P* |
 | SONM | Distributed computing power exchange. Decentralized operating system for fog computing | https://sonm.io/Sonm1.pdf | https://sonm.io/ | |
 | Sophiatx | SophiaTX: The Blockchain for Business | https://www.sophiatx.com/%5Fdata/%5Fcustom/SophiaTX%5FWhitepaper.pdf | https://www.sophiatx.com/ | N/P* |
 | Sorbase | Sorbase Crypto Liquidity Aggregator - European B2B ECN (API) | http://sorbase.com/sorbase_whitepaper.pdf | http://sorbase.com/ | N/P* |
@@ -1392,6 +1398,7 @@ storage platform | https://yourblock.io/wp-content/uploads/2017/12/YourBlock-Whi
 | ZenCash | Zen White Paper | https://zensystem.io/assets/Zen%20White%20Paper.pdf | https://zensystem.io/ | Robert Viglione, Rolf Versluis, Jane Lippencott |
 | Zenome | Zenome - Your DNA is an asset. Zenome is a market. | https://zenome.io/download/whitepaper.pdf | https://zenome.io/ | N/P* |
 | Zen Protocol | An Introduction to the Zen Protocol | https://www.zenprotocol.com/files/zen_protocol_white_paper.pdf | https://www.zenprotocol.com/ | N/P* |
+| Zenvow | Empowering awakened Civilization | http://zenvow.com/ico/public/zenvowwhitepaper.pdf | http://zenvow.com/ico/public/ | N/P* |
 | Zephyr | Project Zephyr | https://zephyr.bitspark.io/assets/v1/landing/downloads/Project_Zephyr_Whitepaper-0b69ab042ef4ff37bcd0909ac8672ee0c789ec5cefe05f80572c40ab2e0a2762.pdf | https://zephyr.bitspark.io/ | N/P* |
 | Zeusshield | ZSC-Blockchain AI insurance solution | https://zsc.io/files/ZSC%5FWhitepaper%5Fen.pdf | https://zsc.io/ | N/P* |
 | Zeus | Zeus | http://zeus-token.io/whitepaper.pdf | http://zeus-token.io/ | N/P* |
