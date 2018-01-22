@@ -441,8 +441,7 @@
 | Ds Plus | PLUSCOIN - A DECENTRALIZED CASHBACK PLATFORM ON THE ETHEREUM BLOCKCHAIN | https://pluscoin.io/whitepaper/WP PlusCoin - (ENG).pdf | https://pluscoin.io/ | N/P* |
 | Dynamis | Dynamis - Peer to Peer Insurance | http://www.dynamisapp.com/whitepaper.pdf | http://www.dynamisapp.com/ | N/P* |
 | E-chat | Echat ico - First decentralized anonymous multitasking Messenger | https://ico.echat.io/static/doc-pdf/e-Chat_Whitepaper_ver13.pdf | https://investors.echat.io/ | N/P* |
-| E-pocket | Simplifying people's lives through smart technologies,
-shaping today for a more exciting tomorrow | https://www.e-pocket.com.au/assets/img/e-Pocket-Whitepaper-v1.pdf | https://www.e-pocket.com.au/ | N/P* |
+| E-pocket | Simplifying people's lives through smart technologies, shaping today for a more exciting tomorrow | https://www.e-pocket.com.au/assets/img/e-Pocket-Whitepaper-v1.pdf | https://www.e-pocket.com.au/ | N/P* |
 | Earth Token | Earth Token | http://earth-token.com/pdf/impactChoice-Earth-Token-Whitepaper.pdf | http://earth-token.com/ | N/P* |
 | ECC | ECC | https://ecc.network/downloads/documents/ecc-whitepaper.pdf | https://ecc.network/ | N/P* |
 | Eco-nan | For a resilient economy | https://docs.wixstatic.com/ugd/37e31d_5afba39c94ae48d998b05e1911db0245.pdf | https://www.econan.io/ | N/P* |
@@ -1119,7 +1118,6 @@ shaping today for a more exciting tomorrow | https://www.e-pocket.com.au/assets/
 | Signal Trading | Signal Trading | https://www.signaltrading.io/files/Signal%20White%20Paper%20Oct%202017.pdf | https://www.signaltrading.io/ | N/P* |
 | Sikoba | sikoba | http://www.sikoba.com/docs/sikoba_201703_stuttgart.pdf | http://www.sikoba.com/ | N/P* |
 | Silberpfeil | Energetic drink SILBERPFEIL / AMG Token | http://silberpfeil.co/upload/wp/en.pdf | http://silberpfeil.co/ | N/P* |
-| Silkos | Silkos - Decentralised marketplace | http://silkos.io/wp-content/uploads/2017/09/SLKWHITEPAPER4.3.pdf | http://silkos.io/ | N/P* |
 | Silkos | Silkos - Decentralised marketplace | http://silkos.io/wp-content/uploads/2017/09/SLKWHITEPAPER4.3.pdf | http://silkos.io/ | N/P* |
 | Simdaq | Technological platform created forcryptotrading democratisation and development | https://simdaq.com/upload/SMDQ.pdf | https://simdaq.com/ | N/P* |
 | SingularDTV | SingularDTV: SNGLS Creation Specifications | https://coss.io/documents/white-papers/singulardtv.pdf | https://singulardtv.com/ | |
