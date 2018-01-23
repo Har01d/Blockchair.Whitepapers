@@ -553,6 +553,7 @@
 | Foodcoin | FoodCoin EcoSystem | https://www.foodcoin.io/files/foodcoin-whitepaper-en.pdf | https://www.foodcoin.io/ | N/P* |
 | Foodimus | Foodimus | https://www.foodimus.com/wp-content/uploads/2017/11/foodimus-whitepaper.pdf | http://www.foodimus.com/token-sale/ | N/P* |
 | Foreground | Foreground | https://foreground.io/whitepapers/foreground-whitepaper.pdf | https://foreground.io/ | N/P* |
+| Forseti |  A set of embedded modules designed to enhance decentralized solutions | https://forseti.im/forseti_wp_en.pdf | https://forseti.im/ | N/P* |
 | Fortitude Ranch | Initial MemberCoin Offering - Fortitude Ranch | https://www.fortituderanch.com/wp-content/uploads/2017/11/FR-White-Paper-Ver-2.4.pdf | https://www.fortituderanch.com/initial-membercoin-offering/ | N/P* |
 | FortKnoxster | FortKnoxster - Get your personal encrypted Fort Knox in cyber space! | https://fortknoxster.com/FortKnoxster%20Whitepaper.pdf | https://fortknoxster.com/ | N/P* |
 | Freedom Streaming | The book that introduces cryptocurrency and blockchain technology to the masses and exposes the fiat scam. | https://freedomstreaming.io/assets/files/Whitepaper.pdf | https://freedomstreaming.io/ | N/P* |
