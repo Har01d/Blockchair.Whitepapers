@@ -1,6 +1,7 @@
 | Project name | Whitepaper title | Whitepaper address | Website address | Authors | Skip reason |
 |--------------|------------------|--------------------|-----------------|---------|-------------|
 | 3d-token | Managed Network of 3D-Printers, integrating a Marketplace and a Crowdfunding platform | https://drive.google.com/file/d/1bTp8I2WxEOXM-Dz1qnVeXKQV98tfgw9C/ | https://3d-token.com/ | N/P* | GOOGLE DOCS |
+| Acorn Collective | The First Completely Free and Open-Access Blockchain Crowdfunding Platform | https://drive.google.com/file/d/0B1PbmmXatTeAODdsWUl4bmRJOW8/view | https://www.aco.ai/ | N/P* | GOOGLE DOCS |
 | Ahoolee | The Ahoolee project | https://drive.google.com/file/d/0Bz8GOnrPq_i-SGk5a1Jxbld2TGs/view | http://ahoolee.io/ | N/P* | GOOGLE DOCS |
 | Aigang | Autonomous insurance network -fully automated insurance for IoT devices and a platform for insurance innovation built around data | https://drive.google.com/file/d/1qUuXmBta-qn5ze-aPPMUdPIgKjtNRpQq/view | https://aigang.network/ | N/P* | GOOGLE DOCS |
 | Altocar | Personalized taxi aggregator with the Digital Economy | https://drive.google.com/file/d/0B_kmY5mKXSK5c0RNSVVwYlZiN2M/view | https://altocar-ico.com/en | N/P* | GOOGLE DOCS |
@@ -166,6 +167,7 @@
 | Jwcventures |  |  | https://jwcventures.com/ | N/P* | NOT FOUND |
 | Internxt |  |  | https://internxt.io/ | N/P* | NOT FOUND |
 | Kexcoin |  |  | https://kexcoin.com/ | N/P* | NOT FOUND |
+| Kodakone |  |  | https://kodakcoin.com/ | N/P* | NOT FOUND |
 | Kuna Exchange |  |  | https://kuna.io/sco?lang=en | N/P* | NOT FOUND |
 | Lambo Token |  |  | http://lambotoken.io/ | N/P* | NOT FOUND |
 | Liberstad |  |  | http://www.liberstad.com/ | N/P* | NOT FOUND |
@@ -313,9 +315,11 @@
 | Orb | CoinCore | https://imagine-orb.com/tech/coincore-getting-started/ | https://imagine-orb.com/ | N/P* | NOT PDF |
 | Proxy | Proxy Ethereum for Everyone | https://blog.proxycard.io/whitepaper-ccbd4ac034c9 | http://www.proxycard.io/ | N/P* | NOT PDF |
 | Qorio | Singing assistant AI | https://qorio.attach.io/SyQFRLN0b | https://www.qorio.com/token-sale | N/P* | NOT PDF |
+| R-Block | Decentralised Hiring Network Own your work experience & reputation on the blockchain | https://github.com/R-Block/_Whitepaper_/blob/master/%7BWhitepaper%7D.pdf | https://rblock.co/ | N/P* | NOT PDF |
 | Raiden Network | Raiden is a payment network built on top of the ethereum network | https://raiden-network.readthedocs.io/en/stable/spec.html# | https://raiden.network/ | N/P* | NOT PDF |
 | Red Pill Coin | Red Pill | https://redpillcoin.com/white-paper/ | https://redpillcoin.com/ | N/P* | NOT PDF |
 | Renu Coin | Global blockchain, cryptocurrency, and smart contract platform for renewable energy. | http://renucoin.com/green-paper/ | http://renucoin.com/ | N/P* | NOT PDF |
+| Reporter Community | first market player to integrate blockchain technology into UGC which offers a 100% verified authentication process to all market players | https://docsend.com/view/bfgbg3j | https://www.reportercommunity.tech/ | N/P* | NOT PDF |
 | Rex | A Decentralized Multiple Listing Service & Real Estate Transaction Application | https://github.com/rexmls/whitepaper/blob/master/readme.md | http://rexmls.com/ | N/P* | NOT PDF |
 | Routecoin | utility token that can be used inside Routecoin community via WiFiNewAge software to share WiFi networks | http://routecoin.io/whitepaper.php | http://routecoin.io/ | N/P* | NOT PDF |
 | Safinus | Revolutionary Platform for Investments in Cryptocurrencies and ICOs | https://www.safinus.com/whitepaper/ | https://www.safinus.com/ | N/P* | NOT PDF |
@@ -330,6 +334,7 @@
 | Terraminer | ICO based on a real business | https://terraminer.online/white_paper/ | http://terraminer.io/ | N/P* | NOT PDF |
 | TOR-Q-ALL | TOR-Q-ALL ICO WHITE PAPER | https://www.torqall.com/white-paper | https://www.torqall.com/ | N/P* | NOT PDF |
 | Truedonate | TrueDonate | https://truedonate.io/whitepaper | https://truedonate.io/ | N/P* | NOT PDF |
+| Vestarin | Marketplace of goods and services for cryptocurrency | https://www.vestarin.io/en/whitepaper | https://www.vestarin.io/ | N/P* | NOT PDF |
 | Vestopia | The Future of Investment andReal Estate | https://static.parastorage.com/services/wix-labs-pdf-viewer-statics/1.33.0/libs/pdfjs/web/viewer.html | https://www.vestopia.io/ | N/P* | NOT PDF |
 | Visual SmartContracts | Blockchain Solutions for Supply Operations | https://github.com/blockarraygroup/documents/blob/master/blockarray-overview-paper.pdf | http://blockarray.com/ | N/P* | NOT PDF |
 | Wcx | Global Digital Currency Exchange | https://ico.wcex.co/whitepaper?lang=en | https://wcex.co/ | N/P* | NOT PDF |
@@ -345,6 +350,7 @@
 | Allowance Network |  |  | https://allowance.network/ | N/P* | NOT WORKING |
 | Alpencoin |  |  | https://www.alpencoin.com/ | N/P* | NOT WORKING |
 | Amberport |  |  | http://www.amberport.io/ | N/P* | NOT WORKING |
+| Apex |  |  | https://apex.chinapex.com/ | N/P* | NOT WORKING |
 | Aterious | Aterious | https://aterious.com/white_paper.pdf | https://aterious.com/ | N/P* | NOT WORKING |
 | Athenacoin |  |  | https://www.athenacoin.io/ | N/P* | NOT WORKING |
 | Aucoin |  |  | http://ico-pgranville.online/ | N/P* | NOT WORKING |
