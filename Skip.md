@@ -41,7 +41,8 @@
 | Injoin | A Sharing Eco­Environmental System | https://drive.google.com/file/d/0BxD_k1HToD-HSWxPQm9ZSXVPbXc/view?usp=sharing | https://www.injoin.in/ | N/P* | GOOGLE DOCS |
 | Intellium | Intellium brings real world investments and blockchain together to transform capital markets | https://docs.google.com/document/d/16Gqf45bfP46Zy2_w4AhxVefCRGKBMiUnK-jtrKJazyI/edit#heading=h.5vhv6o725gcc | http://intellium-ico.com/index.html | N/P* | GOOGLE DOCS |
 | Jboxcoin | JBOXCOIN.ORG Whitepaper | https://drive.google.com/file/d/0BxC2u6uHtVw_YXZ0Z3RrRnlQZ00/view | https://jboxcoin.org/ | N/P* | GOOGLE DOCS |
-| Kript | A N E C O S Y S T E M F O R I N V E S T I N G IN CRYPTO ASSETS | https://drive.google.com/file/d/0Bx-wNYBx9zmnQnloY2RIWEh1TlU/view | http://kript.io/ | N/P* | GOOGLE DOCS |
+| KeepPet | INTERNATIONAL DIGITAL PET PASSPORT | https://docs.google.com/document/d/1OgiWGPPryZ9qjJN6jfKEeFNlHhNp0R5gNNyEv--0OHU/edit | http://keep.pet/en/ | N/P* | GOOGLE DOCS |
+| Kript | AN ECO SYSTEM FOR INVESTING IN CRYPTO ASSETS | https://drive.google.com/file/d/0Bx-wNYBx9zmnQnloY2RIWEh1TlU/view | http://kript.io/ | N/P* | GOOGLE DOCS |
 | Langpie |  | https://drive.google.com/file/d/0B7duDBu7CzCZMzVzUVU2dUkxWGM/view | https://langpie.io/ | N/P* | GOOGLE DOCS |
 | Last Will | Making Contracts Really Smart. For Life. | https://drive.google.com/open?id=0B3ZY9oXSrdvjYjlCLUxra3oxZHM | https://lastwill.io/en/ | N/P* | GOOGLE DOCS |
 | Legacylotto |  First decentralized world wide lottery offering ticket mining and self executing  smart contracts | https://drive.google.com/file/d/1BmwzsunfBmQXFG9bJirGDZDM3lLwvBbL/view | https://www.legacylotto.io/ | N/P* | GOOGLE DOCS |
@@ -53,6 +54,7 @@
 | Mevu | As a peer-to-peer decentralized network | https://www.dropbox.com/s/rqa6wxzozpdvzyx/meVuwhitepaper.pdf | https://www.mevu.bet/ | N/P* | GOOGLE DOCS |
 | Millennium | A decentralized community network to design, customize, buy, and invest in Real Estate | https://drive.google.com/a/bitsyte.com/uc?authuser=1&id=1Ka5qI9shVFsAQxKasl3zGBbWZaB-2W-F&export=download | https://millennium.network/ | N/P* | GOOGLE DOCS |
 | Mindsports | DECENTRALIZE MINDSPORTS NETWORK | https://drive.google.com/file/d/0B23oU2WDqlyWZHNvM2ZZLWNrVmc/view | https://www.mindsports.io/ | N/P* | GOOGLE DOCS |
+| Mjcoin | Changing the cannabis market forever  | https://drive.google.com/file/d/1D0CS3sZ4kvKAFXWpAMBQ-g1Gnp9HDhVe/view | https://mjcoin.com/ | N/P* | GOOGLE DOCS |
 | Moon Funding | INVEST IN MOON FUNDING  | https://docs.google.com/document/d/1SRz9qCAoscWfhggVQo0Xp3wI7awCr563JUpYMjmbGcc/edit | https://moonfunding.com/ | N/P* | GOOGLE DOCS |
 | Musicoin | A Decentralized platform for Musicians and Listeners | https://drive.google.com/file/d/1Rqftu2SG-UjoHb-Wikm9NYavIV8fZlWk/view?usp=sharing | https://musicoin.org | N/P* | GOOGLE DOCS |
 | MyTrackNet | MyTrackNet | https://drive.google.com/file/d/0B_pE0PM9GYZDM08zVTF6UkNUTUE/view | https://www.mytracknet.com/ | N/P* | GOOGLE DOCS |
@@ -414,6 +416,7 @@
 | Instacoin |  |  | https://instacoin.pro/ | N/P* | NOT WORKING |
 | Insurex |  |  | https://www.insurex.co/ | N/P* | NOT WORKING |
 | Integrative Wallet Token |  |  | https://iwtoken.com/en/ | N/P* | NOT WORKING |
+| InVisio |  |  | https://www.invisioplatform.com | N/P* | NOT WORKING |
 | Jazemcoin |  |  | https://jazemcoinproyect.wixsite.com/ | N/P* | NOT WORKING |
 | Karbon |  |  | https://karbon.io/ | N/P* | NOT WORKING |
 | Kitex | Kitex - Decentralized Privacy Platform | https://kitex.io/WHITEPAPER.pdf | https://kitex.io/ | N/P* | NOT WORKING |
