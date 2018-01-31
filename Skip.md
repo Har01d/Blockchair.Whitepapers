@@ -36,7 +36,8 @@
 | Hashhive | инновационный дата-центр облачного майнинга | https://drive.google.com/file/d/0Bw4285TjNrehcVp5Q1NzUmVKQVE/view | https://hashhive.io/ | N/P* | GOOGLE DOCS |
 | Health Monitor | 422 MILLION PEOPLE IN THE WORLD SUFFER FROM DIABETES | https://drive.google.com/file/d/0B-QBdFrWXGeAdnRQaHlUbV9QNm8/view | https://healthmonitor.io/ | N/P* | GOOGLE DOCS |
 | Hedge Pro | Adecentralized platform used to insure cryptocurrency assets | https://drive.google.com/file/d/0B6JQQgg-knRtdGJhU1UtUnBsNUU/view | http://hedge.pro/english | N/P* | GOOGLE DOCS |
-| Homni | ​DECENTRALIZED SECURE COMMUNICATION BASED ON BLOCKCHAIN TECHNOLOGY | https://drive.google.com/file/d/1ldBkb7XsBCtv2P8RnQ2ZyS-al7m9BQu-/view | https://www.homni-tech.com/ | N/P* | GOOGLE DOCS |
+| Helbiz | Blockchain P2P Car Sharing | https://drive.google.com/file/d/1UudcsnOrVwe0DeG4p7k7R3m4l28bAzQ0/view | https://www.helbizcoin.io/ | N/P* | GOOGLE DOCS |
+| Homni | DECENTRALIZED SECURE COMMUNICATION BASED ON BLOCKCHAIN TECHNOLOGY | https://drive.google.com/file/d/1ldBkb7XsBCtv2P8RnQ2ZyS-al7m9BQu-/view | https://www.homni-tech.com/ | N/P* | GOOGLE DOCS |
 | iFan | The Most Advanced Social Network, Making Profits For Celebrities | https://docs.google.com/document/d/1VCrjGHARFuQc9N49CJDDIz3QVGgmv1GkB3rNcP1geKA/edit | https://ifan.io/ | N/P* | GOOGLE DOCS |
 | Injoin | A Sharing Eco­Environmental System | https://drive.google.com/file/d/0BxD_k1HToD-HSWxPQm9ZSXVPbXc/view?usp=sharing | https://www.injoin.in/ | N/P* | GOOGLE DOCS |
 | Intellium | Intellium brings real world investments and blockchain together to transform capital markets | https://docs.google.com/document/d/16Gqf45bfP46Zy2_w4AhxVefCRGKBMiUnK-jtrKJazyI/edit#heading=h.5vhv6o725gcc | http://intellium-ico.com/index.html | N/P* | GOOGLE DOCS |
@@ -81,6 +82,7 @@
 | Sosnovkino | sosnovkino | https://drive.google.com/file/d/0B-QBdFrWXGeAc3NkQ1hvX3p6T00/view | http://sosnovkino.info/ | N/P* | GOOGLE DOCS |
 | Sportience | Manage a real football club in real life! | https://drive.google.com/file/d/1c2-KMbCfOxDrhTKUC2WEJwFxYmk-mgWu/view | http://sportience.online/ | N/P* | GOOGLE DOCS |
 | Sugar | IT WILL BE COSILY HERE FOR YOU | https://drive.google.com/file/d/1TqI_CLPFtYyU0I1gZih8GHYNjG4smib-/view | https://www.sugar.lgbt/ | N/P* | GOOGLE DOCS |
+| Tatchcapital | a private company doing sole proprietary trading based on company's discretionary trading strategies | https://docs.google.com/document/d/1L6hYc8ipQJ9Ev6iOi8cLo82DSq0oCUU8CFrDnP5aRgo/edit | https://tatchcapital.com/ | N/P* | GOOGLE DOCS |
 | The Full Consensus Films | The Full Consensus Films ICO | https://drive.google.com/file/d/0Byk4qX7vFTjVT3laZ1FOOGxXZUk/view | http://thefullconsensusfilms.com/ | N/P* | GOOGLE DOCS |
 | Ties.network | Database Management System | https://docs.google.com/document/d/1UwaaUgunnrFpL6jetA_DdNLQsbbqBx1HLcln07kLrUw/edit | http://ties.network/?utm_source=icoalert.com&amp;utm_medium=tracker | N/P* | GOOGLE DOCS |
 | U.cash | INTRODUCING U.CASH’S PLAN FOR GLOBAL P2P FINANCIAL SERVICES | https://docs.google.com/document/d/1Lvh4SEvGVHQ0Opj8wKmytMe63PxpXFgZNgIGbpIi22M/edit | https://u.cash/ | N/P* | GOOGLE DOCS |
@@ -93,8 +95,10 @@
 | Zerium| The World’s Smartest Blockchain Applications | https://drive.google.com/file/d/1TwYBp_m_ynv7Z3fO9xQDz9UueCoIQ4n2/view | http://www.zerium.org/ | N/P* | GOOGLE DOCS |
 | Zfxtoken| Peer-VS-Peer Fantasy Trading. It’s that simple | https://www.dropbox.com/s/oy2b9diw08ok0o4/ZeroSum%20-%20Updated%20Dec%2011%202017.pdf | http://www.zfxtoken.com/ | N/P* | GOOGLE DOCS |
 | 8 Circuit Studios |  |  | https://www.tokensale.8circuitstudios.com | N/P* | NOT FOUND |
+| 803mine |  |  | https://www.803mine.com/ | N/P* | NOT FOUND |
 | Aasani |  |  | http://www.aasani.net/ | N/P* | NOT FOUND |
 | Aether United |  |  | http://aetherunited.com/ | N/P* | NOT FOUND |
+| Aiom |  |  | https://www.aicosoft.de/ | N/P* | NOT FOUND |
 | Akasha |  |  | https://akasha.world/ | N/P* | NOT FOUND |
 | Algo Land |  |  | https://www.algo.land/ | N/P* | NOT FOUND |
 | Altcoincommunity |  |  | http://altcoincommunity.co/ | N/P* | NOT FOUND |
@@ -129,6 +133,7 @@
 | ClassyCoin |  |  | http://www.classycoin.io/buy-classycoin.html | N/P* | NOT FOUND |
 | Clout |  |  | http://clout.io/ | N/P* | NOT FOUND |
 | Coinjob |  |  | http://www.coinjob.net/ | N/P* | NOT FOUND |
+| Coinzai |  |  | https://coinzai.com/ | N/P* | NOT FOUND |
 | Connect Social |  |  | https://connectsocial.io/ | N/P* | NOT FOUND |
 | Contentmint |  |  | https://www.contentmint.io/ | N/P* | NOT FOUND |
 | Crowdcoin |  |  | http://mqtcrypto.com/ | N/P* | NOT FOUND |
@@ -163,6 +168,7 @@
 | Glx |  |  | https://glx.com/ | N/P* | NOT FOUND |
 | Gluon |  |  | https://www.gluon.com/ | N/P* | NOT FOUND |
 | Hedge Token |  |  | https://www.hedge-crypto.com/ | N/P* | NOT FOUND |
+| Herby |  |  | http://herby.money/ | N/P* | NOT FOUND |
 | Hive Project |  |  | https://www.hive-project.net/ | N/P* | NOT FOUND |
 | HORIZON |  |  | http://horizoncomm.co/ | N/P* | NOT FOUND |
 | Hubcoin |  |  | https://www.coinexchange.io/market/HUB/BTC | N/P* | NOT FOUND |
@@ -194,6 +200,7 @@
 | Neuromation |  |  | https://neuromation.io/ | N/P* | NOT FOUND |
 | Neuron |  |  | https://doc.ai/ | N/P* | NOT FOUND |
 | Nimfamoney |  |  | https://www.nimfamoney.io/ | N/P* | NOT FOUND |
+| Opporty |  |  | https://opporty.com/ | N/P* | NOT FOUND |
 | Our Interest |  |  | https://www.ourinterest.org/ico | N/P* | NOT FOUND |
 | Pindex |  |  | https://www.pindify.com/ | N/P* | NOT FOUND |
 | Plexcoin |  |  | https://www.plexcoin.com/ | N/P* | NOT FOUND |
@@ -262,6 +269,7 @@
 | Cardstack | The experience layer of the decentralized Internet | https://cardstack.attach.io/HJaZkzgn~ | https://cardstack.com/ | N/P* | NOT PDF |
 | Casagram | NEW SOCIAL NETWORK | http://www.casagram.net/Site/Whitepaper.html | http://www.casagram.net/ | N/P* | NOT PDF |
 | Charg Coin |  | https://www.charg.io/white-paper-roadmap | https://www.charg.io/ | N/P* | NOT PDF |
+| Clickabletv |  | https://files.acrobat.com/a/preview/74c4bc21-7c5d-4cc2-ac6e-92b13f4d22d6 | https://clickabletv.io/ | N/P* | NOT PDF |
 | Commodity Ad Network | Commodity Ad Network | https://commodityadnetwork.com/whitepaper/ | https://commodityadnetwork.com/ico/ | N/P* | NOT PDF |
 | Connect Job |  | https://ru.calameo.com/read/005345675300d0189a74e | https://ico.connectjob.io/ | N/P* | NOT PDF |
 | Copy Trader | Copy Trader Crowdsale | https://github.com/copytarder/white_paper/raw/master/Copy%20Token-whitepaper%20v1.02%20.pdf | https://copycrypto.trade/ | N/P* | NOT PDF |
@@ -376,6 +384,7 @@
 | Centz |  |  | https://ico.centz.net/ | N/P* | NOT WORKING |
 | Coinsopen |  |  | https://coinsopen.com/ | N/P* | NOT WORKING |
 | Connectwealth |  |  | https://www.connectwealth.net/ | N/P* | NOT WORKING |
+| Cottagecoin |  |  | https://cottagecoin.io/ | N/P* | NOT WORKING |
 | Crazybet |  |  | https://www.crazybet.io/ | N/P* | NOT WORKING |
 | Crypto Apartments |  |  | https://crypto-apartments.com/ | N/P* | NOT WORKING |
 | Cryptofarm | CryptoFarm | http://ico-cryptofarm.net/docs/white-paper_eng.pdf | http://ico-cryptofarm.net/ | N/P* | NOT WORKING |
