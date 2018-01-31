@@ -1,6 +1,7 @@
 | Project name | Whitepaper title | Whitepaper address | Website address | Authors | Skip reason |
 |--------------|------------------|--------------------|-----------------|---------|-------------|
 | 3d-token | Managed Network of 3D-Printers, integrating a Marketplace and a Crowdfunding platform | https://drive.google.com/file/d/1bTp8I2WxEOXM-Dz1qnVeXKQV98tfgw9C/ | https://3d-token.com/ | N/P* | GOOGLE DOCS |
+| Acorn Collective | The First Completely Free and Open-Access Blockchain Crowdfunding Platform | https://drive.google.com/file/d/0B1PbmmXatTeAODdsWUl4bmRJOW8/view | https://www.aco.ai/ | N/P* | GOOGLE DOCS |
 | Ahoolee | The Ahoolee project | https://drive.google.com/file/d/0Bz8GOnrPq_i-SGk5a1Jxbld2TGs/view | http://ahoolee.io/ | N/P* | GOOGLE DOCS |
 | Aigang | Autonomous insurance network -fully automated insurance for IoT devices and a platform for insurance innovation built around data | https://drive.google.com/file/d/1qUuXmBta-qn5ze-aPPMUdPIgKjtNRpQq/view | https://aigang.network/ | N/P* | GOOGLE DOCS |
 | Altocar | Personalized taxi aggregator with the Digital Economy | https://drive.google.com/file/d/0B_kmY5mKXSK5c0RNSVVwYlZiN2M/view | https://altocar-ico.com/en | N/P* | GOOGLE DOCS |
@@ -40,7 +41,8 @@
 | Injoin | A Sharing Eco­Environmental System | https://drive.google.com/file/d/0BxD_k1HToD-HSWxPQm9ZSXVPbXc/view?usp=sharing | https://www.injoin.in/ | N/P* | GOOGLE DOCS |
 | Intellium | Intellium brings real world investments and blockchain together to transform capital markets | https://docs.google.com/document/d/16Gqf45bfP46Zy2_w4AhxVefCRGKBMiUnK-jtrKJazyI/edit#heading=h.5vhv6o725gcc | http://intellium-ico.com/index.html | N/P* | GOOGLE DOCS |
 | Jboxcoin | JBOXCOIN.ORG Whitepaper | https://drive.google.com/file/d/0BxC2u6uHtVw_YXZ0Z3RrRnlQZ00/view | https://jboxcoin.org/ | N/P* | GOOGLE DOCS |
-| Kript | A N E C O S Y S T E M F O R I N V E S T I N G IN CRYPTO ASSETS | https://drive.google.com/file/d/0Bx-wNYBx9zmnQnloY2RIWEh1TlU/view | http://kript.io/ | N/P* | GOOGLE DOCS |
+| KeepPet | INTERNATIONAL DIGITAL PET PASSPORT | https://docs.google.com/document/d/1OgiWGPPryZ9qjJN6jfKEeFNlHhNp0R5gNNyEv--0OHU/edit | http://keep.pet/en/ | N/P* | GOOGLE DOCS |
+| Kript | AN ECO SYSTEM FOR INVESTING IN CRYPTO ASSETS | https://drive.google.com/file/d/0Bx-wNYBx9zmnQnloY2RIWEh1TlU/view | http://kript.io/ | N/P* | GOOGLE DOCS |
 | Langpie |  | https://drive.google.com/file/d/0B7duDBu7CzCZMzVzUVU2dUkxWGM/view | https://langpie.io/ | N/P* | GOOGLE DOCS |
 | Last Will | Making Contracts Really Smart. For Life. | https://drive.google.com/open?id=0B3ZY9oXSrdvjYjlCLUxra3oxZHM | https://lastwill.io/en/ | N/P* | GOOGLE DOCS |
 | Legacylotto |  First decentralized world wide lottery offering ticket mining and self executing  smart contracts | https://drive.google.com/file/d/1BmwzsunfBmQXFG9bJirGDZDM3lLwvBbL/view | https://www.legacylotto.io/ | N/P* | GOOGLE DOCS |
@@ -52,6 +54,7 @@
 | Mevu | As a peer-to-peer decentralized network | https://www.dropbox.com/s/rqa6wxzozpdvzyx/meVuwhitepaper.pdf | https://www.mevu.bet/ | N/P* | GOOGLE DOCS |
 | Millennium | A decentralized community network to design, customize, buy, and invest in Real Estate | https://drive.google.com/a/bitsyte.com/uc?authuser=1&id=1Ka5qI9shVFsAQxKasl3zGBbWZaB-2W-F&export=download | https://millennium.network/ | N/P* | GOOGLE DOCS |
 | Mindsports | DECENTRALIZE MINDSPORTS NETWORK | https://drive.google.com/file/d/0B23oU2WDqlyWZHNvM2ZZLWNrVmc/view | https://www.mindsports.io/ | N/P* | GOOGLE DOCS |
+| Mjcoin | Changing the cannabis market forever  | https://drive.google.com/file/d/1D0CS3sZ4kvKAFXWpAMBQ-g1Gnp9HDhVe/view | https://mjcoin.com/ | N/P* | GOOGLE DOCS |
 | Moon Funding | INVEST IN MOON FUNDING  | https://docs.google.com/document/d/1SRz9qCAoscWfhggVQo0Xp3wI7awCr563JUpYMjmbGcc/edit | https://moonfunding.com/ | N/P* | GOOGLE DOCS |
 | Musicoin | A Decentralized platform for Musicians and Listeners | https://drive.google.com/file/d/1Rqftu2SG-UjoHb-Wikm9NYavIV8fZlWk/view?usp=sharing | https://musicoin.org | N/P* | GOOGLE DOCS |
 | MyTrackNet | MyTrackNet | https://drive.google.com/file/d/0B_pE0PM9GYZDM08zVTF6UkNUTUE/view | https://www.mytracknet.com/ | N/P* | GOOGLE DOCS |
@@ -166,6 +169,7 @@
 | Jwcventures |  |  | https://jwcventures.com/ | N/P* | NOT FOUND |
 | Internxt |  |  | https://internxt.io/ | N/P* | NOT FOUND |
 | Kexcoin |  |  | https://kexcoin.com/ | N/P* | NOT FOUND |
+| Kodakone |  |  | https://kodakcoin.com/ | N/P* | NOT FOUND |
 | Kuna Exchange |  |  | https://kuna.io/sco?lang=en | N/P* | NOT FOUND |
 | Lambo Token |  |  | http://lambotoken.io/ | N/P* | NOT FOUND |
 | Liberstad |  |  | http://www.liberstad.com/ | N/P* | NOT FOUND |
@@ -313,9 +317,11 @@
 | Orb | CoinCore | https://imagine-orb.com/tech/coincore-getting-started/ | https://imagine-orb.com/ | N/P* | NOT PDF |
 | Proxy | Proxy Ethereum for Everyone | https://blog.proxycard.io/whitepaper-ccbd4ac034c9 | http://www.proxycard.io/ | N/P* | NOT PDF |
 | Qorio | Singing assistant AI | https://qorio.attach.io/SyQFRLN0b | https://www.qorio.com/token-sale | N/P* | NOT PDF |
+| R-Block | Decentralised Hiring Network Own your work experience & reputation on the blockchain | https://github.com/R-Block/_Whitepaper_/blob/master/%7BWhitepaper%7D.pdf | https://rblock.co/ | N/P* | NOT PDF |
 | Raiden Network | Raiden is a payment network built on top of the ethereum network | https://raiden-network.readthedocs.io/en/stable/spec.html# | https://raiden.network/ | N/P* | NOT PDF |
 | Red Pill Coin | Red Pill | https://redpillcoin.com/white-paper/ | https://redpillcoin.com/ | N/P* | NOT PDF |
 | Renu Coin | Global blockchain, cryptocurrency, and smart contract platform for renewable energy. | http://renucoin.com/green-paper/ | http://renucoin.com/ | N/P* | NOT PDF |
+| Reporter Community | first market player to integrate blockchain technology into UGC which offers a 100% verified authentication process to all market players | https://docsend.com/view/bfgbg3j | https://www.reportercommunity.tech/ | N/P* | NOT PDF |
 | Rex | A Decentralized Multiple Listing Service & Real Estate Transaction Application | https://github.com/rexmls/whitepaper/blob/master/readme.md | http://rexmls.com/ | N/P* | NOT PDF |
 | Routecoin | utility token that can be used inside Routecoin community via WiFiNewAge software to share WiFi networks | http://routecoin.io/whitepaper.php | http://routecoin.io/ | N/P* | NOT PDF |
 | Safinus | Revolutionary Platform for Investments in Cryptocurrencies and ICOs | https://www.safinus.com/whitepaper/ | https://www.safinus.com/ | N/P* | NOT PDF |
@@ -330,6 +336,7 @@
 | Terraminer | ICO based on a real business | https://terraminer.online/white_paper/ | http://terraminer.io/ | N/P* | NOT PDF |
 | TOR-Q-ALL | TOR-Q-ALL ICO WHITE PAPER | https://www.torqall.com/white-paper | https://www.torqall.com/ | N/P* | NOT PDF |
 | Truedonate | TrueDonate | https://truedonate.io/whitepaper | https://truedonate.io/ | N/P* | NOT PDF |
+| Vestarin | Marketplace of goods and services for cryptocurrency | https://www.vestarin.io/en/whitepaper | https://www.vestarin.io/ | N/P* | NOT PDF |
 | Vestopia | The Future of Investment andReal Estate | https://static.parastorage.com/services/wix-labs-pdf-viewer-statics/1.33.0/libs/pdfjs/web/viewer.html | https://www.vestopia.io/ | N/P* | NOT PDF |
 | Visual SmartContracts | Blockchain Solutions for Supply Operations | https://github.com/blockarraygroup/documents/blob/master/blockarray-overview-paper.pdf | http://blockarray.com/ | N/P* | NOT PDF |
 | Wcx | Global Digital Currency Exchange | https://ico.wcex.co/whitepaper?lang=en | https://wcex.co/ | N/P* | NOT PDF |
@@ -345,6 +352,7 @@
 | Allowance Network |  |  | https://allowance.network/ | N/P* | NOT WORKING |
 | Alpencoin |  |  | https://www.alpencoin.com/ | N/P* | NOT WORKING |
 | Amberport |  |  | http://www.amberport.io/ | N/P* | NOT WORKING |
+| Apex |  |  | https://apex.chinapex.com/ | N/P* | NOT WORKING |
 | Aterious | Aterious | https://aterious.com/white_paper.pdf | https://aterious.com/ | N/P* | NOT WORKING |
 | Athenacoin |  |  | https://www.athenacoin.io/ | N/P* | NOT WORKING |
 | Aucoin |  |  | http://ico-pgranville.online/ | N/P* | NOT WORKING |
@@ -408,6 +416,7 @@
 | Instacoin |  |  | https://instacoin.pro/ | N/P* | NOT WORKING |
 | Insurex |  |  | https://www.insurex.co/ | N/P* | NOT WORKING |
 | Integrative Wallet Token |  |  | https://iwtoken.com/en/ | N/P* | NOT WORKING |
+| InVisio |  |  | https://www.invisioplatform.com | N/P* | NOT WORKING |
 | Jazemcoin |  |  | https://jazemcoinproyect.wixsite.com/ | N/P* | NOT WORKING |
 | Karbon |  |  | https://karbon.io/ | N/P* | NOT WORKING |
 | Kitex | Kitex - Decentralized Privacy Platform | https://kitex.io/WHITEPAPER.pdf | https://kitex.io/ | N/P* | NOT WORKING |
