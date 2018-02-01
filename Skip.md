@@ -28,7 +28,7 @@
 | Fic Network | Fixed Income Infrastructure for Blockchain Assets | https://drive.google.com/file/d/0ByzKCCWTHkioZzRhTThXSi0zcWM/view | http://factury.co/fixnet/ | N/P* | GOOGLE DOCS |
 | Fintab | The Accounting System for Cryptocurrency Portfolios | https://drive.google.com/file/d/1IawIwe0zJmhytA6PIs9S8wEo7gP6nyRL/view | https://fintab.io/ | N/P* | GOOGLE DOCS |
 | Forty Seven Bank | We are connecting financial worlds | https://drive.google.com/file/d/0BzvESRkgX-uDeHc1QjRzbHRBelU/view | https://www.fortyseven.io/ | N/P* | GOOGLE DOCS |
-| Genie | Token-based lending platform for Asia | https://drive.google.com/file/d/1wloXd2lzW_94Q-nVbGjXPj0nT4aiuM97/view | https://www.genieico.net/ | N/P* | GOOGLE DOCS |
+| Genie | Token-based lending platform for Asia | https://drive.google.com/file/d/1um3ClBgZr0Uoh2h6dk01zXhE_hiE7FFa/view | https://www.genieico.net/ | N/P* | GOOGLE DOCS |
 | Geopin | Blockchain-based interface to the physical world | https://drive.google.com/file/d/10qGeu1EI-RuRqA9aosRyfeNlLPms_Ns9/ | https://geopin.network/ | N/P* | GOOGLE DOCS |
 | Gif By Socifi | Blockchain-based Marketplace for Sponsored Data and other sponsored products and services | https://drive.google.com/file/d/0B16wHRja8doNNVhWRElYRmxKWkk/view | https://gif.network/ | N/P* | GOOGLE DOCS |
 | Grid+ | Welcome to the Future of Energy | https://drive.google.com/file/d/0Bz90riPGRHquNDVXVE81RmppaUk/view | https://gridplus.io/ | N/P* | GOOGLE DOCS |
@@ -61,6 +61,7 @@
 | MyTrackNet | MyTrackNet | https://drive.google.com/file/d/0B_pE0PM9GYZDM08zVTF6UkNUTUE/view | https://www.mytracknet.com/ | N/P* | GOOGLE DOCS |
 | Mywish | Making Contracts. Really Smart. For Life. | https://drive.google.com/file/d/0B3ZY9oXSrdvjYjlCLUxra3oxZHM/view | https://mywish.io/ | N/P* | GOOGLE DOCS |
 | Nwa | HYBRID FUND APPLYING ITS EXCLUSIVE STRATEGIES IN THE STOCK AND CRYPTOCURRENCY WORLD MARKET | https://onedrive.live.com/view.aspx?resid=6771A23E5F3C19C4!3483&ithint=file%2cdocx&app=Word&authkey=!AKUnQz8UjaWp0RI | https://www.nwa.ltd/ | N/P* | GOOGLE DOCS |
+| Olxa coin | DECENTRALIZED APPLICATIONS AND CROWD-PROJECTS THROUGH THE BLOCKCHAIN TECHNOLOGY | https://drive.google.com/file/d/1mUW1CtE35_KYSR1OTRH_MajzA6DrOv6a/view | https://www.olxacoin.com/ | N/P* | GOOGLE DOCS |
 | Openlongevity | Initiates, organizes and guarantees the openness of clinical trials | https://docs.google.com/document/d/1wUz5D1cvSDkSeXF6RZipK_zNHE9odn4uEP7qgM0jtZk/ | http://en.openlongevity.io/ | N/P* | GOOGLE DOCS |
 | Orada | The first building portal of Sochi is a single space for sellers and buyers | https://docs.wixstatic.com/ugd/7c37b3_f2c27bc4258a48f4a0974a9a5418ba8b.docx?dn=%D0%B2%D0%B0%D0%B9%D1%82%20%D0%BF%D0%B5%D0%BF%D0%B5%D1%80.docx | https://www.orada-ico.com/ | N/P* | GOOGLE DOCS |
 | Payfrit | Helping restaurants work smarter and sell more | https://docs.google.com/document/d/1Em98l_Zzsg6vHjyZm6rZUXT50ArX85RpF-HyGkgCsYE/ | http://www.payfrit.com/ | N/P* | GOOGLE DOCS |
@@ -86,6 +87,7 @@
 | The Full Consensus Films | The Full Consensus Films ICO | https://drive.google.com/file/d/0Byk4qX7vFTjVT3laZ1FOOGxXZUk/view | http://thefullconsensusfilms.com/ | N/P* | GOOGLE DOCS |
 | Ties.network | Database Management System | https://docs.google.com/document/d/1UwaaUgunnrFpL6jetA_DdNLQsbbqBx1HLcln07kLrUw/edit | http://ties.network/?utm_source=icoalert.com&amp;utm_medium=tracker | N/P* | GOOGLE DOCS |
 | U.cash | INTRODUCING U.CASH’S PLAN FOR GLOBAL P2P FINANCIAL SERVICES | https://docs.google.com/document/d/1Lvh4SEvGVHQ0Opj8wKmytMe63PxpXFgZNgIGbpIi22M/edit | https://u.cash/ | N/P* | GOOGLE DOCS |
+| Una | A Peer-to-Peer Electronic Cash System Tailored To The African Ecosystem | https://docs.google.com/document/d/1D7WQWZL2op3JZQPFMUgrQNgsHdaTfQJpoXQuh5vrnm0/edit | https://www.unaproject.org/ | N/P* | GOOGLE DOCS |
 | Value Coin | World’s First Value Investing Crypto Fund | https://drive.google.com/file/d/0B5xw4OGTAR89WU52VnQzNmZ6dzA/view | https://www.valuecoinfund.com/ | N/P* | GOOGLE DOCS |
 | Vega | Decentralized Funding Platform | https://docs.google.com/document/d/1rgMqqoE7NNTPCLEGyCSBfYW39hqAPEi0U6tS105-U3g/ | http://www.vega.fund/ | N/P* | GOOGLE DOCS |
 | Videoblog.io | Как Зарабатывать Деньги на Своем Видеоблоге? | https://docs.google.com/presentation/d/10Exunov7qrLXW65fRYdkKlIdP4dgwieyIm7KVRkuvDw/edit#slide=id.p | https://videoblog.io/en/app/ico/1 | N/P* | GOOGLE DOCS |
@@ -288,6 +290,7 @@
 | Etheera | THE FUTURE OF GLOBAL REAL ESTATE | https://www.etheera.com/icowhitepaper-eng | https://www.etheera.com/ | N/P* | NOT PDF |
 | Ethlend | ETHLend.io White Paper - Democratizing Lending | https://github.com/ETHLend/Documentation/blob/master/ETHLendWhitePaper.md | https://about.ethlend.io/ | N/P* | NOT PDF |
 | Experty IO | Calls powered by cryptocurrencies | https://docsend.com/view/metua2p | https://www.experty.io/en | N/P* | NOT PDF |
+| Eygex | EYGEX AND THE MOBA MARKET | https://eygex.com/#whitepaper | https://eygex.com/ | N/P* | NOT PDF |
 | Fcfl | The first fan controlled professional sports league | https://view.attach.io/rJnBiarpb | https://fcfl.io/ | N/P* | NOT PDF |
 | Fidentiax | World's 1st Marketplace for Tradable Insurance Policies | https://www.fidentiax.com/webfiles/1513068076363/pdf/web/viewer.html | https://www.fidentiax.com/ | N/P* | NOT PDF |
 | Fintechbit | A profitable trading club with a fully developed trademarked algorithmic trading bot | https://www.fintechbit.io/white-paper | https://www.fintechbit.io/ | N/P* | NOT PDF |
@@ -295,6 +298,7 @@
 | Game Machine | GAME MACHINE ECOSYSTEM | https://gamemachine.io/en/token-sale/whitepaper | https://gamemachine.io/en | N/P* | NOT PDF |
 | GameProtocol | Game Protocol: A Decentralized Community for Creating, Collaborating and Distributing Games | http://www.gameprotocol.io/whitepaper | http://www.gameprotocol.io/ | N/P* | NOT PDF |
 | Gift Token | EASILY BUY GIFTCARDS AND PRE-PAID CARDS WITH CRYPTOCURRENCY | https://gifttoken.io/whitepaper/ | https://gifttoken.io/ | N/P* | NOT PDF |
+| Globo | utilize the M2M communications as a Payment System. This is a Revolutionary approach | https://www.globo.in/whitepaper/ | https://www.globo.in/ | N/P* | NOT PDF |
 | Gold Invest |  | https://goldmtoken.com/wp | https://goldmtoken.com/ | N/P* | NOT PDF |
 | Gravel Coin | The First Gravel Production at a global scale to be funded by Tokens Based on the Blockchain Technology | https://github.com/GravelCoin/docsandlinks/blob/master/2017-11-13%20GRV%20COIN_EN.pdf | http://www.gravelcoin.com/ | N/P* | NOT PDF |
 | Grondigital | Gambling and Betting industry by contributing to Gron Digital Platform | https://grondigital.com/whitepaper | https://grondigital.com/ | N/P* | NOT PDF |
