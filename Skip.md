@@ -11,6 +11,7 @@
 | Bitether | BitEther investment opportunities | https://drive.google.com/file/d/1vGGuk8GwERuhq2ytoIiz0Ph5MuUWeQGN/view | https://www.bitether.co/ | N/P* | GOOGLE DOCS |
 | BitFerry | Invest in one of the biggest industrial cryptocurrency mining farm in Europe | https://drive.google.com/file/d/1Z9BybHz-z2-lxfH_GtlNbOXmZFJYTm72/view | http://bitferry.pro/ | N/P* | GOOGLE DOCS |
 | Bitto | First Innovative Cryptocurrency Exchange Platform | https://www.dropbox.com/s/lldefisrcfh022b/3783d6_cc0864e41b4942888ea2e771cb531ff0.pdf | https://www.bitto.tech/ | N/P* | GOOGLE DOCS |
+| Ceek | SMART VIRTUAL REALITY TOKENS | https://www.dropbox.com/s/1fibdgyjgbfiu6h/CEEK_Virtual%20Reality%20TGE%20White%20Paper.pdf | https://www.ceek.io/ | N/P* | GOOGLE DOCS |
 | Circle | Providing new cryptocurrency solutions in the digital financial world. It is introduced in the innovative hybrid platform which allows investors to invest and increase their wealth sustainably | https://docs.google.com/presentation/d/e/2PACX-1vStvrTuBEOojklvIyX-bL_hGh2YAZRLrTxxIWZJ8vbM9TvxqV7xdZPOv7kGDv7_eMNE_kkG2oIiVBJo/pub?start=true&loop=true&delayms=3000&slide=id.g2d13cb9866_0_171 | https://www.circlenet.io/ | N/P* | GOOGLE DOCS |
 | Circles Project | Circles - The Future of Social Media Content Appreciation | https://drive.google.com/file/d/0B2SB1klk7d28dXdoLUY1b240SDA/view | https://circlesproject.io/ | N/P* | GOOGLE DOCS |
 | Cobalt Coin | cobalt development project | https://drive.google.com/file/d/0Bw2Heb_xR5dNUkhlb3paWVRSWEU/view | http://cobalt-coin.one/en | N/P* | GOOGLE DOCS |
@@ -20,6 +21,7 @@
 | Darfchain | An InterPlanetary Ecosystem for Managing Tokenomy Projects | https://drive.google.com/file/d/1t7fweDhluFNOrg1L71I3tSGU5qw4c6v-/view | http://darfchain.com/ | N/P* | GOOGLE DOCS |
 | Dentalfix | DENTALFIX: A Healthcare Peer-to-Peer | https://drive.google.com/file/d/1psxxuTUnKYzc8Tw_GwDu7CxjZ1kOK_Lr/view | http://www.che-ss.com/dentalfix-ico/ | N/P* | GOOGLE DOCS |
 | Dolphin Blockchain Intelligence | open-source platform for collaborative crypto-asset investment analysis | https://drive.google.com/file/d/0B3Mr_3tb2Qb0MElpUVE3d3lUaEU/view | https://presale.dolphin.bi/ | N/P* | GOOGLE DOCS |
+| Drivr | Advanced A.I. Driven Rideshare on the Blockchain | https://drive.google.com/file/d/111BBGfvhn_ZvU5vdZikrDOq2n_-2eDGe/view | https://drivr.network/ | N/P* | GOOGLE DOCS |
 | Dropdeck | A royalty & debt financing platform for fast growing businesses | https://drive.google.com/file/d/0B-ngm-zezrFQaHNxaHZWTnNNMTA/view | https://dropdeck.io/ | N/P* | GOOGLE DOCS |
 | Ecogreenhouse | TOKEN GENERATING EVENT | https://drive.google.com/file/d/0B5BDsUAHOQraLUtIcWVycl9RZDA/view | https://www.egh.io/en/ | N/P* | GOOGLE DOCS |
 | Elpis Investments | Elpis is the First AI Crypto-assets Investment Fund | https://drive.google.com/file/d/0BylWh_GCTZAyeTZKTDNaTEx5NkE/view | https://elpisinvestments.com/ | N/P* | GOOGLE DOCS |
@@ -27,6 +29,7 @@
 | Famebroker | DECENTRALIZING POPULARITY | https://drive.google.com/file/d/1VIYuFlhMfO6SLt1QJQ1mzn-oEl_CHREy/view | http://www.icobitfames.com/ | N/P* | GOOGLE DOCS |
 | Fic Network | Fixed Income Infrastructure for Blockchain Assets | https://drive.google.com/file/d/0ByzKCCWTHkioZzRhTThXSi0zcWM/view | http://factury.co/fixnet/ | N/P* | GOOGLE DOCS |
 | Fintab | The Accounting System for Cryptocurrency Portfolios | https://drive.google.com/file/d/1IawIwe0zJmhytA6PIs9S8wEo7gP6nyRL/view | https://fintab.io/ | N/P* | GOOGLE DOCS |
+| Flashmoni | Physical Gold-backed cryptocurrency / Innovative payment features / smart contract-based ad solutions | https://drive.google.com/file/d/10tlNa7GwOlaV7ZD7ovmYaOLq5sLSwUlU/view | https://www.flashmoni.io/ | N/P* | GOOGLE DOCS |
 | Forty Seven Bank | We are connecting financial worlds | https://drive.google.com/file/d/0BzvESRkgX-uDeHc1QjRzbHRBelU/view | https://www.fortyseven.io/ | N/P* | GOOGLE DOCS |
 | Genie | Token-based lending platform for Asia | https://drive.google.com/file/d/1um3ClBgZr0Uoh2h6dk01zXhE_hiE7FFa/view | https://www.genieico.net/ | N/P* | GOOGLE DOCS |
 | Geopin | Blockchain-based interface to the physical world | https://drive.google.com/file/d/10qGeu1EI-RuRqA9aosRyfeNlLPms_Ns9/ | https://geopin.network/ | N/P* | GOOGLE DOCS |
@@ -50,8 +53,9 @@
 | Lordmancer2 | The first open-world MMORPG on mobile where players can earn cryptocurrency | https://drive.google.com/file/d/1yvae0ac1Ak3wyxjUoObCcH-N4j9VQX7q/ | https://lordmancer2.io/ | N/P* | GOOGLE DOCS |
 | Lynx Network | The Autonomous Network & Organization Infrastructure Environment | https://www.dropbox.com/s/264gqstkg4xw7t2/whitepaperV.1.pdf | https://www.lynxnetwork.org/ | N/P* | GOOGLE DOCS |
 | Mainasset | global economic strategy game,which allows you to earn cryptocurrency in the cryptoworld | https://drive.google.com/file/d/0B_250MWAsXW7c0UwWHdHbF9YOVU/view | http://mainasset.org/ | N/P* | GOOGLE DOCS |
-| Maler Grupp | Maler Grupp Russia official ICO White Paper | https://drive.google.com/file/d/0Byk4qX7vFTjVbzYwN2xMQ25XcE0/view | http://maler-ico.com/ | N/P* | GOOGLE DOCS |
+| Medichain | The Medical Big-Data Platform Saving Lives With Blockchain | https://drive.google.com/file/d/0Byk4qX7vFTjVbzYwN2xMQ25XcE0/view | https://medichain.online/ | N/P* | GOOGLE DOCS |
 | Media Sifter | Decentralize Influence, Distribute Truth | https://docs.google.com/document/d/18IBZLmtCFAZtjmp43iLuGIqm60tpMJ0zdYzgHL98sII/edit | https://www.mediasifter.co/ | N/P* | GOOGLE DOCS |
+| Mevu | As a peer-to-peer decentralized network | https://docs.google.com/document/d/1M4j-ertE4Couj0tdVzNQeE_y3YgXZbJXAafiPO_v5C8/ | https://www.mevu.bet/ | N/P* | GOOGLE DOCS |
 | Mevu | As a peer-to-peer decentralized network | https://www.dropbox.com/s/rqa6wxzozpdvzyx/meVuwhitepaper.pdf | https://www.mevu.bet/ | N/P* | GOOGLE DOCS |
 | Millennium | A decentralized community network to design, customize, buy, and invest in Real Estate | https://drive.google.com/a/bitsyte.com/uc?authuser=1&id=1Ka5qI9shVFsAQxKasl3zGBbWZaB-2W-F&export=download | https://millennium.network/ | N/P* | GOOGLE DOCS |
 | Mindsports | DECENTRALIZE MINDSPORTS NETWORK | https://drive.google.com/file/d/0B23oU2WDqlyWZHNvM2ZZLWNrVmc/view | https://www.mindsports.io/ | N/P* | GOOGLE DOCS |
@@ -60,6 +64,7 @@
 | Musicoin | A Decentralized platform for Musicians and Listeners | https://drive.google.com/file/d/1Rqftu2SG-UjoHb-Wikm9NYavIV8fZlWk/view?usp=sharing | https://musicoin.org | N/P* | GOOGLE DOCS |
 | MyTrackNet | MyTrackNet | https://drive.google.com/file/d/0B_pE0PM9GYZDM08zVTF6UkNUTUE/view | https://www.mytracknet.com/ | N/P* | GOOGLE DOCS |
 | Mywish | Making Contracts. Really Smart. For Life. | https://drive.google.com/file/d/0B3ZY9oXSrdvjYjlCLUxra3oxZHM/view | https://mywish.io/ | N/P* | GOOGLE DOCS |
+| Neurogress | NEUROGRESS. THINK. SHAPE YOUR WORLD | https://drive.google.com/file/d/1rWFkKtDy7tuBwJ_oxSW2vEwAxEh3uqlM/view | https://neurogress.io/ | N/P* | GOOGLE DOCS |
 | Nwa | HYBRID FUND APPLYING ITS EXCLUSIVE STRATEGIES IN THE STOCK AND CRYPTOCURRENCY WORLD MARKET | https://onedrive.live.com/view.aspx?resid=6771A23E5F3C19C4!3483&ithint=file%2cdocx&app=Word&authkey=!AKUnQz8UjaWp0RI | https://www.nwa.ltd/ | N/P* | GOOGLE DOCS |
 | Olxa coin | DECENTRALIZED APPLICATIONS AND CROWD-PROJECTS THROUGH THE BLOCKCHAIN TECHNOLOGY | https://drive.google.com/file/d/1mUW1CtE35_KYSR1OTRH_MajzA6DrOv6a/view | https://www.olxacoin.com/ | N/P* | GOOGLE DOCS |
 | Openlongevity | Initiates, organizes and guarantees the openness of clinical trials | https://docs.google.com/document/d/1wUz5D1cvSDkSeXF6RZipK_zNHE9odn4uEP7qgM0jtZk/ | http://en.openlongevity.io/ | N/P* | GOOGLE DOCS |
@@ -261,6 +266,7 @@
 | Bico | Everything you need for a successful ICO in the world’s first ICO funded book | http://bico.me/whitepaper/ | http://bico.me/ | N/P* | NOT PDF |
 | Big Foundation | Basic Income Guarantee Protocol | https://github.com/bigfoundation/Documentation/blob/master/BIGwhitepaperEN.md | http://big.foundation/ | N/P* | NOT PDF |
 | BITCAPTERA | WORLD OF BITCAPTERA | https://www.bitcaptera.io/pdf.php | https://www.bitcaptera.io/ | N/P* | NOT PDF |
+| Bitclave | Decentralized Search Engine | https://docsend.com/view/84tv53w | https://www.bitclave.com/ | N/P* | NOT PDF |
 | Bitrace |  | https://www.bitrace-token.com/whitepaper-english | https://www.bitrace-token.com/ | N/P* | NOT PDF |
 | Blind Croupier | Blind Croupier is a gambling software development company [Business to business], providing decentralized, fast, fair and transparent gambling solutions for casinos. | https://github.com/BlindCroupier/Documentation/blob/master/English%20Documentation/WhitePaper.md | https://blindcroupier.io/ | N/P* | NOT PDF |
 | Blockfood | the world's first decentralized food ordering platform | https://whitepaper.blockfood.io/ | https://blockfood.io/ | N/P* | NOT PDF |
