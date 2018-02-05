@@ -53,9 +53,9 @@
 | Lordmancer2 | The first open-world MMORPG on mobile where players can earn cryptocurrency | https://drive.google.com/file/d/1yvae0ac1Ak3wyxjUoObCcH-N4j9VQX7q/ | https://lordmancer2.io/ | N/P* | GOOGLE DOCS |
 | Lynx Network | The Autonomous Network & Organization Infrastructure Environment | https://www.dropbox.com/s/264gqstkg4xw7t2/whitepaperV.1.pdf | https://www.lynxnetwork.org/ | N/P* | GOOGLE DOCS |
 | Mainasset | global economic strategy game,which allows you to earn cryptocurrency in the cryptoworld | https://drive.google.com/file/d/0B_250MWAsXW7c0UwWHdHbF9YOVU/view | http://mainasset.org/ | N/P* | GOOGLE DOCS |
-| Medichain | The Medical Big-Data Platform Saving Lives With Blockchain | https://drive.google.com/file/d/0Byk4qX7vFTjVbzYwN2xMQ25XcE0/view | https://medichain.online/ | N/P* | GOOGLE DOCS |
+| Maler Grupp | Maler Grupp Russia official ICO White Paper | https://drive.google.com/file/d/0Byk4qX7vFTjVbzYwN2xMQ25XcE0/view | http://maler-ico.com/ | N/P* | GOOGLE DOCS |
+| Medichain | The Medical Big-Data Platform Saving Lives With Blockchain | https://docs.google.com/document/d/1M4j-ertE4Couj0tdVzNQeE_y3YgXZbJXAafiPO_v5C8/ | https://medichain.online/ | N/P* | GOOGLE DOCS |
 | Media Sifter | Decentralize Influence, Distribute Truth | https://docs.google.com/document/d/18IBZLmtCFAZtjmp43iLuGIqm60tpMJ0zdYzgHL98sII/edit | https://www.mediasifter.co/ | N/P* | GOOGLE DOCS |
-| Mevu | As a peer-to-peer decentralized network | https://docs.google.com/document/d/1M4j-ertE4Couj0tdVzNQeE_y3YgXZbJXAafiPO_v5C8/ | https://www.mevu.bet/ | N/P* | GOOGLE DOCS |
 | Mevu | As a peer-to-peer decentralized network | https://www.dropbox.com/s/rqa6wxzozpdvzyx/meVuwhitepaper.pdf | https://www.mevu.bet/ | N/P* | GOOGLE DOCS |
 | Millennium | A decentralized community network to design, customize, buy, and invest in Real Estate | https://drive.google.com/a/bitsyte.com/uc?authuser=1&id=1Ka5qI9shVFsAQxKasl3zGBbWZaB-2W-F&export=download | https://millennium.network/ | N/P* | GOOGLE DOCS |
 | Mindsports | DECENTRALIZE MINDSPORTS NETWORK | https://drive.google.com/file/d/0B23oU2WDqlyWZHNvM2ZZLWNrVmc/view | https://www.mindsports.io/ | N/P* | GOOGLE DOCS |
