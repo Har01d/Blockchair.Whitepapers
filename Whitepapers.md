@@ -574,6 +574,7 @@
 | Flipz | Flipz - First decentralized e-commerce platform | https://ico.flipz.io/files/docs/whitepaper_web.pdf | https://flipz.io/ | N/P* |
 | Flixxo | Community based video distribution | https://www.flixxo.com/assets/docs/flixxo-white-paper_v0.5.pdf | http://www.flixxo.com/ | N/P* |
 | FlorinCoin | A scrypt-based coin with an augmented blockchain | http://florincoin.org/florincoin.pdf | http://florincoin.org/ | |
+| Flowchain | Tokenized Hardware: The New Crypto Innovation | https://flowchain.co/Tokenized-Hardware-WhitePaper.pdf | https://flowchain.co/ | Jollen Chen, Eric Pan |
 | Flowfeed | Flowfeed | https://www.flowfeed.com/assets/pdf/flowfeed-deck.pdf | https://www.flowfeed.com/ | N/P* |
 | Fluence | Fluence | http://static.fluence.ai/Business_Whitepaper.pdf | http://fluence.ai/ | N/P* |
 | Fluon | P2P Asset Management Ecosystem | http://fluonecosystem.org/files/fluon_whitepaper_ENG.pdf | http://fluons.org/ | N/P* |
