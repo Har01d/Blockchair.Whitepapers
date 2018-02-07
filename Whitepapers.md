@@ -444,6 +444,7 @@
 | Dimensions Network | Dimensions Network | https://dimensions.network/static/home/doc/DimensionsNetworkWhitepaper.pdf | https://dimensions.network/en/ | N/P* |
 | Dimnd | Dimnd - blockchain powered digital currency | http://dimnd.io/wp-content/uploads/2017/10/DIMND_Whitepaper2.0.pdf | http://dimnd.io/ | N/P* |
 | Dinnerful Network | DinnerfulNetwork | https://www.dinnerfulnetwork.com/content/whitepaper.pdf | https://www.dinnerfulnetwork.com/ | N/P* |
+| Disciplina |  Blockchain for Education | https://disciplina.io/yellowpaper.pdf | https://disciplina.io/ | N/P* |
 | DisLedger | DisLedger - Distributed Concurrence Ledgers | https://www.DisLedger.com/DisLedger_TokenLaunch.pdf | http://www.disledger.com/ | N/P* |
 | District0x | district0x | https://district0x.io/docs/district0x-whitepaper.pdf | https://district0x.io/ | N/P* |
 | Districts | Districts Project / 3D Decentralized Applications Platform | https://www.districts.io/DOWNLOAD/PDF/whitepaper.pdf | https://www.districts.io/ | N/P* |
