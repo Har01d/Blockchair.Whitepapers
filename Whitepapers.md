@@ -1401,7 +1401,7 @@
 | Uptoken | UpToken. A Crypto ATM on every corner, worldwide. | https://uptoken.org/UpToken-whitepaper.pdf | https://uptoken.org/ | N/P* |
 | UR | Kowala Technology SEZC | https://ur.technology/pdf/kowala-protocol-whitepaper-v1.0.pdf | https://ur.technology/ | N/P* |
 | USDe | USDE - Currency that enables payment everywhere in the world | http://usde.co/wp-content/uploads/2017/08/USDE%5FWhitePaper.pdf | http://usde.co/ | N/P* |
-| Uservice | Uservice - Global Decentralized Blockchain Platform For Automotive Industry | https://usrv.io/en-US/uservice.pdf | https://usrv.io/ | N/P* |
+| Uservice | Uservice - Global Decentralized Blockchain Platform For Automotive Industry | https://usrv.io/en-US/whitepaper.pdf | https://usrv.io/ | N/P* |
 | Utemis | The Coin of Fairness and Justice for Latin America  | https://www.utemis.com/wp-content/uploads/2017/12/White_Paper_Utemis.pdf | https://www.utemis.com/ | N/P* |
 | Utrust | Payment platform that empowers buyers to pay with their favorite cryptocurrencies | https://s3-eu-west-1.amazonaws.com/utrust/whitepaper/en/UTRUST-whitepaper-en-2017-10-15.pdf | https://utrust.io/ | N/P* |
 | V-Coins | V-Coins Global | http://v-coins-ico.com/wp-content/uploads/2017/10/whitepaper-vcs-ico.pdf | http://v-coins-ico.com/ | N/P* |
