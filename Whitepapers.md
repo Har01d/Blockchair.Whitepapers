@@ -128,7 +128,7 @@
 | BadgeForce | BadgeForce | https://s3.amazonaws.com/whitepaper.badgeforce.io/BadgeForce-whitepaper-v0.0.1.pdf | https://ico.badgeforce.io/ | N/P* |
 | Balehu Bucks | Home - Balehu Bucks | http://balehubucks.com/wp-content/uploads/2017/10/balehuwhitepapers-v1.pdf | http://balehubucks.com/ | N/P* |
 | Bali Coin | BALI COIN / Brings Cripto Currency into Tourism Industry | https://balicoin.io/wp-content/uploads/2017/11/ICO-white-paper-BALI-Proofread-14-Nov-2017-english.pdf | https://balicoin.io/ | N/P* |
-| Bananacoin | BananaCoin / Profitable and gaining popularity blocking option for investing in a reliable and fast-growing cryptocurrency of 2017 | https://www.bananacoin.io/files/Bananacoin_Eng_wp_1.4.pdf | https://www.bananacoin.io/ | N/P* |
+| Bananacoin | Expansion of banana production in Laos with the help of crowdfunding | https://bananacoin.io/files/White_Paper_Bananacoin_en.pdf | https://www.bananacoin.io/ | N/P* |
 | Banana Papa | Banana Papa | https://bananapapa.com/files/Presentation%5FEN.pdf | https://bananapapa.com/en/ | N/P* |
 | Bancor Protocol | Decentralized networks for smart contract based tokens to enable continuous convertibility between them | https://www.bancor.network/static/bancor_protocol_whitepaper_en.pdf | https://www.bancor.network/ | Eyal Hertzog, Guy Benartzi, Galia Benartzi |
 | Baner | International business social network and trading platform, complex innovative technologies, blockchain and cryptocurrency | https://ico.baner.su/media/whitepaper_en.pdf#zoom=75 | https://ico.baner.su/ | N/P* |
@@ -371,7 +371,8 @@
 | Cryptogene | Cryptogene - Blockchain Solutions for Africa | https://cryptogene.co/assets/files/Cryptogene%20White%20Paper.pdf | https://cryptogene.co/ | N/P* |
 | Crypto iBet | Crypto iBet | http://ico.cryptoibet.com/assets1/pdf/whitepaper-1.pdf | http://ico.cryptoibet.com/ | N/P* |
 | Crypto Improvement Fund | Crypto Improvement Fund - Crypto Improvement Fund | https://www.cryptoimprovementfund.io/wp-content/uploads/2017/10/CIF_Whitepaper.pdf | https://cryptoimprovementfund.io/ | N/P* |
-| CryptoISBN | CryptoISBN | https://cryptoisbn.com/whitepaper.pdf | https://www.cryptoisbn.com/c/ | N/P* |
+| CryptoISBN | Revolution in Crypto Publishing | https://cryptoisbn.com/whitepaper.pdf | https://www.cryptoisbn.com/c/ | N/P* |
+| Cryptoloans | FIRST BLOCKCHAIN PLATFORM FOR SECURE LENDING | https://www.cryptoloans.top/docs/Cryptoloans_White_Paper_English_Version.pdf | https://www.cryptoloans.top/ | N/P* |
 | Cryptonetix | cryptonetix | http://www.cryptonetix.com/static/cryptonetix_whitepaper.pdf | http://www.cryptonetix.com/#/ | N/P* |
 | Cryptoneumcoin | A DECENTRALIZED CRYPTOCURRENCY LENDING PLATFORM FEATURING TRADING STRATEGY USING AI TECHNOLOGY  | https://cryptoneumcoin.co/documents/White%20Paper%20pdf.pdf | https://cryptoneumcoin.co/ | N/P* |
 | Cryptonex | Cryptonex (CNX) - Global Blockchain Acquiring | https://cryptonex.org/pdf/whitepaper.pdf | https://cryptonex.org/ | N/P* |
