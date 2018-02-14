@@ -31,6 +31,7 @@
 | Fintab | The Accounting System for Cryptocurrency Portfolios | https://drive.google.com/file/d/1IawIwe0zJmhytA6PIs9S8wEo7gP6nyRL/view | https://fintab.io/ | N/P* | GOOGLE DOCS |
 | Flashmoni | Physical Gold-backed cryptocurrency / Innovative payment features / smart contract-based ad solutions | https://drive.google.com/file/d/10tlNa7GwOlaV7ZD7ovmYaOLq5sLSwUlU/view | https://www.flashmoni.io/ | N/P* | GOOGLE DOCS |
 | Forty Seven Bank | We are connecting financial worlds | https://drive.google.com/file/d/0BzvESRkgX-uDeHc1QjRzbHRBelU/view | https://www.fortyseven.io/ | N/P* | GOOGLE DOCS |
+| Frasindo | FRASINDO "FRAS COIN" | https://drive.google.com/file/d/1jWnP6nWK7omHNZZp4iUrhSAJu3BifGwt/view | https://www.frasindo.com/ | N/P* | GOOGLE DOCS |
 | Genie | Token-based lending platform for Asia | https://drive.google.com/file/d/1um3ClBgZr0Uoh2h6dk01zXhE_hiE7FFa/view | https://www.genieico.net/ | N/P* | GOOGLE DOCS |
 | Geopin | Blockchain-based interface to the physical world | https://drive.google.com/file/d/10qGeu1EI-RuRqA9aosRyfeNlLPms_Ns9/ | https://geopin.network/ | N/P* | GOOGLE DOCS |
 | Gif By Socifi | Blockchain-based Marketplace for Sponsored Data and other sponsored products and services | https://drive.google.com/file/d/0B16wHRja8doNNVhWRElYRmxKWkk/view | https://gif.network/ | N/P* | GOOGLE DOCS |
@@ -105,7 +106,7 @@
 | 803mine |  |  | https://www.803mine.com/ | N/P* | NOT FOUND |
 | Aasani |  |  | http://www.aasani.net/ | N/P* | NOT FOUND |
 | Aether United |  |  | http://aetherunited.com/ | N/P* | NOT FOUND |
-| Aiom |  |  | https://www.aicosoft.de/ | N/P* | NOT FOUND |
+| Aiom |  |  | https://ico.aicosoft.de/ | N/P* | NOT FOUND |
 | Akasha |  |  | https://akasha.world/ | N/P* | NOT FOUND |
 | Algo Land |  |  | https://www.algo.land/ | N/P* | NOT FOUND |
 | Altcoincommunity |  |  | http://altcoincommunity.co/ | N/P* | NOT FOUND |
@@ -225,6 +226,7 @@
 | Secure Identity Ledger Corporation |  |  | https://www.secureidentityledger.com/ | N/P* | NOT FOUND |
 | Selfpay |  |  | https://ico.selfpay.asia/ | N/P* | NOT FOUND |
 | Sermly |  |  | https://sermly.com/ | N/P* | NOT FOUND |
+| Sphere |  |  | https://sphere.social/ | N/P* | NOT FOUND |
 | Sikka |  |  | http://sikka.io/ | N/P* | NOT FOUND |
 | Slot |  |  | http://slot.network/ | N/P* | NOT FOUND |
 | Smart Billions |  |  | https://smartbillions.com/ | N/P* | NOT FOUND |
@@ -262,6 +264,7 @@
 | Anacoin | Peace through technology | https://docsend.com/view/yqiyh32 | https://ananas.org.uk/ | N/P* | NOT PDF |
 | Aphelion | P2P Digital Asset Distribution | https://aphelion.org/wp.html | https://apheliontoken.com/ | N/P* | NOT PDF |
 | Astronaut | Astronaut | https://astronaut.docsend.com/view/p4iazfu | https://astronaut.capital/ | N/P* | NOT PDF |
+| Atlas work | a new global freelancing platform that incorporates blockchain technologies to create a decentralized ecosystem that will reach across borders and revolutionize the Freelance Industry | https://www.atlas.work/whitepaper-viewer | https://www.atlas.work/ | N/P* | NOT PDF |
 | Authorship | A Step towards Decentralization of the Internet | https://view.joomag.com/authorship-white-paper-authorship-white-paper/0120750001501521493?short | http://authorship.com/ | N/P* | NOT PDF |
 | Bico | Everything you need for a successful ICO in the world’s first ICO funded book | http://bico.me/whitepaper/ | http://bico.me/ | N/P* | NOT PDF |
 | Big Foundation | Basic Income Guarantee Protocol | https://github.com/bigfoundation/Documentation/blob/master/BIGwhitepaperEN.md | http://big.foundation/ | N/P* | NOT PDF |
@@ -290,6 +293,7 @@
 | Dr. Oss Coin | We are moving, quickly, into an age of Digital, Cryptographically secured funds.  | https://docco.in/whitepaper.html | https://docco.in/ | N/P* | NOT PDF |
 | Duber | Incentivizing E   conomic Surplus Growthin the Cannabis Industry | https://dubercoin.com/themencode-pdf-viewer-sc?tnc_pvfw=ZmlsZT1odHRwczovL2R1YmVyY29pbi5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTcvMTAvZHViZXItd2hpdGVwYXBlci1lbi5wZGYmc2V0dGluZ3M9Jmxhbmc9ZW4tVVM=#page=&zoom=auto&pagemode= | https://dubercoin.com/ | N/P* | NOT PDF |
 | Ecobit | EcoBit Technology | https://www.ecobit.io/technology.html | http://ecobit.io/ | N/P* | NOT PDF |
+| Electioncoin | Electioncoin | https://electioncoin.cc/?a=cust&page=aboutus | https://electioncoin.cc/ | N/P* | NOT PDF |
 | EOS | EOS.IO Technical | https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md | https://eos.io/ | N/P* | NOT PDF |
 | Escroco | ESCROW AND INSURANCE SERVICES FOR INVESTORS | https://escroco.co/plan.php | https://escroco.co/ | N/P* | NOT PDF |
 | Estatex | Disrupt the Housing Market | https://estatex.net/whitepaper/ | https://estatex.net/ | N/P* | NOT PDF |
@@ -377,6 +381,7 @@
 | Avalon |  |  | https://avalon.nu/ | N/P* | NOT WORKING |
 | Baochain |  |  | https://baochain.tech/ | N/P* | NOT WORKING |
 | Beertoken |  |  | https://www.beertoken.io/ | N/P* | NOT WORKING |
+| BeOne |  |  | https://be-one.co/ | N/P* | NOT WORKING |
 | Bfree Token |  |  | https://bfreecoin.io/ | N/P* | NOT WORKING |
 | Bhotspot |  |  | https://bhotspot.net/ | N/P* | NOT WORKING |
 | Bitbase |  |  | https://bitbase.io/ | N/P* | NOT WORKING |
@@ -405,12 +410,14 @@
 | Dit Wealth Chain |  |  | http://www.ditfin.com/ | N/P* | NOT WORKING |
 | Dls Academy |  |  | http://dlsacademy.io/ | N/P* | NOT WORKING |
 | Dome Platform | The Dome | https://www.domeplatform.io/static/pdfs/Whitepaper.pdf | https://www.domeplatform.io/ | N/P* | NOT WORKING |
+| DropAnswer |  | http://dropanswer.social/whitepaper.pdf | http://dropanswer.social/ | N/P* | NOT WORKING |
 | Droplex |  |  | https://droplex.org/index.php | N/P* | NOT WORKING |
 | Ethereum Movie Venture |  |  | http://ico.swisscoast.com/ | N/P* | NOT WORKING |
 | Ethereum Universe |  |  | https://ethereumuniverse.org/ | N/P* | NOT WORKING |
 | Etherex |  |  | https://etherex.org/ | N/P* | NOT WORKING |
 | Everum |  |  | https://ts.everumgroup.com/ | N/P* | NOT WORKING |
 | Evo |  |  | http://evo-ico.org/ | N/P* | NOT WORKING |
+| Exhasta |  | https://www.exhasta.com/wp-content/uploads/2017/10/ExHasta-whitepaper.pdf | https://www.exhasta.com/ | N/P* | NOT WORKING |
 | Exxor |  |  | http://exxor.org/ | N/P* | NOT WORKING |
 | Faceblock |  |  | https://faceblock.io/ | N/P* | NOT WORKING |
 | Feeed |  |  | https://feeed.cc/ | N/P* | NOT WORKING |
@@ -451,6 +458,7 @@
 | Makersmarks |  |  | https://makersmarks.io/ | N/P* | NOT WORKING |
 | Mammoth Casino |  |  | https://mammoth.casino/ | N/P* | NOT WORKING |
 | Metalzoom Energy |  |  | https://www.metalzoom.energy/ | N/P* | NOT WORKING |
+| MilkCoin |  | https://milkcoin.io/en/Whitepaper-EN.pdf | https://milkcoin.io/ | N/P* | NOT WORKING |
 | Modoview |  |  | http://www.modoview.com/ | N/P* | NOT WORKING |
 | Moirai |  |  | https://ico.moirai.io/ | N/P* | NOT WORKING |
 | Monkey Capital |  |  | https://www.monkey.capital/ | N/P* | NOT WORKING |
