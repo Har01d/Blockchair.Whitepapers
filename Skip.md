@@ -80,6 +80,7 @@
 | Relex | RELEX- SETTING NEW STANDARDS FOR FDI REAL ESTATE DEVELOPMENT | https://drive.google.com/file/d/0B_Hih2tkfwBkNXhnWW5EVk1rZUU/view | https://www.relex.io/ | N/P* | GOOGLE DOCS |
 | Remme | Authentication DApp, powered by REMME Core network | https://drive.google.com/file/d/0B1jTRGmj_3khUV9RTERnYzNvaE0/view | https://tokensale.remme.io/ | N/P* | GOOGLE DOCS |
 | Ret | Real Estate Token | https://drive.google.com/file/d/0B_ChRo403h2JSWU0eEItLS1hd3M/view | https://retokens.com/ | N/P* | GOOGLE DOCS |
+| Retainly | Retainly | https://www.dropbox.com/s/wi123v5qf08zh72/RETN-Whitepaper-Compact-V1.7.pdf | https://retainly.co/ico/ | N/P* | GOOGLE DOCS |
 | Robot Vera | Здравствуйте,меня зовут Вера. Я — робот | https://drive.google.com/file/d/0B1F2QfF_SatMUFROMHdjQnJZSTQ/view | https://ico.robotvera.com/en/ | N/P* | GOOGLE DOCS |
 | Setcoin | Decentralized Mobile Platform Directly Connecting Service Providers and Consumers | https://drive.google.com/file/d/0B-E_JiAlP7kER3NZZThxZWNKNVk/view?wpnd_cid=caavvf6xqyva0q0e | http://ico.setcoins.io/ | N/P* | GOOGLE DOCS |
 | Simple Token | OpenST Protocol | https://drive.google.com/file/d/0Bwgf8QuAEOb7Z2xIeUlLd21DSjQ/view | https://simpletoken.org/ | N/P* | GOOGLE DOCS |
@@ -158,6 +159,7 @@
 | Dent |  |  | https://www.dentcoin.com/ | N/P* | NOT FOUND |
 | Diamond Reserve Club |  |  | http://www.jdsupra.com/legalnews/sec-enforcement-action-involving-84066/ | N/P* | NOT FOUND |
 | Dropfoods |  |  | https://www.dropfoods.com/en/ico | N/P* | NOT FOUND |
+| Dubtokens |  |  | https://dubtokens.com/ | N/P* | NOT FOUND |
 | E4row |  |  | https://www.e4row.co.il/ | N/P* | NOT FOUND |
 | Easymine |  |  | https://easymine.io/ | N/P* | NOT FOUND |
 | Encrypgen |  |  | http://www.encrypgen.com/ico/ | N/P* | NOT FOUND |
@@ -171,6 +173,7 @@
 | Flare-global |  |  | https://flare-global.com/ | N/P* | NOT FOUND |
 | Flik |  |  | http://www.theflik.io/ | N/P* | NOT FOUND |
 | Fund Yourself Now |  |  | https://www.fundyourselfnow.com/ | N/P* | NOT FOUND |
+| Game.com |  |  | http://www.game.com/ | N/P* | NOT FOUND |
 | Genesis Water Token |  |  | http://watertoken.io/ | N/P* | NOT FOUND |
 | Getgame |  |  | https://getgame.io/ | N/P* | NOT FOUND |
 | Glx |  |  | https://glx.com/ | N/P* | NOT FOUND |
@@ -232,6 +235,7 @@
 | Smart Billions |  |  | https://smartbillions.com/ | N/P* | NOT FOUND |
 | Smartre |  |  | https://www.smartre.io/ | N/P* | NOT FOUND |
 | Spotree |  |  | https://spotree.com/ | N/P* | NOT FOUND |
+| Squeezer |  |  | https://squeezer.io/ | N/P* | NOT FOUND |
 | Starta |  |  | https://startaico.com/ | N/P* | NOT FOUND |
 | Stayawhile |  |  | https://stayawhile.com/ | N/P* | NOT FOUND |
 | Stockbet |  |  | https://stockbet.com/ | N/P* | NOT FOUND |
@@ -304,12 +308,15 @@
 | Fcfl | The first fan controlled professional sports league | https://view.attach.io/rJnBiarpb | https://fcfl.io/ | N/P* | NOT PDF |
 | Fidentiax | World's 1st Marketplace for Tradable Insurance Policies | https://www.fidentiax.com/webfiles/1513068076363/pdf/web/viewer.html | https://www.fidentiax.com/ | N/P* | NOT PDF |
 | Fintechbit | A profitable trading club with a fully developed trademarked algorithmic trading bot | https://www.fintechbit.io/white-paper | https://www.fintechbit.io/ | N/P* | NOT PDF |
+| Flogmall | Millions of everyday products and services for any cryptocurrency | https://flogmall.com/wp/ | https://flogmall.com/ | N/P* | NOT PDF |
 | Florio | The first blockchain based health platform that actually enables everybody to live healthy! | https://florio.io/whitepaper | https://florio.io/ | N/P* | NOT PDF |
+| Friendsfingers | Build your Ethereum based Crowdsale and start your ICO with no setup costs and zero lines of code required. All is Blockchain based through our awesome Smart Contracts | https://www.friendsfingers.com/whitepaper | https://www.friendsfingers.com/ | N/P* | NOT PDF |
 | Game Machine | GAME MACHINE ECOSYSTEM | https://gamemachine.io/en/token-sale/whitepaper | https://gamemachine.io/en | N/P* | NOT PDF |
 | GameProtocol | Game Protocol: A Decentralized Community for Creating, Collaborating and Distributing Games | http://www.gameprotocol.io/whitepaper | http://www.gameprotocol.io/ | N/P* | NOT PDF |
 | Gift Token | EASILY BUY GIFTCARDS AND PRE-PAID CARDS WITH CRYPTOCURRENCY | https://gifttoken.io/whitepaper/ | https://gifttoken.io/ | N/P* | NOT PDF |
 | Globo | utilize the M2M communications as a Payment System. This is a Revolutionary approach | https://www.globo.in/whitepaper/ | https://www.globo.in/ | N/P* | NOT PDF |
 | Gold Invest |  | https://goldmtoken.com/wp | https://goldmtoken.com/ | N/P* | NOT PDF |
+| Graphgrail |  | https://en.graphgrail.com/whitepaper/en/index.html | https://en.graphgrail.com/ | N/P* | NOT PDF |
 | Gravel Coin | The First Gravel Production at a global scale to be funded by Tokens Based on the Blockchain Technology | https://github.com/GravelCoin/docsandlinks/blob/master/2017-11-13%20GRV%20COIN_EN.pdf | http://www.gravelcoin.com/ | N/P* | NOT PDF |
 | Grondigital | Gambling and Betting industry by contributing to Gron Digital Platform | https://grondigital.com/whitepaper | https://grondigital.com/ | N/P* | NOT PDF |
 | Group 1 engineering | Our G1ETokens are inmutable proof of real property, a solid contract |http://group-1-engineering.com/ico/ | http://group-1-engineering.com/ | N/P* | NOT PDF |
@@ -327,7 +334,9 @@
 | Livepeer | Protocol and Economic Incentives For a Decentralized Live Video Streaming Network | https://github.com/livepeer/wiki/blob/master/WHITEPAPER.md | https://livepeer.org/ | N/P* | NOT PDF |
 | Lordmancer 2 | MMO RPG | https://onedrive.live.com/?authkey=%21AKP_PcUjbYYCNPU&cid=C0035E2AA025F2D1&id=C0035E2AA025F2D1%2142203&parId=C0035E2AA025F2D1%2142201&o=OneUp | http://lordmancer2.io/ | N/P* | NOT PDF |
 | MaVo | MaVoToken / Token for Entertainment | https://docsend.com/view/dbaxc5e | https://www.mavotoken.com/ | N/P* | NOT PDF |
+| Morpheus | FULL-SERVICE, GLOBAL, AUTOMATED, SUPPLY CHAIN PLATFORM WITH AN INTEGRATED CRYPTOCURRENCY PAYMENT SYSTEM UTILIZING  | https://morpheus.network/whitepaper/ | https://morpheus.network/ | N/P* | NOT PDF |
 | Mill Of Blood | TEIO | https://millofblood.com/white-paper.php | https://millofblood.com/ | N/P* | NOT PDF |
+| Mindlink |  | http://mindlink.co/whitepaper | http://mindlink.co/ | N/P* | NOT PDF |
 | Mobius | Connecting the World to the Blockchain Ecosystem | https://docsend.com/view/ru9kz86 | https://mobius.network/ | N/P* | NOT PDF |
 | Naga Group | The first Blockchain-based universe for decentralized trading, investing and education in financial markets, virtual goods and cryptocurrencies. | https://docsend.com/view/srsg4zw | https://www.nagaico.com/ | N/P* | NOT PDF |
 | Neverdie | NEVERDIE Wallet | https://neverdie.com/docs/roadmap.html | https://neverdie.com/ | N/P* | NOT PDF |
@@ -427,6 +436,7 @@
 | Fox Casino |  |  | https://foxcsn.com/ | N/P* | NOT WORKING |
 | Fundos (fos) |  |  | https://www.fos.ai/index.html?channel=icoalert | N/P* | NOT WORKING |
 | Gamecash |  |  | https://www.gamecash.technology/ | N/P* | NOT WORKING |
+| Gamecoin | GameCoin | https://gamecoin.global/assets/upload/en/wp/gamecoin_wp_en.pdf | https://gamecoin.global/ | N/P* | NOT WORKING |
 | Genotik |  |  | https://genotik.com/ | N/P* | NOT WORKING |
 | Global Business System |  |  | http://ico.b2b-gbs.com/ | N/P* | NOT WORKING |
 | Glocal |  |  | https://www.projectglocal.org/ | N/P* | NOT WORKING |
@@ -505,6 +515,7 @@
 | Torrentchain |  |  | http://torrentchain.io/ | N/P* | NOT WORKING |
 | Tothemoonimus |  |  | https://tothemoonimus.com/ | N/P* | NOT WORKING |
 | Tracor |  |  | http://www.tracornetwork.io/ | N/P* | NOT WORKING |
+| Traderstars.io | Traderstars | https://traderstars.io/wp-content/uploads/2017/09/TraderStars.io_Whitepaper-1.pdf | http://traderstars.io/ | N/P* | NOT WORKING |
 | Tribetoken |  |  | https://tribetoken.org/ | N/P* | NOT WORKING |
 | Uptick |  |  | https://token.getuptick.com/ | N/P* | NOT WORKING |
 | Ushbacoin |  |  | https://ushba.io/ | N/P* | NOT WORKING |
