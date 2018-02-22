@@ -773,12 +773,13 @@
 | Insurepal | Distributed Social Proof Insurance | https://insurepal.io/InsurePal_whitepaper.pdf | https://insurepal.io/ | N/P* |
 | Intelligent Trading Tech | ITT - Intelligent Trading Technologies | http://intelligenttrading.org/whitepaper.pdf | http://intelligenttrading.org/ | N/P* |
 | Interest Coin | Interest Coin - We Share Interest | https://interestcoin.io/wp-content/uploads/2017/11/English.pdf | https://interestcoin.io/ | N/P* |
-| Internet Of Agreements | The Internet of Agreements | http://internetofagreements.com/assets/MattereumDraftforPublicComment.pdf | http://internetofagreements.com/ | N/P* |
-| Internet Of Coins | Internet of Coins | https://coinstorm.net/whitepaper_ioc.pdf | https://coinstorm.net/ | N/P* |
+| Internet Of Agreements | BUILDING THE HYPERCONNECTED FUTURE ON BLOCKCHAINS | http://internetofagreements.com/files/WorldGovernmentSummit-Dubai2017.pdf | http://internetofagreements.com/ | N/P* |
+| Internet Of Coins | Hybrid Assets for Peer-to-Peer Intersystemic Value Transfer | https://coinstorm.net/whitepaper_ioc.pdf | https://coinstorm.net/ | N/P* |
 | Investy | New Era Of Decentralized Investments | https://ito.investy.io/Investy-WP-EN.pdf | https://ito.investy.io/ | N/P* |
 | IOTA | The Tangle | http://www.iota.org/IOTA_Whitepaper.pdf | https://iota.org/ | Serguei Popov |
 | Ipfs | A peer-to-peer hypermedia protocol to make the web faster, safer, and more open | https://github.com/ipfs/papers/raw/master/ipfs-cap2pfs/ipfs-p2p-file-system.pdf | https://ipfs.io/ | N/P* |
 | Ipstock | TOKENIZE VISUAL CONTENT COPYRIGHTS MANAGEMENT | https://ico.ipstock.com/white_paper.pdf | https://ico.ipstock.com/ | N/P* |
+| IPSX | a decentralized exchange for sharing IPs and a framework for building applications, on top of the existing IPs shared by the community members and data centers | https://ip.sx/dist/Whitepaper-IPSX-05.pdf | https://ip.sx/ | N/P* |
 | Iqeon | Decentralized gaming PvP platform, allowing players to earn money on their achievements | https://api.iqeon.io/documentation/IQeon_Whitepaper_EN.pdf | https://iqeon.io/ | N/P* |
 | iQuant | Iquant Chain - Home | http://web.5iquant.com/iqt/ico%5Fwhite%5Fpaper%5Fen.pdf | http://www.5iquant.org/ | N/P* |
 | Iungo | IUNGO.NETWORK Global wireless internet service provider | https://iungo.network/docs/iungo-network-whitepaper.pdf | https://iungo.network/ | N/P* |
@@ -906,6 +907,8 @@
 | Metaverse ETP | Metaverse ETP: From Smart Properties, Avatars and Oracles to A New Virtual Society | https://bravenewcoin.com/assets/Whitepapers/Metaverse-White-Paperdraft-EN.pdf | https://mvs.org/ | |
 | Metronome | metronome | https://www.metronome.io/pdf/owners_manual.pdf | https://www.metronome.io/ | N/P* |
 | Metta | Metta - Uberization platform for offline services | https://metta-ico.com/docs/whitepaper-metta-en.pdf | https://metta-ico.com/ | N/P* |
+| Mattereum | Smart contracts with the legal force of
+natural language contracts | https://mattereum.com/images/pdf/mattereum-draft-white-paper.pdf | https://mattereum.com/ | N/P* |
 | Micromoney | MicroMoney | https://micromoney.io/MicroMoney_whitepaper_ENG.pdf | https://micromoney.io/ | N/P* |
 | Midex | Blockchain based Financial platform with licensed exchange approved by Swiss bankers and lawyers | https://ico.midex.com/whitepaper_eng.pdf |  https://ico.midex.com/ | N/P* |
 | Midnight Greenwich Trading | 12coin / Midnight Greenwich Trading | http://12coin.biz/12/wp-content/uploads/2017/09/12Coin-WHITEPAPER-1.0.9-ENG.pdf | http://12coin.biz/12/ | N/P* |
