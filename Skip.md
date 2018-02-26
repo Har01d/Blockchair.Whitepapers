@@ -77,6 +77,7 @@
 | Ponsumer | Ponsumer automates purchases & delivery from any store | https://drive.google.com/file/d/1w6ayGExXHNoUdx-epcssEG7sg4NeqapH/view | http://ponsumer.com/ | N/P* | GOOGLE DOCS |
 | Power Group | The Power Group White Paper | https://drive.google.com/file/d/0B9X_pjXLlD-DSldySlZ2SnI3Wnc/view | http://powergroup.tech/ | N/P* | GOOGLE DOCS |
 | Qaazqaaz | Technology empowering the strength of opinion leaders | https://drive.google.com/file/d/1txrORkX44MBGjocfnlUIzgDxErbVjo9t/view | http://ico.qaazqaaz.com/ | N/P* | GOOGLE DOCS |
+| Qurrex |THE FIRST HYBRID CRYPTOCURRENCY EXCHANGE INTEGRATING INDUSTRIAL INFRASTRUCTURE OF TRADITIONAL STOCK EXCHANGES WITH DECENTRALIZED NETWORK | https://drive.google.com/file/d/1klzZPHdjCBnurHCJjJbjwsed_5rx4W1U/view | https://qurrex.com/ | N/P* | GOOGLE DOCS |
 | Relex | RELEX- SETTING NEW STANDARDS FOR FDI REAL ESTATE DEVELOPMENT | https://drive.google.com/file/d/0B_Hih2tkfwBkNXhnWW5EVk1rZUU/view | https://www.relex.io/ | N/P* | GOOGLE DOCS |
 | Remme | Authentication DApp, powered by REMME Core network | https://drive.google.com/file/d/0B1jTRGmj_3khUV9RTERnYzNvaE0/view | https://tokensale.remme.io/ | N/P* | GOOGLE DOCS |
 | Ret | Real Estate Token | https://drive.google.com/file/d/0B_ChRo403h2JSWU0eEItLS1hd3M/view | https://retokens.com/ | N/P* | GOOGLE DOCS |
@@ -85,6 +86,7 @@
 | Setcoin | Decentralized Mobile Platform Directly Connecting Service Providers and Consumers | https://drive.google.com/file/d/0B-E_JiAlP7kER3NZZThxZWNKNVk/view?wpnd_cid=caavvf6xqyva0q0e | http://ico.setcoins.io/ | N/P* | GOOGLE DOCS |
 | Simple Token | OpenST Protocol | https://drive.google.com/file/d/0Bwgf8QuAEOb7Z2xIeUlLd21DSjQ/view | https://simpletoken.org/ | N/P* | GOOGLE DOCS |
 | Siousada | Siousada | https://drive.google.com/file/d/0B6X-a3FbWnfZSnFNbnJFZmRVMDA/view | http://siousada.io/ | N/P* | GOOGLE DOCS |
+| Smart aim | the latest developments in the field of high technologies | https://drive.google.com/file/d/1bjylN7UuNQbscIqgfyi4wJyx3rjhwASe/view | https://smartaim.tech/ | N/P* | GOOGLE DOCS |
 | Smart city | Smart Solution for every city | https://drive.google.com/file/d/1vn6c_SwsfWAg7b0GE_guAKCVu0PS_8gB/ | https://www.makesmart.city/ | N/P* | GOOGLE DOCS |
 | SmartRefer | Blockchain-based recruitment referral marketplace | https://drive.google.com/file/d/1GmOaMMxYCITAAEw_TvifFaM5Ppv6BeSw/view | https://smartrefer.io/ | N/P* | GOOGLE DOCS |
 | Sosnovkino | sosnovkino | https://drive.google.com/file/d/0B-QBdFrWXGeAc3NkQ1hvX3p6T00/view | http://sosnovkino.info/ | N/P* | GOOGLE DOCS |
@@ -149,6 +151,7 @@
 | Crowdstart Capital |  |  | http://crowdstart.capital/ | N/P* | NOT FOUND |
 | Cru Coins |  |  | http://crucoins.com/ | N/P* | NOT FOUND |
 | CryptoFactory |  |  | http://ico.cf.rs/ | N/P* | NOT FOUND |
+| Cryptopuppies |  |  | http://www.cryptopuppies.land/ | N/P* | NOT FOUND |
 | Cryx |  |  | http://cryx.io/ | N/P* | NOT FOUND |
 | Cverification |  |  | https://www.cverification.com/ | N/P* | NOT FOUND |
 | Cys Mining |  |  | http://www.cysmining.com/ | N/P* | NOT FOUND |
@@ -318,7 +321,6 @@
 | Gold Invest |  | https://goldmtoken.com/wp | https://goldmtoken.com/ | N/P* | NOT PDF |
 | Graphgrail |  | https://en.graphgrail.com/whitepaper/en/index.html | https://en.graphgrail.com/ | N/P* | NOT PDF |
 | Gravel Coin | The First Gravel Production at a global scale to be funded by Tokens Based on the Blockchain Technology | https://github.com/GravelCoin/docsandlinks/blob/master/2017-11-13%20GRV%20COIN_EN.pdf | http://www.gravelcoin.com/ | N/P* | NOT PDF |
-| Grondigital | Gambling and Betting industry by contributing to Gron Digital Platform | https://grondigital.com/whitepaper | https://grondigital.com/ | N/P* | NOT PDF |
 | Group 1 engineering | Our G1ETokens are inmutable proof of real property, a solid contract |http://group-1-engineering.com/ico/ | http://group-1-engineering.com/ | N/P* | NOT PDF |
 | Gturbo | Token-option for gas turbine production | https://github.com/GTurboofficialorg/Documantation/blob/master/GTurboWhitepaperEN.md | http://gturbo.io/ | N/P* | NOT PDF |
 | Hamster Marketplace | Hamster Marketplace | https://hmstr.io/whitepaperrus | https://hmstr.io/ | N/P* | NOT PDF |
@@ -522,6 +524,7 @@
 | Vega AI Solutions |  |  | https://vegais.com/ | N/P* | NOT WORKING |
 | Ventured Network |  |  | https://ventured.one/ | N/P* | NOT WORKING |
 | Visacoin |  |  | https://visacoin.eu/ | N/P* | NOT WORKING |
+| Volk | Version 1.2 | https://assets.volk.fund/documents/Volk+White+Paper+(EN).pdf | https://volk.fund/ | N/P* | NOT WORKING |
 | Vr Coin |  |  | http://vrcoin.info/en | N/P* | NOT WORKING |
 | Vt-city |  |  | https://www.vt-city.io/ | N/P* | NOT WORKING |
 | WBD Token |  |  | https://www.1worldblockchain.com/en | N/P* | NOT WORKING |
