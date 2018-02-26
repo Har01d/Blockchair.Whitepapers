@@ -11,15 +11,18 @@
 | Bitether | BitEther investment opportunities | https://drive.google.com/file/d/1vGGuk8GwERuhq2ytoIiz0Ph5MuUWeQGN/view | https://www.bitether.co/ | N/P* | GOOGLE DOCS |
 | BitFerry | Invest in one of the biggest industrial cryptocurrency mining farm in Europe | https://drive.google.com/file/d/1Z9BybHz-z2-lxfH_GtlNbOXmZFJYTm72/view | http://bitferry.pro/ | N/P* | GOOGLE DOCS |
 | Bitto | First Innovative Cryptocurrency Exchange Platform | https://www.dropbox.com/s/lldefisrcfh022b/3783d6_cc0864e41b4942888ea2e771cb531ff0.pdf | https://www.bitto.tech/ | N/P* | GOOGLE DOCS |
+| Boldpure | Collective security platform protecting investors from fraud and incompetencem | https://drive.google.com/file/d/1YwI3jfixFcv1TokvmVTJSqnYfzT-_uNW/view | https://www.boldpure.com/ | N/P* | GOOGLE DOCS |
 | Ceek | SMART VIRTUAL REALITY TOKENS | https://www.dropbox.com/s/1fibdgyjgbfiu6h/CEEK_Virtual%20Reality%20TGE%20White%20Paper.pdf | https://www.ceek.io/ | N/P* | GOOGLE DOCS |
 | Circle | Providing new cryptocurrency solutions in the digital financial world. It is introduced in the innovative hybrid platform which allows investors to invest and increase their wealth sustainably | https://docs.google.com/presentation/d/e/2PACX-1vStvrTuBEOojklvIyX-bL_hGh2YAZRLrTxxIWZJ8vbM9TvxqV7xdZPOv7kGDv7_eMNE_kkG2oIiVBJo/pub?start=true&loop=true&delayms=3000&slide=id.g2d13cb9866_0_171 | https://www.circlenet.io/ | N/P* | GOOGLE DOCS |
 | Circles Project | Circles - The Future of Social Media Content Appreciation | https://drive.google.com/file/d/0B2SB1klk7d28dXdoLUY1b240SDA/view | https://circlesproject.io/ | N/P* | GOOGLE DOCS |
 | Cobalt Coin | cobalt development project | https://drive.google.com/file/d/0Bw2Heb_xR5dNUkhlb3paWVRSWEU/view | http://cobalt-coin.one/en | N/P* | GOOGLE DOCS |
 | CoinFi | CoinFi - White Paper | https://docs.google.com/document/d/1p6xaFl4nPv1CuJv6F2fkZ6qBq2lBS6ePyFna8QZt1KM/edit | https://sale.coinfi.com/ | N/P* | GOOGLE DOCS |
 | Coinvest | COINVEST Whitepaper | https://docs.google.com/document/d/1ePI50Vd9MGdkPnH0KdVuhTOOSiqmnE7WteGDtG10GuE/edit | https://coinve.st/ | N/P* | GOOGLE DOCS |
+| CVproof | SECURING JOB'S CREDENTIALS | https://drive.google.com/file/d/1EBAeQyxSGc645uL_2mrFYD0Ix0tM_byC/view | https://www.cvproof.com/ | N/P* | GOOGLE DOCS |
 | CycloShield | CycloShieldCoin | https://drive.google.com/file/d/0BxhuNRihFKvsTW9wS3BDVXRPSWc/view | https://www.cycloshieldcoin.com/ | N/P* | GOOGLE DOCS |
 | Darfchain | An InterPlanetary Ecosystem for Managing Tokenomy Projects | https://drive.google.com/file/d/1t7fweDhluFNOrg1L71I3tSGU5qw4c6v-/view | http://darfchain.com/ | N/P* | GOOGLE DOCS |
-| Dentalfix | DENTALFIX: A Healthcare Peer-to-Peer | https://drive.google.com/file/d/1psxxuTUnKYzc8Tw_GwDu7CxjZ1kOK_Lr/view | http://www.che-ss.com/dentalfix-ico/ | N/P* | GOOGLE DOCS |
+| Dentalfix | DENTALFIX: A Healthcare Peer-to-Peer | https://drive.google.com/file/d/1LZRm0n-31ACGQS-BKqv1YYYVjkytU_b3/view | http://www.che-ss.com/dentalfix-ico/ | N/P* | GOOGLE DOCS |
+| Deepwater | NEW FRONTIERS OF DEEP-WATER EXPLORATION | https://drive.google.com/file/d/1psxxuTUnKYzc8Tw_GwDu7CxjZ1kOK_Lr/view | https://deepwater.systems/ | N/P* | GOOGLE DOCS |
 | Dolphin Blockchain Intelligence | open-source platform for collaborative crypto-asset investment analysis | https://drive.google.com/file/d/0B3Mr_3tb2Qb0MElpUVE3d3lUaEU/view | https://presale.dolphin.bi/ | N/P* | GOOGLE DOCS |
 | Drivr | Advanced A.I. Driven Rideshare on the Blockchain | https://drive.google.com/file/d/111BBGfvhn_ZvU5vdZikrDOq2n_-2eDGe/view | https://drivr.network/ | N/P* | GOOGLE DOCS |
 | Dropdeck | A royalty & debt financing platform for fast growing businesses | https://drive.google.com/file/d/0B-ngm-zezrFQaHNxaHZWTnNNMTA/view | https://dropdeck.io/ | N/P* | GOOGLE DOCS |
@@ -42,8 +45,9 @@
 | Hedge Pro | Adecentralized platform used to insure cryptocurrency assets | https://drive.google.com/file/d/0B6JQQgg-knRtdGJhU1UtUnBsNUU/view | http://hedge.pro/english | N/P* | GOOGLE DOCS |
 | Helbiz | Blockchain P2P Car Sharing | https://drive.google.com/file/d/1UudcsnOrVwe0DeG4p7k7R3m4l28bAzQ0/view | https://www.helbizcoin.io/ | N/P* | GOOGLE DOCS |
 | Homni | DECENTRALIZED SECURE COMMUNICATION BASED ON BLOCKCHAIN TECHNOLOGY | https://drive.google.com/file/d/1ldBkb7XsBCtv2P8RnQ2ZyS-al7m9BQu-/view | https://www.homni-tech.com/ | N/P* | GOOGLE DOCS |
+| Ice Rock Mining | Commercial Bitcoin Mining. Passive Income. Creating a New Capital Market | https://drive.google.com/drive/u/0/folders/1wgCA7H7Ob1QfZG5Z3c-8bND43ansH7t5 | http://icerockmining.io/ | N/P* | GOOGLE DOCS |
 | iFan | The Most Advanced Social Network, Making Profits For Celebrities | https://docs.google.com/document/d/1VCrjGHARFuQc9N49CJDDIz3QVGgmv1GkB3rNcP1geKA/edit | https://ifan.io/ | N/P* | GOOGLE DOCS |
-| Injoin | A Sharing Eco­Environmental System | https://drive.google.com/file/d/0BxD_k1HToD-HSWxPQm9ZSXVPbXc/view?usp=sharing | https://www.injoin.in/ | N/P* | GOOGLE DOCS |
+| Injoin | A Sharing Eco Environmental System | https://drive.google.com/file/d/0BxD_k1HToD-HSWxPQm9ZSXVPbXc/view?usp=sharing | https://www.injoin.in/ | N/P* | GOOGLE DOCS |
 | Intellium | Intellium brings real world investments and blockchain together to transform capital markets | https://docs.google.com/document/d/16Gqf45bfP46Zy2_w4AhxVefCRGKBMiUnK-jtrKJazyI/edit#heading=h.5vhv6o725gcc | http://intellium-ico.com/index.html | N/P* | GOOGLE DOCS |
 | Jboxcoin | JBOXCOIN.ORG Whitepaper | https://drive.google.com/file/d/0BxC2u6uHtVw_YXZ0Z3RrRnlQZ00/view | https://jboxcoin.org/ | N/P* | GOOGLE DOCS |
 | KeepPet | INTERNATIONAL DIGITAL PET PASSPORT | https://docs.google.com/document/d/1OgiWGPPryZ9qjJN6jfKEeFNlHhNp0R5gNNyEv--0OHU/edit | http://keep.pet/en/ | N/P* | GOOGLE DOCS |
@@ -105,6 +109,7 @@
 | xChainge | xChainge: a platform with a simple user interface for anonymous and decentralized exchange of assets | https://drive.google.com/file/d/1WN3L_X3gJQ0b0bw6l9PE6kDw5sBcB5YB/view | https://xchainge.io/crowdsale.html | N/P* | GOOGLE DOCS |
 | Zerium| The World’s Smartest Blockchain Applications | https://drive.google.com/file/d/1TwYBp_m_ynv7Z3fO9xQDz9UueCoIQ4n2/view | http://www.zerium.org/ | N/P* | GOOGLE DOCS |
 | Zfxtoken| Peer-VS-Peer Fantasy Trading. It’s that simple | https://www.dropbox.com/s/oy2b9diw08ok0o4/ZeroSum%20-%20Updated%20Dec%2011%202017.pdf | http://www.zfxtoken.com/ | N/P* | GOOGLE DOCS |
+| 1worldblockchain |  |  | https://www.1worldblockchain.com/en | N/P* | NOT FOUND |
 | 8 Circuit Studios |  |  | https://www.tokensale.8circuitstudios.com | N/P* | NOT FOUND |
 | 803mine |  |  | https://www.803mine.com/ | N/P* | NOT FOUND |
 | Aasani |  |  | http://www.aasani.net/ | N/P* | NOT FOUND |
@@ -115,6 +120,7 @@
 | Altcoincommunity |  |  | http://altcoincommunity.co/ | N/P* | NOT FOUND |
 | AntiqMall |  |  | https://antiqmall-ico.io/en | N/P* | NOT FOUND |
 | Arbi |  |  | http://arbi.expert/en/ | N/P* | NOT FOUND |
+| Aura |  |  | http://www.futureaura.com/ | N/P* | NOT FOUND |
 | Autoria |  |  | http://autoria.io/ | N/P* | NOT FOUND |
 | Balance Open |  |  | https://balancemy.money/ | N/P* | NOT FOUND |
 | Battledrome |  |  | http://www.battledrome.io/ | N/P* | NOT FOUND |
@@ -216,8 +222,8 @@
 | Nimfamoney |  |  | https://www.nimfamoney.io/ | N/P* | NOT FOUND |
 | Opporty |  |  | https://opporty.com/ | N/P* | NOT FOUND |
 | Our Interest |  |  | https://www.ourinterest.org/ico | N/P* | NOT FOUND |
-| Pindex |  |  | https://www.pindify.com/ | N/P* | NOT FOUND |
 | Plexcoin |  |  | https://www.plexcoin.com/ | N/P* | NOT FOUND |
+| Pundix | Pundi X | https://pundix.com/pdf/PundiX_WhitePaper_EN_FinalVer1.pdf | https://pundix.com/ | N/P* | NOT FOUND |
 | Rados |  |  | https://www.rados.io/ | N/P* | NOT FOUND |
 | Realcoin Realt |  |  | http://www.rcrt.io/ | N/P* | NOT FOUND |
 | Recoin |  |  | http://www.jdsupra.com/legalnews/sec-enforcement-action-involving-84066/ | N/P* | NOT FOUND |
@@ -266,7 +272,7 @@
 | Ziber |  |  | https://ziber.io/ | N/P* | NOT FOUND |
 | Zuvex |  |  | https://zuvuyaexploration.com/ | N/P* | NOT FOUND |
 | After Ether | BLOCKCHAIN SCALABILITY BY BLOCKCHAIN CLUSTERING | http://afterether.org/blockchain-scalability-by-blockchain-clustering.html | http://afterether.org/ | N/P* | NOT PDF |
-| Aida Market | AUTOMATED SERVICE OF SALES WITH DECENTRALIZED DB OF all transactions and ratings of goods and suppliers on a block chain technology | https://docsend.com/view/69jy9c5 | http://ico.aida.market/ | N/P* | NOT PDF |
+| Aida Market | AUTOMATED SERVICE OF SALES WITH DECENTRALIZED DB OF all transactions and ratings of goods and suppliers on a block chain technology | https://docsend.com/view/qcxn8j4 | http://ico.aida.market/ | N/P* | NOT PDF |
 | AMCHART | AN AMSYS COMPANY | http://amchart.io/white-paper/ | http://amchart.io/ | N/P* | NOT PDF |
 | Anacoin | Peace through technology | https://docsend.com/view/yqiyh32 | https://ananas.org.uk/ | N/P* | NOT PDF |
 | Aphelion | P2P Digital Asset Distribution | https://aphelion.org/wp.html | https://apheliontoken.com/ | N/P* | NOT PDF |
@@ -358,6 +364,7 @@
 | Rex | A Decentralized Multiple Listing Service & Real Estate Transaction Application | https://github.com/rexmls/whitepaper/blob/master/readme.md | http://rexmls.com/ | N/P* | NOT PDF |
 | Routecoin | utility token that can be used inside Routecoin community via WiFiNewAge software to share WiFi networks | http://routecoin.io/whitepaper.php | http://routecoin.io/ | N/P* | NOT PDF |
 | Safinus | Revolutionary Platform for Investments in Cryptocurrencies and ICOs | https://www.safinus.com/whitepaper/ | https://www.safinus.com/ | N/P* | NOT PDF |
+| Samy | A HYBRID-DECENTRALIZED PLATFORM TO DISCOVER,CREATE, PERFORM, ANALYZE AND MEASURE ADVERTISING CAMPAIGNS | https://iamsamy.com/whitepaper | https://iamsamy.com/ | N/P* | NOT PDF |
 | Saske | seamlessly unites social media platforms with the Blogosphere | https://www.saske.io/white-paper/ | http://www.saske.io/ | N/P* | NOT PDF |
 | Sine | Music streaming that pays you | https://view.attach.io/BkPk-bZpZ | https://sine.media/ | N/P* | NOT PDF |
 | SlotNSlot | SlotNSlot | https://github.com/SlotNSlot/whitepaper/blob/master/whitepaper.md | https://slotnslot.com/ | N/P* | NOT PDF |
