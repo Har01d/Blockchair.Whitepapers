@@ -1,6 +1,5 @@
 | Project name | Whitepaper title | Whitepaper address | Website address | Authors |
 |--------------|------------------|--------------------|-----------------|---------|
-| =x | BLOCKCHAIN SOLUTIONS DEPEND ON YOUR REQUEST | https://x.university/X.pdf | https://x.university/ | N/P* |
 | 0rigin | The Sharing Economy Without Intermediaries | https://www.originprotocol.com/static/docs/whitepaper_v2.pdf | http://www.0rigin.org/ | N/P* |
 | 0x (zrx) | 0x: An open protocol for decentralized exchange on the Ethereum blockchain | https://www.0xproject.com/pdfs/0x_white_paper.pdf | https://www.0xproject.com/ | N/P* |
 | 0x | A cooperative of decentralized marketplaces and communities | https://district0x.io/docs/district0x-whitepaper.pdf | https://0xproject.com/ | Matus Lestan, Joe Urgo, Alexander Khoriaty |
@@ -1573,6 +1572,7 @@ natural language contracts | https://mattereum.com/images/pdf/mattereum-draft-wh
 | WorldTelevisionCoin | World Television Coin - Decentralized IPTV Television | https://worldtelevisioncoin.com/whitepaper.pdf | http://worldtelevisioncoin.com/ | N/P* |
 | Wowoonet | One small impression and a slight tap can make bedrock change to the world | http://wowoonet.com/pdf/wp_wwb_e_v126.pdf | http://wowoonet.com/ | N/P* |
 | Wys Token | wys - wysker | https://www.wystoken.org/media/wysker-whitepaper.pdf | https://www.wystoken.org/ | N/P* |
+| x.university | BLOCKCHAIN SOLUTIONS DEPEND ON YOUR REQUEST | https://x.university/X.pdf | https://x.university/ | N/P* |
 | X8 | The ultimate safe haven for crypto investors | https://x8currency.com/wp-content/uploads/X8-Project-TGE-Whitepaper.pdf | https://x8currency.com/ | N/P* |
 | Xaurum | Gamma Whitepaper | http://xaurum.org/gamma/gamma_whitepaper.pdf | http://xaurum.org/ | |
 | Xenon | Xenon Network | http://xenon.network/wp-content/uploads/2017/09/xenon-whitepaper.pdf | https://xenon.network/ | N/P* |
