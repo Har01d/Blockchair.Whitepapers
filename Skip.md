@@ -5,6 +5,7 @@
 | Ahoolee | The Ahoolee project | https://drive.google.com/file/d/0Bz8GOnrPq_i-SGk5a1Jxbld2TGs/view | http://ahoolee.io/ | N/P* | GOOGLE DOCS |
 | Aigang | Autonomous insurance network -fully automated insurance for IoT devices and a platform for insurance innovation built around data | https://drive.google.com/file/d/1qUuXmBta-qn5ze-aPPMUdPIgKjtNRpQq/view | https://aigang.network/ | N/P* | GOOGLE DOCS |
 | Altocar | Personalized taxi aggregator with the Digital Economy | https://drive.google.com/file/d/0B_kmY5mKXSK5c0RNSVVwYlZiN2M/view | https://altocar-ico.com/en | N/P* | GOOGLE DOCS |
+| Amon | World’s first intelligent Crypto Card with powerful Artificial Intelligence to revolutionize your everyday spending | https://drive.google.com/file/d/17J03CjIe-v9pv-RTNCheZ8iMCCCaZ0VR/view | https://amon.tech/ | N/P* | GOOGLE DOCS |
 | Atfs Lab | World’s First AgriTech & Food Science Project | https://drive.google.com/file/d/0B1_5EC8xe5GHTi1aZWxER3ZhS0E/view | http://atfslab.io/ | N/P* | GOOGLE DOCS |
 | Beeqb | The cryptocurrency payments for business | https://drive.google.com/file/d/0B7IoeWSMKJ-AUk9jc0VINEtNWWc/view | http://www.beeqb.com/ico/ | N/P* | GOOGLE DOCS |
 | Bettingwin | BettingWin - A Governable Global Betting Platform On Blockchain | https://docs.google.com/document/d/1xOPZCzPAdikwtc3w3WdmDxLyrgwgR9-Q5_EZmt1c2sU/edit | https://www.bettingwin.online/ | N/P* | GOOGLE DOCS |
@@ -54,6 +55,7 @@
 | Kript | AN ECO SYSTEM FOR INVESTING IN CRYPTO ASSETS | https://drive.google.com/file/d/0Bx-wNYBx9zmnQnloY2RIWEh1TlU/view | http://kript.io/ | N/P* | GOOGLE DOCS |
 | Langpie |  | https://drive.google.com/file/d/0B7duDBu7CzCZMzVzUVU2dUkxWGM/view | https://langpie.io/ | N/P* | GOOGLE DOCS |
 | Last Will | Making Contracts Really Smart. For Life. | https://drive.google.com/open?id=0B3ZY9oXSrdvjYjlCLUxra3oxZHM | https://lastwill.io/en/ | N/P* | GOOGLE DOCS |
+| Leadcoin | A Decentralized Network For Real-Time Lead Sharing | https://drive.google.com/file/d/1YlZhHsvHuD0K0XRDz_W1M6xdhLvSZPcx/view | https://www.leadcoin.network/ | N/P* | GOOGLE DOCS |
 | Legacylotto |  First decentralized world wide lottery offering ticket mining and self executing  smart contracts | https://drive.google.com/file/d/1BmwzsunfBmQXFG9bJirGDZDM3lLwvBbL/view | https://www.legacylotto.io/ | N/P* | GOOGLE DOCS |
 | Lordmancer2 | The first open-world MMORPG on mobile where players can earn cryptocurrency | https://drive.google.com/file/d/1yvae0ac1Ak3wyxjUoObCcH-N4j9VQX7q/ | https://lordmancer2.io/ | N/P* | GOOGLE DOCS |
 | Lynx Network | The Autonomous Network & Organization Infrastructure Environment | https://www.dropbox.com/s/264gqstkg4xw7t2/whitepaperV.1.pdf | https://www.lynxnetwork.org/ | N/P* | GOOGLE DOCS |
@@ -98,7 +100,9 @@
 | Sugar | IT WILL BE COSILY HERE FOR YOU | https://drive.google.com/file/d/1TqI_CLPFtYyU0I1gZih8GHYNjG4smib-/view | https://www.sugar.lgbt/ | N/P* | GOOGLE DOCS |
 | Tatchcapital | a private company doing sole proprietary trading based on company's discretionary trading strategies | https://docs.google.com/document/d/1L6hYc8ipQJ9Ev6iOi8cLo82DSq0oCUU8CFrDnP5aRgo/edit | https://tatchcapital.com/ | N/P* | GOOGLE DOCS |
 | The Full Consensus Films | The Full Consensus Films ICO | https://drive.google.com/file/d/0Byk4qX7vFTjVT3laZ1FOOGxXZUk/view | http://thefullconsensusfilms.com/ | N/P* | GOOGLE DOCS |
-| Ties.network | Database Management System | https://docs.google.com/document/d/1UwaaUgunnrFpL6jetA_DdNLQsbbqBx1HLcln07kLrUw/edit | http://ties.network/?utm_source=icoalert.com&amp;utm_medium=tracker | N/P* | GOOGLE DOCS |
+| Ties.network | Database Management System | https://docs.google.com/document/d/1UwaaUgunnrFpL6jetA_DdNLQsbbqBx1HLcln07kLrUw/edit | http://ties.network/ | N/P* | GOOGLE DOCS |
+| Tomocoin | Building an efficient blockchain infrastructure for decentralized applications, token issuance and integration | https://drive.google.com/file/d/1EAs7llLOpQx3YH1onvC4Qb107sIiztcm/view | https://tomocoin.io/ | N/P* | GOOGLE DOCS |
+| Truereply | The platform for conducting and participating in automated paid surveys via telephone and Amazon Alexa-powered devices | https://www.dropbox.com/s/opcghqn37codqbr/white%20paper.pdf | https://truereply.com/uto/ | N/P* | GOOGLE DOCS |
 | U.cash | INTRODUCING U.CASH’S PLAN FOR GLOBAL P2P FINANCIAL SERVICES | https://docs.google.com/document/d/1Lvh4SEvGVHQ0Opj8wKmytMe63PxpXFgZNgIGbpIi22M/edit | https://u.cash/ | N/P* | GOOGLE DOCS |
 | Una | A Peer-to-Peer Electronic Cash System Tailored To The African Ecosystem | https://docs.google.com/document/d/1D7WQWZL2op3JZQPFMUgrQNgsHdaTfQJpoXQuh5vrnm0/edit | https://www.unaproject.org/ | N/P* | GOOGLE DOCS |
 | Value Coin | World’s First Value Investing Crypto Fund | https://drive.google.com/file/d/0B5xw4OGTAR89WU52VnQzNmZ6dzA/view | https://www.valuecoinfund.com/ | N/P* | GOOGLE DOCS |
@@ -130,7 +134,6 @@
 | Bibox |  |  | https://www.bibox365.com/ | N/P* | NOT FOUND |
 | Binary |  |  | https://www.binary.com/en/ico.html | N/P* | NOT FOUND |
 | BioPayCoin | BioPayCoin - Solving the identity issues on blockchain | http://biopaycoin.com/whitepaper.pdf | http://biopaycoin.com/ | N/P* | NOT FOUND |
-| Birdchain |  |  | https://www.birdchain.io/ | N/P* | NOT FOUND |
 | Bit-x |  |  | https://bit-x.io/ | N/P* | NOT FOUND |
 | Bitair |  |  | https://bitair.io/ | N/P* | NOT FOUND |
 | Bitbounce / Credo |  |  | https://bitbounce.io/ | N/P* | NOT FOUND |
@@ -267,6 +270,7 @@
 | Wu-tang Coin |  |  | https://www.wutangcoin.com/ | N/P* | NOT FOUND |
 | Wyrify |  |  | http://www.wyrify.com/ | N/P* | NOT FOUND |
 | Xarcade |  |  | http://www.xarcade.io/ | N/P* | NOT FOUND |
+| Xovercoin |  |  | https://www.xovercoin.com/ | N/P* | NOT FOUND |
 | Yourmomtoken |  |  | http://yourmomtoken.com/ | N/P* | NOT FOUND |
 | Zengold |  |  | http://www.zengold.org/ | N/P* | NOT FOUND |
 | Ziber |  |  | https://ziber.io/ | N/P* | NOT FOUND |
@@ -281,6 +285,7 @@
 | Authorship | A Step towards Decentralization of the Internet | https://view.joomag.com/authorship-white-paper-authorship-white-paper/0120750001501521493?short | http://authorship.com/ | N/P* | NOT PDF |
 | Bico | Everything you need for a successful ICO in the world’s first ICO funded book | http://bico.me/whitepaper/ | http://bico.me/ | N/P* | NOT PDF |
 | Big Foundation | Basic Income Guarantee Protocol | https://github.com/bigfoundation/Documentation/blob/master/BIGwhitepaperEN.md | http://big.foundation/ | N/P* | NOT PDF |
+| Birdchain | a decentralized instant messaging application for Android | https://github.com/Birdchain/whitepaper-business/blob/master/README.md | https://www.birdchain.io/ | N/P* | NOT PDF |
 | BITCAPTERA | WORLD OF BITCAPTERA | https://www.bitcaptera.io/pdf.php | https://www.bitcaptera.io/ | N/P* | NOT PDF |
 | Bitclave | Decentralized Search Engine | https://docsend.com/view/84tv53w | https://www.bitclave.com/ | N/P* | NOT PDF |
 | Bitrace |  | https://www.bitrace-token.com/whitepaper-english | https://www.bitrace-token.com/ | N/P* | NOT PDF |
@@ -294,6 +299,7 @@
 | Casagram | NEW SOCIAL NETWORK | http://www.casagram.net/Site/Whitepaper.html | http://www.casagram.net/ | N/P* | NOT PDF |
 | Charg Coin |  | https://www.charg.io/white-paper-roadmap | https://www.charg.io/ | N/P* | NOT PDF |
 | Clickabletv |  | https://files.acrobat.com/a/preview/74c4bc21-7c5d-4cc2-ac6e-92b13f4d22d6 | https://clickabletv.io/ | N/P* | NOT PDF |
+| Cloud Moolah | AN AGGREGATED PAYMENT SYSTEM WHICH COMBINES POPULAR LOCALIZED PAYMENT METHODS SUCH AS TELCO TOP-UP CARDS, PREPAID CARDS, EBANKING AND THE NEW MOO TOKEN | https://docsend.com/view/8n3qizs | https://www.cloudmoolah.io/ | N/P* | NOT PDF |
 | Commodity Ad Network | Commodity Ad Network | https://commodityadnetwork.com/whitepaper/ | https://commodityadnetwork.com/ico/ | N/P* | NOT PDF |
 | Connect Job |  | https://ru.calameo.com/read/005345675300d0189a74e | https://ico.connectjob.io/ | N/P* | NOT PDF |
 | Copy Trader | Copy Trader Crowdsale | https://github.com/copytarder/white_paper/raw/master/Copy%20Token-whitepaper%20v1.02%20.pdf | https://copycrypto.trade/ | N/P* | NOT PDF |
