@@ -52,7 +52,7 @@
 | Intellium | Intellium brings real world investments and blockchain together to transform capital markets | https://docs.google.com/document/d/16Gqf45bfP46Zy2_w4AhxVefCRGKBMiUnK-jtrKJazyI/edit#heading=h.5vhv6o725gcc | http://intellium-ico.com/index.html | N/P* | GOOGLE DOCS |
 | Jboxcoin | JBOXCOIN.ORG Whitepaper | https://drive.google.com/file/d/0BxC2u6uHtVw_YXZ0Z3RrRnlQZ00/view | https://jboxcoin.org/ | N/P* | GOOGLE DOCS |
 | KeepPet | INTERNATIONAL DIGITAL PET PASSPORT | https://docs.google.com/document/d/1OgiWGPPryZ9qjJN6jfKEeFNlHhNp0R5gNNyEv--0OHU/edit | http://keep.pet/en/ | N/P* | GOOGLE DOCS |
-| Kript | AN ECO SYSTEM FOR INVESTING IN CRYPTO ASSETS | https://drive.google.com/file/d/0Bx-wNYBx9zmnQnloY2RIWEh1TlU/view | http://kript.io/ | N/P* | GOOGLE DOCS |
+| Kript | AN ECO SYSTEM FOR INVESTING IN CRYPTO ASSETS | https://drive.google.com/file/d/1UMhX-_YuO_dLGkGvwFpVVzzKPmITBb2O/view | http://kript.io/ | N/P* | GOOGLE DOCS |
 | Langpie |  | https://drive.google.com/file/d/0B7duDBu7CzCZMzVzUVU2dUkxWGM/view | https://langpie.io/ | N/P* | GOOGLE DOCS |
 | Last Will | Making Contracts Really Smart. For Life. | https://drive.google.com/open?id=0B3ZY9oXSrdvjYjlCLUxra3oxZHM | https://lastwill.io/en/ | N/P* | GOOGLE DOCS |
 | Leadcoin | A Decentralized Network For Real-Time Lead Sharing | https://drive.google.com/file/d/1YlZhHsvHuD0K0XRDz_W1M6xdhLvSZPcx/view | https://www.leadcoin.network/ | N/P* | GOOGLE DOCS |
@@ -144,6 +144,7 @@
 | Blockcat |  |  | https://blockcat.io/ | N/P* | NOT FOUND |
 | Blockchain Neural System |  |  | https://bnsys.io/ | N/P* | NOT FOUND |
 | Boardroom |  |  | http://boardroom.to/ | N/P* | NOT FOUND |
+| Bricktox |  |  | https://bricktox.com/ | N/P* | NOT FOUND |
 | Calibrae |  |  | https://calibr.ae/ | N/P* | NOT FOUND |
 | Cccoin |  |  | http://www.cccoin.io/ | N/P* | NOT FOUND |
 | Chain Effect |  |  | https://www.chaineffect.net/ | N/P* | NOT FOUND |
@@ -474,11 +475,14 @@
 | InVisio |  |  | https://www.invisioplatform.com | N/P* | NOT WORKING |
 | Jazemcoin |  |  | https://jazemcoinproyect.wixsite.com/ | N/P* | NOT WORKING |
 | Karbon |  |  | https://karbon.io/ | N/P* | NOT WORKING |
+| KeY' TOKEN | KeY' TOKEN | http://ico.keytoken-ew.com/en/pdf/white-paper-for-key-token-ver-1_7_en.pdf | http://ico.keytoken-ew.com/en/ | N/P* | NOT WORKING |
 | Kitex | Kitex - Decentralized Privacy Platform | https://kitex.io/WHITEPAPER.pdf | https://kitex.io/ | N/P* | NOT WORKING |
 | Kumo |  |  | https://www.kumocoin.com/ | N/P* | NOT WORKING |
 | Lendingstar Exchange |  |  | https://crowdsale.lendingstar.com/ | N/P* | NOT WORKING |
 | Liq Platform |  |  | https://liqplatform.com/ | N/P* | NOT WORKING |
+| LiteCoin Gold | LiteCoinGold - Faster, Cheaper and Smart Contract Powered | http://www.litecoingold.info/wp-content/uploads/Gold%20Paper%20-%20LTG.pdf | http://www.litecoingold.info/ | N/P* | NOT WORKING |
 | Lockchain |  |  | https://www.lockchain.io/ | N/P* | NOT WORKING |
+| Loopx | BASED ON THE STATE OF THE ART LOOPX TRADING SOFTWARE | https://www.loopx.io/media/loopx_whitepaper.pdf | https://www.loopx.io/ | N/P* | NOT WORKING |
 | Looq |  |  | https://looq.io/ | N/P* | NOT WORKING |
 | Luxico |  |  | http://luxico.io/ | N/P* | NOT WORKING |
 | Magos |  |  | http://magos.io/ | N/P* | NOT WORKING |
@@ -508,6 +512,7 @@
 | Project Artefact |  |  | http://www.projectartefact.com/ | N/P* | NOT WORKING |
 | Protostarr |  |  | https://protostarr.io/ | N/P* | NOT WORKING |
 | Quantopia |  |  | https://www.quantopia.network/ | N/P* | NOT WORKING |
+| Quintek | Home | http://quintek.org/QUINTEK_White_Paper.pdf | http://quintek.org/ | N/P* | NOT WORKING |
 | Revain |  |  | https://crowdsale.revain.org/ | N/P* | NOT WORKING |
 | Salt Coin |  |  | http://saltcoin.io/ | N/P* | NOT WORKING |
 | SellMyGood |  |  | https://www.sellmygoodico.com/ | N/P* | NOT WORKING |
