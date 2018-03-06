@@ -307,6 +307,7 @@
 | Crypto Mutual Coin | CRYPTO MUTUAL COIN | https://gist.github.com/ccmut56/0bc7d73a9c8fda1f9dbd7a02d8be9d08 | http://cryptomc.com/index.html | N/P* | NOT PDF |
 | Demicoin | DEMICOIN | https://demicoin.io/whitepaper | https://demicoin.io/ | N/P* | NOT PDF |
 | Dharma | Dharma: A Generic Protocol for Tokenized Debt Issuance | https://whitepaper.dharma.io/#faq | https://dharma.io/ | N/P* | NOT PDF |
+| Diwtoken | enables the secure storage of sensitive information such as identification documentation, passwords, bank account and credit card Information, validated KYC or KYS related documentation, wills, as well as other valuable digital data within a highly encrypted, secure and private decentralised platform | https://docsend.com/view/qr8a4u7 | https://diwtoken.com/ | N/P* | NOT PDF |
 | DocCoin | The best way to be healthy | https://www.doc-coin.com/white-paper-eng | https://www.doc-coin.com/ | N/P* | NOT PDF |
 | Doft |  | https://doft.com/investor-relations | https://doft.com/ | N/P* | NOT PDF |
 | Dr. Oss Coin | We are moving, quickly, into an age of Digital, Cryptographically secured funds.  | https://docco.in/whitepaper.html | https://docco.in/ | N/P* | NOT PDF |
@@ -390,8 +391,10 @@
 | You Tweak It | First decentralised ideas marketplace is secure and 100% reward guarantied ideas sharing platform on Oracles Blockchain PoA engine | https://hackmd.io/s/Hk_x516TW# | http://youtweak.it/ | N/P* | NOT PDF |
 | Zero Traffic | Welcome to the future of congestion management | https://www.zerotraffic.io/whitepaper | https://www.zerotraffic.io/ | N/P* | NOT PDF |
 | 8coin |  |  | http://8coin.io/ | N/P* | NOT WORKING |
+| A-token | A-TOKEN | https://a-token.io/whitepaper.pdf | https://a-token.io/ | N/P* | NOT WORKING |
 | A2b.direct |  |  | http://ico.a2b.direct/ | N/P* | NOT WORKING |
 | Abio Coin |  |  | https://abiocoin.com/en/ | N/P* | NOT WORKING |
+| AcademyCoin | Academy Coin | https://academycoin.io/static/pdf/ACAD_WHITEPAPER.pdf | https://ac3.io/ | N/P* | NOT WORKING |
 | Acuitty |  |  | https://www.acuitty.io/ | N/P* | NOT WORKING |
 | Algo Token |  |  | https://www.algotoken.com/ | N/P* | NOT WORKING |
 | All In Communicator |  |  | https://allincommunicator.com/ | N/P* | NOT WORKING |
@@ -399,6 +402,7 @@
 | Alpencoin |  |  | https://www.alpencoin.com/ | N/P* | NOT WORKING |
 | Amberport |  |  | http://www.amberport.io/ | N/P* | NOT WORKING |
 | Apex |  |  | https://apex.chinapex.com/ | N/P* | NOT WORKING |
+| Arthacoin |  |  | www.arthacoin.com/ | N/P* | NOT WORKING |
 | Aterious | Aterious | https://aterious.com/white_paper.pdf | https://aterious.com/ | N/P* | NOT WORKING |
 | Athenacoin |  |  | https://www.athenacoin.io/ | N/P* | NOT WORKING |
 | Aucoin |  |  | http://ico-pgranville.online/ | N/P* | NOT WORKING |
@@ -482,6 +486,7 @@
 | Make It Viral |  |  | https://www.miv.life/ | N/P* | NOT WORKING |
 | Makersmarks |  |  | https://makersmarks.io/ | N/P* | NOT WORKING |
 | Mammoth Casino |  |  | https://mammoth.casino/ | N/P* | NOT WORKING |
+| Marta | MartaPillow | http://martaico.com/wp.pdf | http://martaico.com/ | N/P* | NOT WORKING |
 | Metalzoom Energy |  |  | https://www.metalzoom.energy/ | N/P* | NOT WORKING |
 | MilkCoin |  | https://milkcoin.io/en/Whitepaper-EN.pdf | https://milkcoin.io/ | N/P* | NOT WORKING |
 | Modoview |  |  | http://www.modoview.com/ | N/P* | NOT WORKING |
@@ -490,6 +495,7 @@
 | New Dubrava |  |  | http://ramo.city/ | N/P* | NOT WORKING |
 | Ninth Wonder |  |  | https://www.ninthwonder.world/ | N/P* | NOT WORKING |
 | Nuvus |  |  | https://www.nuvus.io/ | N/P* | NOT WORKING |
+| OFO Coin | OneForOne Coin | https://www.ofoco.in/files/OFOcoin_WhitePaper_English.pdf | http://www.ofoco.in/ | N/P* | NOT WORKING |
 | Onplace |  |  | http://investments.onplace.io/ | N/P* | NOT WORKING |
 | Oren Platform |  |  | https://orenplatform.com/?refUrl=icoalert | N/P* | NOT WORKING |
 | Petsafe |  |  | https://www.petsafes.xyz/ | N/P* | NOT WORKING |
