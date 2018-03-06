@@ -345,6 +345,7 @@
 | Connect | Connect Coin: Best Cryptocurrency / Decentralized crypto exchange | https://connect-coin.com/whitepaper.pdf | https://connect-coin.com/ | N/P* |
 | Conpay | СopPay — Cryptofying your business | https://coppay.io/docs/CopPay_Whitepaper_EN.pdf | https://conpay.io/ | N/P* |
 | Consolo | Blockchain-based Social Distribution Network | https://consolo.network/Consolo_EN.pdf | http://consolo.network/ | N/P* |
+| Consultx / Consulteth | an Ethereum-based application that aims to disrupt the consulting industry by facilitating the rise of a fully decentralized, real-time consulting marketplace where consultants and clients engage courtesy of novel decentralized technologies | http://www.consulteth.com/download.php?file=whitepaper.pdf | http://www.consulteth.com/ | N/P* |
 | Cooonet | Crypto Token for worldwide multipurpose Online service exchange platform | https://www.cooocoin.com/cooocoin-whitepaper-v2.pdf | https://www.cooocoin.com/ | N/P* |
 | Copico | LOBAL B2B AND B2C CROSS-BORDER E-COMMERCE PLATFORM POWERE | https://www.copico.io/assets/documents/Whitepaper.pdf | http://www.copico.io/ | N/P* |
 | CopPay | Decentralized International Multiсryptocurrency Payment System | https://coppay.io/docs/CopPay%5FWhitepaper%5FEN.pdf | https://www.coppay.io/ | N/P* |
