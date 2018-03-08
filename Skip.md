@@ -153,8 +153,8 @@
 | Chasyr |  |  | https://www.chasyr.com/tokensale | N/P* | NOT FOUND |
 | ClassyCoin |  |  | http://www.classycoin.io/buy-classycoin.html | N/P* | NOT FOUND |
 | Clout |  |  | http://clout.io/ | N/P* | NOT FOUND |
-| Coinjob |  |  | http://www.coinjob.net/ | N/P* | NOT FOUND |
 | Coinzai |  |  | https://coinzai.com/ | N/P* | NOT FOUND |
+| Connectius | Connectius | https://www.connectius.com/docs/wpaper_eng.pdf | https://www.connectius.com/ | N/P* | NOT FOUND |
 | Connect Social |  |  | https://connectsocial.io/ | N/P* | NOT FOUND |
 | Contentmint |  |  | https://www.contentmint.io/ | N/P* | NOT FOUND |
 | Crowdcoin |  |  | http://mqtcrypto.com/ | N/P* | NOT FOUND |
@@ -426,6 +426,8 @@
 | Celcoin |  |  | http://ico.celcoin.co/ | N/P* | NOT WORKING |
 | Celsius |  |  | https://celsius.network/ | N/P* | NOT WORKING |
 | Centz |  |  | https://ico.centz.net/ | N/P* | NOT WORKING |
+| Coinjob |  |  | http://www.coinjob.net/ | N/P* | NOT WORKING |
+| Coinoor | Coinoor | http://coinoor.io/doc/Coinoor_Whitepaper.pdf | http://coinoor.io/ | N/P* | NOT WORKING |
 | Coinsopen |  |  | https://coinsopen.com/ | N/P* | NOT WORKING |
 | Connectwealth |  |  | https://www.connectwealth.net/ | N/P* | NOT WORKING |
 | Cottagecoin |  |  | https://cottagecoin.io/ | N/P* | NOT WORKING |
