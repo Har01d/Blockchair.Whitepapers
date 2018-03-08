@@ -199,7 +199,6 @@
 | Jwcventures |  |  | https://jwcventures.com/ | N/P* | NOT FOUND |
 | Internxt |  |  | https://internxt.io/ | N/P* | NOT FOUND |
 | Kexcoin |  |  | https://kexcoin.com/ | N/P* | NOT FOUND |
-| Kodakone |  |  | https://kodakcoin.com/ | N/P* | NOT FOUND |
 | Kuna Exchange |  |  | https://kuna.io/sco?lang=en | N/P* | NOT FOUND |
 | Lambo Token |  |  | http://lambotoken.io/ | N/P* | NOT FOUND |
 | Liberstad |  |  | http://www.liberstad.com/ | N/P* | NOT FOUND |
