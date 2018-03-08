@@ -328,21 +328,20 @@
 | Coinloan | CoinLoan — Loans Secured by CryptoAssets | https://d22bh5hhp3xpt1.cloudfront.net/CoinLoan%5FWhitePaper.pdf | https://coinloan.io/ | N/P* |
 | Coinmetro | a one-size-fits-all fintech platform fueling the future of blockchain innovation | https://coinmetro.com/wp-content/uploads/coinmetro-wp-newspaper.pdf | https://coinmetro.com/ | N/P* |
 | Coinnec | Blockchain based decentralized business platform | http://coinnec.com/Whitepaper-Coinnec.pdf | http://coinnec.com/ | N/P* |
-| Coinoor | Coinoor | http://coinoor.io/doc/Coinoor_Whitepaper.pdf | http://coinoor.io/ | N/P* |
 | CoinPennant | Cryptocurrency analysis and a social platform for investors, traders and analysts | https://coinpennant.com/assets/pdf/white_paper.pdf | https://coinpennant.com/ | N/P* |
-| CoinPlace | COINPLACE | http://coinplace.info/files/White-Paper-eng.pdf | https://coinplace.info/?lang=en | N/P* |
-| CoinPoker | CoinPoker: Play Poker Online Using Cryptocurrency | https://coinpoker.com/downloads/coinpoker-whitepaper.pdf | https://coinpoker.com/ | N/P* |
+| CoinPlace | a profitable way to buy crypto assets without an agent | https://coinplace.info/files/WhitePaper_eng.pdf | https://coinplace.info/ | N/P* |
+| CoinPoker | CryptoCurrency Online Poker | https://coinpoker.com/downloads/coinpoker-whitepaper.pdf | https://coinpoker.com/ | N/P* |
 | CoinStarter | Powering the future of coin based fundraising | https://s3.amazonaws.com/appforest_uf/d35/f1516024659866x320620627375319600/CoinStarter%20WhitePaper%20v9.81.pdf | https://coinstarter.com/ | N/P* |
 | Cointed | Nothing is more powerful than an idea whose time has come | https://cointedtoken.com/COINTED_Whitepaper.pdf | http://www.cointedtoken.com/ | N/P* |
+| Cointify | Realising the Prospect of Digital Currency | https://ico.cointify.com/files/cointify-ico-whitepaper.pdf | https://ico.cointify.com/ | N/P* |
 | Colu Local Network | A decentralized payment system powered by everyday consumption | https://cln.network/pdf/cln_whitepaper.pdf | https://cln.network/ | N/P* |
-| Combicoin | CombiCoin / Triaconta | https://triaconta.com/CombiCoin_Whitepaper.pdf | https://triaconta.com/ | N/P* |
-| Commerceblock | CommerceBlock | https://www.commerceblock.com/commerceblock-whitepaper.pdf | https://www.commerceblock.com/ | N/P* |
+| Combicoin | The Cryptocurrency that is 100% asset backed by the top 30 of all cryptocurrencies | https://triaconta.com/wp-content/uploads/2017/12/CC-WP-1.8-POST-ICO.pdf | https://triaconta.com/ | N/P* |
+| Commerceblock | An open network for building decentralised commerce | https://www.commerceblock.com/commerceblock-whitepaper.pdf | https://www.commerceblock.com/ | N/P* |
 | Compcoin | Compcoin – Token For A.I. Financial Trading | https://compcoin.com/wp-content/uploads/2017/06/Compcoin-Token-For-A.I.-Financial-Trading-060817v2.pdf | https://compcoin.com/ | |
 | Concierge | Decentralised Travel Booking Marketplace | https://www.concierge.io/Concierge.io-Whitepaper.pdf | https://confideal.io/ | N/P* |
 | Concoin | ConCoin - The most dangerous cryptocurrency in the world™ | https://concoin.com/whitepaper.pdf | http://www.concoin.com/ | N/P* |
 | Confideal | Escrow platform on Ethereum blockchain | https://confideal.io/pdf/cfdl_product_wp.pdf| https://confideal.io/ | N/P* |
 | Conn3x | Smart Job Solutions | https://conn3x.io/wp/en.pdf | https://conn3x.io/ | N/P* |
-| Connectius | Connectius | https://www.connectius.com/docs/wpaper_eng.pdf | https://www.connectius.com/ | N/P* |
 | Connect | Connect Coin: Best Cryptocurrency / Decentralized crypto exchange | https://connect-coin.com/whitepaper.pdf | https://connect-coin.com/ | N/P* |
 | Conpay | СopPay — Cryptofying your business | https://coppay.io/docs/CopPay_Whitepaper_EN.pdf | https://conpay.io/ | N/P* |
 | Consolo | Blockchain-based Social Distribution Network | https://consolo.network/Consolo_EN.pdf | http://consolo.network/ | N/P* |
