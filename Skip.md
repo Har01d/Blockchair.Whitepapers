@@ -478,6 +478,7 @@
 | Karbon |  |  | https://karbon.io/ | N/P* | NOT WORKING |
 | KeY' TOKEN | KeY' TOKEN | http://ico.keytoken-ew.com/en/pdf/white-paper-for-key-token-ver-1_7_en.pdf | http://ico.keytoken-ew.com/en/ | N/P* | NOT WORKING |
 | Kitex | Kitex - Decentralized Privacy Platform | https://kitex.io/WHITEPAPER.pdf | https://kitex.io/ | N/P* | NOT WORKING |
+| Knows | KNOWS.Online / Monetize Your Knowledge in 5 Minutes | https://www.knows.online/public-content/white-paper/white-paper.pdf | https://www.knows.online/ | N/P* | NOT WORKING |
 | Kumo |  |  | https://www.kumocoin.com/ | N/P* | NOT WORKING |
 | Lendingstar Exchange |  |  | https://crowdsale.lendingstar.com/ | N/P* | NOT WORKING |
 | Liq Platform |  |  | https://liqplatform.com/ | N/P* | NOT WORKING |
