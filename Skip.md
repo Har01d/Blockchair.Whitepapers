@@ -122,7 +122,6 @@
 | Akasha |  |  | https://akasha.world/ | N/P* | NOT FOUND |
 | Algo Land |  |  | https://www.algo.land/ | N/P* | NOT FOUND |
 | Altcoincommunity |  |  | http://altcoincommunity.co/ | N/P* | NOT FOUND |
-| AntiqMall |  |  | https://antiqmall-ico.io/en | N/P* | NOT FOUND |
 | Arbi |  |  | http://arbi.expert/en/ | N/P* | NOT FOUND |
 | Aura |  |  | http://www.futureaura.com/ | N/P* | NOT FOUND |
 | Autoria |  |  | http://autoria.io/ | N/P* | NOT FOUND |
@@ -162,6 +161,7 @@
 | Cru Coins |  |  | http://crucoins.com/ | N/P* | NOT FOUND |
 | CryptoFactory |  |  | http://ico.cf.rs/ | N/P* | NOT FOUND |
 | Cryptopuppies |  |  | http://www.cryptopuppies.land/ | N/P* | NOT FOUND |
+| Crypto Tickets | Crypto tickets | http://crypto.tickets/crypto.tickets whitepaper ENG.pdf | http://crypto.tickets/ | N/P* | NOT FOUND |
 | Cryx |  |  | http://cryx.io/ | N/P* | NOT FOUND |
 | Cverification |  |  | https://www.cverification.com/ | N/P* | NOT FOUND |
 | Cys Mining |  |  | http://www.cysmining.com/ | N/P* | NOT FOUND |
@@ -200,6 +200,7 @@
 | Internxt |  |  | https://internxt.io/ | N/P* | NOT FOUND |
 | Kexcoin |  |  | https://kexcoin.com/ | N/P* | NOT FOUND |
 | Kuna Exchange |  |  | https://kuna.io/sco?lang=en | N/P* | NOT FOUND |
+| Lampix | Lampix | https://lampix.co/whitepaper.pdf | https://lampix.co/token.html | N/P* | NOT FOUND |
 | Lambo Token |  |  | http://lambotoken.io/ | N/P* | NOT FOUND |
 | Liberstad |  |  | http://www.liberstad.com/ | N/P* | NOT FOUND |
 | Liblob |  |  | https://liblob.com/ | N/P* | NOT FOUND |
@@ -223,6 +224,7 @@
 | Neuromation |  |  | https://neuromation.io/ | N/P* | NOT FOUND |
 | Neuron |  |  | https://doc.ai/ | N/P* | NOT FOUND |
 | Nimfamoney |  |  | https://www.nimfamoney.io/ | N/P* | NOT FOUND |
+| Octobase |  |  | https://www.octobase.co/ | N/P* | NOT FOUND |
 | Opporty |  |  | https://opporty.com/ | N/P* | NOT FOUND |
 | Our Interest |  |  | https://www.ourinterest.org/ico | N/P* | NOT FOUND |
 | Plexcoin |  |  | https://www.plexcoin.com/ | N/P* | NOT FOUND |
@@ -453,7 +455,7 @@
 | Feeed |  |  | https://feeed.cc/ | N/P* | NOT WORKING |
 | Feenix |  |  | http://feenix.tech/ | N/P* | NOT WORKING |
 | Fizcal |  |  | https://fizcal.co/ | N/P* | NOT WORKING |
-| Flipcoin |  |  | https://www.flipcoinsale.com/ | N/P* | NOT WORKING |
+| Flipcoin |  |  | https://www.flipcoinone.io/ | N/P* | NOT WORKING |
 | Fox Casino |  |  | https://foxcsn.com/ | N/P* | NOT WORKING |
 | Fundos (fos) |  |  | https://www.fos.ai/index.html?channel=icoalert | N/P* | NOT WORKING |
 | Gamecash |  |  | https://www.gamecash.technology/ | N/P* | NOT WORKING |
@@ -559,3 +561,4 @@
 | Workerz |  |  | https://workerz.org/ | N/P* | NOT WORKING |
 | World Of Battles |  |  | https://ico.worldofbattles.io/ | N/P* | NOT WORKING |
 | Wwam |  |  | http://wwam.io/ | N/P* | NOT WORKING |
+| XWIN CryptoBet | XWIN CryptoBet | https://xwin.io/WhitepaperXWINEN.pdf | https://xwin.io/en | N/P* | NOT WORKING |
