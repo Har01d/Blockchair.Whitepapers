@@ -52,7 +52,7 @@
 | Intellium | Intellium brings real world investments and blockchain together to transform capital markets | https://docs.google.com/document/d/16Gqf45bfP46Zy2_w4AhxVefCRGKBMiUnK-jtrKJazyI/edit#heading=h.5vhv6o725gcc | http://intellium-ico.com/index.html | N/P* | GOOGLE DOCS |
 | Jboxcoin | JBOXCOIN.ORG Whitepaper | https://drive.google.com/file/d/0BxC2u6uHtVw_YXZ0Z3RrRnlQZ00/view | https://jboxcoin.org/ | N/P* | GOOGLE DOCS |
 | KeepPet | INTERNATIONAL DIGITAL PET PASSPORT | https://docs.google.com/document/d/1OgiWGPPryZ9qjJN6jfKEeFNlHhNp0R5gNNyEv--0OHU/edit | http://keep.pet/en/ | N/P* | GOOGLE DOCS |
-| Kript | AN ECO SYSTEM FOR INVESTING IN CRYPTO ASSETS | https://drive.google.com/file/d/0Bx-wNYBx9zmnQnloY2RIWEh1TlU/view | http://kript.io/ | N/P* | GOOGLE DOCS |
+| Kript | AN ECO SYSTEM FOR INVESTING IN CRYPTO ASSETS | https://drive.google.com/file/d/1UMhX-_YuO_dLGkGvwFpVVzzKPmITBb2O/view | http://kript.io/ | N/P* | GOOGLE DOCS |
 | Langpie |  | https://drive.google.com/file/d/0B7duDBu7CzCZMzVzUVU2dUkxWGM/view | https://langpie.io/ | N/P* | GOOGLE DOCS |
 | Last Will | Making Contracts Really Smart. For Life. | https://drive.google.com/open?id=0B3ZY9oXSrdvjYjlCLUxra3oxZHM | https://lastwill.io/en/ | N/P* | GOOGLE DOCS |
 | Leadcoin | A Decentralized Network For Real-Time Lead Sharing | https://drive.google.com/file/d/1YlZhHsvHuD0K0XRDz_W1M6xdhLvSZPcx/view | https://www.leadcoin.network/ | N/P* | GOOGLE DOCS |
@@ -122,7 +122,6 @@
 | Akasha |  |  | https://akasha.world/ | N/P* | NOT FOUND |
 | Algo Land |  |  | https://www.algo.land/ | N/P* | NOT FOUND |
 | Altcoincommunity |  |  | http://altcoincommunity.co/ | N/P* | NOT FOUND |
-| AntiqMall |  |  | https://antiqmall-ico.io/en | N/P* | NOT FOUND |
 | Arbi |  |  | http://arbi.expert/en/ | N/P* | NOT FOUND |
 | Aura |  |  | http://www.futureaura.com/ | N/P* | NOT FOUND |
 | Autoria |  |  | http://autoria.io/ | N/P* | NOT FOUND |
@@ -144,6 +143,7 @@
 | Blockcat |  |  | https://blockcat.io/ | N/P* | NOT FOUND |
 | Blockchain Neural System |  |  | https://bnsys.io/ | N/P* | NOT FOUND |
 | Boardroom |  |  | http://boardroom.to/ | N/P* | NOT FOUND |
+| Bricktox |  |  | https://bricktox.com/ | N/P* | NOT FOUND |
 | Calibrae |  |  | https://calibr.ae/ | N/P* | NOT FOUND |
 | Cccoin |  |  | http://www.cccoin.io/ | N/P* | NOT FOUND |
 | Chain Effect |  |  | https://www.chaineffect.net/ | N/P* | NOT FOUND |
@@ -152,8 +152,8 @@
 | Chasyr |  |  | https://www.chasyr.com/tokensale | N/P* | NOT FOUND |
 | ClassyCoin |  |  | http://www.classycoin.io/buy-classycoin.html | N/P* | NOT FOUND |
 | Clout |  |  | http://clout.io/ | N/P* | NOT FOUND |
-| Coinjob |  |  | http://www.coinjob.net/ | N/P* | NOT FOUND |
 | Coinzai |  |  | https://coinzai.com/ | N/P* | NOT FOUND |
+| Connectius | Connectius | https://www.connectius.com/docs/wpaper_eng.pdf | https://www.connectius.com/ | N/P* | NOT FOUND |
 | Connect Social |  |  | https://connectsocial.io/ | N/P* | NOT FOUND |
 | Contentmint |  |  | https://www.contentmint.io/ | N/P* | NOT FOUND |
 | Crowdcoin |  |  | http://mqtcrypto.com/ | N/P* | NOT FOUND |
@@ -161,6 +161,7 @@
 | Cru Coins |  |  | http://crucoins.com/ | N/P* | NOT FOUND |
 | CryptoFactory |  |  | http://ico.cf.rs/ | N/P* | NOT FOUND |
 | Cryptopuppies |  |  | http://www.cryptopuppies.land/ | N/P* | NOT FOUND |
+| Crypto Tickets | Crypto tickets | http://crypto.tickets/crypto.tickets whitepaper ENG.pdf | http://crypto.tickets/ | N/P* | NOT FOUND |
 | Cryx |  |  | http://cryx.io/ | N/P* | NOT FOUND |
 | Cverification |  |  | https://www.cverification.com/ | N/P* | NOT FOUND |
 | Cys Mining |  |  | http://www.cysmining.com/ | N/P* | NOT FOUND |
@@ -198,8 +199,8 @@
 | Jwcventures |  |  | https://jwcventures.com/ | N/P* | NOT FOUND |
 | Internxt |  |  | https://internxt.io/ | N/P* | NOT FOUND |
 | Kexcoin |  |  | https://kexcoin.com/ | N/P* | NOT FOUND |
-| Kodakone |  |  | https://kodakcoin.com/ | N/P* | NOT FOUND |
 | Kuna Exchange |  |  | https://kuna.io/sco?lang=en | N/P* | NOT FOUND |
+| Lampix | Lampix | https://lampix.co/whitepaper.pdf | https://lampix.co/token.html | N/P* | NOT FOUND |
 | Lambo Token |  |  | http://lambotoken.io/ | N/P* | NOT FOUND |
 | Liberstad |  |  | http://www.liberstad.com/ | N/P* | NOT FOUND |
 | Liblob |  |  | https://liblob.com/ | N/P* | NOT FOUND |
@@ -223,6 +224,7 @@
 | Neuromation |  |  | https://neuromation.io/ | N/P* | NOT FOUND |
 | Neuron |  |  | https://doc.ai/ | N/P* | NOT FOUND |
 | Nimfamoney |  |  | https://www.nimfamoney.io/ | N/P* | NOT FOUND |
+| Octobase |  |  | https://www.octobase.co/ | N/P* | NOT FOUND |
 | Opporty |  |  | https://opporty.com/ | N/P* | NOT FOUND |
 | Our Interest |  |  | https://www.ourinterest.org/ico | N/P* | NOT FOUND |
 | Plexcoin |  |  | https://www.plexcoin.com/ | N/P* | NOT FOUND |
@@ -307,6 +309,7 @@
 | Crypto Mutual Coin | CRYPTO MUTUAL COIN | https://gist.github.com/ccmut56/0bc7d73a9c8fda1f9dbd7a02d8be9d08 | http://cryptomc.com/index.html | N/P* | NOT PDF |
 | Demicoin | DEMICOIN | https://demicoin.io/whitepaper | https://demicoin.io/ | N/P* | NOT PDF |
 | Dharma | Dharma: A Generic Protocol for Tokenized Debt Issuance | https://whitepaper.dharma.io/#faq | https://dharma.io/ | N/P* | NOT PDF |
+| Diwtoken | enables the secure storage of sensitive information such as identification documentation, passwords, bank account and credit card Information, validated KYC or KYS related documentation, wills, as well as other valuable digital data within a highly encrypted, secure and private decentralised platform | https://docsend.com/view/qr8a4u7 | https://diwtoken.com/ | N/P* | NOT PDF |
 | DocCoin | The best way to be healthy | https://www.doc-coin.com/white-paper-eng | https://www.doc-coin.com/ | N/P* | NOT PDF |
 | Doft |  | https://doft.com/investor-relations | https://doft.com/ | N/P* | NOT PDF |
 | Dr. Oss Coin | We are moving, quickly, into an age of Digital, Cryptographically secured funds.  | https://docco.in/whitepaper.html | https://docco.in/ | N/P* | NOT PDF |
@@ -390,8 +393,10 @@
 | You Tweak It | First decentralised ideas marketplace is secure and 100% reward guarantied ideas sharing platform on Oracles Blockchain PoA engine | https://hackmd.io/s/Hk_x516TW# | http://youtweak.it/ | N/P* | NOT PDF |
 | Zero Traffic | Welcome to the future of congestion management | https://www.zerotraffic.io/whitepaper | https://www.zerotraffic.io/ | N/P* | NOT PDF |
 | 8coin |  |  | http://8coin.io/ | N/P* | NOT WORKING |
+| A-token | A-TOKEN | https://a-token.io/whitepaper.pdf | https://a-token.io/ | N/P* | NOT WORKING |
 | A2b.direct |  |  | http://ico.a2b.direct/ | N/P* | NOT WORKING |
 | Abio Coin |  |  | https://abiocoin.com/en/ | N/P* | NOT WORKING |
+| AcademyCoin | Academy Coin | https://academycoin.io/static/pdf/ACAD_WHITEPAPER.pdf | https://ac3.io/ | N/P* | NOT WORKING |
 | Acuitty |  |  | https://www.acuitty.io/ | N/P* | NOT WORKING |
 | Algo Token |  |  | https://www.algotoken.com/ | N/P* | NOT WORKING |
 | All In Communicator |  |  | https://allincommunicator.com/ | N/P* | NOT WORKING |
@@ -399,6 +404,7 @@
 | Alpencoin |  |  | https://www.alpencoin.com/ | N/P* | NOT WORKING |
 | Amberport |  |  | http://www.amberport.io/ | N/P* | NOT WORKING |
 | Apex |  |  | https://apex.chinapex.com/ | N/P* | NOT WORKING |
+| Arthacoin |  |  | www.arthacoin.com/ | N/P* | NOT WORKING |
 | Aterious | Aterious | https://aterious.com/white_paper.pdf | https://aterious.com/ | N/P* | NOT WORKING |
 | Athenacoin |  |  | https://www.athenacoin.io/ | N/P* | NOT WORKING |
 | Aucoin |  |  | http://ico-pgranville.online/ | N/P* | NOT WORKING |
@@ -421,6 +427,8 @@
 | Celcoin |  |  | http://ico.celcoin.co/ | N/P* | NOT WORKING |
 | Celsius |  |  | https://celsius.network/ | N/P* | NOT WORKING |
 | Centz |  |  | https://ico.centz.net/ | N/P* | NOT WORKING |
+| Coinjob |  |  | http://www.coinjob.net/ | N/P* | NOT WORKING |
+| Coinoor | Coinoor | http://coinoor.io/doc/Coinoor_Whitepaper.pdf | http://coinoor.io/ | N/P* | NOT WORKING |
 | Coinsopen |  |  | https://coinsopen.com/ | N/P* | NOT WORKING |
 | Connectwealth |  |  | https://www.connectwealth.net/ | N/P* | NOT WORKING |
 | Cottagecoin |  |  | https://cottagecoin.io/ | N/P* | NOT WORKING |
@@ -447,7 +455,7 @@
 | Feeed |  |  | https://feeed.cc/ | N/P* | NOT WORKING |
 | Feenix |  |  | http://feenix.tech/ | N/P* | NOT WORKING |
 | Fizcal |  |  | https://fizcal.co/ | N/P* | NOT WORKING |
-| Flipcoin |  |  | https://www.flipcoinsale.com/ | N/P* | NOT WORKING |
+| Flipcoin |  |  | https://www.flipcoinone.io/ | N/P* | NOT WORKING |
 | Fox Casino |  |  | https://foxcsn.com/ | N/P* | NOT WORKING |
 | Fundos (fos) |  |  | https://www.fos.ai/index.html?channel=icoalert | N/P* | NOT WORKING |
 | Gamecash |  |  | https://www.gamecash.technology/ | N/P* | NOT WORKING |
@@ -470,11 +478,15 @@
 | InVisio |  |  | https://www.invisioplatform.com | N/P* | NOT WORKING |
 | Jazemcoin |  |  | https://jazemcoinproyect.wixsite.com/ | N/P* | NOT WORKING |
 | Karbon |  |  | https://karbon.io/ | N/P* | NOT WORKING |
+| KeY' TOKEN | KeY' TOKEN | http://ico.keytoken-ew.com/en/pdf/white-paper-for-key-token-ver-1_7_en.pdf | http://ico.keytoken-ew.com/en/ | N/P* | NOT WORKING |
 | Kitex | Kitex - Decentralized Privacy Platform | https://kitex.io/WHITEPAPER.pdf | https://kitex.io/ | N/P* | NOT WORKING |
+| Knows | KNOWS.Online / Monetize Your Knowledge in 5 Minutes | https://www.knows.online/public-content/white-paper/white-paper.pdf | https://www.knows.online/ | N/P* | NOT WORKING |
 | Kumo |  |  | https://www.kumocoin.com/ | N/P* | NOT WORKING |
 | Lendingstar Exchange |  |  | https://crowdsale.lendingstar.com/ | N/P* | NOT WORKING |
 | Liq Platform |  |  | https://liqplatform.com/ | N/P* | NOT WORKING |
+| LiteCoin Gold | LiteCoinGold - Faster, Cheaper and Smart Contract Powered | http://www.litecoingold.info/wp-content/uploads/Gold%20Paper%20-%20LTG.pdf | http://www.litecoingold.info/ | N/P* | NOT WORKING |
 | Lockchain |  |  | https://www.lockchain.io/ | N/P* | NOT WORKING |
+| Loopx | BASED ON THE STATE OF THE ART LOOPX TRADING SOFTWARE | https://www.loopx.io/media/loopx_whitepaper.pdf | https://www.loopx.io/ | N/P* | NOT WORKING |
 | Looq |  |  | https://looq.io/ | N/P* | NOT WORKING |
 | Luxico |  |  | http://luxico.io/ | N/P* | NOT WORKING |
 | Magos |  |  | http://magos.io/ | N/P* | NOT WORKING |
@@ -482,6 +494,7 @@
 | Make It Viral |  |  | https://www.miv.life/ | N/P* | NOT WORKING |
 | Makersmarks |  |  | https://makersmarks.io/ | N/P* | NOT WORKING |
 | Mammoth Casino |  |  | https://mammoth.casino/ | N/P* | NOT WORKING |
+| Marta | MartaPillow | http://martaico.com/wp.pdf | http://martaico.com/ | N/P* | NOT WORKING |
 | Metalzoom Energy |  |  | https://www.metalzoom.energy/ | N/P* | NOT WORKING |
 | MilkCoin |  | https://milkcoin.io/en/Whitepaper-EN.pdf | https://milkcoin.io/ | N/P* | NOT WORKING |
 | Modoview |  |  | http://www.modoview.com/ | N/P* | NOT WORKING |
@@ -490,6 +503,7 @@
 | New Dubrava |  |  | http://ramo.city/ | N/P* | NOT WORKING |
 | Ninth Wonder |  |  | https://www.ninthwonder.world/ | N/P* | NOT WORKING |
 | Nuvus |  |  | https://www.nuvus.io/ | N/P* | NOT WORKING |
+| OFO Coin | OneForOne Coin | https://www.ofoco.in/files/OFOcoin_WhitePaper_English.pdf | http://www.ofoco.in/ | N/P* | NOT WORKING |
 | Onplace |  |  | http://investments.onplace.io/ | N/P* | NOT WORKING |
 | Oren Platform |  |  | https://orenplatform.com/?refUrl=icoalert | N/P* | NOT WORKING |
 | Petsafe |  |  | https://www.petsafes.xyz/ | N/P* | NOT WORKING |
@@ -502,6 +516,7 @@
 | Project Artefact |  |  | http://www.projectartefact.com/ | N/P* | NOT WORKING |
 | Protostarr |  |  | https://protostarr.io/ | N/P* | NOT WORKING |
 | Quantopia |  |  | https://www.quantopia.network/ | N/P* | NOT WORKING |
+| Quintek | Home | http://quintek.org/QUINTEK_White_Paper.pdf | http://quintek.org/ | N/P* | NOT WORKING |
 | Revain |  |  | https://crowdsale.revain.org/ | N/P* | NOT WORKING |
 | Salt Coin |  |  | http://saltcoin.io/ | N/P* | NOT WORKING |
 | SellMyGood |  |  | https://www.sellmygoodico.com/ | N/P* | NOT WORKING |
@@ -546,3 +561,4 @@
 | Workerz |  |  | https://workerz.org/ | N/P* | NOT WORKING |
 | World Of Battles |  |  | https://ico.worldofbattles.io/ | N/P* | NOT WORKING |
 | Wwam |  |  | http://wwam.io/ | N/P* | NOT WORKING |
+| XWIN CryptoBet | XWIN CryptoBet | https://xwin.io/WhitepaperXWINEN.pdf | https://xwin.io/en | N/P* | NOT WORKING |
