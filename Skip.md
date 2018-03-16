@@ -121,6 +121,7 @@
 | 803mine |  |  | https://www.803mine.com/ | N/P* | NOT FOUND |
 | Aasani |  |  | http://www.aasani.net/ | N/P* | NOT FOUND |
 | Aether United |  |  | http://aetherunited.com/ | N/P* | NOT FOUND |
+| Agoras Tokens | The unstoppable, decentralized and disruptive Marketplace | https://theagora.io/assets/agora_whitepaper.pdf | https://theagora.io/ | | NOT FOUND |
 | Aiom |  |  | https://ico.aicosoft.de/ | N/P* | NOT FOUND |
 | Akasha |  |  | https://akasha.world/ | N/P* | NOT FOUND |
 | Algo Land |  |  | https://www.algo.land/ | N/P* | NOT FOUND |
