@@ -19,6 +19,7 @@
 | Cobalt Coin | cobalt development project | https://drive.google.com/file/d/0Bw2Heb_xR5dNUkhlb3paWVRSWEU/view | http://cobalt-coin.one/en | N/P* | GOOGLE DOCS |
 | CoinFi | CoinFi - White Paper | https://docs.google.com/document/d/1p6xaFl4nPv1CuJv6F2fkZ6qBq2lBS6ePyFna8QZt1KM/edit | https://sale.coinfi.com/ | N/P* | GOOGLE DOCS |
 | Coinvest | COINVEST Whitepaper | https://docs.google.com/document/d/1ePI50Vd9MGdkPnH0KdVuhTOOSiqmnE7WteGDtG10GuE/edit | https://coinve.st/ | N/P* | GOOGLE DOCS |
+| Consentium | MULTI-DIGITAL-CURRENCY , GROUP MONETISATION CHAT APPLICATION | https://drive.google.com/file/d/1f1O9jjWCkHfp_RAiQ61N3DhEJnMSAk31/view | https://consentium.net/ | N/P* | GOOGLE DOCS |
 | CVproof | SECURING JOB'S CREDENTIALS | https://drive.google.com/file/d/1EBAeQyxSGc645uL_2mrFYD0Ix0tM_byC/view | https://www.cvproof.com/ | N/P* | GOOGLE DOCS |
 | CycloShield | CycloShieldCoin | https://drive.google.com/file/d/0BxhuNRihFKvsTW9wS3BDVXRPSWc/view | https://www.cycloshieldcoin.com/ | N/P* | GOOGLE DOCS |
 | Darfchain | An InterPlanetary Ecosystem for Managing Tokenomy Projects | https://drive.google.com/file/d/1t7fweDhluFNOrg1L71I3tSGU5qw4c6v-/view | http://darfchain.com/ | N/P* | GOOGLE DOCS |
@@ -28,6 +29,7 @@
 | Drivr | Advanced A.I. Driven Rideshare on the Blockchain | https://drive.google.com/file/d/111BBGfvhn_ZvU5vdZikrDOq2n_-2eDGe/view | https://drivr.network/ | N/P* | GOOGLE DOCS |
 | Dropdeck | A royalty & debt financing platform for fast growing businesses | https://drive.google.com/file/d/0B-ngm-zezrFQaHNxaHZWTnNNMTA/view | https://dropdeck.io/ | N/P* | GOOGLE DOCS |
 | Ecogreenhouse | TOKEN GENERATING EVENT | https://drive.google.com/file/d/0B5BDsUAHOQraLUtIcWVycl9RZDA/view | https://www.egh.io/en/ | N/P* | GOOGLE DOCS |
+| EHealth | AN IT-PLATFORM FOR PERSONALIZED HEALTH AND LONGEVITY MANAGEMENT | https://drive.google.com/file/d/1vzeZ1K0q973vyOx-JL295d8BS0bZybUt/view | http://ehfirst.io/ | N/P* | GOOGLE DOCS |
 | Elpis Investments | Elpis is the First AI Crypto-assets Investment Fund | https://drive.google.com/file/d/0BylWh_GCTZAyeTZKTDNaTEx5NkE/view | https://elpisinvestments.com/ | N/P* | GOOGLE DOCS |
 | Erachain | Developed for Traditional Businesses with Decentralized Reward Technology | https://drive.google.com/file/d/0B55xIImDmblnakstX1BxSkg4SzQ/view | http://erachain.org/ | N/P* | GOOGLE DOCS |
 | Famebroker | DECENTRALIZING POPULARITY | https://drive.google.com/file/d/1VIYuFlhMfO6SLt1QJQ1mzn-oEl_CHREy/view | http://www.icobitfames.com/ | N/P* | GOOGLE DOCS |
@@ -96,6 +98,7 @@
 | Smart city | Smart Solution for every city | https://drive.google.com/file/d/1vn6c_SwsfWAg7b0GE_guAKCVu0PS_8gB/ | https://www.makesmart.city/ | N/P* | GOOGLE DOCS |
 | SmartRefer | Blockchain-based recruitment referral marketplace | https://drive.google.com/file/d/1GmOaMMxYCITAAEw_TvifFaM5Ppv6BeSw/view | https://smartrefer.io/ | N/P* | GOOGLE DOCS |
 | Sosnovkino | sosnovkino | https://drive.google.com/file/d/0B-QBdFrWXGeAc3NkQ1hvX3p6T00/view | http://sosnovkino.info/ | N/P* | GOOGLE DOCS |
+| Spectiv | Spectiv | https://drive.google.com/file/d/1-Y4-Bb9-70DhdVeTvYLZtkK5W3Lvruc-/view | https://www.spectivvr.com/ | N/P* | GOOGLE DOCS |
 | Sportience | Manage a real football club in real life! | https://drive.google.com/file/d/1c2-KMbCfOxDrhTKUC2WEJwFxYmk-mgWu/view | http://sportience.online/ | N/P* | GOOGLE DOCS |
 | Sugar | IT WILL BE COSILY HERE FOR YOU | https://drive.google.com/file/d/1TqI_CLPFtYyU0I1gZih8GHYNjG4smib-/view | https://www.sugar.lgbt/ | N/P* | GOOGLE DOCS |
 | Tatchcapital | a private company doing sole proprietary trading based on company's discretionary trading strategies | https://docs.google.com/document/d/1L6hYc8ipQJ9Ev6iOi8cLo82DSq0oCUU8CFrDnP5aRgo/edit | https://tatchcapital.com/ | N/P* | GOOGLE DOCS |
@@ -118,6 +121,7 @@
 | 803mine |  |  | https://www.803mine.com/ | N/P* | NOT FOUND |
 | Aasani |  |  | http://www.aasani.net/ | N/P* | NOT FOUND |
 | Aether United |  |  | http://aetherunited.com/ | N/P* | NOT FOUND |
+| Agoras Tokens | The unstoppable, decentralized and disruptive Marketplace | https://theagora.io/assets/agora_whitepaper.pdf | https://theagora.io/ | | NOT FOUND |
 | Aiom |  |  | https://ico.aicosoft.de/ | N/P* | NOT FOUND |
 | Akasha |  |  | https://akasha.world/ | N/P* | NOT FOUND |
 | Algo Land |  |  | https://www.algo.land/ | N/P* | NOT FOUND |
@@ -264,6 +268,7 @@
 | Ujo |  |  | https://ujomusic.com/ | N/P* | NOT FOUND |
 | Unity Coin |  |  | https://www.unitycoin.onewed.com/ | N/P* | NOT FOUND |
 | Vcb Token |  |  | http://cause-play.com/ | N/P* | NOT FOUND |
+| Vcoinexchange |  |  | https://www.vcoinexchange.com/ | N/P* | NOT FOUND |
 | Virtonomics |  |  | https://virtonomics.com/ | N/P* | NOT FOUND |
 | Vyral |  |  | https://vyral.network/ | N/P* | NOT FOUND |
 | Winbot |  |  | http://winbot.tech/winken/ | N/P* | NOT FOUND |
@@ -377,6 +382,7 @@
 | Saske | seamlessly unites social media platforms with the Blogosphere | https://www.saske.io/white-paper/ | http://www.saske.io/ | N/P* | NOT PDF |
 | Sine | Music streaming that pays you | https://view.attach.io/BkPk-bZpZ | https://sine.media/ | N/P* | NOT PDF |
 | SlotNSlot | SlotNSlot | https://github.com/SlotNSlot/whitepaper/blob/master/whitepaper.md | https://slotnslot.com/ | N/P* | NOT PDF |
+| Soma | Decentralized Social Marketplace | https://soma.co/documents/ | https://soma.co/ | N/P* | NOT PDF |
 | Soundchain | Distributed opensource database for managing intellectual property rights | http://soundchain.org/whitepaper | http://soundchain.org/ | N/P* | NOT PDF |
 | Sparta | SpartaICO whitepaper for Sparta Startups accelerator development based on blockchain tokens. | http://spartaico.com/wp.html | http://spartaico.com/ | N/P* | NOT PDF |
 | Spice Venture Capital | To revolutionize the way venture capital is raised and managed with SPiCE VC, a liquid tokenized fund. | https://spicevc.docsend.com/view/az3zcqb | https://www.spicevc.com/ | N/P* | NOT PDF |
@@ -525,9 +531,13 @@
 | Signatum |  |  | http://signatum.io/ | N/P* | NOT WORKING |
 | Sincoin |  |  | https://www.getsincoin.io/contribute | N/P* | NOT WORKING |
 | Slogn |  |  | https://www.slogn.net/ | N/P* | NOT WORKING |
+| Snapup | Snapup - Disrupt the way you buy PREMIUM products! | https://ico.snapup.biz/snapup-wp.pdf | https://snapup.biz/ | N/P* | NOT WORKING |
 | Soccerchain |  |  | http://www.soccerchain.com/ | N/P* | NOT WORKING |
+| Solomon Exchange | Solomon Exchange - An Innovative cryptocurrency exchange | https://solomonex.info/whitepaper/SMNX%5Fwp.pdf | https://solomonex.info/ | N/P* | NOT WORKING |
 | Space |  |  | https://spaceico.io/ | N/P* | NOT WORKING |
 | Spacium |  |  | https://spacium.io/ | N/P* | NOT WORKING |
+| Spark Coin | SPARK COIN - Decentralized Crypto Currency | https://icospark.io/whitepaper.pdf | https://icospark.io/ | N/P* | NOT WORKING |
+| Sqtoken | SQTOKEN EN | http://cabinet.sqtoken.io/whitepaper/WP_SQToken_0.0.3.pdf | http://sqtoken.io/ | N/P* | NOT WORKING |
 | Startmining |  |  | https://startmining.com/ | N/P* | NOT WORKING |
 | Superior Coin |  |  | https://thesuperiorcoin.com/ | N/P* | NOT WORKING |
 | Synthorn |  |  | https://synthorn.com/ | N/P* | NOT WORKING |
