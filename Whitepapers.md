@@ -41,8 +41,7 @@
 | Aexon | Aexon | http://aexon.net/whitepaper/aexon.pdf | http://aexon.net/ | N/P* |
 | Afterschool | Afterschool | https://www.adgm.com/media/192772/20171009-fsra-guidance-for-icos-and-virtual-currencies.pdf | https://afterschool.ae/ | N/P* |
 | Agadro Crypto Crowdfunding | Agadro Crypto / Property Development & Asset Management | https://www.agadrocrypto.com/wp-content/uploads/2017/10/AGADRO-Whitepaper-1.1.pdf | https://www.agadrocrypto.com/ | N/P* |
-| Agora | Bringing our voting systems
-into the 21st century | https://agora.vote/Agora_Whitepaper_v0.1.pdf | https://agora.vote/ | N/P* |
+| Agora | Bringing our voting systems into the 21st century | https://agora.vote/Agora_Whitepaper_v0.1.pdf | https://agora.vote/ | N/P* |
 | Agrello | Self-Aware Agent-Supported Contract Management on Blockchains for Legal Accountability | https://docs.agrello.org/Agrello-Self-Aware_Whitepaper-English.pdf | https://www.agrello.org/ | Alex Norta, Anton Vedeshin, Hando Rand |
 | Agrivita | ORGANIC FARM | https://agrivita.ru/pdf/whitepaper.en.pdf | https://agrivita.ru/ | N/P* |
 | Aidcoin | AidCoin - Building Charity’s Future | https://www.aidcoin.co/assets/documents/whitepaper.pdf | https://www.aidcoin.co/ | N/P* |
@@ -959,8 +958,7 @@ into the 21st century | https://agora.vote/Agora_Whitepaper_v0.1.pdf | https://a
 | Metaverse ETP | Metaverse ETP: From Smart Properties, Avatars and Oracles to A New Virtual Society | https://bravenewcoin.com/assets/Whitepapers/Metaverse-White-Paperdraft-EN.pdf | https://mvs.org/ | |
 | Metronome | a new cryptocurrency focused on making greater decentralization possible and delivering institutional-class endurance | https://www.metronome.io/pdf/owners_manual.pdf | https://www.metronome.io/ | N/P* |
 | Metta | Metta - Uberization platform for offline services | https://metta-ico.com/docs/whitepaper-metta-en.pdf | https://metta-ico.com/ | N/P* |
-| Mattereum | Smart contracts with the legal force of
-natural language contracts | https://mattereum.com/images/pdf/mattereum-draft-white-paper.pdf | https://mattereum.com/ | N/P* |
+| Mattereum | Smart contracts with the legal force of natural language contracts | https://mattereum.com/images/pdf/mattereum-draft-white-paper.pdf | https://mattereum.com/ | N/P* |
 | Micromoney | Financial Inclusion of 7 billion people into the World Global Crypto Economy | https://micromoney.io/MicroMoney_whitepaper_ENG.pdf | https://micromoney.io/ | N/P* |
 | Midex | Blockchain based Financial platform with licensed exchange approved by Swiss bankers and lawyers | https://ico.midex.com/whitepaper_eng.pdf |  https://ico.midex.com/ | N/P* |
 | Midnight Greenwich Trading | 12coin / Midnight Greenwich Trading | http://12coin.biz/12/wp-content/uploads/2017/09/12Coin-WHITEPAPER-1.0.9-ENG.pdf | http://12coin.biz/12/ | N/P* |
@@ -1280,8 +1278,7 @@ natural language contracts | https://mattereum.com/images/pdf/mattereum-draft-wh
 | RUCOIN | Russian Currencies | http://ico.ru-coin.com/White-Paper-EN.pdf | https://ico.ru-coin.com/en/ | N/P* |
 | Run2play | gaming fitness by building the platform of the future for mobile, augmented reality, and virtual reality fitness technologies | https://run2play.com/downloads/Run2Play_Whitepaper_redesign.pdf | https://run2play.com/ | N/P* |
 | Rxeal | The latest way to profit from Real Estate | https://storage.rxeal.com/public/RxEAL_White_Paper.pdf | https://rxeal.com/ | N/P* |
-| SAAVcoin | new multi-platform time-management game
-called "Agamé" | https://www.saavcoin.com/white-paper.pdf | https://www.saavcoin.com/ | N/P* |
+| SAAVcoin | Тew multi-platform time-management game called "Agamé" | https://www.saavcoin.com/white-paper.pdf | https://www.saavcoin.com/ | N/P* |
 | SafeCrypt | Safe Cryptoexchange Platform | https://safecrypt.io/whitepaper.pdf | https://safecrypt.io/ | N/P* |
 | Safe Exchange Coin | Safe Exchange: A Peer-to-Peer Decentralized Contract Market Platform | https://bravenewcoin.com/assets/Whitepapers/SafeExchangeWhitePaper.pdf | http://www.safex.io | Daniel Dabek |
 | Safehaven | The Solution to digital inheritance | https://safehaven.io/files/SafeHaven_WhitePaper.pdf | https://safehaven.io/ | N/P* |
@@ -1370,7 +1367,7 @@ called "Agamé" | https://www.saavcoin.com/white-paper.pdf | https://www.saavcoi
 | Sonder | ABSOLUTE SECURITY LEVEL | https://sonder.vision/wp-content/themes/sonder/docs/whitepaper.pdf | https://sonder.vision/ | N/P* |
 | SonoCoin | financial sytem owned and operated by its users | https://sono.money/whitepaper.pdf | https://sono.money/ | N/P* |
 | SONM | Distributed computing power exchange. Decentralized operating system for fog computing | https://sonm.io/Sonm1.pdf | https://sonm.io/ | |
-| Sophiatx | tailored for extending traditional applications like ERP, CRM and many others with robust collaborative and decentralized blockchain capabilities | https://www.sophiatx.com/_data/_custom/SophiaTX_Whitepaper_v1.9.pdf | https://www.sophiatx.com/ | N/P* |
+| Sophiatx | tailored for extending traditional applications like ERP, CRM and many others with robust collaborative and decentralized blockchain capabilities | https://www.sophiatx.com/%5Fdata/%5Fcustom/SophiaTX_Whitepaper%5Fv1.9.pdf | https://www.sophiatx.com/ | N/P* |
 | Sorbase | Sorbase Crypto Liquidity Aggregator - European B2B ECN (API) | http://sorbase.com/sorbase_whitepaper.pdf | http://sorbase.com/ | N/P* |
 | Sp8de | A DECENTRALIZED PLATFORM FOR GAMING DAPPS | https://sp8de.com/sp8de_white_paper.pdf | https://sp8de.com/ | N/P* |
 | Spacoin | SpaCoin is Blockchain platform based on Ethereum platform being adjusted by smart contracts. | https://spacoin.io/whitepaper_spacoin_final.pdf | https://spacoin.io/ | N/P* |
@@ -1514,8 +1511,7 @@ called "Agamé" | https://www.saavcoin.com/white-paper.pdf | https://www.saavcoi
 | Trackr | TRACKR | https://www.trackr.im/media/whitepaper.pdf | https://www.trackr.im/ | N/P* |
 | Tracto | Tracto - TECHNOLOGY FOR RAPID ANONYMOUS COIN TRANSACTION ORGANIZATION | http://www.tracto.org/wp-content/uploads/2017/09/Tracto-White-Paper.pdf | http://www.tracto.org/ | N/P* |
 | Trade.io | trade.io - Join the Trading Revolution | https://trade.io/whitepaper/EN.pdf | https://trade.io/ | N/P* |
-| Tradenetcoin | Revolutionary lending platform based on strong 
-decentralized network | https://tradenetcoin.io/TNC_white_paper.pdf | https://tradenetcoin.io/ | N/P* |
+| Tradenetcoin | Revolutionary lending platform based on strong decentralized network | https://tradenetcoin.io/TNC_white_paper.pdf | https://tradenetcoin.io/ | N/P* |
 | Tradeplayz | THE PREMIERE FANTASY INVESTMENT TRADING APP | http://tradeplayz.com/tpz_whitepaper.pdf | http://tradeplayz.com/ | N/P* |
 | Tradershub | The Crypto Platform Every Trader Wants | https://tradershub.io/build/static/downloadables/Whitepaper.pdf | https://tradershub.io/ | N/P* |
 | Traderstars.io | Ultimate Gateway into the Crypto World | https://traderstars.io/wp-content/uploads/2017/09/TraderStars.io_Whitepaper-1.pdf | http://traderstars.io/ | N/P* |
