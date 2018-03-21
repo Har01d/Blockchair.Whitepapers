@@ -36,6 +36,7 @@
 | Fic Network | Fixed Income Infrastructure for Blockchain Assets | https://drive.google.com/file/d/0ByzKCCWTHkioZzRhTThXSi0zcWM/view | http://factury.co/fixnet/ | N/P* | GOOGLE DOCS |
 | Fintab | The Accounting System for Cryptocurrency Portfolios | https://drive.google.com/file/d/1IawIwe0zJmhytA6PIs9S8wEo7gP6nyRL/view | https://fintab.io/ | N/P* | GOOGLE DOCS |
 | Flashmoni | Physical Gold-backed cryptocurrency / Innovative payment features / smart contract-based ad solutions | https://drive.google.com/file/d/10tlNa7GwOlaV7ZD7ovmYaOLq5sLSwUlU/view | https://www.flashmoni.io/ | N/P* | GOOGLE DOCS |
+| Follex | THE WORLDS FIRST REGULATED SOCIAL CRYPTO EXCHANGE | https://drive.google.com/file/d/1NLinuMbJgrz6bZQfR_zer9g2y7AZzXZf/view | https://www.follex.io/ | N/P* | GOOGLE DOCS |
 | Forty Seven Bank | We are connecting financial worlds | https://drive.google.com/file/d/0BzvESRkgX-uDeHc1QjRzbHRBelU/view | https://www.fortyseven.io/ | N/P* | GOOGLE DOCS |
 | Frasindo | FRASINDO "FRAS COIN" | https://drive.google.com/file/d/1jWnP6nWK7omHNZZp4iUrhSAJu3BifGwt/view | https://www.frasindo.com/ | N/P* | GOOGLE DOCS |
 | Genie | Token-based lending platform for Asia | https://drive.google.com/file/d/1um3ClBgZr0Uoh2h6dk01zXhE_hiE7FFa/view | https://www.genieico.net/ | N/P* | GOOGLE DOCS |
