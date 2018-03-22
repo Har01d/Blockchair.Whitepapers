@@ -252,6 +252,7 @@
 | Sikka |  |  | http://sikka.io/ | N/P* | NOT FOUND |
 | Slot |  |  | http://slot.network/ | N/P* | NOT FOUND |
 | Smart Billions |  |  | https://smartbillions.com/ | N/P* | NOT FOUND |
+| Smartlottery |  |  | https://smartlottery.tech// | N/P* | NOT FOUND |
 | Smartre |  |  | https://www.smartre.io/ | N/P* | NOT FOUND |
 | Spotree |  |  | https://spotree.com/ | N/P* | NOT FOUND |
 | Squeezer |  |  | https://squeezer.io/ | N/P* | NOT FOUND |
@@ -451,6 +452,7 @@
 | Dome Platform | The Dome | https://www.domeplatform.io/static/pdfs/Whitepaper.pdf | https://www.domeplatform.io/ | N/P* | NOT WORKING |
 | DropAnswer |  | http://dropanswer.social/whitepaper.pdf | http://dropanswer.social/ | N/P* | NOT WORKING |
 | Droplex |  |  | https://droplex.org/index.php | N/P* | NOT WORKING |
+| Elite 888 | ELITE 888 | https://elite888.com/docs/ELITE_888_White_Paper.pdf | https://elite888.com/ | N/P* | NOT WORKING |
 | Ethereum Movie Venture |  |  | http://ico.swisscoast.com/ | N/P* | NOT WORKING |
 | Ethereum Universe |  |  | https://ethereumuniverse.org/ | N/P* | NOT WORKING |
 | Etherex |  |  | https://etherex.org/ | N/P* | NOT WORKING |
@@ -470,7 +472,9 @@
 | Genotik |  |  | https://genotik.com/ | N/P* | NOT WORKING |
 | Global Business System |  |  | http://ico.b2b-gbs.com/ | N/P* | NOT WORKING |
 | Glocal |  |  | https://www.projectglocal.org/ | N/P* | NOT WORKING |
+| GOLDEA | GOLDEA | https://www.goldea.io/docs/goldea/actual/GOLDEA-WhitePaperEng.pdf | https://www.goldea.io/ | N/P* | NOT WORKING |
 | Golden Mile |  |  | https://www.goldenmile.io/ | N/P* | NOT WORKING |
+| GoMineWorld | GoMineWorld | http://gomineworld.com/whitepaper_en.pdf | http://gomineworld.com/ | N/P* | NOT WORKING |
 | Grant Hero Foundation |  |  | https://crowdsale.granthero.ngo/ | N/P* | NOT WORKING |
 | Gx Coin |  |  | https://www.genevieveco.com/ | N/P* | NOT WORKING |
 | Hotelcoin |  |  | http://hotelcoin.pro/ | N/P* | NOT WORKING |
@@ -541,6 +545,7 @@
 | Sqtoken | SQTOKEN EN | http://cabinet.sqtoken.io/whitepaper/WP_SQToken_0.0.3.pdf | http://sqtoken.io/ | N/P* | NOT WORKING |
 | Startmining |  |  | https://startmining.com/ | N/P* | NOT WORKING |
 | Superior Coin |  |  | https://thesuperiorcoin.com/ | N/P* | NOT WORKING |
+| Swapy |  |  | https://www.swapy.network | N/P* | NOT WORKING |
 | Synthorn |  |  | https://synthorn.com/ | N/P* | NOT WORKING |
 | Testing Workflow ICO |  |  | http://www.google.com | N/P* | NOT WORKING |
 | Tettix |  |  | https://tettix.io/ | N/P* | NOT WORKING |
