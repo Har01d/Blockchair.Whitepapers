@@ -908,6 +908,7 @@
 | Librium | Librium, Opportunity for All | https://librium.com/documents/Librium_Whitepaper.pdf | https://librium.io/ | N/P* |
 | LIFE | LIFEtoken - Simply for everyday people | http://www.lifelabs.io/ctrl/wp-content/uploads/LIFE-WHITEPAPER-1.04.pdf | https://token.lifelabs.io/ | N/P* |
 | Lightcash | Fast Transactions and Easy to Use | https://lightcash.io/files/lightcash_white_paper_en.pdf | https://lightcash.io/ | N/P* |
+| Lightning | Scalable Off-Chain Instant Payments | https://lightning.network/lightning-network-paper.pdf | https://lightning.network/ | N/P* |
 | Like | Like - Multifunctional Real Estate Platform | http://likei.co/whitepaperen.pdf | http://likei.co/ | N/P* |
 | Linda Healthcare | Linda Healthcare: Artificial Intelligence and Blockchain for Health Care | https://linda.healthcare/media/LindaHealthcare_WhitePaper_Eng.pdf | https://linda.healthcare/ | N/P* |
 | Litra | Decentralized Healthcare | http://www.litra.site/Litrawhitepaper.pdf | http://www.litra.site/ | N/P* |
