@@ -26,6 +26,7 @@
 | Dentalfix | DENTALFIX: A Healthcare Peer-to-Peer | https://drive.google.com/file/d/1LZRm0n-31ACGQS-BKqv1YYYVjkytU_b3/view | http://www.che-ss.com/dentalfix-ico/ | N/P* | GOOGLE DOCS |
 | Deepwater | NEW FRONTIERS OF DEEP-WATER EXPLORATION | https://drive.google.com/file/d/1psxxuTUnKYzc8Tw_GwDu7CxjZ1kOK_Lr/view | https://deepwater.systems/ | N/P* | GOOGLE DOCS |
 | Dolphin Blockchain Intelligence | open-source platform for collaborative crypto-asset investment analysis | https://drive.google.com/file/d/0B3Mr_3tb2Qb0MElpUVE3d3lUaEU/view | https://presale.dolphin.bi/ | N/P* | GOOGLE DOCS |
+| Dorae | The Blockchain for Raw Materials | https://drive.google.com/file/d/11qeYkut8u8knCLvGmDU-waN-JkrXW_Dz/view | https://www.dorae.io/ | N/P* | GOOGLE DOCS |
 | Drivr | Advanced A.I. Driven Rideshare on the Blockchain | https://drive.google.com/file/d/111BBGfvhn_ZvU5vdZikrDOq2n_-2eDGe/view | https://drivr.network/ | N/P* | GOOGLE DOCS |
 | Dropdeck | A royalty & debt financing platform for fast growing businesses | https://drive.google.com/file/d/0B-ngm-zezrFQaHNxaHZWTnNNMTA/view | https://dropdeck.io/ | N/P* | GOOGLE DOCS |
 | Ecogreenhouse | TOKEN GENERATING EVENT | https://drive.google.com/file/d/0B5BDsUAHOQraLUtIcWVycl9RZDA/view | https://www.egh.io/en/ | N/P* | GOOGLE DOCS |
@@ -60,6 +61,7 @@
 | Last Will | Making Contracts Really Smart. For Life. | https://drive.google.com/open?id=0B3ZY9oXSrdvjYjlCLUxra3oxZHM | https://lastwill.io/en/ | N/P* | GOOGLE DOCS |
 | Leadcoin | A Decentralized Network For Real-Time Lead Sharing | https://drive.google.com/file/d/1YlZhHsvHuD0K0XRDz_W1M6xdhLvSZPcx/view | https://www.leadcoin.network/ | N/P* | GOOGLE DOCS |
 | Legacylotto |  First decentralized world wide lottery offering ticket mining and self executing  smart contracts | https://drive.google.com/file/d/1BmwzsunfBmQXFG9bJirGDZDM3lLwvBbL/view | https://www.legacylotto.io/ | N/P* | GOOGLE DOCS |
+| Loanbit | P2P LENDING & INVESTMENT | https://drive.google.com/file/d/1LDx7YLNiTxgii9fNuFXXxq0zZPOjkb1q/view | https://ico.loanbit.org/ | N/P* | GOOGLE DOCS |
 | Lordmancer2 | The first open-world MMORPG on mobile where players can earn cryptocurrency | https://drive.google.com/file/d/1yvae0ac1Ak3wyxjUoObCcH-N4j9VQX7q/ | https://lordmancer2.io/ | N/P* | GOOGLE DOCS |
 | Lynx Network | The Autonomous Network & Organization Infrastructure Environment | https://www.dropbox.com/s/264gqstkg4xw7t2/whitepaperV.1.pdf | https://www.lynxnetwork.org/ | N/P* | GOOGLE DOCS |
 | Mainasset | global economic strategy game,which allows you to earn cryptocurrency in the cryptoworld | https://drive.google.com/file/d/0B_250MWAsXW7c0UwWHdHbF9YOVU/view | http://mainasset.org/ | N/P* | GOOGLE DOCS |
