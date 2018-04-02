@@ -868,6 +868,7 @@
 | Jiocoin | a decentralized mobile network, is dedicated to constructing an open-source telecom infrastructure on blockchain | https://jiocoins.io/white_paper.pdf | https://jiocoins.io/ | N/P* |
 | jNetCoin | jNetCoin - Jewelry business network | http://jnet1.co/wp-content/uploads/2017/09/White-Paper-ENG-v1.1.pdf | http://jnet1.co/en/ | N/P* |
 | Jobeum | Professional Network on Blockchain | https://s3.us-east-2.amazonaws.com/jobeum/whitepaper.pdf | http://jobeum.com/ | N/P* |
+| Joint ventures | building blockchain applications for leading online publishers | https://jointventures.io/wp.pdf | https://jointventures.io/ | N/P* |
 | JOLYY TGE | JOLYY TGE / The blockchain technology for fair, cheap and efficient beauty services | http://www.jolyy.com/whitepaper/jolyy%5Fwhitepaper.pdf | http://www.jolyy.com/ | N/P* |
 | Joyso | Hybrid Decentralized Token Exchange | https://joyso.io/whitepaper.pdf | https://joyso.io/ | N/P* |
 | Joytoken | gaming ecosystem that both empowers players and helps developers and casinos reduce risk | https://joytoken.io/white-paper.pdf | https://joytoken.io/ | N/P* |
@@ -916,7 +917,7 @@
 | Legal / Smartone | SmartOne - Legal solutions for the crypto community | https://smartone.legal/wp-content/uploads/2017/10/SmartOne%5FWP%5Fen%5F2.1.pdf | https://smartone.legal/ | N/P* |
 | Legalcoin | THE LEGAL CRYPTOCURRENCY | http://legalcoin.co/LegalCoin-Whitepaper.pdf | http://legalcoin.co/ | N/P* |
 | Legolas Exchange | A DEMONSTRABLY FAIR, PREMIUM CENTRALIZED EXCHANGE USING DECENTRALIZED BLOCKCHAIN TECHNOLOGY | https://legolas.exchange/static//public/legolas-whitepaper-en.pdf | https://legolas.exchange/ | N/P* |
-| Lendingblock | a self-contained ecosystem for fully collateralised borrowing and lending of crypto assets, comprised of two discrete yet complementary parts | https://uploads-ssl.webflow.com/5a0a3347d65a2f0001bdd01a/5a8c6ee783182b00017a3b90_Lendingblock_token_paper.pdf | https://lendingblock.com/ | N/P* |
+| Lendingblock |  an open exchange for borrowing and lending cryptocurrencies and digital assets | https://lendingblock.com/static/media/Whitepaper-English.21b2ed91.pdf | https://lendingblock.com/ | N/P* |
 | Lendoit | The ‘Smart’ Global P2P Lending Platform | https://lendoit.com/Lendoit-whitepaper.pdf | https://lendoit.com/ | N/P* |
 | LEOcoin | An established digital currency that allows individuals to make fast and secure transactions through a decentralised peer-to-peer network | https://www.leocoin.org/media/LEOcoin%20white%20paper%20July%202017.pdf | https://www.leocoin.org/ | |
 | Let bet | eliminated or tackled the existing problems of the online gambling platform by creating a blockchain-based gambling platform that is trustless, borderless, safe, fast and extremely secure | https://static.let.bet/whitepaper.pdf | https://let.bet/ | N/P* |
@@ -934,6 +935,7 @@
 | Live Edu | LiveEdu Initial Coin Offering - EDU Token Sale | https://tokensale.liveedu.tv/static/docs/LiveEdu-white-paper.pdf | https://tokensale.liveedu.tv/ | N/P* |
 | Livestars | Live Broadcast Entertainment Platform | https://livestars.io/whitepaper.pdf | https://livestars.io/ | N/P* |
 | Livetree Adept | Advanced Decentralized Entertainment Platform for Transparent distribution | https://az816050.vo.msecnd.net/whitepaper/en/LiveTree_ADEPT_Whitepaper_0_8_7.pdf | https://secure.livetree.com/ | N/P* |
+| Livingoffset | solution is focused on allowing individuals to offset their day-to-day purchases and activities | https://www.livingoffset.io/wp-content/uploads/2018/02/Living-Offset-The-Carbon-Paper-3.pdf | https://www.livingoffset.io/ | N/P* |
 | LLToken | The first shared CDN platform based on blockchain in the world | https://minerdl.yunfan.com/miner/lltoken/uploadfile/pdf/llt_white_paper_en.pdf | https://www.lltoken.com/ | N/P* |
 | Lkk2y | THE FIRST STEP TO LYKKE 2.0 | https://lkk2y.lykke.com/whitepaper.pdf | https://lkk2y.lykke.com/ | N/P* |
 | Localcoinswap | A decentralised crypto marketplace, owned by the community | https://www.localcoinswap.com/LocalCoinSwap_whitepaper_v1.0.pdf | https://www.localcoinswap.com/ | N/P* |
@@ -1126,6 +1128,7 @@
 | Ormeus Coin | ORMEUS COIN - The Gold Standard of Cryptocurrency | http://ormeuscoin.com/wp-content/uploads/2017/02/ORME%5FWhitePaper%5F09262017.pdf | https://ormeuscoin.com/ | N/P* |
 | Orocrypt | DIGITIZED PRECIOUS METALS ON THE ETHEREUM BLOCKCHAIN | https://orocrypt.com/static/docs/whitepaper.pdf | https://orocrypt.com/ | N/P* |
 | Otcrit | Trade with information | https://www.otcrit.org/Otcrit_whitepaper.pdf | https://www.otcrit.org/ | N/P* |
+| Otppay | Omni Token Platform for Payments | https://otppay.io/Assets/otppay-whitepaper/OTPPAY_White_paper_v1.1.pdf | https://otppay.io/ | N/P* |
 | Outing | The first community app dedicated to the outings and events in real time, integrating its own decentralized cryptocurrency | https://docs.wixstatic.com/ugd/3880ee_ae7d4618754a4f8a81cf5fc056d66931.pdf | https://www.outing-app.com/ | N/P* |
 | Ovato | CREATING THE NEXT GENERATION OF MASSIVELY ADOPTED DIGITAL CURRENCY TOKEN | https://www.ovato.com/wp-content/uploads/2018/02/WhitePaper.pdf | https://www.ovato.com/ | N/P* |
 | Oxycoin | THE EASIEST WAY TO BUY CRYPTOCURRENCIES WITH FIAT | https://oxycoin.io/whitepaper.pdf | https://oxycoin.io/ | N/P* |
@@ -1680,6 +1683,7 @@
 | WaBi | WaBi | http://resources.wacoin.io/WaBI_Whitepaper_ENG.pdf | https://www.wacoin.io/ | N/P* |
 | Wagerr | A DECENTRALIZED SPORTSBOOK THAT CHANGES THE WAY THE WORLD BETS ON SPORTS | http://www.wagerr.com/wagerr_whitepaper_v1.pdf | http://www.wagerr.com/ | N/P* |
 | Wala | Wala: A financial platform for the next 3.5 billion people in emerging markets | http://wala-tokensale-website.s3-website-eu-west-1.amazonaws.com/dalawhitepaper.pdf | https://getwala.com/ | N/P* |
+| WALL STREET COIN | DECENTRALIZED STOCK EXCHANGE MARKET ON BLOCKCHAIN | https://wscoin.io/uploads/whitepaper.pdf | https://wscoin.io/ | N/P* |
 | Waltix | Discover. Enjoy. Share. | https://waltix.io/en/document/whitepaper | https://waltix.io/en/ | N/P* |
 | Walton | Value Internet of Things (VIoT) constructs a perfect commercial ecosystem via the integration of the real world and the blockchain | http://www.waltonchain.org/templets/default/doc/Waltonchain-whitepaper_en_20180208.pdf | http://www.waltonchain.org/ | |
 | Wanchain | Wanchain - Cross-Chain Smart Contracts with Privacy Protection | https://wanchain.org/files/Wanchain-Whitepaper-EN-version.pdf | https://wanchain.org/ | N/P* |
