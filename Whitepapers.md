@@ -131,6 +131,7 @@
 | Aversafe | Decentralized Credential Verification for the World. | https://www.aversafe.com/img/Aversafe_Business_Plan.pdf | https://www.aversafe.com/ | N/P* |
 | Aware | A Decentralized Token Investment-management Community To Make Innovative Assets more Liquid | https://aware.bi/pdf/AWARE_whitepaper_EN_3.8.2.pdf | https://aware.bi/ | N/P* |
 | Aworker | Blockchain Platform for the Recruitment | https://aworker.io/docs/Aworker_Whitepaper.pdf | https://aworker.io/ | N/P* |
+| Axens | Distributed Supply Chain Finance & Trade Services | https://www.axens.io/downloads/AXenS_Whitepaper.pdf | https://www.axens.io/ | N/P* |
 | Axionv | Agile AI Crypto Fund | http://www.axionv.com/file/BLOCKCHAIN%5F-%5FMOMENTUM_INVESTMENTS.pdf | http://www.axionv.com/ | N/P* |
 | Axtrust | Integrated Platform for Safe Transactions| https://www.axtrust.io/whitepaper.pdf | https://www.axtrust.io/ | N/P* |
 | B-umbrella | B-Umbrella Blockchain-Based Security Service | http://bumbrella.org/info/B-Umbrella%20Official%20Whitepaper%20V1%202017%20final.pdf | https://bumbrella.org/ | N/P* |
@@ -177,7 +178,7 @@
 | Bethereum | Blockchain-powered social betting | https://www.bethereum.com/Bethereum-Whitepaper-EN.pdf | https://www.bethereum.com/ | N/P* |
 | Betmaster | Betmaster | https://s3.eu-central-1.amazonaws.com/betmaster-ico/docs/ICO+Prospectus.pdf | https://betmaster.io/ | N/P* |
 | Bet Network | State of the art Decentralized Betting platform | https://betnetwork.online/wp-content/uploads/2017/07/WhitePaper_1.0.pdf | https://betnetwork.online/ | N/P* |
-| Betrium | Future of Gambling | http://betrium.co/betrium_whitepaper.pdf | http://betrium.co/ | N/P* |
+| Betrium | decentralized worldwide betting exchange and sportsbook that has lowest commissions, accepts cryptocurrencies and offers platform for event organizers, developers and third-party service providers | http://betrium.co/betrium_whitepaper.pdf | http://betrium.co/ | N/P* |
 | Betstreak | First Licensed Blockchain Casino | https://ico.betstreak.io/wp-content/uploads/2017/09/betstreakwhitepaper.pdf | https://ico.betstreak.io/ | N/P* |
 | Bezop | BEZOP TOKEN DISTRIBUTION | https://ecom.bezop.io/public/paper/whitepaper.pdf | https://ecom.bezop.io/ | N/P* |
 | Bf token | Online Investment Platform | https://bf-token.bnktothefuture.com/pdf/whitepaper.pdf | https://bf-token.bnktothefuture.com/ | N/P* |
@@ -208,6 +209,7 @@
 | BitDegree | Revolutionizing education with blockchain | https://www.bitdegree.org/bitdegree-ico-one-pager.pdf | https://www.bitdegree.org | N/P* |
 | BitDice | BitDice Casino - Transformation of a well established casino | https://ico.bitdice.me/prospectus_en.pdf | https://bitdice.me/ | N/P* |
 | Bitecoin | The world's first crypto-backed decentralized food delivery network | https://bitecoin.network/kbase/BiteCoin-Whitepaper-V1-2.pdf | https://bitecoin.network/ | N/P* |
+| Bitesprit | an all-in-one cryptocurrency trading solution with built-in copy trading functionality, facilitating both Bitcoin and altcoin trading against fiat currencies | https://cdn.bitesprit.com/documents/whitepaper.pdf | https://bitesprit.com/ | N/P* |
 | Bitether | Innovation to secure your Financial Transections | https://bitether.org/images/WhitePaper.pdf | https://bitether.org/ | N/P* |
 | BitFlip Coin | BitFlip – stock exchange token | https://bitflip.li/whitepaper-en-09102017.pdf | https://bitflip.li/ | N/P* |
 | Bitguild | BLOCKCHAIN GAMING PLATFORM | https://www.bitguild.io/assets/bitguild-whitepaper-v0.72-en.pdf | https://www.bitguild.io/ | N/P* |
@@ -224,6 +226,7 @@
 | Bitquence | Democratizing Cryptocurrency | https://www.bitquence.com/wp-content/uploads/2017/05/BitquenceWhitePaper.pdf | https://www.bitquence.com/ | Shingo Lavine |
 | bitqy | bitqy™ / The Official Cryptocurrency of bitqyck™. | https://bitqy.org/wp-content/uploads/bitqy%5Fwhitepaper%5Fv1-2.pdf | https://bitqy.org/ | N/P* |
 | Bitrent | Bitrent / Bitrent | https://bitrent.io/wp%5Fbitrent.pdf | https://bitrent.io/ | N/P* |
+| Bitrust | decentralized, easy to use, peer-2-peer cryptocurrency insurance platform based on Ethereum blockchain leveraging smart-contract technology | https://bitrust.co.uk/files/whitepaper.pdf |  https://bitrust.co.uk/ | N/P* |
 | Bits Digit | Centralized Exchange Governed by Decentralized Community | https://bitsdigit.com/Whitepaper_bitsdigit.pdf | https://bitsdigit.com/ | N/P* |
 | BitShares | BitShares: A Peer-to-Peer Polymorphic Digital Asset Exchange (P2P-PDAE) | http://www.the-blockchain.com/docs/BitShares%20A%20Peer-to-Peer%20Polymorphic%20Digital%20Asset%20Exchange.pdf | https://bitshares.org/ | Daniel Larimer, Charles Hoskinson, Stan Larimer |
 | Bitschool | A Personalised Learning Ecosystem For Education | https://www.bitschool.io/files/whitepaper_en.pdf | https://www.bitschool.io/ | N/P* |
@@ -276,11 +279,13 @@
 | Brickblock | Brickblock General Whitepaper | https://github.com/brickblock-io/whitepaper-general/blob/master/Brickblock%20General%20Whitepaper.pdf | http://brickblock.io/ | N/P* |
 | Brisk Pass | Brisk Pass - Decentralizing Transportation | https://www.briskpass.com/briskpass-whitepaper.pdf | https://www.briskpass.com/ | N/P* |
 | Brixby | Build your transportation business with BRICKs | http://www.brixby.io/wp-content/uploads/2017/10/Brixby_Whitepaper_ENGL_2017-10-25.pdf | http://www.brixby.io/ | N/P* |
+| Bronix | self-regulated and independent cryptocurrency investment platform ensuring highest degree of digital data confidentiality, security, transparency and easy interface for money transfers | https://s3.amazonaws.com/bronix/White+Paper.pdf | https://bronix.io/ | N/P* |
 | BTCMoon | was specifically structured in a way to avoid centralized ownership | https://btcmoon.info/docs/BTCMoon White Paper.pdf | https://btcmoon.info/ | N/P* |
 | BTCWALL | The secure storage project for bitcoins and their owners information | https://btcwall.io/whitepaperENG.pdf | http://btcwall.io/ | N/P* |
 | Budbo | Budbo / Blockchain Utility Token | https://www.budbo.io/budbo-whitepaper.pdf | https://www.budbo.io/ | N/P* |
 | Buglab | Cybersecurity Penetration Testing on the Ethereum Blockchain | https://buglab.io/assets/docs/Buglab_WhitePaper.pdf | https://buglab.io/ | N/P* |
 | Buildcoin | EMPOWERING THE HANDS THAT BUILD | https://docs.wixstatic.com/ugd/40acba_0ee165310e394cba91f84f7001b85b2c.pdf | https://www.b1x.io/ | N/P* |
+| Bulltoken | new generation of crypto-investing | https://adobeindd.com/view/publications/2ff28c3d-68bc-46ab-a29e-b797315829a1/tbuz/publication-web-resources/pdf/Whitepaper_v2.pdf | https://bulltoken.tech/ | N/P* |
 | Bunny token | a standard payment solution which will unify the online adult industry based on the blockchain technology | https://bunnytoken.com/data/BunnyToken_whitepaper.pdf | https://bunnytoken.com/ | N/P* |
 | Burst IQ | Bringing Health to Life | https://www.burstiq.com/wp-content/uploads/2017/08/BurstIQ-whitepaper_19Jul2017reduced.pdf | http://www.burstiq.com/biq-token-crowdsale/ | N/P* |
 | Buzzshow | a fully developed reward based social media video network that rewards the users with BuzzShow Goldies Tokens for creating, curating, sharing & viewing videos | https://tokensale.buzzshow.com/resources/files/buzzshow_whitepaper_english.pdf | https://tokensale.buzzshow.com/ | N/P* |
@@ -340,6 +345,7 @@
 | Codetract | CodeTract | https://launch.codetract.io/whitepaper.pdf | https://launch.codetract.io/ | N/P* |
 | Cofound.it | A distributed VC ecosystem for the distributed future | https://cofoundit-new-api.s3.amazonaws.com/files/Cofound.it_business_plan_MAY2017.pdf | https://cofound.it/ | N/P* |
 | Coimatic 2.0 | COIMATIC 3.0 - Blockchain Meets ecommerce (swapping to Ethereum Token) | https://www.icobank.io/wp-content/uploads/2017/10/WHITEPAPER-1.pdf | http://coimatic.org/ | N/P* |
+| Coinadvisor | Game changer for the cryptotrader community | https://www.coinadvisor.pro/wp-content/uploads/2018/02/CoinAdvisor_White-paper.pdf | https://www.coinadvisor.pro/ | N/P* |
 | Coinbet | Blockchain-based Lottery Game | https://www.coin-bet.bet/whitepaper/whitepaper-en.pdf | http://www.coin-bet.bet/ | N/P* |
 | Coindex | CRYPTOCURRENCIES AND CRYPTOASSETS MARKET INDEXES | https://docs.wixstatic.com/ugd/b2aada_57f9a1274bf9465c81ef6e97c88480f0.pdf | https://www.coindex.finance/ | N/P* |
 | Coindrive | CoinDrive | https://coindrive.xyz/CoinDrive-Whitepapper.pdf | https://coindrive.xyz/ | N/P* |
@@ -413,6 +419,7 @@
 | CryptoAngel | AI Platform, Designed To Enhance Human Thinking, Planning And Decision-Making Process | http://www.crypto-angel.com/app/whitepaper.pdf | http://www.crypto-angel.com/ | N/P* |
 | Cryptobite | The people’s decentralised booking platform | https://cryptobite.co/assets/CryptoBiteCoinWhitepaperV2.1.pdf | https://cryptobite.co/ | N/P* |
 | CryptoBnB | Vacation rentals powered by CryptoDNA® – a trust based blockchain technology. | https://cryptobnb.io/wp-content/uploads/2018/01/cryptobnb_en_v4.3.pdf | http://cryptobnb.io/ | N/P* |
+| Crypto cashback rebate | First Cashback & Rebate Portal For Cryptocurrency Community | https://www.cryptocashbackrebate.com/images/documents/Whitepaper_en.pdf | https://www.cryptocashbackrebate.com/ | N/P* |
 | CryptoCarbon | CryptoCarbon: First Consumer-oriented Crypto Currency | https://cryptocarbon.co.uk/static/cryptocarbon.pdf | https://cryptocarbon.co.uk/ | N/P* |
 | CryptoCopy | CryptoCopy - copy successful cryptocurrency investors | https://www.cryptocopy.me/whitepaper.pdf | https://www.cryptocopy.me/ | N/P* |
 | Crypto Credit Card | FIRST CRYPTO CREDITS AGGREGATOR | http://cryptocreditcard.io/images/docs/white%5Fpaper%5Fcs%5Fen.pdf | http://cryptocreditcard.io/en/ | N/P* |
@@ -503,7 +510,8 @@
 | Digital Assets Power Play | Digital Assets Power Play - Platform for digital assets trading and investment | https://www.dapowerplay.com/wp-content/themes/dpp/files/White-Paper-Digital-Assets-Power-Play.pdf | https://www.dapowerplay.com/ | N/P* |
 | DigitalNote | DigitalNote XDN cryptocurrency, crypto messages, privacy protected, blockchain deposits | http://digitalnote.org/whitepaper.pdf | http://digitalnote.org/ | N/P* |
 | Digitalway | Be part of the greatest 4.0 disruption in the fastest growing region in the world | https://ico.digitalway.net/Digital%20Way%20Product%20Whitepaper.pdf | https://ico.digitalway.net/ | N/P* |
-| DIGIT Coin | digitcoin.world - Empowering Blockchain-Based Digital Marketing | http://digitcoin.world/DIGIT-whitepaper%5Fv.1.1.pdf | https://digitcoin.world/ | N/P* |
+| Digitizecoin | a blockchain-based ecosystem and cryptocurrency that allows consumers to convert loose change into virtual currencies at the point of transaction | https://digitizecoin.com/whitepaper | https://digitizecoin.com/ | N/P* |
+| DIGIT Coin | Empowering Blockchain-Based Digital Marketing | http://digitcoin.world/DIGIT-whitepaper%5Fv.1.1.pdf | https://digitcoin.world/ | N/P* |
 | Digi Token | Digi Token - DIGI - Blockchain for Digital Goods | https://www.digitoken.tech/wp-content/themes/digi/digi-whitepaper.pdf | https://www.digitoken.tech/ | N/P* |
 | Digitex | A commission-free, trustless futures exchange for trading digital currency prices | https://www.digitexfutures.com/whitepaper/Digitex-Whitepaper.v.1.1.pdf | https://www.digitexfutures.com/ | N/P* |
 | Digitx | AIExchange | https://www.digitx.io/assets/AIExchange-Whitepaper.pdf | http://www.digitx.io/ | N/P* |
@@ -538,6 +546,7 @@
 | Dropd | the decentralization and socialization of digital music distribution | https://docs.wixstatic.com/ugd/0189a9_cc4e5e632b3d45d6a9021b0ac21ea0e9.pdf | https://dropd.tokenlab.io/ | N/P* |
 | Ds Plus | PLUSCOIN - A DECENTRALIZED CASHBACK PLATFORM ON THE ETHEREUM BLOCKCHAIN | https://pluscoin.io/whitepaper/WP PlusCoin - (ENG).pdf | https://pluscoin.io/ | N/P* |
 | Dueltoken | Decentralized and platform-agnostic duels and challenges | https://dueltoken.io/whitepaper.pdf | https://dueltoken.io/ | N/P* |
+| Dugcoin | A Revolutionary Digital Money System | https://www.dugcoin.org/whitepaper.pdf | https://www.dugcoin.org/ | N/P* |
 | Dynamis | Dynamis - Peer to Peer Insurance | http://www.dynamisapp.com/whitepaper.pdf | http://www.dynamisapp.com/ | N/P* |
 | E-chat | Echat ico - First decentralized anonymous multitasking Messenger | https://ico.echat.io/static/doc-pdf/e-Chat_Whitepaper_ver13.pdf | https://investors.echat.io/ | N/P* |
 | E-pocket | Simplifying people's lives through smart technologies, shaping today for a more exciting tomorrow | https://www.e-pocket.com.au/assets/img/e-Pocket-Whitepaper-v1.pdf | https://www.e-pocket.com.au/ | N/P* |
@@ -852,6 +861,7 @@
 | Invox | A decentralised invoice financing solution for a connected world | https://www.invoxfinance.io/docs/Invox-Whitepaper.pdf | https://www.invoxfinance.io/ | N/P* |
 | IOTA | The Tangle | http://www.iota.org/IOTA_Whitepaper.pdf | https://iota.org/ | Serguei Popov |
 | Ipfs | A peer-to-peer hypermedia protocol to make the web faster, safer, and more open | https://github.com/ipfs/papers/raw/master/ipfs-cap2pfs/ipfs-p2p-file-system.pdf | https://ipfs.io/ | N/P* |
+| Ip gold | Proven Profitable IP Address Ecosystem | https://ip.gold/IP.Gold-ICO-WhitePaper.pdf | https://ip.gold/ | N/P* |
 | Ipstock | TOKENIZE VISUAL CONTENT COPYRIGHTS MANAGEMENT | https://ico.ipstock.com/white_paper.pdf | https://ico.ipstock.com/ | N/P* |
 | IPSX | a decentralized exchange for sharing IPs and a framework for building applications, on top of the existing IPs shared by the community members and data centers | https://ip.sx/dist/Whitepaper-IPSX-05.pdf | https://ip.sx/ | N/P* |
 | Iqb | Intelligence Quotient Benefit Chain | https://img.iqb.fund/iqb_white_paper_en.pdf | https://www.iqb.fund/ | N/P* |
@@ -1052,6 +1062,7 @@
 | Mysterium | Mysterium Network Project | https://mysterium.network/whitepaper.pdf | https://mysterium.network/ | |
 | Mytime | A blockchain platform to turn time into the cryptocurren | https://mytimecoin.github.io/whitepaper/whitepaper_en.pdf | http://mytc.io/ | N/P* |
 | MyTime | MyTime — A blockchain platform to turn time into the cryptocurrency | https://mytimecoin.github.io/whitepaper/whitepaper_en.pdf | http://mytc.io/ | N/P* |
+| Nagricoin | a project of the company of agricultural biotechnology with readymade product called Nagri and thoroughly elaborated global strategy | https://nagricoin.io/storage/files/02_nagricoin_wp_eng.pdf | https://nagricoin.io/ | N/P* |
 | Naked Dollars | Naked Technologies - The World’s First Asset Backed Cryptocurrency | https://www.naked.technology/web/download/NKD%5FWhitepaper%5FV001e.pdf | https://www.naked.technology/ | N/P* |
 | Nametoken | nametoken.io - decentralized Domain Eco System | https://www.nametoken.io/wp-content/uploads/sites/16/2017/08/nametoken_whitepaper-2.pdf | https://www.nametoken.io/ | N/P* |
 | Napoleon Capital | SMART COLLABORATIVE INVESTING | https://ico-wordpress-uploads.s3.amazonaws.com/uploads/NapoleonXWhitepaperV5.pdf | http://napoleoncapital.com/ico/ | N/P* |
@@ -1116,6 +1127,7 @@
 | Onyx | Blockchain for Commission-Free | https://onyxfutures.io/wp/OnyxWhitepaper.pdf | https://onyxfutures.io/ | N/P* |
 | Opakeco Foundation | Opakeco - Helping donators, donations and charities! | https://www.opakeco.org/whitepaper.pdf | https://www.opakeco.org/ | N/P* |
 | Open Anx | openANX – Real World Application of Decentralized Exchanges | https://www.openanx.org/en/assets/whitepaper/openANX_White_Paper_ENU.pdf | https://www.openanx.org/ | N/P* |
+| Openblock | UNITING THE BLOCKCHAIN COMMUNITY WITH ARTIFICIAL INTELLIGENCE | https://openblock.co/docs/OpenBlock-Critical-Film-2.pdf | https://openblock.co/ | N/P* |
 | Open Source University | EDU Crowdsale by The Open Source University Project | https://os.university/static/open-source-university-edu-whitepaper.pdf | https://os.university/ | N/P* |
 | Open Trading Network | Open Trading Network (OTN) — Multi-Crypto Wallet & All-in-One Exchange | https://otn.org/assets/resources/Open-Trading-Network-white-paper%5Fen.pdf | https://otn.org/ | N/P* |
 | Opporty | A B2B MARKETPLACE PLATFORM POWERED BY THE BLOCKCHAIN PROOF-OF-EXPERTISE — DISTRIBUTED TRUST PROTOCOL | https://opporty.com/ico/uploads/OpportyWP.pdf | https://opporty.com/ico/ | N/P* |
@@ -1134,6 +1146,7 @@
 | Ovato | CREATING THE NEXT GENERATION OF MASSIVELY ADOPTED DIGITAL CURRENCY TOKEN | https://www.ovato.com/wp-content/uploads/2018/02/WhitePaper.pdf | https://www.ovato.com/ | N/P* |
 | Oxycoin | THE EASIEST WAY TO BUY CRYPTOCURRENCIES WITH FIAT | https://oxycoin.io/whitepaper.pdf | https://oxycoin.io/ | N/P* |
 | Oyster | Oyster - Web Storage | https://oyster.ws/OysterWhitepaper.pdf | https://oyster.ws/ | N/P* |
+| P2PS | worlds first decentralized, secure, interference-free, pure peer-to-peer communications system with no comparable substitutes, alternatives or parallels | https://www.p2psf.org/wp-content/uploads/2017/12/P2PS_Whitepaper_V1.1_English.pdf | https://www.p2psf.org/ | N/P* |
 | Paccoin | Paccoin | http://www.pacifica-nation.com/paccoinwhitepaper.pdf | http://www.pacifica-nation.com/paccoin/ | N/P* |
 | Pally | PallyCoin - Decentralised Social Travelling | https://www.pally.co/doc/en_position_paper.pdf | https://www.pally.co/ | N/P* |
 | Pangea | In-app Reputation Token for contracting governance & services | https://github.com/Bit-Nation/Pangea-Docs/raw/master/BITNATION%20Pangea%20Whitepaper%202018.pdf | https://tse.bitnation.co/ | N/P* |
@@ -1156,6 +1169,7 @@
 | PayPie | Credit Risk Assessment Based on Blockchain Accounting | https://www.paypie.com/Content/files/PayPie-Whitepaper-English.pdf | https://www.paypie.com/ | |
 | Paypie | PayPie / Credit Score Based on Blockchain Accounting | https://www.paypie.com/Content/files/PayPie-Whitepaper-English.pdf | https://www.paypie.com/ | N/P* |
 | Paysura | A decentralized, worldwide available and uniform customer’s loyalty system | https://paysura.com/wp-content/uploads/2018/02/Whitepaper_IPC.pdf | https://paysura.com/ | N/P* |
+| Paytomat | Decentralized System for Cryptocurrency Payments | https://tokensale.paytomat.com/assets/docs/wp_en.pdf | https://tokensale.paytomat.com/ | N/P* |
 | Pecunio | Decentralized Investment Platform | https://pecun.io/Pecunio_White_Paper.pdf | https://pecun.io/ | N/P* |
 | Peerbanks | Peerbanks IRA | https://peerbanks.org/doc/whitepaper.pdf | https://peerbanks.org/ | N/P* |
 | Peercoin | PPCoin: Peer-to-Peer Crypto-Currency with Proof-of-Stake | https://peercoin.net/assets/paper/peercoin-paper.pdf | https://peercoin.net/ | Sunny King, Scott Nadal |
@@ -1244,6 +1258,7 @@
 | Qlink | A decentralized mobile network, is dedicated to constructing an open-source telecom infrastructure | https://qlink.mobi/qlink2/res/WhitePaper.pdf | https://qlink.mobi/ | N/P* |
 | QRL | The QRL | https://github.com/theQRL/Whitepaper/blob/master/QRL_whitepaper.pdf | http://theqrl.org/ | N/P* |
 | Qtum | Smart-Contract Value-Transfer Protocols on a Distributed Mobile Application Platform | https://qtum.org/uploads/files/a2772efe4dc8ed1100319c6480195fb1.pdf | https://qtum.org/ | Patrick Dai, Neil Mahi, Jordan Earls, Alex Norta |
+| Quant | The first Blockchain operating system that facilitates the development of multi-chain applications | https://objects-us-west-1.dream.io/files.quant.network/Quant_Overledger_Whitepaper_v0.1.pdf | https://www.quant.network/ | N/P* |
 | QuantH | medical records secure storage and sharing implementation of a patient controlled, blockchain-based system for clinical record maintenance and sharing | https://nebula.wsimg.com/a59f3c5926a8324e72782b0318cf8e62?AccessKeyId=40BD460D4BEAC51546AB&disposition=0&alloworigin=1 | http://quanth.io/ | N/P* |
 | Quantum1net | Cryptography for a Post-Quantum World Addressing the Security Challenges Ahead | https://quantum1net.com/Q1N%20white%20paper.pdf | https://quantum1net.com/ | N/P* |
 | Quantum Resistant Ledger | Quantum Resistant Ledger (QRL). Whitepaper | https://bravenewcoin.com/assets/Whitepapers/QRL-whitepaper.pdf | https://theqrl.org/ | Peter Waterland |
@@ -1251,6 +1266,7 @@
 | Quickbetcoin | QUICKBETCOIN (QBC) | https://docs.wixstatic.com/ugd/098817_f1a19affd498493684a86564b47dc52f.pdf | https://www.quickbetcoin.com/ | N/P* |
 | Quifas | A Secure, Ultra-fast, Highly Scalable Innovative Cryptocurrency Exchange | https://www.quifas.com/static/ver110/pages/whitepaper/en.pdf | https://www.quifas.com/ | N/P* |
 | Qurito | to provide an engaging, rewarding and intelligent platform for people to use on a global level | http://www.qurito.io/qurito_whitepaper.pdf | http://www.qurito.io/ | N/P* |
+| Qurrex |THE FIRST HYBRID CRYPTOCURRENCY EXCHANGE INTEGRATING INDUSTRIAL INFRASTRUCTURE OF TRADITIONAL STOCK EXCHANGES WITH DECENTRALIZED NETWORK | https://qurrex.com/files/Qurrex_Onepager.pdf | https://qurrex.com/ | N/P* |
 | Qvolta | P2P cryptocurrency-fiat exchange / Qvolta | https://s3.eu-central-1.amazonaws.com/qvolta/white.pdf | https://qvolta.com/ | N/P* |
 | R3sec | Complete paradigm shift in cybersecurity | https://www.r3sec.com/download/r3sec_business.pdf | https://www.r3sec.com/ | N/P* |
 | Raacoin | Renaissance And Action Ltd. | https://img1.wsimg.com/blobby/go/f3dfc98a-1c8b-40a0-9134-4cdd1a2dc170/downloads/1brg8rvb6_962592.pdf | https://renaissanceandaction.com/ | N/P* |
@@ -1535,6 +1551,7 @@
 | The Praetorian Group | The Sound Money Cryptocurrency Trading under the Symbol “PAX” | http://nebula.wsimg.com/67419d330daf38608bef7a6a10c6ef5b?AccessKeyId=5EF692F61D85C809B0D9&disposition=0&alloworigin=1 | http://www.praetoriangroup.io/ | N/P* |
 | The Rouge Project | The Rouge Project - Blockchain Coupon Platform | https://rouge.network/whitepaper-rge.pdf | https://rouge.network/ | N/P* |
 | Theta Network | A Decentralized Video Streaming Network, Powered by a New Blockchain and Token | https://s3.us-east-2.amazonaws.com/assets.thetatoken.org/Theta-white-paper-latest.pdf | https://www.thetatoken.org/ | N/P* |
+| Thinkcoin | Multi Asset Trading on the BlockChain | https://docsend.com/view/qgyaq2y/download | https://www.thinkcoin.io/ | N/P* |
 | Thor | Helping contractors earn more, faster, and more securely | https://adobeindd.com/view/publications/d7c8c663-91e6-45e0-8342-517f36e7b515/ys1p/publication-web-resources/pdf/Thor_Whitepaper_Corporate_02.pdf | https://www.thortoken.com/ | N/P* |
 | Thorncoin | Third generation self-managing lending platform | https://thorncoin.com/media/thorncoin-whitepaper-1.0.pdf | https://thorncoin.com/ | N/P* |
 | Thought | blockchain-enabled Fabric fundamentally changes applications by embedding artificial intelligence into every bit of data making it agile, actionable and inherently secure | https://thought.live/assets/thought-white-paper.pdf | https://thought.live/ | N/P* |
@@ -1568,6 +1585,7 @@
 | Trackr | TRACKR | https://www.trackr.im/media/whitepaper.pdf | https://www.trackr.im/ | N/P* |
 | Tracto | Tracto - TECHNOLOGY FOR RAPID ANONYMOUS COIN TRANSACTION ORGANIZATION | http://www.tracto.org/wp-content/uploads/2017/09/Tracto-White-Paper.pdf | http://www.tracto.org/ | N/P* |
 | Trade.io | trade.io - Join the Trading Revolution | https://trade.io/whitepaper/EN.pdf | https://trade.io/ | N/P* |
+| Trademindx | huge amounts of data and tells you which cryptocurrencies to invest in and attempts to maximize your returns | https://dl.dropboxusercontent.com/s/mi5aj49b3thqd5z/trademindx_whitepaper.pdf | https://trademindx.com/ | N/P* |
 | Tradenetcoin | Revolutionary lending platform based on strong decentralized network | https://tradenetcoin.io/TNC_white_paper.pdf | https://tradenetcoin.io/ | N/P* |
 | Tradeplayz | THE PREMIERE FANTASY INVESTMENT TRADING APP | http://tradeplayz.com/tpz_whitepaper.pdf | http://tradeplayz.com/ | N/P* |
 | Tradershub | The Crypto Platform Every Trader Wants | https://tradershub.io/build/static/downloadables/Whitepaper.pdf | https://tradershub.io/ | N/P* |
@@ -1585,6 +1603,7 @@
 | Trial token | ACCESS TO JUSTICE FOR EVERYBODY | https://daks2k3a4ib2z.cloudfront.net/59d90e2cbcf399000192ecee/5a093d474056cc00012012c8_Whitepaper-Trial%20Funds%20Society.pdf | https://www.trialtoken.io/ | N/P* |
 | TriForce Tokens | TriForce Tokens Ltd | https://triforcetokens.io/resources/white-paper-v3.3.pdf | https://triforcetokens.io/ | N/P* |
 | Triggers | Whitepaper Blocksafe Foundation | https://www.blocksafefoundation.com/blocksafe_whitepaper_v.1.pdf | https://www.blocksafefoundation.com/ | |
+| Tripago | an upcoming decentralized travel platform targeting trillion dollar travel industry “easy and free wifi”, real time booking, trip organiser | https://www.tripagotravel.io/whitepaper/whitepaper/whitepaper.pdf | https://www.tripagotravel.io/ | N/P* |
 | TripAlly | TripAlly | https://tripally.co/media/tripally_whitepaper.pdf | https://tripally.co/ | N/P* |
 | Trippki | A Decentralised Ecosystem for Customer Rewards | https://trippki.com/assets/docs/TrippkiWhitePaper_Sept17.pdf | https://trippki.com/ | N/P* |
 | Trive.news | The truth is the truth no matter who speaks it | https://trive.news/wp-content/uploads/2018/02/Whitepaper.0.2.6x.pdf | https://trive.news/ | N/P* |
@@ -1600,8 +1619,10 @@
 | TWQ | RE-SHAPING PERSONAL FINANCING | https://ip2pglobal.io/home_page/img/doc/TWQwhitepaper.pdf | https://ip2pglobal.io/ | N/P* |
 | Tychocoin | Tychocoin / A Revolutionary Digital Money System | https://tychocoin.com/Tychocoin%5Fwhitepaper.pdf | https://tychocoin.com/ | N/P* |
 | U-truck | a global logistics platform which unites consignors and cargo carriers in one application | http://uttruck.io/assets/file/whitepaper_EN.pdf | http://uttruck.io/ | N/P* |
+| Ubcoin | The easiest way to exchange real goods for cryptocurrency and vice versa | http://doc.ubcoin.io/whitepaper.pdf | https://ubcoin.io/ | N/P* |
 | Ubiatarplay | the peer-to-peer marketplace of the ubiatar service | http://ubiatarplay.io/wp-content/uploads/2018/01/ubiatarmarketplace-white-paper-3-0.pdf | http://ubiatarplay.io/ | N/P* |
 | Ubiquicoin | Decentralized Cryptocurrency Backed by Real-World Assets and an Established Infrastructure | http://www.ubiquicoin.com/assets/whitepaper.pdf | http://www.ubiquicoin.com/ | N/P* |
+| Ucmg | The best crypto mining solutions | https://ucmg.io/src/files/UCMG_EN.pdf | https://ucmg.io/ | N/P* |
 | Udiar | Online copyright registration and intellectual property turnover services based on the distributed blockchain depositor | https://udiar.io/UDIAR-WP-en.pdf | https://udiar.io/ | N/P* |
 | Uhub | Decentralized E-Commerce Ecosystem | https://github.com/uhubproject/Uhub-WhitePaper/blob/master/EN-White-Paper.pdf | https://uhub.io/ | N/P* |
 | Ukit | Boosting Website Conversion With Artificial Intelligence | https://ico.ukit.com/download/ukit-ai-whitepaper_en.pdf | https://ico.ukit.com/ | N/P* |
@@ -1637,8 +1658,10 @@
 | Vector Space | Vectorspace | http://vectorspace.ai/docs/Vectorspace-whitepaper-v0.27.pdf | http://vectorspace.ai/ | N/P* |
 | Vector | VECTOR / Made By You | http://vectorexchange.io/wp-content/uploads/2017/08/VECTOR-WHITEPAPER-English.pdf | https://vectorexchange.io | N/P* |
 | Vectorzilla | The World’s First Blockchain-based, Deep Learning (AI)-driven, Royalty Free Stock Graphics Platform & Marketplace | https://media.vectorzilla.io/Whitepaper-VZTpdf.pdf | https://vectorzilla.io/ | N/P* |
+| Veiris | Using Identity Text Recognition and Real-Time Facial Recognition | https://vee.veiris.com/whitepaper+v2.6.pdf | https://vee.veiris.com/ | N/P* |
 | Velareum | a new generation of lending platform | https://velareum.com/assets//Velareum.pdf | https://velareum.com/ | N/P* |
 | Vendio | World’s First Crypto Advertising Platform & Token | http://vendicoins.com/wp-content/uploads/2018/02/Vendio-ICO-Whitepaper.pdf | http://vendicoins.com/ | N/P* |
+| Vendoreum | a new generation of cryptocurrency and ecosystem of services | https://vendoreum.com/en/whitepaper.pdf | https://vendoreum.com/ | N/P* |
 | Ventana | Veredictum | https://daks2k3a4ib2z.cloudfront.net/593a3e0b6656a74fefc5f6f9/5976aa0dde4afe1c9ea850f6_veredictum-executive-summary-v2-5-20170725.pdf | https://tokensale.veredictum.io/ | N/P* |
 | VentureOn | digital currency is used as the unit for mutual settlements | https://vnn.money/documents/OnePager.pdf | https://vnn.money/ | N/P* |
 | Veon | VEON | https://veondao.info/VeonWhitepaper.pdf | https://veondao.info/ | N/P* |
