@@ -30,6 +30,7 @@
 | Drivr | Advanced A.I. Driven Rideshare on the Blockchain | https://drive.google.com/file/d/111BBGfvhn_ZvU5vdZikrDOq2n_-2eDGe/view | https://drivr.network/ | N/P* | GOOGLE DOCS |
 | Dropdeck | A royalty & debt financing platform for fast growing businesses | https://drive.google.com/file/d/0B-ngm-zezrFQaHNxaHZWTnNNMTA/view | https://dropdeck.io/ | N/P* | GOOGLE DOCS |
 | Ecogreenhouse | TOKEN GENERATING EVENT | https://drive.google.com/file/d/0B5BDsUAHOQraLUtIcWVycl9RZDA/view | https://www.egh.io/en/ | N/P* | GOOGLE DOCS |
+| Ecos | a vertically integrated system of electronic documentation and verification created to fulfill needs of the supply chain industry | https://drive.google.com/file/d/1_kD4XTXe70lGTpYNyJtdyw_4JPaMEfML/view | https://www.ecos.ee/en/index.html | N/P* | GOOGLE DOCS |
 | EHealth | AN IT-PLATFORM FOR PERSONALIZED HEALTH AND LONGEVITY MANAGEMENT | https://drive.google.com/file/d/1vzeZ1K0q973vyOx-JL295d8BS0bZybUt/view | http://ehfirst.io/ | N/P* | GOOGLE DOCS |
 | Elpis Investments | Elpis is the First AI Crypto-assets Investment Fund | https://drive.google.com/file/d/0BylWh_GCTZAyeTZKTDNaTEx5NkE/view | https://elpisinvestments.com/ | N/P* | GOOGLE DOCS |
 | Erachain | Developed for Traditional Businesses with Decentralized Reward Technology | https://drive.google.com/file/d/0B55xIImDmblnakstX1BxSkg4SzQ/view | http://erachain.org/ | N/P* | GOOGLE DOCS |
@@ -51,6 +52,7 @@
 | Helbiz | Blockchain P2P Car Sharing | https://drive.google.com/file/d/1UudcsnOrVwe0DeG4p7k7R3m4l28bAzQ0/view | https://www.helbizcoin.io/ | N/P* | GOOGLE DOCS |
 | Homni | DECENTRALIZED SECURE COMMUNICATION BASED ON BLOCKCHAIN TECHNOLOGY | https://drive.google.com/file/d/1ldBkb7XsBCtv2P8RnQ2ZyS-al7m9BQu-/view | https://www.homni-tech.com/ | N/P* | GOOGLE DOCS |
 | Ice Rock Mining | Commercial Bitcoin Mining. Passive Income. Creating a New Capital Market | https://drive.google.com/drive/u/0/folders/1wgCA7H7Ob1QfZG5Z3c-8bND43ansH7t5 | http://icerockmining.io/ | N/P* | GOOGLE DOCS |
+| Icopass | a suite of tools for the gathering, verification and exchange of know-your-customer (KYC) information | https://drive.google.com/file/d/1hs-RWInvpc_p7UpjIvUU1xNuqIvUi4Rn/view | https://www.icopass.id/ | N/P* | GOOGLE DOCS |
 | iFan | The Most Advanced Social Network, Making Profits For Celebrities | https://docs.google.com/document/d/1VCrjGHARFuQc9N49CJDDIz3QVGgmv1GkB3rNcP1geKA/edit | https://ifan.io/ | N/P* | GOOGLE DOCS |
 | Injoin | A Sharing Eco Environmental System | https://drive.google.com/file/d/0BxD_k1HToD-HSWxPQm9ZSXVPbXc/view?usp=sharing | https://www.injoin.in/ | N/P* | GOOGLE DOCS |
 | Intellium | Intellium brings real world investments and blockchain together to transform capital markets | https://docs.google.com/document/d/16Gqf45bfP46Zy2_w4AhxVefCRGKBMiUnK-jtrKJazyI/edit#heading=h.5vhv6o725gcc | http://intellium-ico.com/index.html | N/P* | GOOGLE DOCS |
@@ -199,6 +201,7 @@
 | Getgame |  |  | https://getgame.io/ | N/P* | NOT FOUND |
 | Glx |  |  | https://glx.com/ | N/P* | NOT FOUND |
 | Gluon |  |  | https://www.gluon.com/ | N/P* | NOT FOUND |
+| Happy town |  |  | http://happy-town.org/ | N/P* | NOT FOUND |
 | Hedge Token |  |  | https://www.hedge-crypto.com/ | N/P* | NOT FOUND |
 | Herby |  |  | http://herby.money/ | N/P* | NOT FOUND |
 | Hive Project |  |  | https://www.hive-project.net/ | N/P* | NOT FOUND |
@@ -338,6 +341,7 @@
 | Fintechbit | A profitable trading club with a fully developed trademarked algorithmic trading bot | https://www.fintechbit.io/white-paper | https://www.fintechbit.io/ | N/P* | NOT PDF |
 | Flogmall | Millions of everyday products and services for any cryptocurrency | https://flogmall.com/wp/ | https://flogmall.com/ | N/P* | NOT PDF |
 | Florio | The first blockchain based health platform that actually enables everybody to live healthy! | https://florio.io/whitepaper | https://florio.io/ | N/P* | NOT PDF |
+| Forgecdn | Delivery Network Based on Local Delivery Hubs | https://forgecdn.io/whitepaper | https://forgecdn.io/ | N/P* | NOT PDF |
 | Friendsfingers | Build your Ethereum based Crowdsale and start your ICO with no setup costs and zero lines of code required. All is Blockchain based through our awesome Smart Contracts | https://www.friendsfingers.com/whitepaper | https://www.friendsfingers.com/ | N/P* | NOT PDF |
 | Game Machine | GAME MACHINE ECOSYSTEM | https://gamemachine.io/en/token-sale/whitepaper | https://gamemachine.io/en | N/P* | NOT PDF |
 | GameProtocol | Game Protocol: A Decentralized Community for Creating, Collaborating and Distributing Games | http://www.gameprotocol.io/whitepaper | http://www.gameprotocol.io/ | N/P* | NOT PDF |
