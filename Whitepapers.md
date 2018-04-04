@@ -932,6 +932,7 @@
 | Like | Like - Multifunctional Real Estate Platform | http://likei.co/whitepaperen.pdf | http://likei.co/ | N/P* |
 | Linda Healthcare | Linda Healthcare: Artificial Intelligence and Blockchain for Health Care | https://linda.healthcare/media/LindaHealthcare_WhitePaper_Eng.pdf | https://linda.healthcare/ | N/P* |
 | Litra | Decentralized Healthcare | http://www.litra.site/Litrawhitepaper.pdf | http://www.litra.site/ | N/P* |
+| Livecontracts | The blockchain for smart law & regulation | https://livecontracts.io/documents/contract-as-automaton.pdf | https://livecontracts.io/ | N/P* |
 | Live Edu | LiveEdu Initial Coin Offering - EDU Token Sale | https://tokensale.liveedu.tv/static/docs/LiveEdu-white-paper.pdf | https://tokensale.liveedu.tv/ | N/P* |
 | Livestars | Live Broadcast Entertainment Platform | https://livestars.io/whitepaper.pdf | https://livestars.io/ | N/P* |
 | Livetree Adept | Advanced Decentralized Entertainment Platform for Transparent distribution | https://az816050.vo.msecnd.net/whitepaper/en/LiveTree_ADEPT_Whitepaper_0_8_7.pdf | https://secure.livetree.com/ | N/P* |
@@ -982,7 +983,7 @@
 | Matrixchain | An Open Source Public Intelligent Blockchain Platform | https://www.matrixchain.io/static/pdf/MATRIXBusinessWhitePaper.pdf | https://www.matrixchain.io/ | N/P* |
 | Mavin | A reward-based influencer marketing ecosystem on blockchain | https://mavin.network/wp-content/uploads/2018/02/Mavin_Whitepaper_v1.30.pdf | https://mavin.network/ | N/P* |
 | MCAP | MCAP: Enabling Investment to Masses | https://www.bitcoinmarketinsider.com/wp-content/uploads/2017/06/mcap-whitepaper.pdf | https://bitcoingrowthfund.com/mcap | |
-| Mcfly.aero | Technology consortium and community for urban flights | https://mcfly.aero/whitepaper.pdf | https://mcfly.aero/ | N/P* |
+| Mcfly | Technology consortium and community for urban flights | https://mcfly.aero/whitepaper.pdf | https://mcfly.aero/ | N/P* |
 | MCX | MCXCOIN – Digital & Decentralized Currency | https://www.mcxcoin.com/HTML/MCX-WhitePaper.pdf | https://www.mcxcoin.com/ | N/P* |
 | MDK | MDK - Community of the Future | https://mdk.is/whitepaper.pdf | https://mdk.is/ | N/P* |
 | Mdl | Global trustchain connecting performers to gigs and brands to audiences | https://mdl.life/whitepaper/WhitePaper_eng_1.5.0.pdf | https://mdl.life/ | N/P* |
