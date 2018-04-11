@@ -29,6 +29,7 @@
 | Dorae | The Blockchain for Raw Materials | https://drive.google.com/file/d/11qeYkut8u8knCLvGmDU-waN-JkrXW_Dz/view | https://www.dorae.io/ | N/P* | GOOGLE DOCS |
 | Drivr | Advanced A.I. Driven Rideshare on the Blockchain | https://drive.google.com/file/d/111BBGfvhn_ZvU5vdZikrDOq2n_-2eDGe/view | https://drivr.network/ | N/P* | GOOGLE DOCS |
 | Dropdeck | A royalty & debt financing platform for fast growing businesses | https://drive.google.com/file/d/0B-ngm-zezrFQaHNxaHZWTnNNMTA/view | https://dropdeck.io/ | N/P* | GOOGLE DOCS |
+| Dysnomia | Dysnomia digital signage Solution | https://drive.google.com/file/d/1fIMrGgjlRmkFX2IgUwiD0WZkWQML4_pk/view | http://dysnomia.top/ | N/P* | GOOGLE DOCS |
 | Ecogreenhouse | TOKEN GENERATING EVENT | https://drive.google.com/file/d/0B5BDsUAHOQraLUtIcWVycl9RZDA/view | https://www.egh.io/en/ | N/P* | GOOGLE DOCS |
 | Ecos | a vertically integrated system of electronic documentation and verification created to fulfill needs of the supply chain industry | https://drive.google.com/file/d/1_kD4XTXe70lGTpYNyJtdyw_4JPaMEfML/view | https://www.ecos.ee/en/index.html | N/P* | GOOGLE DOCS |
 | EHealth | AN IT-PLATFORM FOR PERSONALIZED HEALTH AND LONGEVITY MANAGEMENT | https://drive.google.com/file/d/1vzeZ1K0q973vyOx-JL295d8BS0bZybUt/view | http://ehfirst.io/ | N/P* | GOOGLE DOCS |
@@ -260,6 +261,7 @@
 | Smart Billions |  |  | https://smartbillions.com/ | N/P* | NOT FOUND |
 | Smartlottery |  |  | https://smartlottery.tech// | N/P* | NOT FOUND |
 | Smartre |  |  | https://www.smartre.io/ | N/P* | NOT FOUND |
+| Solutiontoken |  |  | https://www.solutiontoken.net/ | N/P* | NOT FOUND |
 | Spotree |  |  | https://spotree.com/ | N/P* | NOT FOUND |
 | Squeezer |  |  | https://squeezer.io/ | N/P* | NOT FOUND |
 | Starta |  |  | https://startaico.com/ | N/P* | NOT FOUND |
@@ -318,6 +320,7 @@
 | Commodity Ad Network | Commodity Ad Network | https://commodityadnetwork.com/whitepaper/ | https://commodityadnetwork.com/ico/ | N/P* | NOT PDF |
 | Connect Job |  | https://ru.calameo.com/read/005345675300d0189a74e | https://ico.connectjob.io/ | N/P* | NOT PDF |
 | Copy Trader | Copy Trader Crowdsale | https://github.com/copytarder/white_paper/raw/master/Copy%20Token-whitepaper%20v1.02%20.pdf | https://copycrypto.trade/ | N/P* | NOT PDF |
+| Countinghouse |  | https://www.countinghousefund.com/whitepaper | https://www.countinghousefund.com/ | N/P* | NOT PDF |
 | Cryptoalias | Get your Blockchain Identity | https://www.cryptoalias.io/whitepaper/ | https://www.cryptoalias.io/ | N/P* | NOT PDF |
 | Crypto Mutual Coin | CRYPTO MUTUAL COIN | https://gist.github.com/ccmut56/0bc7d73a9c8fda1f9dbd7a02d8be9d08 | http://cryptomc.com/index.html | N/P* | NOT PDF |
 | Demicoin | DEMICOIN | https://demicoin.io/whitepaper | https://demicoin.io/ | N/P* | NOT PDF |
