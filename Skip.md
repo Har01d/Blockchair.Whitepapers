@@ -526,6 +526,7 @@
 | OFO Coin | OneForOne Coin | https://www.ofoco.in/files/OFOcoin_WhitePaper_English.pdf | http://www.ofoco.in/ | N/P* | NOT WORKING |
 | Onplace |  |  | http://investments.onplace.io/ | N/P* | NOT WORKING |
 | Oren Platform |  |  | https://orenplatform.com/?refUrl=icoalert | N/P* | NOT WORKING |
+| Orio | ORIO.IO - Multi-Currency Platform | https://www.orio.io/ORIO White Paper.pdf | https://www.orio.io/ | N/P* | NOT WORKING |
 | Petsafe |  |  | https://www.petsafes.xyz/ | N/P* | NOT WORKING |
 | Planes Cloud |  |  | http://planescloud.io/ | N/P* | NOT WORKING |
 | Plato Network |  |  | https://www.plato.network/ | N/P* | NOT WORKING |
