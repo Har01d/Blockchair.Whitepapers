@@ -223,6 +223,7 @@
 | Bitmart | Whole-Network Digital Assets Exchange Platform | https://www.bitmart.com/whitepaper/bitmart_whitepaper_en.pdf | https://www.bitmart.com/ | N/P* |
 | Bitminutes | BitMinutes | https://www.bitminutes.com/docs/BitMinutes%5FICO%5FWhitepaper%5FV4.pdf | https://www.bitminutes.com/ | N/P* |
 | Bitnation | BITNATION PANGEA - Your Blockchain Jurisdiction | https://github.com/Bit-Nation/Pangea-Docs/raw/master/BITNATION%20Pangea%20Whitepaper%202017.pdf | https://bitnation.co/ | N/P* |
+| Bitnautic | a decentralized shipping and cargo platform based on blockchain technology | https://bitnautic.io/storage/Whitepaper.pdf | https://bitnautic.io/ | N/P* |
 | Bitpark Coin | BITPARK | https://bitpark.net/BITPARK%5Fwhitepaper1.2.pdf | https://bitpark.net/ | N/P* |
 | Bitpoker | Bitpoker | http://www.bitpoker.io/pdf/White%20Paper_Bitpoker.pdf | http://www.bitpoker.io/ | N/P* |
 | Bitproperty / Btp | Trade revenue generating property anywhere on Bitproperty's platform. | https://btptoken.io/file/whitepaper.pdf | https://btptoken.io/en/ | N/P* |
@@ -681,7 +682,8 @@
 | FirstBlood | A Decentralized eSports Platform Based on Smart Contracts | https://coss.io/documents/white-papers/first-blood.pdf | https://firstblood.io/ | Marco Cuesta, Zack Coburn, Anik Dang, Joe Zhou |
 | First Token Asia | Connecting Asian businesses to the Global Crypto Community | https://docs.wixstatic.com/ugd/238681_0c4be63e398b4c52a5c68d826ce90271.pdf | https://www.firsttokenasia.com/ | N/P* |
 | Fitrova | Revolutionizing the Health & Fitness Industry by Harnessing Blockchain Technology | https://www.fitrova.com/wp-content/uploads/Whitepaper.pdf | https://www.fitrova.com/ | N/P* |
-| Flash | FLASH Wallet | https://flashcoin.io/docs/FLASHWhitepaper.pdf | https://flashcoin.io/ | N/P* |
+| Flash | Crypto coin technology to power faster smaller payments | https://flashcoin.io/docs/FLASHWhitepaper.pdf | https://flashcoin.io/ | N/P* |
+| Flashmoni | Over 60 Million USD Raised | http://www.flashmoni.com/documents/whitepaper.pdf | http://www.flashmoni.com/ | N/P* |
 | Flashtoken | The project of creating profits in the digital economy | https://flashtoken.io/docs/eng_whitepaper_FlashToken.pdf | https://flashtoken.io/ | N/P* |
 | Fleetcoin | THE HEIGHT OF DIGITAL CURRENCY | https://fleetcoin.co/file/FLEETCOIN%20WHITE%20PAPER.pdf | https://fleetcoin.co/ | N/P* |
 | Flipz | Flipz - First decentralized e-commerce platform | https://ico.flipz.io/files/docs/whitepaper_web.pdf | https://flipz.io/ | N/P* |
@@ -1159,6 +1161,7 @@
 | Openblock | UNITING THE BLOCKCHAIN COMMUNITY WITH ARTIFICIAL INTELLIGENCE | https://openblock.co/docs/OpenBlock-Critical-Film-2.pdf | https://openblock.co/ | N/P* |
 | Open Source University | EDU Crowdsale by The Open Source University Project | https://os.university/static/open-source-university-edu-whitepaper.pdf | https://os.university/ | N/P* |
 | Open Trading Network | Open Trading Network (OTN) — Multi-Crypto Wallet & All-in-One Exchange | https://otn.org/assets/resources/Open-Trading-Network-white-paper%5Fen.pdf | https://otn.org/ | N/P* |
+| Opiria | Use our decentralized marketplace to create a passive income stream by selling your personal data | https://opiria.io/static/docs/Opiria-PDATA-Whitepaper.pdf | https://opiria.io/ | N/P* |
 | Opporty | A B2B MARKETPLACE PLATFORM POWERED BY THE BLOCKCHAIN PROOF-OF-EXPERTISE — DISTRIBUTED TRUST PROTOCOL | https://opporty.com/ico/uploads/OpportyWP.pdf | https://opporty.com/ico/ | N/P* |
 | Optimum | Optimum Protocol Whitepaper | https://ddx.optimum.network/static/optimum-whitepaper.pdf | https://www.optimum.network/ | N/P* |
 | Opus | Decentralized Music Distribution | https://opus-foundation.org/whitepaper.pdf | http://opus-foundation.org/ | N/P* |
@@ -1476,6 +1479,7 @@
 | Sp8de | A DECENTRALIZED PLATFORM FOR GAMING DAPPS | https://sp8de.com/sp8de_white_paper.pdf | https://sp8de.com/ | N/P* |
 | Spacoin | SpaCoin is Blockchain platform based on Ethereum platform being adjusted by smart contracts. | https://spacoin.io/whitepaper_spacoin_final.pdf | https://spacoin.io/ | N/P* |
 | Sparc | A Distributed Supercomputer | https://sparc.network/sparc-whitepaper-5.pdf | http://sparc.network/ | N/P* |
+| Spareshub | The Power of Blockchain applied to the Global Automobile Maintenance Industry | https://token.spareshub.com/wp-content/uploads/2018/03/SparesHub-Whitepaper-Ver4.6.pdf | https://token.spareshub.com/ | N/P* |
 | Sparkle Coin | conceived, designed, and developed by business-minded veterans using the latest technologies for business | http://storage.sparklecoin.com/papers/Sparkle%20Coin%20White%20Paper.pdf | https://sparklecoin.com/ | N/P* |
 | Spectre | The world's first broker-less financial trading platform | https://d1zzssn32v8b7a.cloudfront.net/media/en/spectre_whitepaper_v_2_3.pdf | http://www.spectre.ai/ | N/P* |
 | Speed Mining Service | Speed Mining Service | https://smscoin.jp/sites/default/files/whitepaper.pdf | https://smscoin.jp/ | N/P* |
