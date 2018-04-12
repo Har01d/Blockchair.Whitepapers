@@ -846,6 +846,7 @@
 | Icloudsec | Blockchain Based Cloud Network Security | https://www.icloudsec.com/wp-content/uploads/2018/02/ICloudSec.pdf | https://www.icloudsec.com/ | N/P* |
 | ICOICO | Automated ICO launching platform | https://launch.icoico.io/s/ICOICO_Whitepaper_Sept25.pdf | https://icoico.io/ | N/P* |
 | ICOnic | Iconic presents, through the three environments of its ecosystem, a complete channel for making investments in impacting businesses with safety services and guarantees unheard of in the industry | https://joiniconic.com/docs/whitepaper_EN_10.pdf | https://joiniconic.com/ | N/P* |
+| Iconiq | an Initial Coin Offer and Token Launch accelerator program | https://iconiqlab.com/wp-content/uploads/2018/03/20180303_Iconiq-White-Paper-1.pdf | https://iconiqlab.com/ | N/P* |
 | Iconomi | Iconomi: Open Fund Management Platform to disrupt the investment industry | https://coss.io/documents/white-papers/iconomi.pdf | https://www.iconomi.net/ | Tim M. Zagar, Jani Valjavec, Zenel Batagelj, Ervin U. Kovac, Ales Lekse |
 | ICON | ICON | http://docs.icon.foundation/ICON-Whitepaper-EN-Draft.pdf | https://icon.foundation/ | N/P* |
 | ICOS | ICOS / ICOS Token - one ICO to rule them all | https://icos.icobox.io/WhitePaper.pdf | https://icos.icobox.io/ | N/P* |
