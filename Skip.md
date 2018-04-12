@@ -82,6 +82,7 @@
 | Mywish | Making Contracts. Really Smart. For Life. | https://drive.google.com/file/d/0B3ZY9oXSrdvjYjlCLUxra3oxZHM/view | https://mywish.io/ | N/P* | GOOGLE DOCS |
 | Neurogress | NEUROGRESS. THINK. SHAPE YOUR WORLD | https://drive.google.com/file/d/1rWFkKtDy7tuBwJ_oxSW2vEwAxEh3uqlM/view | https://neurogress.io/ | N/P* | GOOGLE DOCS |
 | Nwa | HYBRID FUND APPLYING ITS EXCLUSIVE STRATEGIES IN THE STOCK AND CRYPTOCURRENCY WORLD MARKET | https://onedrive.live.com/view.aspx?resid=6771A23E5F3C19C4!3483&ithint=file%2cdocx&app=Word&authkey=!AKUnQz8UjaWp0RI | https://www.nwa.ltd/ | N/P* | GOOGLE DOCS |
+| Odyfund | Fundraising platform linked to the first humanitarian crypto-Emergency Fund | https://drive.google.com/file/d/1EKszYlbM0XuG1KyzaYk-42e9gE8JHfhA/view | https://odyfund.org/ | N/P* | GOOGLE DOCS |
 | Olxa coin | DECENTRALIZED APPLICATIONS AND CROWD-PROJECTS THROUGH THE BLOCKCHAIN TECHNOLOGY | https://drive.google.com/file/d/1mUW1CtE35_KYSR1OTRH_MajzA6DrOv6a/view | https://www.olxacoin.com/ | N/P* | GOOGLE DOCS |
 | Openlongevity | Initiates, organizes and guarantees the openness of clinical trials | https://docs.google.com/document/d/1wUz5D1cvSDkSeXF6RZipK_zNHE9odn4uEP7qgM0jtZk/ | http://en.openlongevity.io/ | N/P* | GOOGLE DOCS |
 | Orada | The first building portal of Sochi is a single space for sellers and buyers | https://docs.wixstatic.com/ugd/7c37b3_f2c27bc4258a48f4a0974a9a5418ba8b.docx?dn=%D0%B2%D0%B0%D0%B9%D1%82%20%D0%BF%D0%B5%D0%BF%D0%B5%D1%80.docx | https://www.orada-ico.com/ | N/P* | GOOGLE DOCS |
@@ -211,6 +212,7 @@
 | Jwcventures |  |  | https://jwcventures.com/ | N/P* | NOT FOUND |
 | Internxt |  |  | https://internxt.io/ | N/P* | NOT FOUND |
 | Kexcoin |  |  | https://kexcoin.com/ | N/P* | NOT FOUND |
+| Kryptonmine |  |  | https://kryptonmine.com/ | N/P* | NOT FOUND |
 | Kuna Exchange |  |  | https://kuna.io/sco?lang=en | N/P* | NOT FOUND |
 | Lampix | Lampix | https://lampix.co/whitepaper.pdf | https://lampix.co/token.html | N/P* | NOT FOUND |
 | Lambo Token |  |  | http://lambotoken.io/ | N/P* | NOT FOUND |
@@ -236,12 +238,14 @@
 | Neuromation |  |  | https://neuromation.io/ | N/P* | NOT FOUND |
 | Neuron |  |  | https://doc.ai/ | N/P* | NOT FOUND |
 | Nimfamoney |  |  | https://www.nimfamoney.io/ | N/P* | NOT FOUND |
+| Noscam |  |  | https://www.tokennoscam.com/ | N/P* | NOT FOUND |
 | Octobase |  |  | https://www.octobase.co/ | N/P* | NOT FOUND |
 | Opporty |  |  | https://opporty.com/ | N/P* | NOT FOUND |
 | Our Interest |  |  | https://www.ourinterest.org/ico | N/P* | NOT FOUND |
 | Plexcoin |  |  | https://www.plexcoin.com/ | N/P* | NOT FOUND |
 | Pundix | Pundi X | https://pundix.com/pdf/PundiX_WhitePaper_EN_FinalVer1.pdf | https://pundix.com/ | N/P* | NOT FOUND |
 | Rados |  |  | https://www.rados.io/ | N/P* | NOT FOUND |
+| Raison |  |  | https://raison.ai/index-en.html | N/P* | NOT FOUND |
 | Realcoin Realt |  |  | http://www.rcrt.io/ | N/P* | NOT FOUND |
 | Recoin |  |  | http://www.jdsupra.com/legalnews/sec-enforcement-action-involving-84066/ | N/P* | NOT FOUND |
 | Reorder |  |  | http://ico.reorder.world/ | N/P* | NOT FOUND |
@@ -271,6 +275,7 @@
 | Stream Token |  |  | https://streamtoken.net/ | N/P* | NOT FOUND |
 | T0 |  |  | https://tzero.com/ | N/P* | NOT FOUND |
 | Tbis |  |  | https://tbis.io/ | N/P* | NOT FOUND |
+| The fandome |  |  | https://ultimate.thefandome.com/ | N/P* | NOT FOUND |
 | The Legends Room |  |  | https://legendsroomlv.com/ | N/P* | NOT FOUND |
 | Tokenstub |  |  | https://tokenstub.io/ | N/P* | NOT FOUND |
 | TripBit |  |  | http://www.tripbit.info/ | N/P* | NOT FOUND |
@@ -388,6 +393,7 @@
 | Renu Coin | Global blockchain, cryptocurrency, and smart contract platform for renewable energy. | http://renucoin.com/green-paper/ | http://renucoin.com/ | N/P* | NOT PDF |
 | Reporter Community | first market player to integrate blockchain technology into UGC which offers a 100% verified authentication process to all market players | https://docsend.com/view/bfgbg3j | https://www.reportercommunity.tech/ | N/P* | NOT PDF |
 | Rex | A Decentralized Multiple Listing Service & Real Estate Transaction Application | https://github.com/rexmls/whitepaper/blob/master/readme.md | http://rexmls.com/ | N/P* | NOT PDF |
+| Rolecoin | a digital currency that tracks and measures the skill and career development progress of its recipient | https://app.hubspot.com/documents/3804539/view/15306937 | https://rolecoin.steamrole.org/ | N/P* | NOT PDF |
 | Routecoin | utility token that can be used inside Routecoin community via WiFiNewAge software to share WiFi networks | http://routecoin.io/whitepaper.php | http://routecoin.io/ | N/P* | NOT PDF |
 | Safinus | Revolutionary Platform for Investments in Cryptocurrencies and ICOs | https://www.safinus.com/whitepaper/ | https://www.safinus.com/ | N/P* | NOT PDF |
 | Samy | A HYBRID-DECENTRALIZED PLATFORM TO DISCOVER,CREATE, PERFORM, ANALYZE AND MEASURE ADVERTISING CAMPAIGNS | https://iamsamy.com/whitepaper | https://iamsamy.com/ | N/P* | NOT PDF |
