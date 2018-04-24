@@ -1536,7 +1536,7 @@
 | Sun Multiwallet | SunMultiwallet ICO | https://docs.wixstatic.com/ugd/6008bf_663a0d613ba84663a2f265018bedff6a.pdf | https://www.sunmultiwallet.com/ | N/P* |
 | Sureremit | An Ecosystem of Merchants for Global Non-Cash Remittances | https://token.sureremit.co/SureRemit-WhitePaper-v.1.21.pdf | https://token.sureremit.co/ | N/P* |
 | Suretly | First crowdvouching platform | https://suretly.com/docs/Suretly_whitepaper_v1.2.pdf | https://www.ico.suretly.com/ | N/P* |
-| Swapcoin | Swapity &#124; Crytocurrency Exchange &#124; Swapcoin | https://static1.squarespace.com/static/5967b533f7e0ab6ae5a1a462/t/59c4338503596e1f65af68ba/1506030470042/Swapity_Whitepaper.pdf | https://swapity.io/ | N/P* |
+| Swapcoin | allows users to seamlessly swap one cryptocurrency for another | https://static1.squarespace.com/static/5967b533f7e0ab6ae5a1a462/t/59c4338503596e1f65af68ba/1506030470042/Swapity_Whitepaper.pdf | https://swapity.io/ | N/P* |
 | Swap | Swap: A Peer-to-Peer Protocol for Trading Ethereum Tokens | https://swap.tech/pdfs/SwapWhitepaper.pdf | https://swap.tech/ | N/P* |
 | Swapy Network | The solution for Universal Access to Credit | https://s3.us-east-2.amazonaws.com/swapynetwork/SwapyNetwork_TokenSale_Whitepaper-EN-US.pdf | https://www.swapy.network/ | N/P* |
 | Swarm Fund | Cooperative Ownership Platform for Real Assets | https://swarmfund.blob.core.windows.net/swarmassets/swarm-whitepaper-v081.pdf | https://www.swarm.fund/ | N/P* |
