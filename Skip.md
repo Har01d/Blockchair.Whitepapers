@@ -436,6 +436,7 @@
 | Aucoin |  |  | http://ico-pgranville.online/ | N/P* | NOT WORKING |
 | Avalon |  |  | https://avalon.nu/ | N/P* | NOT WORKING |
 | Baochain |  |  | https://baochain.tech/ | N/P* | NOT WORKING |
+| Beatlecoin | BEATLE COIN | https://beatlecoin.com/storage/whitepapers/beatle-coin%5Fwhitepaper%5FEN.pdf | https://beatlecoin.com/ | N/P* | NOT WORKING |
 | Beertoken |  |  | https://www.beertoken.io/ | N/P* | NOT WORKING |
 | BeOne |  |  | https://be-one.co/ | N/P* | NOT WORKING |
 | Bfree Token |  |  | https://bfreecoin.io/ | N/P* | NOT WORKING |
