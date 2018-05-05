@@ -305,6 +305,7 @@
 | Astronaut | Astronaut | https://astronaut.docsend.com/view/p4iazfu | https://astronaut.capital/ | N/P* | NOT PDF |
 | Atlas work | a new global freelancing platform that incorporates blockchain technologies to create a decentralized ecosystem that will reach across borders and revolutionize the Freelance Industry | https://www.atlas.work/whitepaper-viewer | https://www.atlas.work/ | N/P* | NOT PDF |
 | Authorship | A Step towards Decentralization of the Internet | https://view.joomag.com/authorship-white-paper-authorship-white-paper/0120750001501521493?short | http://authorship.com/ | N/P* | NOT PDF |
+| Belotto |  | https://belotto.io/download/belotto-wp-english/?wpdmdl=14 | https://belotto.io/ | N/P* | NOT PDF |
 | Bico | Everything you need for a successful ICO in the world’s first ICO funded book | http://bico.me/whitepaper/ | http://bico.me/ | N/P* | NOT PDF |
 | Big Foundation | Basic Income Guarantee Protocol | https://github.com/bigfoundation/Documentation/blob/master/BIGwhitepaperEN.md | http://big.foundation/ | N/P* | NOT PDF |
 | Birdchain | a decentralized instant messaging application for Android | https://github.com/Birdchain/whitepaper-business/blob/master/README.md | https://www.birdchain.io/ | N/P* | NOT PDF |
@@ -405,6 +406,7 @@
 | Soundchain | Distributed opensource database for managing intellectual property rights | http://soundchain.org/whitepaper | http://soundchain.org/ | N/P* | NOT PDF |
 | Sparta | SpartaICO whitepaper for Sparta Startups accelerator development based on blockchain tokens. | http://spartaico.com/wp.html | http://spartaico.com/ | N/P* | NOT PDF |
 | Spice Venture Capital | To revolutionize the way venture capital is raised and managed with SPiCE VC, a liquid tokenized fund. | https://spicevc.docsend.com/view/az3zcqb | https://www.spicevc.com/ | N/P* | NOT PDF |
+| Storweey |  | https://www.storweey.net/english-whitepaper | https://www.storweey.net/ | N/P* | NOT PDF |
 | Superneum | SUP Supercharged With Pokereum Demo, Other DAPP rewards & New Pre-sale Only Funding Round. | https://blog.superdao.io/sup-supercharged-with-pokereum-demo-other-dapp-rewards-new-pre-sale-only-funding-round-74a8cc3bbe3c | http://claim.superdao.io/ | N/P* | NOT PDF |
 | Tele2-teleport | ICO Tele to Teleport | https://cloud.mail.ru/public/EiUw/dUbqPQcaf | https://tele2-teleport.io/ | N/P* | NOT PDF |
 | Terraminer | ICO based on a real business | https://terraminer.online/white_paper/ | http://terraminer.io/ | N/P* | NOT PDF |
@@ -428,6 +430,7 @@
 | All In Communicator |  |  | https://allincommunicator.com/ | N/P* | NOT WORKING |
 | Allowance Network |  |  | https://allowance.network/ | N/P* | NOT WORKING |
 | Alpencoin |  |  | https://www.alpencoin.com/ | N/P* | NOT WORKING |
+| Alttradex | Alttradex | https://uploads.strikinglycdn.com/files/1c377539-88bd-48bc-b60a-418b499a8210/ALTTRADEX%20WHITEPAPER%20DOWNLOAD.pdf | http://www.alttradex.com/ | N/P* | NOT WORKING |
 | Amberport |  |  | http://www.amberport.io/ | N/P* | NOT WORKING |
 | Apex |  |  | https://apex.chinapex.com/ | N/P* | NOT WORKING |
 | Arthacoin |  |  | www.arthacoin.com/ | N/P* | NOT WORKING |
@@ -436,6 +439,7 @@
 | Aucoin |  |  | http://ico-pgranville.online/ | N/P* | NOT WORKING |
 | Avalon |  |  | https://avalon.nu/ | N/P* | NOT WORKING |
 | Baochain |  |  | https://baochain.tech/ | N/P* | NOT WORKING |
+| Beatlecoin | BEATLE COIN | https://beatlecoin.com/storage/whitepapers/beatle-coin%5Fwhitepaper%5FEN.pdf | https://beatlecoin.com/ | N/P* | NOT WORKING |
 | Beertoken |  |  | https://www.beertoken.io/ | N/P* | NOT WORKING |
 | BeOne |  |  | https://be-one.co/ | N/P* | NOT WORKING |
 | Bfree Token |  |  | https://bfreecoin.io/ | N/P* | NOT WORKING |
