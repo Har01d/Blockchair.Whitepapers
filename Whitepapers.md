@@ -69,7 +69,7 @@
 | Alphathereum | ATH Token Launch | https://docs.wixstatic.com/ugd/910520_4684d16e0bfc40faa86ad9a7993dbf35.pdf | https://www.alphathereum.com/ | N/P* |
 | Altair VR | first VR platform for world iscovery built on blockchain technology | https://altair.fm/ico/whitepaper_altairvr_en.pdf | http://altairvr.io/ | N/P* |
 | Altindex | The first tokenized index fund | https://www.alt-index.com/wp/whitepaper_altindex_en.pdf | https://www.alt-index.com/ | N/P* |
-| Alttradex | Alttradex | https://uploads.strikinglycdn.com/files/1c377539-88bd-48bc-b60a-418b499a8210/ALTTRADEX%20WHITEPAPER%20DOWNLOAD.pdf | http://www.alttradex.com/ | N/P* |
+| Altumea | A decentralized platform connecting researchers, artists, and engineers looking to buy processing power for high-performance computing, deep learning, and AI with GPU owners | https://altumea.io/media/whitepaper.pdf | https://altumea.io/ | N/P* |
 | Ambitmining | The next generation mining infrastructure | https://www.ambitmining.io/doc/Ambit-WhitePaper.pdf | https://www.ambitmining.io/ | N/P* |
 | Ambrosus | Ambrosus - Trusted Quality of Food &amp; Medicine | https://ambrosus.com/assets/Ambrosus-White-Paper-V8-1.pdf | https://ambrosus.com/ | N/P* |
 | Aml Bitcoin | AML BitCoin Token (ATK) | https://www.amltoken.com/wp-content/uploads/2017/10/whitepaper.pdf | https://amltoken.com/ | N/P* |
@@ -883,6 +883,7 @@ decentralized investment and trading system | https://ftcoin.io/sites/default/fi
 | Interest Coin | Interest Coin - We Share Interest | https://interestcoin.io/wp-content/uploads/2017/11/English.pdf | https://interestcoin.io/ | N/P* |
 | Internet Of Agreements | BUILDING THE HYPERCONNECTED FUTURE ON BLOCKCHAINS | http://internetofagreements.com/files/WorldGovernmentSummit-Dubai2017.pdf | http://internetofagreements.com/ | N/P* |
 | Internet Of Coins | Hybrid Assets for Peer-to-Peer Intersystemic Value Transfer | https://coinstorm.net/whitepaper_ioc.pdf | https://coinstorm.net/ | N/P* |
+| Intivahealth | Empowering Licensed Medical Professionals With Intiva Token And A Decentralized Credentialing Platform | https://token.intivahealth.com/wp-content/uploads/2018/05/Intiva_Whitepaper_050118_v7.pdf | https://token.intivahealth.com/ | N/P* |
 | Intro | Business Intelligence Services for the participants of residential construction market | https://introa.io/files/%D0%98%D0%9D%D0%A2%D0%A0%D0%9E%20WP%20en.pdf | https://introa.io/ | N/P* |
 | Investy | New Era Of Decentralized Investments | https://ito.investy.io/Investy-WP-EN.pdf | https://ito.investy.io/ | N/P* |
 | Invox | A decentralised invoice financing solution for a connected world | https://www.invoxfinance.io/docs/Invox-Whitepaper.pdf | https://www.invoxfinance.io/ | N/P* |
@@ -916,6 +917,7 @@ decentralized investment and trading system | https://ftcoin.io/sites/default/fi
 | Karma Tge | Karma Token Sale | https://tge.karmainternational.com/documents/karma-whitepaper.pdf | https://karmainternational.com/ | N/P* |
 | Karma | cross-border p2p-scoring and lending any assets, collaterals and interest rates empowering trust-based communities all over the world | https://tokensale.karma.red/assets/docs/Karma.Economy-of-Trust.Presentation.EN.v.7.pdf | https://karma.red/ | N/P* |
 | Karmatoken | BLOCKCHAIN TO IMPROVE THE GOOD IN PEOPLE | https://www.docdroid.net/file/download/OFsjf2S/pre-sale-white-paper-v11.pdf | https://www.karmatoken.net/ | N/P* |
+| Kasko2go | use AI and telematic Big Data assessments with Pay-as-you- Drive model | https://tokensale.kasko2go.com/uploads/setting/whitepaper/1/kasko2go__whitepaper.pdf | https://tokensale.kasko2go.com/ | N/P* |
 | Kdbox / Kdx | The First African ICO  | http://ico.kodpay.com/ico%5Fwhitepaper.pdf | http://ico.kodpay.com/ | N/P* |
 | Kelta | a data center built to empower scientific researchers, scholars, and cryptocurrency miners by providing industrial grade computing capabilities at affordable rates | https://kelta.com/preview-file/kelta-whitepaper-ENG.pdf | https://kelta.com/ | N/P* |
 | kevin. | kevin. | https://getkevin.io/kevinwhitepaper.pdf | https://www.getkevin.io/ | N/P* |
@@ -968,6 +970,7 @@ decentralized investment and trading system | https://ftcoin.io/sites/default/fi
 | Libra credit | A decentralized lending ecosystem that facilitates open access to credit anywhere and anytime based on the Ethereum blockchain | https://www.libracredit.io/page/Libra%20Credit%20Whitepaper.pdf | https://www.libracredit.io/ | N/P* |
 | Librium | Librium, Opportunity for All | https://librium.com/documents/Librium_Whitepaper.pdf | https://librium.io/ | N/P* |
 | LIFE | LIFEtoken - Simply for everyday people | http://www.lifelabs.io/ctrl/wp-content/uploads/LIFE-WHITEPAPER-1.04.pdf | https://token.lifelabs.io/ | N/P* |
+| Liger | best suited for the demands of Online Gaming & Fantasy Sports. Sans intermediaries, connects the traders with users directly and brings in more business | https://www.ligercoin.com/wp-content/uploads/2018/04/Liger-Whitepaper.pdf | https://www.ligercoin.com/ | N/P* |
 | Lightcash | Fast Transactions and Easy to Use | https://lightcash.io/files/lightcash_white_paper_en.pdf | https://lightcash.io/ | N/P* |
 | Lightning | Scalable Off-Chain Instant Payments | https://lightning.network/lightning-network-paper.pdf | https://lightning.network/ | N/P* |
 | Like | Like - Multifunctional Real Estate Platform | http://likei.co/whitepaperen.pdf | http://likei.co/ | N/P* |
@@ -1134,6 +1137,7 @@ decentralized investment and trading system | https://ftcoin.io/sites/default/fi
 | Nexium | NEXIUM Critical Services for EUFOR | https://www.thalesgroup.com/sites/default/files/medias/documents/EUFOR%20project..pdf | https://beyond-the-void.net/ | |
 | NEXT.exchange | NEXT.EXCHANGE EMBRACES BLOCKCHAIN TECHNOLOGY | https://next.exchange/whitepaper | https://next.exchange/ | N/P* |
 | Nexus | Nexus: Whitepaper | https://ico.nexus.social/pdfs/legals/Nexus-White-Paper.pdf | http://www.nexusearth.com/ | |
+| Nexusless | Building a Peer-to-Peer Content Delivery Network | https://nexusless.com/docs/nexusless_whitepaper.pdf | https://nexusless.com/ | N/P* |
 | Nickelcoin | DEPLOYING BLOCKCHAIN TECHNOLOGY TO CUSTOMER’S LOYALTY REWARD | https://nickelcoin.co/documents/Nickelcoin-white-paper-En.pdf | https://nickelcoin.co/ | N/P* |
 | Nilecoin | a digital currency developed in the form of open-source software (OSS) | https://ico.nilecoin.org/white-paper-en-v4.pdf | https://ico.nilecoin.org/ | N/P* |
 | Niqbix | Changing	the	way	your city	works | https://niqbix.com/Whitepaper/niqbix_whitepaper.pdf | https://niqbix.com/ | N/P* |
@@ -1717,6 +1721,7 @@ decentralized investment and trading system | https://ftcoin.io/sites/default/fi
 | Vectorzilla | The World’s First Blockchain-based, Deep Learning (AI)-driven, Royalty Free Stock Graphics Platform & Marketplace | https://media.vectorzilla.io/Whitepaper-VZTpdf.pdf | https://vectorzilla.io/ | N/P* |
 | Veiris | Using Identity Text Recognition and Real-Time Facial Recognition | https://vee.veiris.com/whitepaper+v2.6.pdf | https://vee.veiris.com/ | N/P* |
 | Velareum | a new generation of lending platform | https://velareum.com/assets//Velareum.pdf | https://velareum.com/ | N/P* |
+| Velix | A Global Platform for Frictionless Identity Verification | https://www.velix.id/assets/Velix.ID%20White%20Paper.pdf | https://www.velix.id/ | N/P* |
 | Vendio | World’s First Crypto Advertising Platform & Token | http://vendicoins.com/wp-content/uploads/2018/02/Vendio-ICO-Whitepaper.pdf | http://vendicoins.com/ | N/P* |
 | Vendoreum | a new generation of cryptocurrency and ecosystem of services | https://vendoreum.com/en/whitepaper.pdf | https://vendoreum.com/ | N/P* |
 | Ventana | Veredictum | https://daks2k3a4ib2z.cloudfront.net/593a3e0b6656a74fefc5f6f9/5976aa0dde4afe1c9ea850f6_veredictum-executive-summary-v2-5-20170725.pdf | https://tokensale.veredictum.io/ | N/P* |
