@@ -430,6 +430,7 @@
 | All In Communicator |  |  | https://allincommunicator.com/ | N/P* | NOT WORKING |
 | Allowance Network |  |  | https://allowance.network/ | N/P* | NOT WORKING |
 | Alpencoin |  |  | https://www.alpencoin.com/ | N/P* | NOT WORKING |
+| Alttradex | Alttradex | https://uploads.strikinglycdn.com/files/1c377539-88bd-48bc-b60a-418b499a8210/ALTTRADEX%20WHITEPAPER%20DOWNLOAD.pdf | http://www.alttradex.com/ | N/P* | NOT WORKING |
 | Amberport |  |  | http://www.amberport.io/ | N/P* | NOT WORKING |
 | Apex |  |  | https://apex.chinapex.com/ | N/P* | NOT WORKING |
 | Arthacoin |  |  | www.arthacoin.com/ | N/P* | NOT WORKING |
