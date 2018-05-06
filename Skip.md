@@ -39,6 +39,7 @@
 | Fic Network | Fixed Income Infrastructure for Blockchain Assets | https://drive.google.com/file/d/0ByzKCCWTHkioZzRhTThXSi0zcWM/view | http://factury.co/fixnet/ | N/P* | GOOGLE DOCS |
 | Fintab | The Accounting System for Cryptocurrency Portfolios | https://drive.google.com/file/d/1IawIwe0zJmhytA6PIs9S8wEo7gP6nyRL/view | https://fintab.io/ | N/P* | GOOGLE DOCS |
 | Flashmoni | Physical Gold-backed cryptocurrency / Innovative payment features / smart contract-based ad solutions | https://drive.google.com/file/d/10tlNa7GwOlaV7ZD7ovmYaOLq5sLSwUlU/view | https://www.flashmoni.io/ | N/P* | GOOGLE DOCS |
+| Flux | First Monetization Protocol for the online gaming industry | https://drive.google.com/file/d/1b4YOQZxBd6C41I5RMswA6UfJzK97MvxF/view | https://flux.fund/en | N/P* | GOOGLE DOCS |
 | Follex | THE WORLDS FIRST REGULATED SOCIAL CRYPTO EXCHANGE | https://drive.google.com/file/d/1NLinuMbJgrz6bZQfR_zer9g2y7AZzXZf/view | https://www.follex.io/ | N/P* | GOOGLE DOCS |
 | Forty Seven Bank | We are connecting financial worlds | https://drive.google.com/file/d/0BzvESRkgX-uDeHc1QjRzbHRBelU/view | https://www.fortyseven.io/ | N/P* | GOOGLE DOCS |
 | Frasindo | FRASINDO "FRAS COIN" | https://drive.google.com/file/d/1jWnP6nWK7omHNZZp4iUrhSAJu3BifGwt/view | https://www.frasindo.com/ | N/P* | GOOGLE DOCS |
@@ -244,6 +245,7 @@
 | Our Interest |  |  | https://www.ourinterest.org/ico | N/P* | NOT FOUND |
 | Plexcoin |  |  | https://www.plexcoin.com/ | N/P* | NOT FOUND |
 | Pundix | Pundi X | https://pundix.com/pdf/PundiX_WhitePaper_EN_FinalVer1.pdf | https://pundix.com/ | N/P* | NOT FOUND |
+| Publica | Publica | https://publica.io/whitepapers/summary.pdf | https://publica.io/ | N/P* | NOT FOUND |
 | Rados |  |  | https://www.rados.io/ | N/P* | NOT FOUND |
 | Raison |  |  | https://raison.ai/index-en.html | N/P* | NOT FOUND |
 | Realcoin Realt |  |  | http://www.rcrt.io/ | N/P* | NOT FOUND |
