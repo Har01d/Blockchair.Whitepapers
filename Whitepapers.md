@@ -30,6 +30,7 @@
 | Adperks | AdPerks - Decentralized Digital Marketing | https://adperks.io/wp-content/uploads/2017/09/AdPerks-WhitePaper.pdf | https://adperks.io/ | N/P* |
 | Adpump | BLOCKCHAIN AFFILIATE MARKETPLACE | https://adpump.io/static/media/whitepaper.pdf | https://adpump.io/ | N/P* |
 | Adshares | Enterprise Service Chain | https://adshares.net/assets/docs/ESC.pdf | https://adshares.net/ | N/P* |
+| Adsigma | a blockchain-based Advertiser-Publisher network, trying to solve some of the serious problems of 200B dollars Digital Ads industry | https://adsigma.io/assets/whitepaper/adsigma-whitepaper.pdf | https://adsigma.io/ | N/P* |
 | Adt Finance | Financial Markets Investment Fund | https://adtfinance.fr/whitepaper.pdf | https://adtfinance.fr/ | N/P* |
 | AdToken | The AdChain Registry | https://adtoken.com/uploads/white-paper.pdf | https://adtoken.com/ | Mike Goldin, Ameen Soleimani, James Young |
 | Advanced Browsing Token | Decentralised Browsing Web Services Protocol powered by ABT Token  | http://abtoken.io/assets/docs/wp.pdf | http://abtoken.io/ | N/P* |
@@ -69,7 +70,7 @@
 | Altair VR | first VR platform for world iscovery built on blockchain technology | https://altair.fm/ico/whitepaper_altairvr_en.pdf | http://altairvr.io/ | N/P* |
 | Altindex | The first tokenized index fund | https://www.alt-index.com/wp/whitepaper_altindex_en.pdf | https://www.alt-index.com/ | N/P* |
 | Altumea | A decentralized platform connecting researchers, artists, and engineers looking to buy processing power for high-performance computing, deep learning, and AI with GPU owners | https://altumea.io/media/whitepaper.pdf | https://altumea.io/ | N/P* |
-| Ambitmining | The next generation mining infrastructure | https://www.ambitmining.io/doc/Ambit-WhitePaper.pdf | https://www.ambitmining.io/ | N/P* |
+| Ambit mining | The next generation mining infrastructure | https://www.ambitmining.io/doc/Ambit-WhitePaper.pdf | https://www.ambitmining.io/ | N/P* |
 | Ambrosus | Ambrosus - Trusted Quality of Food &amp; Medicine | https://ambrosus.com/assets/Ambrosus-White-Paper-V8-1.pdf | https://ambrosus.com/ | N/P* |
 | Aml Bitcoin | AML BitCoin Token (ATK) | https://www.amltoken.com/wp-content/uploads/2017/10/whitepaper.pdf | https://amltoken.com/ | N/P* |
 | Ammbr | Ammbr | http://ammbr.com/docs/20171121/Ammbr_Whitepaper_v2.3_21Nov2017.pdf | http://www.ammbr.com/ | N/P* |
@@ -289,6 +290,7 @@
 | BTCMoon | was specifically structured in a way to avoid centralized ownership | https://btcmoon.info/docs/BTCMoon White Paper.pdf | https://btcmoon.info/ | N/P* |
 | BTCWALL | The secure storage project for bitcoins and their owners information | https://btcwall.io/whitepaperENG.pdf | http://btcwall.io/ | N/P* |
 | Btu protocol | An open protocol for decentralized reservations | https://www.btu-protocol.com/pdf/whitepaper.pdf | https://www.btu-protocol.com/ | N/P* |
+| Bubbletone | The first decentralized telecom ecosystem that allows mobile network operators, phone users and service providers to interact directly | https://bubbletone.io/BubbleTone_Whitepaper_ENG-Jan18.pdf | https://bubbletone.io/ | N/P* |
 | Budbo | Budbo / Blockchain Utility Token | https://www.budbo.io/budbo-whitepaper.pdf | https://www.budbo.io/ | N/P* |
 | Buglab | Cybersecurity Penetration Testing on the Ethereum Blockchain | https://buglab.io/assets/docs/Buglab_WhitePaper.pdf | https://buglab.io/ | N/P* |
 | Buildcoin | EMPOWERING THE HANDS THAT BUILD | https://docs.wixstatic.com/ugd/40acba_0ee165310e394cba91f84f7001b85b2c.pdf | https://www.b1x.io/ | N/P* |
@@ -466,6 +468,7 @@
 | Dafzo | A Decentralized Global P2P Logistics Platform | https://www.dafzo.io/assets/Dafzo.io.pdf | https://www.dafzo.io/ | N/P* |
 | Dala Token Sale | Wala: A financial platform for the next 3.5 billion people in emerging markets | http://wala-tokensale-website.s3-website-eu-west-1.amazonaws.com/dalawhitepaper.pdf | https://tokensale.getwala.com/ | N/P* |
 | Daneel | BRINGING DATA INTELLIGENCE INTO THE CRYPTO JUNGLE | https://daneel.io/whitepaper/en/daneel-wp-latest.pdf | https://daneel.io/ | N/P* |
+| Dank signals | Artificial Intelligence Bot & Investment Platform | https://danksignals.club/files/Dank%20Signals%20White%20Paper%20v0.0.5.pdf | https://danksignals.club/ | N/P* |
 | DAO PlayMarket 2.0 | DAO PlayMarket 2.0 | https://ico.playmarket.io/images/docs/wp_playmarket_en.pdf | https://playmarket.io/ | N/P* |
 | DAOstack | an operating system for collective intelligence and a new form of human association: the DAO | https://daostack.io/wp/DAOstack-White-Paper-en.pdf | https://daostack.io/ | N/P* |
 | Darenta | CAR RENTAL SERVICE FOR OWNERS WHO WANT TO RENT OUT THEIR PRIVATE CARS | https://darenta.io/en.pdf | https://darenta.io/ | N/P* |
@@ -545,7 +548,8 @@
 | Dnn | Decentralized News Network | https://dnn.media/storage/DecentralizedNewsNetworkWhitePaperDraftv1.5.3.pdf | https://dnn.media/ | N/P* |
 | Dock.io | Powering Data for the Professional World | https://dock.io/whitepaper | https://dock.io/ | N/P* |
 | Doctailor | A Self Customisable Legal Binding Smart Contract Platform | http://www.doctailor.com/assets/pdfs/whitepaper-en.pdf |  http://www.doctailor.com/ | N/P* |
-| Dogezer | DoSoftwareTogether | https://dogezer.com/static/files/Dogezer_Whitepaper_14_34.pdf | https://dogezer.com/ | N/P* |
+| Dogezer | a New Generation Platform for Entrepreneurs, Software Engineers, UI\UX Designers, Artists, Salespersons, Marketing Specialists and all other individuals involved in the creation, promotion, and support of software products of any kind | https://dogezer.com/static/files/Dogezer_Whitepaper_14_34.pdf | https://dogezer.com/ | N/P* |
+| Dogracing | the ultimate crypto currency betting platform based on Ethereum Smart Contract | https://dogracing.io/wp-content/uploads/2018/04/DogRacing_WhitePaper.pdf | https://dogracing.io/ | N/P* |
 | Domanisystems | Decentralized Collaboration and Integration Platform | https://docs.wixstatic.com/ugd/52195b_bfbdff9cf1f54beb8d0f3596928f0ec1.pdf | https://www.domanisystems.com/ | N/P* |
 | DomRaider | DomRaider - Decentralized Blockchain Auction | https://s3-eu-west-1.amazonaws.com/domraider/domraider/DomRaider+ICO+Whitepaper+EN.pdf | https://www.domraider.io/en/ | N/P* |
 | Domuscoins | The Guaranteed Cryptocurrency at the emission | https://www.domuscoins.com/docs/DomusCoins_whitepaper_t&c.pdf | https://www.domuscoins.com/ | N/P* |
@@ -841,6 +845,7 @@ decentralized investment and trading system | https://ftcoin.io/sites/default/fi
 | Hubii Network | Hubii Network | https://hubii.network/hubii-network-whitepaper-en.pdf | https://hubii.network/ | N/P* |
 | Human Discovery Platform | Human Discovery Platform  | https://my.hdplatform.io/files/HD%5FWhite%5FPaper%5Fv1.00%5FENG.pdf | https://hdplatform.io/ | N/P* |
 | Humaniq | Humaniq Whitepaper | https://humaniq.com/pdf/humaniq_wp_english.pdf | https://humaniq.com/ | Alex Fork |
+| HumanixR | A Decentralised Application built on Ethereum Blockchain which seeks to reward human interaction | https://docs.wixstatic.com/ugd/a98520_bdf6bc02a4a04317a2baf704d1ca9624.pdf | https://www.humanixr.com/ | Alex Fork |
 | Hurify | Decentralized Blockchain platform for IoT Solution Development that bridges the gap between IoT demand and Supply  | https://ico.hurify.co/wp-content/uploads/2018/01/Hurify_Project_whitepaper_V1.7-1.pdf | https://ico.hurify.co/ | N/P* |
 | Hydrominer | HydroMiner | https://www.hydrominer.org/wp-content/uploads/HydroMiner.pdf | https://www.hydrominer.org/token-sale/ | N/P* |
 | Hyundai DAC | Hdac TGE | https://hdac.io/resources/17/pdf/Hdacblueprint.pdf | https://hdac.io/ | N/P* |
@@ -1060,7 +1065,7 @@ decentralized investment and trading system | https://ftcoin.io/sites/default/fi
 | Mingo | Growing the crypto community by 100x | https://firebasestorage.googleapis.com/v0/b/mingo-2bdfc.appspot.com/o/Whitepaper.pdf?alt=media&token=e709359a-b76f-4230-b9a8-2c374ccc464d | https://mingocoin.com/ | N/P* |
 | MiniApps | MiniApps | https://tokens.miniapps.pro/wp/WP_MAT_ENG.pdf | https://miniapps.pro/ | N/P* |
 | Mining Solutions | Enjoy the mining! | https://docs.wixstatic.com/ugd/63427a_8a5d16764f6b415f85ecd2f3ff556a2e.pdf | https://www.minso.net/ | N/P* |
-| Mira | We have raised $1,980,000 | https://miralab.io/Mira_WhitePaper_EN.pdf | https://miralab.io/ | N/P* |
+| Mira | conceived as a P2P cryptocurrency exchanger with a simple and straightforward interface | https://miralab.io/Mira_WhitePaper_EN.pdf | https://miralab.io/ | N/P* |
 | Mirocana | Mirocana - MIRO Token Sale | https://static.mirocana.com/documents/en/WhitePaper.pdf | https://mirocana.com/ | N/P* |
 | Misscoin | Beauty Contest on Blockchain | http://misscoin.io/MISSCOIN.pdf | http://misscoin.io/ | N/P* |
 | Mithril Ore | Mithril Ore - Ethereum Pooling, Backing, and Staking | https://www.mithrilore.io/docs/mithrilore%20-%20whitepaper.pdf | https://www.mithrilore.io/ | N/P* |
@@ -1139,6 +1144,7 @@ decentralized investment and trading system | https://ftcoin.io/sites/default/fi
 | Niqbix | Changing	the	way	your city works | https://niqbix.com/Whitepaper/niqbix_whitepaper.pdf | https://niqbix.com/ | N/P* |
 | Nitro | Blockchain to democratise the utility of video-games economy | https://www.nitro.live/files/en/Nitro%20Whitepaper%20v4.0.4.pdf | http://www.nitro.live/ | N/P* |
 | Nkor | New standard for verification and distribution of digital data  | http://nkor.io/NKOR%20WP%20-%20V7.0.pdf | http://nkor.io/ | N/P* |
+| Nobar | Connecting all the fragmented markets to make a unified commerce powered by crypto payment | https://nobar.io/data/nobar-whitepaper.pdf | https://nobar.io/ | N/P* |
 | Noku | THE BLOCKCHAIN MONEY COMPANY | https://www.noku.io/Noku-White_Paper_Draft_0-9-5.pdf | https://www.noku.io/ | N/P* |
 | NoLimitCoin | No Limit Fantasy Sports LLC & No Limit Coin | https://www.nolimitcoin.org/nlc2whitepaper.pdf | https://www.nolimitcoin.org/ | |
 | Notary Platform | is the first mobile application which enables you to engage in contracts on the go | http://www.notary-platform.com/whitepaper/Ntry-whitepaper.pdf | http://www.notary-platform.com/ | N/P* |
@@ -1291,7 +1297,7 @@ decentralized investment and trading system | https://ftcoin.io/sites/default/fi
 | Proton | The Future of Decentralized Currency | http://proton-network.com/img/whitepaper.pdf | http://proton-network.com/ | N/P* |
 | Provoco | The 1ST Social Challenge Network Powered by Blockchain with Guaranteed Payments | https://provoco.me/docs/whitepaper.pdf | https://provoco.me/ | N/P* |
 | Pryze | A Decentralized Automated Sweepstakes Protocol Built on the Ethereum Blockchain | https://www.pryze.com/pryze_whitepaper.pdf | https://www.pryze.com/ | N/P* |
-| Publica | Publica | https://publica.io/whitepapers/summary.pdf | https://publica.io/ | N/P* |
+| Public Reputation Network | a solution to add an extra layer of reputation on top of current internet protocol | https://pr.network/WP_PrNetwork.pdf | https://pr.network/ | N/P* |
 | Publiq | PUBLIQ | https://publiq.network/whitepaper/PUBLIQ_White_Paper_English.pdf | https://publiq.network/ | N/P* |
 | Pulsar Venture Capital | Making early stage tech investments accessible and liquid | https://pulsarico.com/assets/pdf/PulsarWhitePaper.pdf | https://pulsarico.com/ | N/P* |
 | Pumpkinpay | a revolutionary new approach to personal finance, providing a fee-free alternative to traditional banking with a globally accessible platform to spend, save and share your money, in any currency, at any time and straight from your mobile | https://pumpkinpay.io/upload/Whitepaper.pdf | https://pumpkinpay.io/ | N/P* |
@@ -1688,6 +1694,7 @@ decentralized investment and trading system | https://ftcoin.io/sites/default/fi
 | Unilot | A decentralized gambling platform which allows players to play and host online games like poker tournaments, lottery and many other games | https://unilot.io/static/landing/docs/Unilot-White-Paper-en-us.pdf | https://unilot.io/ | N/P* |
 | Unikoingold | A betting esports platform | https://static.unikrn.com/4242/unikrn_bm/doc/whitepaper_en.pdf |https://unikoingold.com/ | N/P* |
 | UNICO | Decentralized Digital Collectibles - Unico | https://www.unico.global/wp-content/uploads/2017/11/UNICO-White-Paper.pdf | https://www.unico.global/ | N/P* |
+| Unibright | the unified framework for blockchain based business integration | https://unibright.io/download/Unibright_Whitepaper.pdf | https://unibright.io/ | N/P* |
 | Universa | Universa Blockchain Protocol | https://universa.io/files/whitepaper.pdf | https://universa.io/ | N/P* |
 | Unolabo | Unolabo | http://ico.unolabo.io/tpl/docs/WhitePaperUnlbTokenSale.pdf | http://unolabo.io/ | N/P* |
 | UooMAG | uooMAG | http://uoomag.io/en/docs/uooMAG-whitepaper.pdf | http://uoomag.io/ | N/P* |
@@ -1819,6 +1826,7 @@ decentralized investment and trading system | https://ftcoin.io/sites/default/fi
 | Xproject | IoT Device Authentication | http://sparkcoin.cafe24.com/wp-content/uploads/2017/08/Whitepaper_v1.pdf | http://xproject.io/ | N/P* |
 | XRED | X Real Estate Development (XRED) | https://xred.co/assets/XRED_White_paper_EN.pdf | https://xred.co/ | N/P* |
 | Xronos | DECENTRALIZED STABLE COIN | https://www.xronos.space/docs/en/Xronos_White_Paper.pdf | https://www.xronos.space/ | N/P* |
+| Xsearch | NO THIRD PARTIES; SELLERS AND USERS INTERACT DIRECTLY WITH EACH OTHER THROUGH A DECENTRALIZED NETWORK | https://xsearch.io/app/img/xsearch_whitepaper.pdf | https://xsearch.io/ | N/P* |
 | XTRABYTES | XTRABYTES - Evolving Blockchain Solutions | https://www.xtrabytes.global/whitepaper.pdf | https://www.xtrabytes.global/ | N/P* |
 | Xtrade | Unified FIX API, aggregated liquidity for all major crypto exchanges, and a standalone professional trading platform | https://xtrade1-9649.kxcdn.com/wp-content/uploads/2017/09/xtrade-whitepaper.pdf | https://xtrade.io/ | N/P* |
 | XYO network | The Proof-of-Origin Based Cryptographic Location Network | https://docs.xyo.network/XYO-White-Paper.pdf | https://xyo.network/ | N/P* |
