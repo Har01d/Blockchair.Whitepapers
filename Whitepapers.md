@@ -52,8 +52,9 @@
 | Aitheon | The digital ecosystem simplifying your world through AI, robotic, and human symbiosis | https://www.aitheon.com/assets/Aitheon_Whitepaper_v1.20.pdf | https://www.aitheon.com/ | N/P* |
 | Akm Global | AKM GLOBAL - WE SERVE THE WORLD | https://akminvest.com/wp-content/uploads/2017/09/Whitepaper-AKM-Global.pdf | https://akminvest.com/ | N/P* |
 | Aktie social | The newest technology which is valuing your time, creativity, and resource you spend while staying on social media platforms | https://aktie.social/docs/aktie-social-ico.pdf | https://aktie.social/ | N/P* |
+| Alax | The Blockchain Game Platform for Emerging Markets | https://alax.io/ALAX-whitepaper.pdf | https://alax.io/ | N/P* |
 | Alchemy Byte | AlchemyByte™: An Asset Backed Digital Currency on Waves SL#Byte™: A Partnership Program on Ethereum | https://irp-cdn.multiscreensite.com/ee070c4a/files/uploaded/Whitepaper%20AlchemyByte%20%26%20SLHashByte%20v1.6.pdf | https://www.alchemybyte.com/ | N/P* |
-| Aldoin | Aldoin Live Blockchain  | https://aldoin.com/documents/Aldoin_WhitePaper_EN.pdf | https://aldoin.com/ | N/P* |
+| Aldoin | Aldoin Live Blockchain | https://aldoin.com/documents/Aldoin_WhitePaper_EN.pdf | https://aldoin.com/ | N/P* |
 | Aleph Market | Aleph Market - P2P Market Platform | http://alephmarket.io/wp-content/uploads/2017/02/Whitepaper-%5FAleph.pdf | http://alephmarket.io/ | N/P* |
 | Algory | a set of powerful and multifunctional tools focused on the cryptocurrency market and designed with trading efficiency in mind | https://algory.io/whitepaper.pdf | https://algory.io/ | N/P* |
 | Alicoin | designed to facilitate the life of coin holders | https://alicoin.cash/Whitepaper.pdf | https://alicoin.cash/ | N/P* |
@@ -133,6 +134,7 @@
 | Aversafe | Decentralized Credential Verification for the World. | https://www.aversafe.com/img/Aversafe_Business_Plan.pdf | https://www.aversafe.com/ | N/P* |
 | Aware | A Decentralized Token Investment-management Community To Make Innovative Assets more Liquid | https://aware.bi/pdf/AWARE_whitepaper_EN_3.8.2.pdf | https://aware.bi/ | N/P* |
 | Aworker | Blockchain Platform for the Recruitment | https://aworker.io/docs/Aworker_Whitepaper.pdf | https://aworker.io/ | N/P* |
+| Ax1 | State-of-the-art mining facilities | https://ax1.io/ax1_whitepaper.pdf | https://ax1.io/ | N/P* |
 | Axens | Distributed Supply Chain Finance & Trade Services | https://www.axens.io/downloads/AXenS_Whitepaper.pdf | https://www.axens.io/ | N/P* |
 | Axionv | Agile AI Crypto Fund | http://www.axionv.com/file/BLOCKCHAIN%5F-%5FMOMENTUM_INVESTMENTS.pdf | http://www.axionv.com/ | N/P* |
 | Axtrust | Integrated Platform for Safe Transactions| https://www.axtrust.io/whitepaper.pdf | https://www.axtrust.io/ | N/P* |
@@ -260,6 +262,7 @@
 | Blockstack | Blockstack: A New Internet for Decentralized Applications | https://blockstack.org/whitepaper.pdf | https://blockstack.org/ | Muneeb Ali, Ryan Shea, Jude Nelson, Michael J. Freedman |
 | Blocktix | Blocktix: Decentralized Event Hosting and Ticket Distribution Network | https://blocktix.io/public/doc/blocktix-wp-draft.pdf | https://blocktix.io/ | Florian Mathieu, Ryno Mathee |
 | Blockv | BLOCKv: Smart Virtual Goods on the Blockchain | https://blockv.io/documents/whitepaper.pdf | http://blockv.io/ | N/P* |
+| Blocnation | Unlocking the Lifestyle Payment Ecosystem in Asia through Blockchain Innovation | https://blocnation.io/wp-content/uploads/2018/05/Blocnation-Whitepaper-04-May-2018.pdf | https://blocnation.io/ | N/P* |
 | Blok | Revolutionizing the global on-demand workforce through blockchain | https://blok.network/assets/blok-whitepaper.pdf | https://blok.network/ | N/P* |
 | Bloom | Bloom - Say Hello to Inclusive Credit | https://hellobloom.io/whitepaper.pdf | https://hellobloom.io/ | N/P* |
 | Bluzelle | A Decentralized Database Service for dApps - Bluzelle | https://bluzelle.com/wp-content/uploads/2017/10/bluzelle-whitepaper-english1-4.pdf | https://bluzelle.com/ | N/P* |
@@ -578,7 +581,7 @@
 | Election Chain | a Decentralized, Fair,Open,Just Blockchain Voting System | https://www.electionchain.com/files/elt%5Fen.pdf | https://www.electionchain.com/ | N/P* |
 | Electroneum | Electroneum - the mobile based cryptocurrency | http://electroneum.com/overview-white-paper.pdf | http://electroneum.com/ | N/P* |
 | Electron World Money | Decentralized payments involving global banks | http://ewm.network/assets/pdf/Whitepapper_EN.pdf | http://ewm.network/ | N/P* |
-| Eligma | AI-driven and blockchain-based cognitive commerce platform | https://www.eligma.io/pdf/eligma-white-paper_v1.6.pdf | https://www.eligma.io/ | N/P* |
+| Eligma | AI-driven and blockchain-based cognitive commerce platform | https://www.eligma.io/pdf/eligma-white-paper_v1.9.pdf | https://www.eligma.io/ | N/P* |
 | Ellaism | Ellaism / An Ethereum-like Network With No Premine and No Contentious Hard Forks | https://ethereum.github.io/yellowpaper/paper.pdf | https://ellaism.com/ | N/P* |
 | Ellcrys | Blockchain for Trustless, Censorship-resistant Software Development | https://storage.googleapis.com/ellcrys-docs/Ellcrys-Whitepaper.pdf | https://ellcrys.co/ | N/P* |
 | Eloplay | Esports Smart Tournaments | https://ico.eloplay.com/docs/en/eloplay_whitepaper_en_1.pdf | https://eloplay.com/ | N/P* |
@@ -966,6 +969,7 @@ decentralized investment and trading system | https://ftcoin.io/sites/default/fi
 | Liger | best suited for the demands of Online Gaming & Fantasy Sports. Sans intermediaries, connects the traders with users directly and brings in more business | https://www.ligercoin.com/wp-content/uploads/2018/04/Liger-Whitepaper.pdf | https://www.ligercoin.com/ | N/P* |
 | Lightcash | Fast Transactions and Easy to Use | https://lightcash.io/files/lightcash_white_paper_en.pdf | https://lightcash.io/ | N/P* |
 | Lightning | Scalable Off-Chain Instant Payments | https://lightning.network/lightning-network-paper.pdf | https://lightning.network/ | N/P* |
+| Ligo ledger | Global Real-Time Cryptocurrency Tax Data Management Solution | https://ligoledger.com/wp-content/uploads/2018/04/Ligo-whitepaper-v1.3.pdf | https://ligoledger.com/ | N/P* |
 | Like | Like - Multifunctional Real Estate Platform | http://likei.co/whitepaperen.pdf | http://likei.co/ | N/P* |
 | Linda Healthcare | Linda Healthcare: Artificial Intelligence and Blockchain for Health Care | https://linda.healthcare/media/LindaHealthcare_WhitePaper_Eng.pdf | https://linda.healthcare/ | N/P* |
 | Litra | Decentralized Healthcare | http://www.litra.site/Litrawhitepaper.pdf | http://www.litra.site/ | N/P* |
@@ -1147,6 +1151,7 @@ decentralized investment and trading system | https://ftcoin.io/sites/default/fi
 | Numeraire | Numeraire: A Cryptographic Token for Coordinating Machine Intelligence and Preventing Overfitting | https://numer.ai/whitepaper.pdf | https://numer.ai/ | Richard Craib, Geoffrey Bradway, Xander Dunn, Joey Krug |
 | NVO | Cross-platform Modular Decentralized Exchange | https://nvo.io/assets/whitepaper.pdf | https://nvo.io/ | N/P* |
 | Nxt | NXT: Whitepaper | https://bravenewcoin.com/assets/Whitepapers/NxtWhitepaper-v122-rev4.pdf | https://nxtplatform.org/ | |
+| Nynjacoin | The First International Communications App with a Built-in Digital Marketplace and Cryptocurrency Wallet | https://nynjacoin.com/documents/english/NYNJA_whitepaper_EN_v18.pdf | https://nynjacoin.com/ | N/P* |
 | Nyronchain | Integrating blockchain with the new IOT world | https://nyronchain.org/wp-content/uploads/2018/03/NyronChain_Whitepaper.pdf | https://nyronchain.org/ | N/P* |
 | Oceanlab | Oceanlab - Human ideas / Blockchain realities | https://www.oceanlab.eu/pdf/Whitepaper%5Foceanlab.pdf | https://www.oceanlab.eu/ | N/P* |
 | Oceanus Foundation | is the leading industry expert for developing and deploying such implementation and is positioned to modernize the single most important backbone of global commerce | http://oceanus.tech/downloads/Oceanus_English_whitePaper.pdf | http://www.oceanus.tech/ | N/P* |
