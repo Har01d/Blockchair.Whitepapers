@@ -117,6 +117,7 @@
 | Truereply | The platform for conducting and participating in automated paid surveys via telephone and Amazon Alexa-powered devices | https://www.dropbox.com/s/opcghqn37codqbr/white%20paper.pdf | https://truereply.com/uto/ | N/P* | GOOGLE DOCS |
 | U.cash | INTRODUCING U.CASH’S PLAN FOR GLOBAL P2P FINANCIAL SERVICES | https://docs.google.com/document/d/1Lvh4SEvGVHQ0Opj8wKmytMe63PxpXFgZNgIGbpIi22M/edit | https://u.cash/ | N/P* | GOOGLE DOCS |
 | Una | A Peer-to-Peer Electronic Cash System Tailored To The African Ecosystem | https://docs.google.com/document/d/1D7WQWZL2op3JZQPFMUgrQNgsHdaTfQJpoXQuh5vrnm0/edit | https://www.unaproject.org/ | N/P* | GOOGLE DOCS |
+| Uulala | Helping the cash consumer become creditworthy | https://drive.google.com/file/d/195Im0YogcfXwHAKqLQ0iRfO_wSzUrfPf/view | https://tokensale.uulala.io/ | N/P* | GOOGLE DOCS |
 | Value Coin | World’s First Value Investing Crypto Fund | https://drive.google.com/file/d/0B5xw4OGTAR89WU52VnQzNmZ6dzA/view | https://www.valuecoinfund.com/ | N/P* | GOOGLE DOCS |
 | Vega | Decentralized Funding Platform | https://docs.google.com/document/d/1rgMqqoE7NNTPCLEGyCSBfYW39hqAPEi0U6tS105-U3g/ | http://www.vega.fund/ | N/P* | GOOGLE DOCS |
 | Videoblog.io | Как Зарабатывать Деньги на Своем Видеоблоге? | https://docs.google.com/presentation/d/10Exunov7qrLXW65fRYdkKlIdP4dgwieyIm7KVRkuvDw/edit#slide=id.p | https://videoblog.io/en/app/ico/1 | N/P* | GOOGLE DOCS |
@@ -388,6 +389,7 @@
 | Openzen |  | https://github.com/openzen/paper/blob/master/eng.md | http://openzen.co/ | N/P* | NOT PDF |
 | Oracles Network | Oracles Network | https://hackmd.io/s/HkV8Vw7_- | https://oracles.org/ | N/P* | NOT PDF |
 | Orb | CoinCore | https://imagine-orb.com/tech/coincore-getting-started/ | https://imagine-orb.com/ | N/P* | NOT PDF |
+| Plaza | brings emerging technologies to life by focusing on everyday utility, convenience, efficiency, and security | https://plaza.docsend.com/view/xwq594p/download | http://www.plaza.systems/ | N/P* | NOT PDF |
 | Proxy | Proxy Ethereum for Everyone | https://blog.proxycard.io/whitepaper-ccbd4ac034c9 | http://www.proxycard.io/ | N/P* | NOT PDF |
 | Qorio | Singing assistant AI | https://qorio.attach.io/SyQFRLN0b | https://www.qorio.com/token-sale | N/P* | NOT PDF |
 | R-Block | Decentralised Hiring Network Own your work experience & reputation on the blockchain | https://github.com/R-Block/_Whitepaper_/blob/master/%7BWhitepaper%7D.pdf | https://rblock.co/ | N/P* | NOT PDF |
@@ -412,6 +414,7 @@
 | Superneum | SUP Supercharged With Pokereum Demo, Other DAPP rewards & New Pre-sale Only Funding Round. | https://blog.superdao.io/sup-supercharged-with-pokereum-demo-other-dapp-rewards-new-pre-sale-only-funding-round-74a8cc3bbe3c | http://claim.superdao.io/ | N/P* | NOT PDF |
 | Tele2-teleport | ICO Tele to Teleport | https://cloud.mail.ru/public/EiUw/dUbqPQcaf | https://tele2-teleport.io/ | N/P* | NOT PDF |
 | Terraminer | ICO based on a real business | https://terraminer.online/white_paper/ | http://terraminer.io/ | N/P* | NOT PDF |
+| Thinkcoin | Multi Asset Trading on the BlockChain | https://docsend.com/view/qgyaq2y/download | https://www.thinkcoin.io/ | N/P* | NOT PDF |
 | TOR-Q-ALL | TOR-Q-ALL ICO WHITE PAPER | https://www.torqall.com/white-paper | https://www.torqall.com/ | N/P* | NOT PDF |
 | Truedonate | TrueDonate | https://truedonate.io/whitepaper | https://truedonate.io/ | N/P* | NOT PDF |
 | Vestarin | Marketplace of goods and services for cryptocurrency | https://www.vestarin.io/en/whitepaper | https://www.vestarin.io/ | N/P* | NOT PDF |
@@ -463,6 +466,7 @@
 | Coinoor | Coinoor | http://coinoor.io/doc/Coinoor_Whitepaper.pdf | http://coinoor.io/ | N/P* | NOT WORKING |
 | Coinsopen |  |  | https://coinsopen.com/ | N/P* | NOT WORKING |
 | Connectwealth |  |  | https://www.connectwealth.net/ | N/P* | NOT WORKING |
+| Corusblock | a so-called cryptocurrency institution | https://www.corusblock.com/whitepaper.pdf | https://www.corusblock.com/ | N/P* | NOT WORKING |
 | Cottagecoin |  |  | https://cottagecoin.io/ | N/P* | NOT WORKING |
 | Crazybet |  |  | https://www.crazybet.io/ | N/P* | NOT WORKING |
 | Crypto Apartments |  |  | https://crypto-apartments.com/ | N/P* | NOT WORKING |
@@ -554,6 +558,7 @@
 | Quantopia |  |  | https://www.quantopia.network/ | N/P* | NOT WORKING |
 | Quintek | Home | http://quintek.org/QUINTEK_White_Paper.pdf | http://quintek.org/ | N/P* | NOT WORKING |
 | Revain |  |  | https://crowdsale.revain.org/ | N/P* | NOT WORKING |
+| Roburst | The next-gen cryptocurrency network | https://roburst.network/downloads/whitepaper.pdf | https://roburst.network/ | N/P* | NOT WORKING |
 | Salt Coin |  |  | http://saltcoin.io/ | N/P* | NOT WORKING |
 | SellMyGood |  |  | https://www.sellmygoodico.com/ | N/P* | NOT WORKING |
 | Sentigraph |  |  | https://www.sentigraph.io/ | N/P* | NOT WORKING |
