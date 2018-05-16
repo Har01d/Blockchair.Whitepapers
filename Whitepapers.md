@@ -973,6 +973,7 @@
 | Ligo ledger | Global Real-Time Cryptocurrency Tax Data Management Solution | https://ligoledger.com/wp-content/uploads/2018/04/Ligo-whitepaper-v1.3.pdf | https://ligoledger.com/ | N/P* |
 | Like | Like - Multifunctional Real Estate Platform | http://likei.co/whitepaperen.pdf | http://likei.co/ | N/P* |
 | Linda Healthcare | Linda Healthcare: Artificial Intelligence and Blockchain for Health Care | https://linda.healthcare/media/LindaHealthcare_WhitePaper_Eng.pdf | https://linda.healthcare/ | N/P* |
+| Lisk | Access the Power of Blockchain with JavaScript | https://wesdewayne.files.wordpress.com/2017/05/lisk-whitepaper.pdf | https://lisk.io | Max Kordek |
 | Litra | Decentralized Healthcare | http://www.litra.site/Litrawhitepaper.pdf | http://www.litra.site/ | N/P* |
 | Livecontracts | The blockchain for smart law & regulation | https://livecontracts.io/documents/contract-as-automaton.pdf | https://livecontracts.io/ | N/P* |
 | Live Edu | LiveEdu Initial Coin Offering - EDU Token Sale | https://tokensale.liveedu.tv/static/docs/LiveEdu-white-paper.pdf | https://tokensale.liveedu.tv/ | N/P* |
