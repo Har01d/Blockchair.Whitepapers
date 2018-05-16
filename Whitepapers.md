@@ -868,7 +868,7 @@
 | indaHash | indaHash | https://s3.eu-central-1.amazonaws.com/idh-files/ico-landing/indahash_whitepaper_ico.pdf | https://indahash.com/ | N/P* |
 | Indicoin | Blockchain Redefining Social Service | http://www.indicoin.org.in/others/documentations/whitepaper.pdf | http://www.indicoin.org.in/ | N/P* |
 | Indorse | Indorse - Ethereum based Decentralized Professional Network | http://www.indorse.io/static/media/Indorse-Whitepaper-v1.1.a733cc8e.pdf | http://www.indorse.io/ | N/P* |
-| InfChain | Infchain -  Infchain is now a Digital Currency. | http://www.infchain.com/documents/Infchain whitepaper.pdf | http://www.infchain.com/ | N/P* |
+| InfChain | Infchain -  Infchain is now a Digital Currency. | http://www.infchain.com/documents/Infchain%20whitepaper%201.1.pdf | http://www.infchain.com/ | N/P* |
 | Infinitumcoin | Cryptocurrency designed to merge the virtual with the physical world | https://infinitumcoin.com/files/lightpaper.pdf | https://infinitumcoin.com/ | N/P* |
 | Ink Protocol | Decentralized reputation and payments for peer-to-peer marketplaces | https://paywithink.com/wp-content/uploads/2018/01/Ink_Protocol_Whitepaper_V6_Listia_Inc.pdf | https://paywithink.com/ | N/P* |
 | InsaneCoin | insane coin - Insane crypto | https://insanecoin.com/wp-content/uploads/2017/05/VelocityBluePaper.pdf | http://www.insanecoin.com | N/P* |
@@ -973,6 +973,7 @@
 | Ligo ledger | Global Real-Time Cryptocurrency Tax Data Management Solution | https://ligoledger.com/wp-content/uploads/2018/04/Ligo-whitepaper-v1.3.pdf | https://ligoledger.com/ | N/P* |
 | Like | Like - Multifunctional Real Estate Platform | http://likei.co/whitepaperen.pdf | http://likei.co/ | N/P* |
 | Linda Healthcare | Linda Healthcare: Artificial Intelligence and Blockchain for Health Care | https://linda.healthcare/media/LindaHealthcare_WhitePaper_Eng.pdf | https://linda.healthcare/ | N/P* |
+| Lisk | Access the Power of Blockchain with JavaScript | https://wesdewayne.files.wordpress.com/2017/05/lisk-whitepaper.pdf | https://lisk.io | Max Kordek |
 | Litra | Decentralized Healthcare | http://www.litra.site/Litrawhitepaper.pdf | http://www.litra.site/ | N/P* |
 | Livecontracts | The blockchain for smart law & regulation | https://livecontracts.io/documents/contract-as-automaton.pdf | https://livecontracts.io/ | N/P* |
 | Live Edu | LiveEdu Initial Coin Offering - EDU Token Sale | https://tokensale.liveedu.tv/static/docs/LiveEdu-white-paper.pdf | https://tokensale.liveedu.tv/ | N/P* |
