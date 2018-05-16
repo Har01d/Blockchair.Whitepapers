@@ -868,7 +868,7 @@
 | indaHash | indaHash | https://s3.eu-central-1.amazonaws.com/idh-files/ico-landing/indahash_whitepaper_ico.pdf | https://indahash.com/ | N/P* |
 | Indicoin | Blockchain Redefining Social Service | http://www.indicoin.org.in/others/documentations/whitepaper.pdf | http://www.indicoin.org.in/ | N/P* |
 | Indorse | Indorse - Ethereum based Decentralized Professional Network | http://www.indorse.io/static/media/Indorse-Whitepaper-v1.1.a733cc8e.pdf | http://www.indorse.io/ | N/P* |
-| InfChain | Infchain -  Infchain is now a Digital Currency. | http://www.infchain.com/documents/Infchain whitepaper.pdf | http://www.infchain.com/ | N/P* |
+| InfChain | Infchain -  Infchain is now a Digital Currency. | http://www.infchain.com/documents/Infchain%20whitepaper%201.1.pdf | http://www.infchain.com/ | N/P* |
 | Infinitumcoin | Cryptocurrency designed to merge the virtual with the physical world | https://infinitumcoin.com/files/lightpaper.pdf | https://infinitumcoin.com/ | N/P* |
 | Ink Protocol | Decentralized reputation and payments for peer-to-peer marketplaces | https://paywithink.com/wp-content/uploads/2018/01/Ink_Protocol_Whitepaper_V6_Listia_Inc.pdf | https://paywithink.com/ | N/P* |
 | InsaneCoin | insane coin - Insane crypto | https://insanecoin.com/wp-content/uploads/2017/05/VelocityBluePaper.pdf | http://www.insanecoin.com | N/P* |
