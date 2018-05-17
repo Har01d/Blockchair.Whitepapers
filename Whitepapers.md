@@ -44,6 +44,7 @@
 | Agora | Bringing our voting systems into the 21st century | https://agora.vote/Agora_Whitepaper_v0.1.pdf | https://agora.vote/ | N/P* |
 | Agrello | Self-Aware Agent-Supported Contract Management on Blockchains for Legal Accountability | https://docs.agrello.org/Agrello-Self-Aware_Whitepaper-English.pdf | https://www.agrello.org/ | Alex Norta, Anton Vedeshin, Hando Rand |
 | Agrivita | ORGANIC FARM | https://agrivita.ru/pdf/whitepaper.en.pdf | https://agrivita.ru/ | N/P* |
+| Aicrypto | AI BlockChain for Decentralized Economy | https://aicrypto.ai/AIC_WhitePaper_Eng.pdf | https://aicrypto.ai/ | N/P* |
 | Aidcoin | AidCoin - Building Charity’s Future | https://www.aidcoin.co/assets/documents/whitepaper.pdf | https://www.aidcoin.co/ | N/P* |
 | Aion Network | Aion: The third-generation blockchain network | https://aion.network/downloads/aion.network_technical-introduction_en.pdf | https://aion.network/ | N/P* |
 | Airexe | focused on ensuring the increased security of clients' funds, providing live responsive customer support, high availability and accessibility | https://airexe.io/airexe_wp.pdf | https://airexe.io/ | N/P* |
@@ -973,6 +974,7 @@
 | Ligo ledger | Global Real-Time Cryptocurrency Tax Data Management Solution | https://ligoledger.com/wp-content/uploads/2018/04/Ligo-whitepaper-v1.3.pdf | https://ligoledger.com/ | N/P* |
 | Like | Like - Multifunctional Real Estate Platform | http://likei.co/whitepaperen.pdf | http://likei.co/ | N/P* |
 | Linda Healthcare | Linda Healthcare: Artificial Intelligence and Blockchain for Health Care | https://linda.healthcare/media/LindaHealthcare_WhitePaper_Eng.pdf | https://linda.healthcare/ | N/P* |
+| Liqnet | A CRYPTOCURRENCY EXCHANGE WITH THE UNIQUE LIQUIDITY POOLING TECHNOLOGY | https://liqnet.io/static/docs/Liqnet_WhitePaper_en.pdf | https://liqnet.io/ | N/P* |
 | Lisk | Access the Power of Blockchain with JavaScript | https://wesdewayne.files.wordpress.com/2017/05/lisk-whitepaper.pdf | https://lisk.io | Max Kordek |
 | Litra | Decentralized Healthcare | http://www.litra.site/Litrawhitepaper.pdf | http://www.litra.site/ | N/P* |
 | Livecontracts | The blockchain for smart law & regulation | https://livecontracts.io/documents/contract-as-automaton.pdf | https://livecontracts.io/ | N/P* |
@@ -1087,6 +1089,7 @@
 | Moneto | allows buyers to access services of the Moneto project, get credit with a reduced interest rate and a more extended period, as well as pay a portion of the interest with these tokens | https://s3.us-east-2.amazonaws.com/moneto-whitepaper/moneto_whitepaper.pdf | https://mone.to/ico | N/P* |
 | Money Rebel | Entrance to crypto powered by marketplace of advisors | https://moneyrebel.io/Whitepaper_2018.pdf | https://moneyrebel.io/ | N/P* |
 | Moneytree | A New Social World on the blockchain | https://docs.wixstatic.com/ugd/b6fe1a_43f441459aa14d0da05dff300a11b3a5.pdf | https://www.moneytree.social/ | N/P* |
+| Monoreto | Blockchain Social Network | https://monoreto.com/resources/Monoreto_WP_ENG.pdf | https://monoreto.com/ | N/P* |
 | Monsterbit | an analogue of famous cryptogame with interesting additions for both players | http://monsterbit.org/wp-content/uploads/WhitePaper_EN.pdf | http://monsterbit.org/ | N/P* |
 | Moonlite | presents an opportunity to hold a token in a new-generation, industrial scale cryptomining operation that is focused on efficiency by employing Artificial Intelligence and Custom Algorithms, and profitability by using low cost and clean energy sources | https://www.moonlite.io/wp-content/uploads/2017/11/Moonlite-Final-White-Paper.pdf | https://www.moonlite.io/ | N/P* |
 | Moosecoin | Moosecoin / Music Cryptocurrency | https://www.moosecoin.io/moosecoin-whitepaper.pdf | http://www.moosecoin.io/ | N/P* |
@@ -1313,6 +1316,7 @@
 | Quantum1net | Cryptography for a Post-Quantum World Addressing the Security Challenges Ahead | https://quantum1net.com/Q1N%20white%20paper.pdf | https://quantum1net.com/ | N/P* |
 | Quantum Resistant Ledger | Quantum Resistant Ledger (QRL). Whitepaper | https://bravenewcoin.com/assets/Whitepapers/QRL-whitepaper.pdf | https://theqrl.org/ | Peter Waterland |
 | Quantum | Quantum Project - Connecting Markets | https://www.quantumproject.org/s/whitepaper.pdf | http://www.quantumproject.org/ | N/P* |
+| Quarkchain | A High-Capacity Peer-to-Peer Transactional System | https://www.quarkchain.io/QUARK%20CHAIN%20Public%20Version%200.3.4.pdf | https://www.quarkchain.io/ | N/P* |
 | Quickbetcoin | QUICKBETCOIN (QBC) | https://docs.wixstatic.com/ugd/098817_f1a19affd498493684a86564b47dc52f.pdf | https://www.quickbetcoin.com/ | N/P* |
 | Quifas | A Secure, Ultra-fast, Highly Scalable Innovative Cryptocurrency Exchange | https://www.quifas.com/static/ver110/pages/whitepaper/en.pdf | https://www.quifas.com/ | N/P* |
 | Qurito | to provide an engaging, rewarding and intelligent platform for people to use on a global level | http://www.qurito.io/qurito_whitepaper.pdf | http://www.qurito.io/ | N/P* |
@@ -1415,6 +1419,7 @@
 | Scorum | Scorum Coins Tokens Crowdsale | https://scorumcoins.com/scorum_white_paper_en.pdf | https://scorumcoins.com/ | N/P* |
 | Scrinium | The future of portfolio investment | https://www.scrinium.ai/Scrinium_Whitepaper.pdf | https://scrinium.ai | N/P* |
 | Scriptdrop's Adherence Token | ScriptDrop | https://www.scriptdrop.io/assets/scriptdrop-pitch-deck.pdf | https://www.scriptdrop.io/ | N/P* |
+| Seal | blockchain powered product authentication and services platform | https://seal.network/seal-whitepaper.pdf | https://seal.network/ | N/P* |
 | Secure Crypto Coin | Blockchain and Cryptocurrency | http://sccbit.org/wp-content/uploads/2017/09/SCC_WHITEPAPER_1.02b_en.pdf | http://sccbit.org/ | N/P* |
 | Security Plus Cloud | World's First Cyber Security ICO / Security Plus Cloud | https://www.securitypluscloud.com.au/SPC-ICO-Whitepaper.pdf | https://www.securitypluscloud.com.au/ | N/P* |
 | SelfKey | SelfKey Identity Ecosystem | https://selfkey.org/wp-content/uploads/2017/11/selfkey-whitepaper-en.pdf | https://selfkey.org/ | N/P* |
