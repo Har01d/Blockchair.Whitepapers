@@ -1843,6 +1843,7 @@
 | YourBlock | Blockchain based comparison and incentivised personal data storage platform | https://yourblock.io/wp-content/uploads/2017/12/YourBlock-White-Paper-18-12-2017.pdf | https://yourblock.io/ | N/P* |
 | Yoyow | A blockchain based content rewards network | https://yoyow.org/files/white-paper3_en.pdf | https://yoyow.org/ | N/P* |
 | Ysign | a new blockchain-based global platform for free communication and discrete conversations with 100% privacy, created as an opportunity to stay anonymous and secure | https://www.ysign.io/pdf/whitepaper.pdf | https://www.ysign.io/ | N/P* |
+| Yumerium | The blockchain-based, incentivised, open gaming platform | https://www.yumerium.com/resources/files/whitepaper_en.pdf | https://www.yumerium.com/ | N/P* |
 | Zangll | A Decentralized P2P Platform for Vacation Rentals | http://www.zangll.io/assets/helpers/files/en.pdf | http://www.zangll.io/ | N/P* |
 | Zap Store | Zap Store | https://zap.store/whitepaper.pdf | https://zap.store/ | N/P* |
 | Zavodcoin | Cherepovets pipe-rolling plant | https://zavodcoin.com/download/whitepaper_en.pdf | https://zavodcoin.com/ | N/P* |
