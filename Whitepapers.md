@@ -1186,7 +1186,6 @@
 | Onyx | Blockchain for Commission-Free | https://onyxfutures.io/wp/OnyxWhitepaper.pdf | https://onyxfutures.io/ | N/P* |
 | Opakeco Foundation | Opakeco - Helping donators, donations and charities! | https://www.opakeco.org/whitepaper.pdf | https://www.opakeco.org/ | N/P* |
 | Open Anx | openANX – Real World Application of Decentralized Exchanges | https://www.openanx.org/en/assets/whitepaper/openANX_White_Paper_ENU.pdf | https://www.openanx.org/ | N/P* |
-| Openblock | UNITING THE BLOCKCHAIN COMMUNITY WITH ARTIFICIAL INTELLIGENCE | https://openblock.co/docs/OpenBlock-Critical-Film-2.pdf | https://openblock.co/ | N/P* |
 | Open Source University | EDU Crowdsale by The Open Source University Project | https://os.university/static/open-source-university-edu-whitepaper.pdf | https://os.university/ | N/P* |
 | Open Trading Network | Open Trading Network (OTN) — Multi-Crypto Wallet & All-in-One Exchange | https://otn.org/assets/resources/Open-Trading-Network-white-paper%5Fen.pdf | https://otn.org/ | N/P* |
 | Opiria | Use our decentralized marketplace to create a passive income stream by selling your personal data | https://opiria.io/static/docs/Opiria-PDATA-Whitepaper.pdf | https://opiria.io/ | N/P* |
