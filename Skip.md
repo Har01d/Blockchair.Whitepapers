@@ -59,6 +59,7 @@
 | Injoin | A Sharing Eco Environmental System | https://drive.google.com/file/d/0BxD_k1HToD-HSWxPQm9ZSXVPbXc/view?usp=sharing | https://www.injoin.in/ | N/P* | GOOGLE DOCS |
 | Intellium | Intellium brings real world investments and blockchain together to transform capital markets | https://docs.google.com/document/d/16Gqf45bfP46Zy2_w4AhxVefCRGKBMiUnK-jtrKJazyI/edit#heading=h.5vhv6o725gcc | http://intellium-ico.com/index.html | N/P* | GOOGLE DOCS |
 | Jboxcoin | JBOXCOIN.ORG Whitepaper | https://drive.google.com/file/d/0BxC2u6uHtVw_YXZ0Z3RrRnlQZ00/view | https://jboxcoin.org/ | N/P* | GOOGLE DOCS |
+| Kairos |  | https://docs.google.com/document/d/1BQF3U9wSe61HFya2-L4Id4BGVrJNcCvo5f_A1cqhIbw/edit | https://www.kairos.com/ | N/P* | GOOGLE DOCS |
 | KeepPet | INTERNATIONAL DIGITAL PET PASSPORT | https://docs.google.com/document/d/1OgiWGPPryZ9qjJN6jfKEeFNlHhNp0R5gNNyEv--0OHU/edit | http://keep.pet/en/ | N/P* | GOOGLE DOCS |
 | Kript | AN ECO SYSTEM FOR INVESTING IN CRYPTO ASSETS | https://drive.google.com/file/d/1UMhX-_YuO_dLGkGvwFpVVzzKPmITBb2O/view | http://kript.io/ | N/P* | GOOGLE DOCS |
 | Langpie |  | https://drive.google.com/file/d/0B7duDBu7CzCZMzVzUVU2dUkxWGM/view | https://langpie.io/ | N/P* | GOOGLE DOCS |
