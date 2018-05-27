@@ -243,6 +243,7 @@
 | Nimfamoney |  |  | https://www.nimfamoney.io/ | N/P* | NOT FOUND |
 | Noscam |  |  | https://www.tokennoscam.com/ | N/P* | NOT FOUND |
 | Octobase |  |  | https://www.octobase.co/ | N/P* | NOT FOUND |
+| Openblock | UNITING THE BLOCKCHAIN COMMUNITY WITH ARTIFICIAL INTELLIGENCE | https://openblock.co/docs/OpenBlock-Critical-Film-2.pdf | https://openblock.co/ | N/P* | NOT FOUND |
 | Opporty |  |  | https://opporty.com/ | N/P* | NOT FOUND |
 | Our Interest |  |  | https://www.ourinterest.org/ico | N/P* | NOT FOUND |
 | Plexcoin |  |  | https://www.plexcoin.com/ | N/P* | NOT FOUND |
