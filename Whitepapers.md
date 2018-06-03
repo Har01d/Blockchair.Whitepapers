@@ -1603,6 +1603,7 @@
 | Teu / 300cubits | 300Cubits - A Crypto Currency That Propels Ships - TEU | https://300cubits.tech/pdf/whitepaper.pdf | https://300cubits.tech/ | N/P* |
 | Tezos | Tezos — a self-amending crypto-ledger | https://www.tezos.com/static/papers/white_paper.pdf | https://tezos.com/ | N/P* |
 | TFTM | tftm.pro | https://tftm.pro/sites/all/themes/new/pdf/ICO-tftm-en.pdf | https://tftm.pro/ | N/P* |
+| The 4th Pillar | Blockchain based Human Resources & EU compliant solution | https://www.the4thpillar.io/documents/whitepaper.pdf | https://www.the4thpillar.io/ | N/P* |
 | The Abyss | CRYPTO REWARD ECOSYSTEM FOR GAMERS & DEVELOPERS | https://www.theabyss.com/static/docs/theabyss-whitepaper-en.pdf | https://www.theabyss.com/en | N/P* |
 | The Advertising Currency | THE ADVERTISING CURRENCY | http://tactoken.io/TAC-Final.pdf | http://tactoken.io/ | N/P* |
 | The Agora | Agora | https://theagora.io/assets/agora_whitepaper.pdf | https://theagora.io/ | N/P* |
@@ -1682,6 +1683,7 @@
 | Trustedhealth | Patient and doctor-centric health ecosystem in specialised medicine engineered on blockchain | https://trustedhealth.io/pdfs/TDH_Whitepaper-356fb72a38354758e700effc758df39a.pdf | https://trustedhealth.io/ | N/P* |
 | TTC | A Decentralized and Incentivized Social Networking protocol | https://d1u6eqogwsdivn.cloudfront.net/whitepaper/TTC_Whitepaper_EN.pdf | https://www.ttc.eco/ | N/P* |
 | Tulip Token | The Tulip Individual Coin Offering: An Early Harvest | https://thetulip.auction/static/The_Tulip_Whitepaper.pdf | https://thetulip.auction/#home | N/P* |
+| Tune | A Decentralized Music Production Marketplace | https://icorating.com/upload/whitepaper/W2AdCyaoRzSF3MIxJCMsUCEDH8J5Cfo2CJ0wFno6.pdf | https://www.tunetoken.io/ | N/P* |
 | Tv-two | Establishing a Blockchain-Based Open Platform for the Television Ecosystem | https://tv-two.com/TV_Whitepaper.pdf | https://tv-two.com/ | N/P* |
 | Twex | TAG WORLD EXCHANGE | https://docs.wixstatic.com/ugd/2bcd3e_5f1e5bec0e2343a986d03d01ffdbcc37.pdf | https://www.preico-twex.info/ | N/P* |
 | TWQ | RE-SHAPING PERSONAL FINANCING | https://ip2pglobal.io/home_page/img/doc/TWQwhitepaper.pdf | https://ip2pglobal.io/ | N/P* |
