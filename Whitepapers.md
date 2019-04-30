@@ -961,7 +961,7 @@
 | Legacy | Legacy: memories forever | https://legacy.network/assets/home/pdf/Legacy%5Fwhite%5Fpaper%5Fv072.pdf | https://legacy.network/ | N/P* |
 | Legal / Smartone | SmartOne - Legal solutions for the crypto community | https://smartone.legal/wp-content/uploads/2017/10/SmartOne%5FWP%5Fen%5F2.1.pdf | https://smartone.legal/ | N/P* |
 | Legalcoin | THE LEGAL CRYPTOCURRENCY | http://legalcoin.co/LegalCoin-Whitepaper.pdf | http://legalcoin.co/ | N/P* |
-| Legolas Exchange | A DEMONSTRABLY FAIR, PREMIUM CENTRALIZED EXCHANGE USING DECENTRALIZED BLOCKCHAIN TECHNOLOGY | https://legolas.exchange/static//public/legolas-whitepaper-en.pdf | https://legolas.exchange/ | N/P* |
+| Legolas Exchange | A provably fair centralized exchange using decentralized blockchain technology | https://lgo.group/pdf/legolas-whitepaper-part-2.pdf | https://lgo.exchange/ | N/P* |
 | Lendingblock |  an open exchange for borrowing and lending cryptocurrencies and digital assets | https://lendingblock.com/static/media/Whitepaper-English.21b2ed91.pdf | https://lendingblock.com/ | N/P* |
 | Lendoit | The ‘Smart’ Global P2P Lending Platform | https://lendoit.com/Lendoit-whitepaper.pdf | https://lendoit.com/ | N/P* |
 | LEOcoin | An established digital currency that allows individuals to make fast and secure transactions through a decentralised peer-to-peer network | https://www.leocoin.org/media/LEOcoin%20white%20paper%20July%202017.pdf | https://www.leocoin.org/ | |
