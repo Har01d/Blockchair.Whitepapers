@@ -593,7 +593,7 @@
 | Emarketchain | no middleman, no fees e-commerce marketplace + technology, where you can buy and sell products paying 0% commission to middlemen | https://emarketchain.co/whitepaper.pdf | https://emarketchain.co/ | N/P* |
 | Embermine | a creative commerce platform that streamlines collaboration and distribution for creatives and entrepreneurs, giving them agency, efficiency, and sustainability in their endeavors | https://embermine.com/img/Embermine Whitepaper.pdf | https://embermine.com/ | N/P* |
 | Emcoin | Smart Lending Platform | https://emcoin.io/EMCOIN_whitepaper_EN.pdf | https://emcoin.io/ | N/P* |
-| Emercoin | Decentralized identity management, passwordless logins, and client SSL certificates using Emercoin NVS | https://emercoin.com/content/EMCSSL.pdf | https://emercoin.com/ | |
+| Emercoin | Decentralized identity management, passwordless logins, and client SSL certificates using Emercoin NVS | https://emercoin.com/static/files/pdf/whitepaper.pdf | https://emercoin.com/ | |
 | Emphy | Emphy - Decentralised blockchain lodging ecosystem | https://emphy.io/wp-content/uploads/2017/10/Emphy_Whitepaper_eng_v1_2-2.pdf | https://emphy.io/ | N/P* |
 | Empire Card | The decentralized crypto card sharing proceeds among token holders | http://empirecard.network/whitepaper.pdf | http://empirecard.network/ | N/P* |
 | Emu | A simple solution for the entire service industry | http://www.ico.emuproject.org/files/WhitePaper_eng.pdf | http://www.ico.emuproject.org/ | N/P* |
