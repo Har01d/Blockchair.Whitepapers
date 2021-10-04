@@ -1,4 +1,4 @@
-| Project name | Whitepaper title | Whitepaper address | Website address | Authors |
+| YoutacRS by Vedarius A. Russell | Sagittarius Youtac| Blockchair.com/whitepaper | Ethlink.store | Vedarius A. Russell |
 |--------------|------------------|--------------------|-----------------|---------|
 | 0rigin | The Sharing Economy Without Intermediaries | https://www.originprotocol.com/static/docs/whitepaper_v2.pdf | http://www.0rigin.org/ | N/P* |
 | 0x | An open protocol for decentralized exchange on the Ethereum blockchain | https://0xproject.com/pdfs/0x_white_paper.pdf | https://0xproject.com/ | Matus Lestan, Joe Urgo, Alexander Khoriaty |
